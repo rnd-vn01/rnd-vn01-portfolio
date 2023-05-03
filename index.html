@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio - VN01 - Research & Development Project</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+    body * {
+      transition: all 0.3s ease;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      padding-bottom: 40px;
+    }
+
+    .project-title {
+      padding-top: 30px;
+      width: 80vw;
+      margin: 0 auto;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: "Poppins" !important;
+    }
+
+    .logo {
+      height: 75px;
+      width: 75px
+    }
+
+    .project-info {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      flex-direction: column;
+      margin-left: 20px;
+    }
+
+    .project-info h3 {
+      font-weight: 600;
+    }
+
+    .portfolio {
+      font-size: 1.5rem;
+      font-weight: 500;
+      font-family: 'Poppins';
+    }
+
+    .menu {
+      width: 85%;
+      margin: 0 auto;
+      background: rgba(226, 190, 150, .3);
+      border-radius: 10px;
+      padding: 10px;
+    }
+
+    .menu {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .menu a {
+      color: black;
+      text-decoration: none;
+      padding: 5px;
+      border-radius: 5px;
+      font-weight: 500;
+      font-family: 'Quicksand';
+      text-align: center;
+      width: fit-content;
+    }
+
+    .menu a:hover {
+      background: rgba(226, 190, 150, 1);
+      cursor: pointer;
+    }
+
+    .section {
+      width: 85%;
+      margin: 0 auto;
+      margin-top: 20px;
+      padding: 10px;
+      background: rgb(153, 187, 227, .15);
+      border-radius: 10px;
+    }
+
+    .left-1 {
+      margin-left: 15px;
+    }
+
+    .left-2 {
+      margin-left: 30px;
+    }
+
+    .left-3 {
+      margin-left: 45px;
+    }
+
+    .sub-folder-1 {
+      font-size: 1.25rem;
+      font-weight: 600;
+    }
+
+    .sub-folder-2 {
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+
+    .sub-folder-3 {
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+
+    .content * {
+      font-family: 'Quicksand';
+    }
+
+    .content h3 {
+      font-weight: 700;
+    }
+
+    body {
+      position: relative;
+    }
+
+    .button-top {
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+      background: rgba(226, 190, 150, 0.5);
+      display: flex;
+      align-items: center;
+      font-size: 1.5rem;
+      justify-content: center;
+      cursor: pointer;
+    }
+
+    .button-top:hover {
+      background: rgba(226, 190, 150, 1);
+    }
+
+    .button-top p {
+      margin: 0;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+  </style>
+</head>
+
+<body style="background: #f8f0e9">
+  <div class="project-title">
+    <a target="_blank" href="https://acupuncture-3d-vn01.web.app/">
+      <img class="logo"
+        src="https://firebasestorage.googleapis.com/v0/b/acupuncture-3d-vn01.appspot.com/o/Logo.svg?alt=media&token=2e35a8c9-a0e5-4208-bd2d-7fa010600dcb"
+        alt="" />
+    </a>
+
+    <div class="project-info">
+      <h3>3D Acupuncture Healthcare Data Management And Treatment System</h3>
+    </div>
+  </div>
+
+  <p class="text-center mt-3 portfolio">
+    Portfolio
+  </p>
+
+  <div class="menu">
+    <a href="#about">About</a>
+    <a href="#research-and-upskill">Research & Upskilling</a>
+    <a href="#planning-and-control">Planning & Control</a>
+    <a href="#teamwork-and-communication">Teamwork & Communication</a>
+    <a href="#project-implementation">Project Implementation</a>
+    <a href="#development-activities-and-qa">Development Activities & Quality Assurance</a>
+  </div>
+
+  <div class="content">
+    <div class="section" id="about">
+      <h3>About</h3>
+
+      <a class="left-1" href="">Project Overview</a>
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Key Project Artefacts</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Project Proposal</p>
+      <ul class="left-2">
+        <li><a href="">Project Proposal - v1.0</a></li>
+        <li><a href="">Project Proposal - v1.1</a></li>
+        <li><a href="">Project Proposal - v1.2</a></li>
+        <li><a href="">Project Proposal - v2.0</a></li>
+        <li><a href="">Project Proposal - v2.1</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Project Poster</p>
+      <ul class="left-2">
+        <li><a href="">Project Poster - v1.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Project Status Reports</p>
+      <ul class="left-2">
+        <li><a href="">Informal QR Report</a></li>
+        <li><a href="">Midterm Report</a></li>
+        <li><a href="">Final Report</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Presentation Slides</p>
+      <ul class="left-2">
+        <li><a href="">Project Proposal slide</a></li>
+        <li><a href="">Informal QR Review slide</a></li>
+        <li><a href="">Midterm Review slide</a></li>
+        <li><a href="">Final Defense Presentation slide</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Project Handover</p>
+      <ul class="left-2">
+        <li><a href="">Technical Specification</a></li>
+      </ul>
+    </div>
+
+    <div class="section" id="research-and-upskill">
+      <h3>Research & Upskilling</h3>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Research</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Research Plan</p>
+      <ul class="left-2">
+        <li><a href="">Research Plan - v1.0</a></li>
+        <li><a href="">Research Plan - v2.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Domain Knowledge Research</p>
+
+      <p class="sub-folder-3 left-3 mt-0 mb-1">Journal Articles Review</p>
+      <ul class="left-3">
+        <li><a href="">Journal Articles Review Result</a></li>
+      </ul>
+
+      <p class="sub-folder-3 left-3 mt-0 mb-1">Data Collection</p>
+      <ul class="left-3">
+        <li><a href="">Acupuncture Points</a></li>
+        <li><a href="">Meridians</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Market Research</p>
+      <ul class="left-2">
+        <li><a href="">Visual Acupuncture</a></li>
+        <li><a href="">Acupuncture 3D</a></li>
+        <li><a href="">Easy Acupuncture 3D</a></li>
+        <li><a href="">Market Research Summary</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Technical Research</p>
+      <ul class="left-2">
+        <li><a href="">Tool Feasibility Research - v1.0</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Upskilling</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">3D Rendering Technique Upskilling</p>
+      <ul class="left-2">
+        <li><a href="">Demo Project 1</a></li>
+        <li><a href="">Demo Project 2</a></li>
+        <li><a href="">Demo Project 3</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-1">Technical Experiments</p>
+      <ul class="left-2">
+        <li><a href="">Technical Experiments 1</a></li>
+      </ul>
+    </div>
+
+    <div class="section" id="planning-and-control">
+      <h3>Planning & Control</h3>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Project Charter</p>
+      <ul class="left-1">
+        <li><a href="">Project Charter - v1.0</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Project Scope Statement</p>
+      <ul class="left-1">
+        <li><a href="">Project Scope Statement - v1.0</a></li>
+        <li><a href="">Project Scope Statement - v2.0</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Work Breakdown Structure (WBS)</p>
+      <ul class="left-1">
+        <li><a href="">Work Breakdown Structure - v1.0</a></li>
+        <li><a href="">Work Breakdown Structure - v2.0</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Gantt Chart</p>
+      <ul class="left-1">
+        <li><a href="">Gantt Chart - v1.0</a></li>
+        <li><a href="">Gantt Chart - v2.0</a></li>
+      </ul>
+    </div>
+
+    <div class="section" id="teamwork-and-communication">
+      <h3>Teamwork & Communication</h3>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Members Role Planning</p>
+      <ul class="left-1">
+        <li><a href="">Team Skills Analysis and Matrix</a></li>
+        <li><a href="">Team Member Roles</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Meeting Artefacts</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Meeting Minutes</p>
+      <ul class="left-2">
+        <li><a href="">Minute 1</a></li>
+        <li><a href="">Minute 2</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Meeting Recordings</p>
+      <ul class="left-2">
+        <li><a href="">Meeting Recordings URLs</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Client & Users Involvement</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Users Feedback</p>
+      <ul class="left-2">
+        <li><a href="">Questionnaire</a></li>
+        <li><a href="">Responses</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Client Feedback</p>
+      <ul class="left-2">
+        <li><a href="">Client Feedback Form</a></li>
+      </ul>
+    </div>
+
+    <div class="section" id="project-implementation">
+      <h3>Project Implementation</h3>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Sprint Planning</p>
+      <ul class="left-1">
+        <li><a href="">S1</a></li>
+        <li><a href="">S2</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Sprint Summary</p>
+      <ul class="left-1">
+        <li><a href="">SS1</a></li>
+        <li><a href="">SS2</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Work Log</p>
+      <ul class="left-1">
+        <li><a href="">Overall Work Log</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Member Work Logs</p>
+      <ul class="left-2">
+        <li><a href="">Nhan Nguyen Cao</a></li>
+        <li><a href="">Chuong Pham Dinh</a></li>
+        <li><a href="">Tan Le Tran Ba</a></li>
+        <li><a href="">Trang Ho Ngoc Thao</a></li>
+      </ul>
+    </div>
+
+    <div class="section" id="development-activities-and-qa">
+      <h3>Development Activities & Quality Assurance</h3>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Design</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Architecture</p>
+      <ul class="left-2">
+        <li><a href="">Architecture Diagram - v1.0</a></li>
+        <li><a href="">Architecture Diagram - v2.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Hi-Fi Prototypes</p>
+      <ul class="left-2">
+        <li><a href="">Version 1.0</a></li>
+        <li><a href="">Version 2.0</a></li>
+        <li><a href="">Version 3.0</a></li>
+        <li><a href="">Responsive Design - Mobile</a></li>
+        <li><a href="">Responsive Design - Tablet</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">3D Model</p>
+      <ul class="left-2">
+        <li><a href="">3D Model</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Development</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Requirements</p>
+      <ul class="left-2">
+        <li><a href="">Project Requirements - v1.0</a></li>
+        <li><a href="">Project Requirements - v2.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Source Code</p>
+      <ul class="left-2">
+        <li><a href="">Version 1.0</a></li>
+        <li><a href="">Version 2.0</a></li>
+        <li><a href="">Version 3.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Data Integration</p>
+      <ul class="left-2">
+        <li><a href="">Notebook 1</a></li>
+        <li><a href="">Notebook 2</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Product Epics</p>
+
+      <p class="sub-folder-3 left-3 mt-0 mb-2">Version 1.0</p>
+      <ul class="left-3">
+        <li><a href="">Change Log</a></li>
+        <li><a href="">Demo Video</a></li>
+      </ul>
+
+      <p class="sub-folder-3 left-3 mt-0 mb-2">Version 2.0</p>
+      <ul class="left-3">
+        <li><a href="">Change Log</a></li>
+        <li><a href="">Demo Video</a></li>
+      </ul>
+
+      <p class="sub-folder-3 left-3 mt-0 mb-2">Version 3.0</p>
+      <ul class="left-3">
+        <li><a href="">Change Log</a></li>
+        <li><a href="">Demo Video</a></li>
+      </ul>
+
+      <p class="sub-folder-1 left-1 mt-1 mb-2">Quality Assurance & Quality Control</p>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">QA/QC Plan</p>
+      <ul class="left-2">
+        <li><a href="">Testing Plan - v1.0</a></li>
+        <li><a href="">Bug Tracking Process - v1.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Data Integration</p>
+      <ul class="left-2">
+        <li><a href="">Raw Test Cases Log</a></li>
+        <li><a href="">Manual Testing Results Report - v1.0</a></li>
+        <li><a href="">Technical Testing Results Report - v1.0</a></li>
+        <li><a href="">User Testing Results Report - v1.0</a></li>
+      </ul>
+
+      <p class="sub-folder-2 left-2 mt-0 mb-2">Code Coverage Reports</p>
+      <ul class="left-2">
+        <li><a href="">Front-end Unit Tests coverage</a></li>
+        <li><a href="">Back-end Unit Tests coverage</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="button-top" onclick="(function(){window.scrollTo(0, 0)})();">
+    <p>&uarr;</p>
+  </div>
+</body>
+
+</html>
