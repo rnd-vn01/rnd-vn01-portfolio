@@ -1,0 +1,15 @@
+@import "src/responsive.scss";
+
+.personal-records-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  padding-top: 60px;
+  min-height: 100vh;
+  height: fit-content;
+
+  &__content {
+    width: 98vw;
+    margin-left: 1vw;
+  }
+}

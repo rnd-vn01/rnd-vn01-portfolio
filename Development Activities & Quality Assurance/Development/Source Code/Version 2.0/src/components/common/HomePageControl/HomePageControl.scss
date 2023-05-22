@@ -1,0 +1,25 @@
+.home-page-control {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 150px;
+  width: 150px;
+  z-index: 200;
+
+  &__control {
+    background: var(--theme-background);
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+
+    &--quiz {
+      border-left: unset;
+      border-right: 1px solid black;
+    }
+  }
+
+  &--quiz {
+    left: 0;
+    right: unset;
+    height: 75px;
+  }
+}

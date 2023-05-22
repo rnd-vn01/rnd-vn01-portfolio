@@ -1,0 +1,57 @@
+@import "src/responsive.scss";
+
+.records-chart {
+  background: white;
+  border: 1px solid black;
+  width: 100%;
+  height: 70vh;
+
+  @include smallscreen {
+    height: fit-content;
+    margin-bottom: 20px;
+  }
+
+  @include tablet {
+    min-height: 50vh;
+  }
+
+  &__title {
+    font-size: 1.75rem;
+    line-height: 1.75rem;
+    color: var(--theme-gray);
+    cursor: pointer;
+
+    &--container {
+      border-bottom: 1px solid black;
+
+      span:not(:first-child) {
+        text-align: right;
+        margin-bottom: 10px;
+      }
+    }
+
+    &--selected {
+      color: black;
+    }
+  }
+
+  &__select {
+    border: none;
+    background-color: var(--theme-highlight);
+    text-indent: 0px;
+    margin-left: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  &__input {
+    &--date {
+      background-color: var(--theme-primary);
+    }
+  }
+
+  &__chart {
+    max-height: 90%;
+    width: 100%;
+  }
+}

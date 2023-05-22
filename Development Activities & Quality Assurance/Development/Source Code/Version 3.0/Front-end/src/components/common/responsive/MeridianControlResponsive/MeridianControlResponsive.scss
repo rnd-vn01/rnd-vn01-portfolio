@@ -1,0 +1,103 @@
+@import "src/responsive.scss";
+
+.meridian-control {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+
+  &__selected {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-right: 5px;
+
+    @include tablet {
+      width: 50px !important;
+      height: 50px !important;
+    }
+
+    &--icon {
+      width: 30px;
+      height: 30px;
+
+      @include tablet {
+        width: 35px !important;
+        height: 35px !important;
+      }
+    }
+
+    &--container {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+    }
+  }
+
+  &__dropdown {
+    max-height: 30vh;
+    overflow-y: auto;
+    background-color: var(--theme-background);
+    display: none;
+    position: absolute;
+    left: -1px;
+    bottom: calc(100% + 1px);
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    height: 30vh;
+    width: 100%;
+
+    @include smallscreen {
+      max-height: 30vh;
+      overflow-y: auto;
+      background-color: var(--theme-background);
+      display: none;
+      position: absolute;
+      left: -1.5px;
+      top: calc(100% + 2px);
+      border: 2px solid black;
+      border-top: none;
+      height: 30vh;
+      width: calc(100% + 3px);
+    }
+
+    &--show {
+      display: block;
+    }
+
+    &--item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px !important;
+      height: 40px !important;
+      border-radius: 50%;
+      margin-right: 5px;
+
+      @include tablet {
+        width: 50px !important;
+        height: 50px !important;
+      }
+    }
+
+    &--option {
+      opacity: .5;
+
+      &:hover {
+        opacity: 1
+      }
+    }
+
+    &--option-selected {
+      opacity: 1;
+    }
+  }
+}

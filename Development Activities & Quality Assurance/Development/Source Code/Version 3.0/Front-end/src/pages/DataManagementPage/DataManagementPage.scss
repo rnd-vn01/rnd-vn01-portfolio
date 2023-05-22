@@ -1,0 +1,40 @@
+@import "src/responsive.scss";
+
+.data-management-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  margin-top: 40px;
+  min-height: 100vh;
+
+  @include smallscreen {
+    margin-top: 0px;
+  }
+
+  &__content {
+    width: 98vw;
+    margin-left: 1vw;
+  }
+
+  &__scroll-to-top {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    background: var(--theme-gray);
+    width: 40px;
+    height: 40px;
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+    &:hover {
+      background: var(--theme-dark-gray);
+    }
+
+    &--showing {
+      display: flex;
+    }
+  }
+}

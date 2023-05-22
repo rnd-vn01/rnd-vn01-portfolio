@@ -1,0 +1,56 @@
+.button {
+  margin-top: 15px;
+  padding: 15px;
+  cursor: pointer;
+  position: relative;
+  border: 0;
+  border: 1px solid black;
+  width: 100%;
+
+  &--filled {
+    background: var(--theme-primary);
+
+    .button__caption {
+      color: white;
+    }
+
+    &:hover {
+      background: var(--theme-dark-primary);
+    }
+  }
+
+  &--blank {
+    background: transparent;
+
+    .button__caption {
+      color: black;
+    }
+
+    &:hover {
+      background: var(--theme-primary);
+
+      .button__caption {
+        color: white;
+      }
+    }
+  }
+
+  &--disabled {
+    opacity: 0.75;
+    cursor: not-allowed;
+
+    &:hover {
+      opacity: 0.75;
+      background: var(--theme-primary);
+    }
+  }
+
+  &__caption {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__logo {
+    margin-right: 5px;
+  }
+}

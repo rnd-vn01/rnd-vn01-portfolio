@@ -1,0 +1,96 @@
+.model-interaction-control {
+  height: 90px;
+  width: 100%;
+  position: relative;
+
+  &__background {
+    height: 100%;
+    width: auto;
+  }
+
+  &__main {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    right: 60px;
+  }
+
+  &__zoom {
+    position: absolute;
+    right: -15px;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    height: 100%;
+    width: 45px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    &--box {
+      background: var(--theme-background);
+      border: 1px solid black;
+      height: 41.41px;
+      cursor: pointer;
+
+      img {
+        width: 15px;
+      }
+    }
+  }
+
+  &__control {
+    cursor: pointer;
+
+    &--center {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+      width: 27.5px;
+      height: 27.5px;
+      background: white;
+      border-radius: 50%;
+    }
+
+    &--left {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+      width: 20px;
+      height: 30px;
+    }
+
+    &--right {
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+      width: 20px;
+      height: 30.5px;
+    }
+
+    &--up {
+      position: absolute;
+      left: 50%;
+      top: 10px;
+      -webkit-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 30px;
+      height: 20px;
+    }
+
+    &--down {
+      position: absolute;
+      left: 50%;
+      bottom: 10px;
+      -webkit-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 30px;
+      height: 20px;
+    }
+  }
+}

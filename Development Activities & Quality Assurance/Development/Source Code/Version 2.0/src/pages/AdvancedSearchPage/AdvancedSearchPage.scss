@@ -1,0 +1,14 @@
+@import "src/responsive.scss";
+
+.advanced-search-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  margin-top: 60px;
+  min-height: 100vh;
+
+  &__content {
+    width: 98vw;
+    margin-left: 1vw;
+  }
+}

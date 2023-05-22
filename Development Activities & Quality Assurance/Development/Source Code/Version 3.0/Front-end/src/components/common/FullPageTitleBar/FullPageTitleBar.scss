@@ -1,0 +1,124 @@
+.title-bar {
+  height: 60px;
+  margin: 0 auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 0 1vw;
+  right: 0;
+  background: var(--theme-background);
+  z-index: 1001;
+  padding-bottom: 10px;
+
+  &__option {
+    font-size: 1.5rem;
+    cursor: pointer;
+
+    &:first-child {
+      border-right: 1px solid black;
+    }
+
+    &:hover {
+      background: var(--theme-background-hover);
+    }
+  }
+
+  &__menu {
+    padding: 5px;
+    padding-top: 2.5px;
+    top: 0px;
+    position: absolute;
+    left: calc(1vw - 5px);
+
+    &--name {
+      font-size: 1.5rem;
+      line-height: 45px;
+      transform: translateY(-5px);
+      margin-right: 7.5px;
+    }
+
+    &--image-logo {
+      height: 45px;
+      width: 45px;
+      border-radius: 50%;
+    }
+
+    &--icon {
+      height: 25px;
+      width: 25px;
+      padding: 9px;
+    }
+
+    &--button-logo {
+      background: var(--theme-gray);
+      border-radius: 50px;
+      cursor: pointer;
+      transform: translateY(3.5px);
+      border: 1px solid black;
+    }
+
+    &--icon-gear {
+      position: absolute;
+      right: 2.5px;
+      bottom: -2.5px;
+      height: 12px;
+      width: 12px;
+    }
+  }
+
+  &__dropdown {
+    position: absolute;
+    border: 1px solid black;
+    top: calc(100%);
+    background: var(--theme-background);
+    z-index: 100;
+    left: 1vw;
+
+    &--hide {
+      display: none;
+    }
+
+    &--item {
+      cursor: pointer;
+      padding: 0 5px;
+      font-size: 1.1rem;
+      width: 100%;
+
+      &:hover {
+        background: var(--theme-primary)
+      }
+    }
+
+    &--divider {
+      border: 0;
+      clear: both;
+      display: block;
+      width: 96%;
+      background-color: black;
+      height: 1px;
+      margin: 2px 0;
+    }
+
+    &--selected-item {
+      background: var(--theme-highlight)
+    }
+  }
+
+  &__page-title {
+    font-size: 3.25rem;
+    line-height: 3.5rem;
+    margin-right: 10px;
+    position: absolute;
+    top: 2.5px;
+    max-height: 60px;
+    overflow: hidden;
+
+    h1 {
+      display: inline;
+    }
+
+    &--bg {
+      background: var(--theme-primary)
+    }
+  }
+}

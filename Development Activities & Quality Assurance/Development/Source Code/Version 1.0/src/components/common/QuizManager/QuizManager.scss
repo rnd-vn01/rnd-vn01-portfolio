@@ -1,0 +1,21 @@
+.quiz-manager {
+  height: 100%;
+
+  &__section {
+    width: 100%;
+    border-bottom: 1px solid black;
+
+    &--top,
+    &--button {
+      height: 60px;
+    }
+
+    &--main {
+      height: calc(100vh - 3 * 60px)
+    }
+  }
+
+  &__no-border {
+    border: none;
+  }
+}

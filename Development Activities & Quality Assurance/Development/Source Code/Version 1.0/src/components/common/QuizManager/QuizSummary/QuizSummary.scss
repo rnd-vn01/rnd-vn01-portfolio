@@ -1,0 +1,29 @@
+.quiz-summary {
+  height: 100%;
+  max-height: 100%;
+  overflow: auto;
+
+  &__title {
+    font-size: 2.25rem;
+  }
+
+  &__sub-title {
+    font-size: 1.5rem;
+  }
+
+  &__options,
+  &__details {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 2rem;
+  }
+
+  &__correct {
+    color: var(--theme-success)
+  }
+
+  &__wrong {
+    color: var(--theme-danger)
+  }
+}

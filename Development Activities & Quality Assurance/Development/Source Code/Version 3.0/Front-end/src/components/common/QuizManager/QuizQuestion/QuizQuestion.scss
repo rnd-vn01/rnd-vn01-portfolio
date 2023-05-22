@@ -1,0 +1,119 @@
+@import "src/responsive.scss";
+
+.quiz-question {
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+
+  &__question {
+    margin: 8px;
+    height: 100%;
+    max-height: calc(100% - 250px);
+    overflow: auto;
+    font-size: 1.5rem;
+    text-align: justify;
+    background-image: url("../../../../assets/images/QuizQuestionBackground.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+
+    @include smallscreen {
+      max-height: calc(100% - 130px);
+      font-size: 1.125rem;
+    }
+
+    @include tablet {
+      font-size: 1.25rem;
+    }
+
+    p {
+      max-height: 100%;
+      overflow-y: auto;
+      padding: 10px 0px;
+    }
+
+    &--navigate {
+      max-height: calc(100% - 75px);
+    }
+  }
+
+  &__full {
+    max-height: 100%;
+  }
+
+  &__answer {
+    bottom: 0;
+    height: 120px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    border-top: 1px solid black;
+    background: transparent;
+    text-align: center;
+    color: black;
+
+    &--navigate {
+      height: 60px;
+    }
+
+    @include smallscreen {
+      height: 60px;
+      font-size: 1.25rem;
+    }
+
+    &:hover {
+      background: var(--theme-primary);
+    }
+
+    &:nth-child(even) {
+      border-left: 1px solid black;
+    }
+
+    &--true {
+      background: #76CE31;
+      color: black;
+
+      &:hover {
+        background: #76CE31 !important;
+        color: black;
+      }
+    }
+
+    &--false {
+      background: #CE3B32;
+      color: white;
+
+      &:hover {
+        background: #CE3B32 !important;
+        color: white;
+      }
+    }
+
+    &--ended {
+      &:hover {
+        cursor: not-allowed;
+        background: none;
+      }
+    }
+
+    &--not-ended {
+      &:hover {
+        background: var(--theme-primary);
+        cursor: pointer;
+      }
+    }
+  }
+
+  &__answers {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 240px;
+
+    @include smallscreen {
+      height: unset;
+    }
+  }
+}

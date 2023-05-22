@@ -1,0 +1,41 @@
+.language-picker {
+    z-index: 100;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    height: fit-content;
+
+    &__current {
+        border: 1px solid var(--theme-green);
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+    }
+
+    &__dropdown {
+        border: 1px solid black;
+        background: var(--theme-background);
+        z-index: 101;
+        position: relative;
+        margin-bottom: 5px;
+
+        &--hide {
+            display: none;
+        }
+
+        &--item {
+            cursor: pointer;
+            padding: 0 7.5px;
+            font-size: 1.1rem;
+            text-align: right;
+
+            &:hover {
+                background: var(--theme-primary)
+            }
+        }
+
+        &--selected {
+            background: var(--theme-highlight);
+        }
+    }
+}

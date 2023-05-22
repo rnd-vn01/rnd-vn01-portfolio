@@ -1,0 +1,64 @@
+@import "src/responsive.scss";
+
+.home-title {
+  height: 100%;
+
+  @include mobile {
+    padding: 20px 0;
+  }
+
+  &__title {
+
+    &--sub,
+    &--instruction {
+      font-size: 1.25rem;
+    }
+
+    &--main {
+      margin-top: 1rem;
+      font-size: 3.5rem;
+
+      @include mobile {
+        margin-top: 2rem;
+      }
+
+      p {
+        display: inline;
+
+        @include mobile {
+          display: block;
+        }
+      }
+
+      @include mobile {
+        font-size: 2.5rem;
+      }
+    }
+
+    &--project-name {
+      font-size: 1rem;
+    }
+
+    &--instruction {
+      margin-top: 2rem;
+      font-size: 1rem;
+      color: rgba(0, 0, 0, .2);
+
+      @include mobile {
+        margin-top: 2.5rem;
+        font-size: 1.1rem;
+      }
+    }
+
+    &--logo {
+      height: 36px;
+      display: inline;
+      transform: translateY(-3px);
+
+      @include mobile {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+      }
+    }
+  }
+}

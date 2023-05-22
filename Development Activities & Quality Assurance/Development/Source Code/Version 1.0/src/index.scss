@@ -1,0 +1,107 @@
+@import "src/responsive.scss";
+
+:root {
+  --theme-background: #F8F0E9;
+  --theme-primary: #E2BE96;
+  --theme-dark-primary: #be9b73;
+  --theme-danger: #834E46;
+  --theme-success: #93895E;
+  --theme-highlight: #99BBE3;
+  --theme-gray: #D9D9D9;
+  --theme-background-hover: rgba(0, 0, 0, .2);
+  --theme-green: #1C681E;
+
+  --theme-meridian-1: #F38342;
+  --theme-meridian-2: #B4CB3C;
+  --theme-meridian-3: #CCA443;
+  --theme-meridian-4: #C5CC43;
+  --theme-meridian-5: #43A6CC;
+  --theme-meridian-6: #B343CC;
+  --theme-meridian-7: #44A668;
+  --theme-meridian-8: #4377CC;
+  --theme-meridian-9: #5643CC;
+  --theme-meridian-10: #68CC43;
+  --theme-meridian-11: #4DC2BA;
+  --theme-meridian-12: #CC4370;
+
+  --theme-extra-meridian-1: #618888;
+  --theme-extra-meridian-2: #885C88;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scrollbar-width: none;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+::-webkit-sadcrollbar {
+  width: 0px;
+  background: transparent;
+  display: none;
+}
+
+body * {
+  transition: all 0.3s ease;
+}
+
+@font-face {
+  font-family: "header";
+  src: local('regular'),
+    url("assets/fonts/SVN-Gilroy Bold.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: "header-light";
+  src: local('regular'),
+    url("assets/fonts/SVN-Gilroy Light.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: "regular";
+  src: local('regular'),
+    url("assets/fonts/AdelleSansEXT-Regular.ttf") format('truetype');
+}
+
+h1,
+h2,
+h3,
+h1 *,
+h2 *,
+h3 * {
+  font-family: "header" !important;
+}
+
+
+
+h4,
+h5,
+h6,
+h4 *,
+h5 *,
+h6 * {
+  font-family: "header-light" !important;
+}
+
+*,
+div,
+option {
+  font-family: "regular" !important;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: var(--theme-highlight) !important;
+}

@@ -1,0 +1,78 @@
+@import "src/responsive.scss";
+
+.search-results {
+  width: 60vw;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 40px;
+  margin-top: 100px;
+
+  @include smallscreen {
+    width: 85vw;
+    margin-top: 140px;
+  }
+
+  &__letter {
+    font-size: 3rem;
+    background: var(--theme-primary);
+    width: fit-content;
+    line-height: 3rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+
+    @include smallscreen {
+      font-size: 2.5rem;
+      line-height: 2.5rem;
+    }
+  }
+
+  &__filters {
+    border: 1px solid black;
+    position: fixed;
+    right: 1vw;
+    top: 160px;
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 5px;
+    overflow-wrap: break-word;
+
+    &--category {
+      width: 100%;
+      font-size: 1.5rem;
+      border-bottom: 1px solid black;
+      margin-bottom: 5px;
+      text-align: right;
+      line-height: 1.5rem;
+    }
+  }
+
+  &__select {
+    border: none;
+    background-color: var(--theme-highlight);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 0px;
+    margin-left: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  &__option {
+    text-align: right;
+  }
+
+  &__no-results {
+    font-size: 3rem;
+    width: fit-content;
+    line-height: 3rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+}
+
+.infinite-scroll-component {
+  overflow: visible !important;
+}

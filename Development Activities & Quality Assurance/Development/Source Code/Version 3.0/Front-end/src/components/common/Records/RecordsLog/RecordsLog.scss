@@ -1,0 +1,63 @@
+.records-log {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 20px;
+
+  &__flex-block {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+  }
+
+  &__header {
+    cursor: pointer;
+    position: relative;
+    margin-right: 5px;
+
+    &:hover>&--view {
+      display: block;
+    }
+
+    &--timestamp,
+    &--result {
+      font-size: 1.25rem;
+      line-height: 1.25rem;
+    }
+
+    &--correct-answers {
+      color: var(--theme-success);
+    }
+  }
+
+  &__meridian {
+
+    &--title,
+    &--points span {
+      font-size: 1rem;
+      line-height: 1rem;
+      cursor: pointer;
+    }
+
+    &--correct {
+      color: var(--theme-success)
+    }
+
+    &--wrong {
+      color: var(--theme-danger)
+    }
+  }
+
+  &__information {
+    margin-right: -8px;
+    margin-bottom: 15px;
+    max-height: 50vh;
+    margin-top: 5px;
+    padding-right: 3px;
+    -moz-transition: height .5s;
+    -ms-transition: height .5s;
+    -o-transition: height .5s;
+    -webkit-transition: height .5s;
+    transition: height .5s;
+    height: 0;
+    overflow: hidden;
+  }
+}

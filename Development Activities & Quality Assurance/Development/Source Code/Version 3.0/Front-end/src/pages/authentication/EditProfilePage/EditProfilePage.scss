@@ -1,0 +1,42 @@
+@import "src/responsive.scss";
+
+.edit-profile-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  margin-top: 50px;
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 40px;
+
+  &__content {
+    width: 50vw;
+    margin-left: 25vw;
+    padding-top: 40px;
+
+    @include smallscreen {
+      width: 80vw;
+      margin-left: 10vw;
+    }
+  }
+
+  &__image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    cursor: pointer;
+    text-align: center;
+
+    &--block {
+      margin-top: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    &--error {
+      color: red;
+    }
+  }
+}

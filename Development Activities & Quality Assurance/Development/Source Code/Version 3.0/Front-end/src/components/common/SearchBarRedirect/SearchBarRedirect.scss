@@ -1,0 +1,53 @@
+@import "src/responsive.scss";
+
+.search-bar-redirect {
+  width: 100%;
+  border: 1px solid black;
+  cursor: text;
+  position: relative;
+  margin-top: 12px;
+  height: 60px;
+
+  @include smallscreen {
+    margin-top: 10px;
+    transform: translateX(-1vw);
+    border-left: unset;
+    border-right: unset;
+    border-bottom: 2px solid black;
+    width: 100vw;
+  }
+
+  &__logo {
+    &--search {
+      position: absolute;
+      left: 8px;
+      top: calc(25px / 2 - 2px);
+      height: 35px;
+    }
+  }
+
+  &__input {
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 1.75rem;
+    width: calc(100% - 120px);
+    margin-right: 10px;
+    font-family: 'regular-light' !important;
+
+    &--span {
+      width: calc(100% - 60px);
+      display: block;
+      position: absolute;
+      left: 50px;
+      top: calc(25px / 2 - 5px);
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    }
+  }
+
+  &__number-of-results {
+    background: var(--theme-highlight);
+  }
+}

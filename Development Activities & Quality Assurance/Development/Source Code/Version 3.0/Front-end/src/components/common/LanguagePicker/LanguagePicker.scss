@@ -1,0 +1,56 @@
+.language-picker {
+  z-index: 100;
+  position: absolute;
+  top: 15px;
+  left: 70px;
+  height: fit-content;
+
+  &__current {
+    border: 1px solid var(--theme-green);
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    font-size: 1.1rem;
+    background: rgba(28, 104, 30, 0.2);
+    opacity: 0.5;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    &--show {
+      opacity: 1;
+    }
+  }
+
+  &__dropdown {
+    border: 1px solid black;
+    background: var(--theme-background);
+    z-index: 101;
+    position: relative;
+    margin-top: 5px;
+
+    &--hide {
+      display: none;
+    }
+
+    &--item {
+      cursor: pointer;
+      padding: 0 7.5px;
+      font-size: 1.1rem;
+      text-align: right;
+
+      &:hover {
+        background: var(--theme-primary)
+      }
+    }
+
+    &--selected {
+      background: var(--theme-highlight);
+    }
+  }
+}

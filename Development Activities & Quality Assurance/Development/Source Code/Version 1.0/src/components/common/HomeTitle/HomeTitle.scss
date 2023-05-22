@@ -1,0 +1,25 @@
+.home-title {
+  height: 100%;
+
+  &__title {
+
+    &--sub,
+    &--instruction {
+      font-size: 1rem;
+    }
+
+    &--main {
+      margin-top: 1.25rem;
+      font-size: 2.5rem;
+    }
+
+    &--project-name {
+      font-size: 0.7rem;
+    }
+
+    &--instruction {
+      margin-top: 3rem;
+      color: rgba(0, 0, 0, .3);
+    }
+  }
+}

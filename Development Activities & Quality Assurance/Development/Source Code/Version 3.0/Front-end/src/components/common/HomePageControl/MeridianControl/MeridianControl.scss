@@ -1,0 +1,94 @@
+.meridian-control-desktop {
+  margin-top: 10px;
+  max-width: calc(135px * 3 + 30px);
+  position: relative;
+  transform: translateX(-30px);
+
+  scrollbar-color: transparent transparent;
+  scrollbar-width: none;
+
+  &__mask {
+    overflow-x: auto;
+    scroll-behavior: smooth;
+  }
+
+  &__scrollable {
+    display: flex;
+    width: fit-content;
+  }
+
+  &__item {
+    height: 40px;
+    width: 135px;
+    border-radius: 8rem;
+    cursor: pointer;
+    opacity: 0.5;
+    margin-right: 10px;
+    position: relative;
+
+    &:hover,
+    &--selected {
+      opacity: 1;
+    }
+
+    &-icon {
+      max-height: 100%;
+      width: auto;
+      filter: invert(1);
+
+      &-container {
+        height: 39px;
+        width: 40px;
+        padding: 5px;
+        border-radius: 50%;
+      }
+
+      &--black {
+        filter: unset;
+      }
+    }
+
+    &-name {
+      position: absolute;
+      right: 15px;
+      top: 0;
+      width: calc(100% - 60px);
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-shadow: 0 0 4px rgba(0, 0, 0, .4);
+
+      p {
+        line-height: 15px;
+        font-size: 15px;
+        text-align: center;
+        transform: translateY(-1px);
+      }
+    }
+  }
+
+  &__control {
+    position: absolute;
+    z-index: 10;
+    background-color: var(--theme-background);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    top: 50%;
+    transform: translateY(-75%);
+    cursor: pointer;
+
+    &--left {
+      left: -35px;
+      top: 25px;
+    }
+
+    &--right {
+      right: -25px;
+      top: 25px;
+    }
+  }
+}

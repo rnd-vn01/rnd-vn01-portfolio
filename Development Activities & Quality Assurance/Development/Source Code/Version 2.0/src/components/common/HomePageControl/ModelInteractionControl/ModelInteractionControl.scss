@@ -1,0 +1,86 @@
+.model-interaction-control {
+  height: 100%;
+  width: 100%;
+  position: relative;
+
+  &__main {
+    width: 47.5px;
+    height: 47.5px;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    top: 5px;
+  }
+
+  &__zoom {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: 5px;
+    display: inline-flex;
+  }
+
+  &__control {
+    cursor: pointer;
+
+    &--center {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+      width: 15px;
+      height: 15px;
+    }
+
+    &--left {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+      width: 15px;
+      height: 17.5px;
+    }
+
+    &--right {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+      width: 15px;
+      height: 17.5px;
+    }
+
+    &--up {
+      position: absolute;
+      left: 50%;
+      top: 0;
+      -webkit-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 17.5px;
+      height: 15px;
+    }
+
+    &--down {
+      position: absolute;
+      left: 50%;
+      bottom: 0;
+      -webkit-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 17.5px;
+      height: 15px;
+    }
+
+    &--zoom-in {
+      margin-right: 2.5px;
+    }
+
+    &--zoom-out {
+      margin-left: 2.5px;
+    }
+  }
+}

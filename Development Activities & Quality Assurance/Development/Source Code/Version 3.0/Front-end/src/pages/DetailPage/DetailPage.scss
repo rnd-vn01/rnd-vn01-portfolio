@@ -1,0 +1,25 @@
+@import "src/responsive.scss";
+
+.detail-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  margin-top: 50px;
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 40px;
+
+  &__content {
+    width: 98vw;
+    margin-left: 1vw;
+    padding-top: 0.25px;
+  }
+
+  .search-result {
+    &__information {
+      height: fit-content;
+      max-height: unset;
+    }
+
+  }
+}

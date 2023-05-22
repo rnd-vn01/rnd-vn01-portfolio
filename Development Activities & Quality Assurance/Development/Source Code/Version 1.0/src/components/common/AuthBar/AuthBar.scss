@@ -1,0 +1,67 @@
+.auth-bar {
+  height: 60px;
+  width: 100%;
+  border-bottom: 1px solid black;
+
+  &__option {
+    font-size: 1.5rem;
+    cursor: pointer;
+
+    &:first-child {
+      border-right: 1px solid black;
+    }
+
+    &:hover {
+      background: var(--theme-background-hover);
+    }
+  }
+
+  &__logged-in {
+    position: relative;
+  }
+
+  &__menu {
+    &--name {
+      font-size: 1.5rem;
+      line-height: 45px;
+      transform: translateY(-5px);
+      margin-right: 7.5px;
+    }
+
+    &--image-logo {
+      height: 35px;
+      width: 35px;
+    }
+
+    &--button-logo {
+      background: var(--theme-gray);
+      padding: 5px;
+      border-radius: 50px;
+      cursor: pointer;
+      transform: translateY(3.5px);
+    }
+  }
+
+  &__dropdown {
+    position: absolute;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    top: calc(100% + 1px);
+    background: var(--theme-background);
+    z-index: 100;
+
+    &--hide {
+      display: none;
+    }
+
+    &--item {
+      cursor: pointer;
+      padding: 0 5px;
+      font-size: 1.1rem;
+
+      &:hover {
+        background: var(--theme-primary)
+      }
+    }
+  }
+}

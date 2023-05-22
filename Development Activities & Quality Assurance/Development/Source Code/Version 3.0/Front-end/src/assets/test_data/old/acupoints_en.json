@@ -1,0 +1,922 @@
+[
+  {
+    "code": "M-HN-3",
+    "name": "Yintang",
+    "description": "At the middle point between the medial ends of the two eyebrows",
+    "anatomy": "The needle passes through skin, subcutis, musculus depressor glabellae and reaches the periosteum of os nasale. There are branches of the angular vessels, nervus supratrochelaris and facialis in this area.",
+    "functionalities": [
+      "Headache",
+      "Insomnia",
+      "Dizziness and vertigo",
+      "Diseases of the nasal cavity",
+      "Febrile seizures"
+    ],
+    "technique": "0.6 - 1 cun horizontally downwards or penetrate horizontally toward the left or right Pt. Zanzhu or Pt. Jingming"
+  },
+  {
+    "code": "Du-20",
+    "name": "Baihui",
+    "description": "At the junction between the line connecting the apices of both ears and the mid-sagittal line",
+    "anatomy": "The needle passes through aponeurotica, and reaches the subaponeurotic tissue. There is the nervus occipitalis magnus, nervus frontalis, nervus auriculo-temporalis, left and right superficial temporal vessels and the anastomic network of the supraorbital vessels.",
+    "functionalities": [
+      "Faint",
+      "Headache",
+      "Vertigo",
+      "Mental diseases",
+      "Prolapse of uterus",
+      "Prolapse of anus",
+      "Frequently used for acupuncture aneasthesia in the operations of the cranium"
+    ],
+    "technique": "Perpendicularly or horizontally 0.2 - 1 cun",
+    "caution": "Thin scalp should not be acupuncture, easy to cause scarring"
+  },
+  {
+    "code": "GB-20",
+    "name": "Fengchi",
+    "description": "At the level of Pt. Fengfu, in the depression between musculus trapezius and musculus sterno-cleido-mastoideus",
+    "anatomy": "The needle passes through the skin, subcutis, between musculus sterno-cleido-mastoideus and musculus trapezius to musculus splenius capitis and musculus semispinalis capitis and then reaches the areolar tissue of the lateral side of musculus rectus capitis poterior major and behind the processus transversus of the vertebrae cervicales. There are occipital vessels and branches of nervus occipitalis minor in the superficial layer; vertebral vessels and branches of nervus occipitalis magnus and minor in the deeper layer.",
+    "functionalities": [
+      "Common cold",
+      "Headache",
+      "Vertigo",
+      "Pain and stiffness of the neck",
+      "Eye diseases",
+      "Rhinitis",
+      "Tinnitus",
+      "Deafness",
+      "Hypertension",
+      "Epilepsy",
+      "Hemiplegia",
+      "Disorders of the brain"
+    ],
+    "technique": "Insert the needle 1 - 1.5 cun towards the eyeball of the opposite side.",
+    "caution": "It is not allowed to puncture too deep, to avoid injuring the medulla oblongata and prevent serious results."
+  },
+  {
+    "code": "GB-3",
+    "name": "Shangguan",
+    "description": "Above point Xiaguan, in the depression on the upper margin of the arcus zygomaticus",
+    "anatomy": "Under the acupoint are the anterior ear muscle, the temporal muscle, and the temporal bone. The motor nerve is the branch of the facial nerve, the branch of the cranium No. V. The skin of the acupoint is controlled by the secretion of the V3 nerve segment.",
+    "functionalities": [
+      "Tinnitus",
+      "Deafness",
+      "Otitis media",
+      "Toothache",
+      "Lockjaw",
+      "Facial paralysis"
+    ],
+    "technique": "Insert the needle 0.7 - 1 cun deep"
+  },
+  {
+    "code": "SI-19",
+    "name": "Tinggong",
+    "description": "Anterior to helix in the depression posterior to the mandibular joint when the mouth is opened.",
+    "anatomy": "The needle passes through the skin, subcutis, and the glandula parotis. There are superficial temporal vessels, branches of the nervus auriculotemporalis and nervus facialis in the superficial layer; and internal carotid vessels in the deeper layer.",
+    "functionalities": [
+      "Tinnitus aurium",
+      "Deafness",
+      "Otitis media",
+      "Deaf-mutism",
+      "Toothache",
+      "Facial paralysis"
+    ],
+    "technique": "Let the patient open the mouth, puncture perpendicularly or slightly downward 0.6 - 1.5 cun"
+  },
+  {
+    "code": "TE-17",
+    "name": "Yifeng",
+    "description": "Posterior to the inferior border of the ear-lobe, in the depression antero-inferior to the mastoid process",
+    "anatomy": "The needle passes through the skin, subcutis, glandula parotis and reaches the plexus pterygoideus. There are branches of the nervus auricularis magnus, the vena jugularis externa, the maxillary vessels, the plexus pterygoideus, the trunk of nervus facialis and branches of nervus mandibularis in the deeper layer",
+    "functionalities": [
+      "Tinnitus",
+      "Deafness",
+      "Deaf-mutism",
+      "Facial paralysis",
+      "Parotiditis",
+      "Arthritis of mandible joint",
+      "Toothache",
+      "Eye disease"
+    ],
+    "technique": "Let the patient open the mouth and pucture oliquely 1 - 2 cun, directing the needle towards the angulus oculi medialis of the opposite eye in a forward and upward way"
+  },
+  {
+    "code": "LI-20",
+    "name": "Yingxiang",
+    "description": "Between the nasolabial groove and the midpoint of the lateral border of the nasal ala",
+    "anatomy": "The needle passes through the skin, subcutis to the musculus quadratus labbi superior. There are branches of facial vessels and nervus facialis, nervus infraorbitalis and infraorbital vessels.",
+    "functionalities": [
+      "Diseases of the nasal cavity",
+      "Facial paralysis",
+      "Trigemeinal neuralgia",
+      "Ascariasis of the bile tract"
+    ],
+    "technique": "Perpendicularly 0.1 - 0.3 cun, or horizontally 0.5 - 0.8 cun in medial and upward direction. When treating billary ascariasis, penetrate 0.5 - 1 cun toward point Sibai."
+  },
+  {
+    "code": "St-4",
+    "name": "Dicang",
+    "description": "0.4 cun lateral to the mouth angle",
+    "anatomy": "The needle passes through the skin, subcutis, musculus orbicularis oris to the musculus buccinator. There are nervus facialis, nervus mandibularis and facial vessels to distribute in this area.",
+    "functionalities": [
+      "Facial paralysis",
+      "Salivation",
+      "Trigeminal neuralgia"
+    ],
+    "technique": "1.5 - 2 cun horizontally toward point Jaiche. When treating facial paralysis, horizontally penetrate into point Jiache. Penetrate into point Yingxiang for trigeminal neuralgia"
+  },
+  {
+    "code": "St-6",
+    "name": "Jiache",
+    "description": "One finger width anterior and superior to the angle of lower jaw, at the prominence of the masseter during mastication",
+    "anatomy": "The needle passes through the skin, subcutis and reaches the musculus masseter. There are mandibular branch of nervus facialis in the superficial layer, there are vessels supplying the musculus masseter and nervus massetericus in the deeper layer",
+    "functionalities": [
+      "Trigeminal neuralgia",
+      "Toothache",
+      "Pariotiditis",
+      "Facial paralysis",
+      "Lockjaw",
+      "Stiffeness and pain of the neck"
+    ],
+    "technique": "Perpendicularly 0.3 - 0.5 cun or horizontally penetrate 1 - 2 cun into point Dicang"
+  },
+  {
+    "code": "Du-26",
+    "name": "Renzhong",
+    "description": "In the midline at the junction of the upper 1/3 and lower 2/3 of the philtrum",
+    "anatomy": "The needle passes through the skin, subcutis to the musculus orbicularis oris. There are superios labial vessels and branches of nervus facialis, nervus infraorbitalis in this area",
+    "functionalities": [
+      "Shock",
+      "Coma",
+      "Psychosis",
+      "Epilepsy",
+      "Sunstroke",
+      "Asphyxia",
+      "Respiratory failure"
+    ],
+    "technique": "Obliquely 0.3 - 0.5 cun, with the needle tip tilted upwards"
+  },
+  {
+    "code": "Ren-17",
+    "name": "Shanzhong",
+    "description": "In the middle point between the two papillae. Locate this point with the patient lying on back",
+    "anatomy": "The needle passes through the skin, subcutis and reaches the sternum. There are anterior cutaneous branches of the 4th thoracic nervus in the superficial layer, and anterior perforating branches of the internal mammary vessels in the deeper layer.",
+    "functionalities": [
+      "Chest pain",
+      "Fullness in the chest",
+      "Milk deficiency",
+      "Intercostal neuralgia",
+      "Angina pectoris",
+      "Cough",
+      "Astoma",
+      "Hiccup and mastitis"
+    ],
+    "technique": "Obliquely downward or 0.8 - 1.2 cun horizontally to the right or the left side",
+    "caution": "When this acupuncture point is accidentally enlightened, causing the patient to become cold hands and feet, unconscious, use the Tiantu point to solve it, use the needle method and the tower method 3 times, about 9 times each time, about 10 times. seconds, then withdraw the needle."
+  },
+  {
+    "code": "Ren-14",
+    "name": "Juque",
+    "description": "6 cun above the umbilicus on the frontal midline",
+    "anatomy": "Under the acupoint is the white line, behind is the peritoneum. Below that is the left lobe of the liver. The skin of the acupoint is controlled by the secretion of the T6 nerve.",
+    "functionalities": [
+      "Gastraligia",
+      "Hiccup",
+      "Palpitation",
+      "Mental disorder",
+      "Epilepsy"
+    ],
+    "technique": "Insert the needle straight, 1 - 2 cun deep, you can direct the needle to 4 points around the area by inserting skewers under the meat. When pricking the upper abdomen, there is a feeling of tightness or the stomach has a feeling of retraction.",
+    "caution": "Below is the liver, do not puncture too deep"
+  },
+  {
+    "code": "Ren-12",
+    "name": "Zhongwan",
+    "description": "4 cun above the umbilicus, on the middle of the abdomen. Locate this point with the patient lying on back",
+    "anatomy": "The needle passes through the skin, subcutis and penetrates the linea alba, the fascia transversalis and reaches the peritoneum. In the deep part is the gaster. There are tributaries of the vena epigastrica superficialis and anterior cutaneous branches of the 7th and 8th thoracic nervus superficial layer, and the branches of the superior epigastric vessels and the 7th and 8th nervus thoracici in the deeper layer",
+    "functionalities": [
+      "Gastralgia",
+      "Vomiting",
+      "Hiccup",
+      "Abdominal distension",
+      "Diarrhea",
+      "Gastritis",
+      "Gastric ulcer",
+      "Gastric ptosis",
+      "Acute intestinal obstruction",
+      "Dyspepsia"
+    ],
+    "technique": "Perpendicularly 1 - 2 cun, or puncture obliquely to the surrounding points",
+    "caution": "Below is the stomach, pancreas, and abdominal aorta, should not be inserted too deeply, the sick person is even more cautious. If the patient has a large swelling of the liver or spleen, do not insert the needle around 4 sides"
+  },
+  {
+    "code": "Ren-6",
+    "name": "Qihai",
+    "description": "1.5 cun below the umbilicus, on the midline of the abdomen. Locate this point with the patient lying on back",
+    "anatomy": "The needle passes through the skin, subcutis, penetrates the linea alba, fascia transversalis, and reaches the extra-peritoneal fat or peritoneum. In the deep part are the omentum majus and intestinum tenue. There are superficial epigastric vessels and anterior cutaneous branches of the throacic 11th and 12th nervus in the superficial layer, and branches of the epigastric vessels and the 11th and 12th neuvus thoracici in the deep layer.",
+    "functionalities": [
+      "Spermatorrhea",
+      "Impotence",
+      "Dysmenorrhea",
+      "Irregular menstruation",
+      "Abdominal distension",
+      "Diarrhea",
+      "Enuresis",
+      "Frequent micturition",
+      "Retention of urine"
+    ],
+    "technique": "Perpendicularly 0.8 - 1.2 cun or obliquely downward 2 - 3 cun",
+    "caution": "Acupuncture is forbidden during pregnancy. Below is the Small Intestine meridian, pregnant should not be punctured deeply. Before acupuncture should urinate."
+  },
+  {
+    "code": "SP-11",
+    "name": "Jimen",
+    "description": "6 cun above point Xuehai",
+    "anatomy": "Through the skin and the subcutaneous tissue, the needle passes the musculus sartorius, then into the musculus vastus medialis. There are the medial cutaneous branches of the nervus femoralis and the tributaries of the vena saphena magna in the superficial layer. In the deep layer, there are the muscular branches of the femoral vessels and nerve",
+    "functionalities": [
+      "Urethritis",
+      "Incontinue of urine",
+      "Lymphadenitis of inguinal region"
+    ],
+    "technique": "Perpendicularly 1 -2 cun",
+    "caution": "If the acupuncture point has a reaction in the legs that makes it difficult to move freely or defecate, it is recommended to acupuncture Fuai acupuncture point to rescue. Insert 1.5 cun deep, store the needle for about half an hour, then turn the needle 9 times to the left, 6 times to the right, then pull the needle out."
+  },
+  {
+    "code": "St-25",
+    "name": "Tianshu",
+    "description": "2 cun lateral to the umbilicus",
+    "anatomy": "The needle passes through the skin, subcutis, m. rectus ab-dominis ,and its sheath, penetrates the fascia traneversalis and peritoneum. In the deep part of the point are the omentum majus and the intestinum tenue. There are the v. epigastrica superficialis and cutaneous branches of the 10th intercostal n. in the supericial layer, and branches of the 10th intercostal vessels and branches of superior and inferior epigastric vessels in the deeper layer.",
+    "functionalities": [
+      "Acute or chronic diarrhea",
+      "Acillary dysentery",
+      "Acutechronic gastritis",
+      "Enteritis",
+      "Appendicitis",
+      "Dntestinal asariasis",
+      "Constipation",
+      "Diarrhea of infants, etc."
+    ],
+    "technique": "Perpendicularly 1.5-2 cun."
+  },
+  {
+    "code": "LU-1",
+    "name": "Zhongfu",
+    "description": "1 cun below Pt. Yunmen, in the 1st. Intercostal space.",
+    "anatomy": "The needle passes through the skin, subcutis, m. pectoralis major and reaches m. pectoralis minor. There are nn. supraclaviculares in the superficial layer, and a. thoracoacromialis and nn. thoracales anterior in the deeper layer. When the needle enters the axilla, the vessels of the axilla and the plexus brachialis can be found.",
+    "functionalities": [
+      "Cough",
+      "Asthma",
+      "Opression in the chest",
+      "Pain in the",
+      "Chest",
+      "Pain in shoulder and back."
+    ],
+    "technique": "Obliquely 0.5-1.5 cun towards the post-lateral aspect of the chest, perpendicularly 10.3-1 cun."
+  },
+  {
+    "code": "Du-14",
+    "name": "Dazhui",
+    "description": "Between the processus spinosus of thevertebra cervicalis VII and the vertebra thoracica I.",
+    "anatomy": "The structures that the needle passes through are same as Pt. Yaoyangguan. In the superficial layer, there are cutaneus branches of the r. dorsalis of the n. thoracica I. In the deeper layer, there are plexus venosi vertebrales posterior between the processus spinosus of the vertebrae and the r. dorsalis of the n. cervicalis VIII.",
+    "functionalities": [
+      "Fever",
+      "Malaria",
+      "Common cold",
+      "Cough",
+      "Asthma",
+      "Hectic disease, urticaria, stiff neck, stiff back, maniac psychosis",
+      "Preventing diseases and building up health"
+    ],
+    "technique": "Perpendicularly or obliquely 0.5-1 cun slightly upward and also with the three-edged needle pricking swifly to let the blood out.",
+    "caution": "In the case of bronchial fluid retention during needle insertion, if the patient has an echocardiographic response, there is usually a good outcome."
+  },
+  {
+    "code": "Bl-13",
+    "name": "Feishu",
+    "description": "Below the processus spinosus of vertebra thoracica III. i.e. 1.5 cun lateral to Pt. Shenzhu.",
+    "anatomy": "The structure that the needle passes through are the same as Pt. Dashu. In the superficial layer, there are cutaneus branches of the posterior branches of the 3rd thoracic n. and its accompanying vessels. There are muscular branches of the posterior branches of the 4th n.thoracica and the posterior branches of the 4th intercostal vessels in the deeper layer.",
+    "functionalities": [
+      "Common cold",
+      "Stuffiness of the nose",
+      "Cough",
+      "Shortness of breath",
+      "Hectic fever",
+      "Night sweats",
+      "Diseases of the back"
+    ],
+    "technique": "Perpendicularly 0.6-1 cun or obliquely toward columna vertebralis",
+    "caution": "Below is the lung, don't puncture too deep"
+  },
+  {
+    "code": "Bl-14",
+    "name": "Jueyinshu",
+    "description": "1.5 cun laterally below the processus spinosus of vertebra thoracica IV",
+    "anatomy": "The needle passes through the skin, subcutis, m. trapezius, m. rhomboideus and reaches m. sacrospinalis. In the superficial layer, there are cutaneous branches of the posterior branches of the 4th thoracic n.and its accompanying vessels. In the deeper layer, there are muscular branches of the posterior branches of the 5th thoracic n. and the posterior branches Of the 5th intercostal vessels.",
+    "functionalities": [
+      "Angina pectoris, arrhythmia, tachycardia and other ardica diseases, epilepsy, mental diseases, insomnia, pain in the chest, etc."
+    ],
+    "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna vertebralis."
+  },
+  {
+    "code": "Bl-15",
+    "name": "Xinshu",
+    "description": "1.5 cun laterally below the processus spinous of the vertebra thoracica V",
+    "anatomy": "The needle passes through the skin, subcutis, and penetrates m. trapezius, the lower border of m. rhomboideus, and reaches m. sacraspinalis. There are cutaneous branches of the posterior branch of the 5th thoracici n. and its accompanying vessels in the superficial layer, and muscular branches of the posterior branches of the 6th thoracic n. nd posterior branches of the 6th intercostal vessels in the deeper layer.",
+    "functionalities": [
+      "Palpitation with fear",
+      "Vexed feeling",
+      "Amnesia",
+      "Cough",
+      "Frequently used in the treatment of angina pectoris, arrhythmia, tachycardia, other diseases of the heart, neurasthenia, etc."
+    ],
+    "technique": "Perpendicularly 0.6-1 cun, or obliquely towards the columna vertebralis",
+    "caution": "Do not direct or skewer the needle too deeply, may cause damage to the lungs"
+  },
+  {
+    "code": "Bl-18",
+    "name": "Ganshu",
+    "description": "Below the processus spinosus of vertebra thoracica IX, 1.5 cun lateral to middle line",
+    "anatomy": "The needle passes through the skin, subcutis, m. latissimus dorsi, m. serratus posterior inferior and reaches m. sacrospinalis. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica VIII and its accompanying vessels, but the muscular branches of the rami dorsales of the n. thoracica X and the rami dorsales of the 10th intercostal vessels are in the deeper layer",
+    "functionalities": [
+      "Indicated for diseases of the liver and gall bladder especially for jaundice",
+      "Pain of the lower chest",
+      "Gastric diseases",
+      "Hematemesis",
+      "Epistaxis, redness of the eye, night blindness, glaucoma and back pain."
+    ],
+    "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna vertebralis",
+    "caution": "In the depth of all the shu points above Pt. Ganshu, there are lungs and pleurae. Don't puncture too deep, so as to avoid injuring these organs and causing artificial pneumothorax"
+  },
+  {
+    "code": "Bl-19",
+    "name": "Danshu",
+    "description": "Below the processus spinosus of vertebra thoracica X, 1.5 cun lateral to the middle line.",
+    "anatomy": "The structures that the needle passes through are the same as Pt. Ganshu. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica IX and its accompanying vessels. There are muscular branches of the rami dorsales of the n. thoracica XI and rami dorsales of the 11th intercostal vessels in the deeper layer.",
+    "functionalities": [
+      "Jaundice",
+      "Bitter taste",
+      "Pain in the chest and hypochondrium",
+      "Hectic fever in pulmonary tuberculosis",
+      "Diseases of the loin and back."
+    ],
+    "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna. vertebralis."
+  },
+  {
+    "code": "Bl-20",
+    "name": "Pishu",
+    "description": "Below the processus spinosus of vertabra thoracica XI. 1.5 cun lateral to middle line.",
+    "anatomy": "The structures that the needle passes through are the same as Pt. Ganshu. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica X and its accompanying vessels. There are muscular branches of the rami dorsales of the n. thoracica XII and the rami dorsales of the subcostal vessels in the deeper layer.",
+    "functionalities": [
+      "Abdominal distension",
+      "Jaundice",
+      "Vomiting",
+      "Diarrhea",
+      "Dysentery",
+      "Edema",
+      "Weakness of the function of the alimentary canal",
+      "Chronic diarrhea",
+      "Hepatitis",
+      "Back pain"
+    ],
+    "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna. vertebralis.",
+    "caution": "Do not insert too deeply, below are the liver and kidneys"
+  },
+  {
+    "code": "Bl-21",
+    "name": "Weishu",
+    "description": "Below the processus spinosus of vertebra thoracica XII. 1.5 cun lateral to middle line.",
+    "anatomy": "Anatomy: The needle passes through the skin, subcutis, m. latissimus dorsi, m. serratus posterior inferior, m. sacrospinalis and reaches m. quadratus lumborum. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica XII and its ccompanying vessels. In the deeper layer, there are muscular branches of the n. lumbalis I and the rami dorsales of the 1st lumbar vessels.",
+    "functionalities": [
+      "Pain of the lower chest and hypochondrium, pain of epigastrium",
+      "Abdominal distension",
+      "Regurgitation",
+      "Vomiting",
+      "Borborygmus",
+      "Weakness of the function of the alimentary canal, frequently used for indigastion and chronic diarrhea."
+    ],
+    "technique": "The needle is straight, slightly oblique towards the spine, 0.5 - 1 deep, at the place there is a feeling of tension, sometimes spreading to the ribs. Oblique, upward along the muscle layer 1 - 2 cun deep, at the place there is a feeling of tension.",
+    "caution": "Below is the lung, do not insert too deeply"
+  },
+  {
+    "code": "Bl-23",
+    "name": "Shenshu",
+    "description": "Below the processus spinosus of vertebra lumbalis II, 1.5 cun lateral to the middle line.",
+    "anatomy": "The needle passes through the skin, subcutis, m. latissmus dorsi, (or fascia thoracolumbalis), m. sacrospinalis and reaches m. quadratus lumbarum. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica XII and its accompanying vessels. In the deeper layer, there are muscular branches of the n. lumbalis III and its accompanying vessels.",
+    "functionalities": [
+      "Infection of the urinary tract",
+      "Impotence",
+      "Nocturnal emission",
+      "Irrigular menstruation",
+      "Leucorrhea",
+      "Retention of urine",
+      "Shortness of breath due to weakness of kidney function",
+      "Tinnitus",
+      "Deafness",
+      "Chronic diarrhea",
+      "Lumbago and back pain"
+    ],
+    "technique": "Perpendicularly 0.6-1 cun, or obliquely toward the colum-. na vertebralis"
+  },
+  {
+    "code": "Bl-25",
+    "name": "Dachangshu",
+    "description": "Below the processus spinosus of verterbra lumbalis I V, i.e.  1.5 cun lateral to Pt. Yaoyangguan.",
+    "anatomy": "The needle passes through the skin, subcutis, fascia thoracolumbalis and m. sacrospinalis and reaches m. quadratus lumborum or m. psoas major. In the superficial layer, there are cutaneus branches of the n. lumbalis I. In the deeper layer, there are muscular branches of the n. lumbalis IV or V.",
+    "functionalities": [
+      "Abdominal pain and distension",
+      "Borborygmus",
+      "Diarrhea",
+      "Constipation",
+      "Acute and chronic lumbago",
+      "Sciatica neuralgia."
+    ],
+    "technique": "The needle is straight, 1-2 cun deep, there is a feeling of tension in the lumbar region. - Oblique, in case of sciatic nerve pain, the needle point is slightly oblique to the outside, 2-3 cun deep, there is a feeling of local tension or electric shock to the lower extremities. In the case of iliac-groin arthritis, the needle is directed to the minor-longevity, and there is a feeling of tension in the pelvic joint, sometimes spreading to the sacral joint."
+  },
+  {
+    "code": "Du-4",
+    "name": "Mingmen",
+    "description": "Between the processus spinosus of the vertebrae lumbales",
+    "anatomy": "The structures that the needle passes through are the same as Pt. Yaoyangguan. In the superficial layer, there are the cutaneous branches of the r. dorsalis of the n. thoracica XII and its accompanying vessels. In the deeper layer, there are plexus venosi vertebrales posterior between processus spinosus of the vertebrae and r. dorsalis of the n. lumbalis II.",
+    "functionalities": [
+      "Noctural emission",
+      "Impotence",
+      "Menorrhalgia",
+      "Irregular menstruation",
+      "Leucorrhea",
+      "Chronic diarrhea",
+      "Lumbago and back pain also"
+    ],
+    "technique": "Perpendicularly 1-1.5 cun"
+  },
+  {
+    "code": "LU-9",
+    "name": "Taiyuan",
+    "description": "On the transverse crease of the wrist, in the depression radial to the a. radialis.",
+    "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates the ulnar side of the tendon of m. abductor pollicis longus and reaches the lower border of m. pronator quadratus. In the superficial layer there are the tributaries of the v. cephalica and the n.cutaneus antebrachii lateralis; and in the deeper layer there are the superficial branches of the n. radialis and the radial vessels.",
+    "functionalities": [
+      "Arotism",
+      "Asthma",
+      "Pain in the chest, back and shoulder",
+      "Diseases of the wrist and its surrounding soft tissue"
+    ],
+    "technique": "Perpendicularly 0.3—0.5 cun, avoiding artery.",
+    "caution": "Avoid pricking arteries and bones"
+  },
+  {
+    "code": "LU-7",
+    "name": "Lieque",
+    "description": "Above the processus of styloideus of the radius, 1.5 cun bove the transverse crease of the wrist, i.e. when the index and pollex of both hands are crossed, the point is in the depression right under the tip of the index.",
+    "anatomy": "The needle passes through the skin, the subcutaneous tissue and between the tendons of m. brachioradialis and m. abductor pollicis longus, and then reaches the radial border of the m. pronator quadratus. In the superficial layer there are the tributaries of the v. cephalica and the superficial branches of the n. radialis; and in the deeper layer there are the radial vessels.",
+    "functionalities": [
+      "Headache",
+      "Cough",
+      "Nasal obstruction",
+      "Sore throat",
+      "Stiff neck",
+      "Asthma",
+      "Facial paralysis."
+    ],
+    "technique": "Obliquely upwards 0.5—1 cun"
+  },
+  {
+    "code": "SP-10",
+    "name": "Xuehai",
+    "description": "2 cun above the antero-superior border of the condylus medialis of the tibia, when the knee is flexed.",
+    "anatomy": "Passing the skin, the subcutaneous tissue, the needle gets into the m. vastus medialis. There are the anterior cutaneous branches of the n. femoralis in the superficial layer, and the muscular branches of the femoral vessels and nerve are in the deep layer.",
+    "functionalities": [
+      "Irregiular menstruation",
+      "Functional uterine bleeding",
+      "Urticaria",
+      "Menor-rhagia"
+    ],
+    "technique": "1-2 cun perpendicularly.",
+    "caution": "In case the needle is too deep or the patient suddenly becomes dizzy, the needle must be removed and Zusanli acupoint at the same time acupressure to rescue. Insert the needle 5-8 inches deep, move the needle to the right and left (about half a minute to the right, about 10 seconds to the left) rest for 5 seconds and then use the needle trick to wake up. If the Zusanli acupuncture point rests for too long, or for some reason, the patient runs all over the body, the opposite side can be acupuncture to rescue, or press the Xiao Hai point with a finger to wake up and stop shaking."
+  },
+  {
+    "code": "SP-6",
+    "name": "Sanyinjiao",
+    "description": "3 cun above the highest point of the malleous medialis at the posterior border of the tibia.",
+    "anatomy": "Passing the skin and the subcutaneous tissue, the needle penetrates into the interval of the tibia's post border and the tendon of the soleus; gets into the m. flexor digitorum longus and the m. felxor hallucis longus. In the superficial layer there are branches of the n. saphenus; there are the posterior tibial vessels and the n. tibialis in the deep layer.",
+    "functionalities": [
+      "Irregiular menstruation",
+      "Menorrhagia nocturnal emission",
+      "Impotence",
+      "Ab dominal pain",
+      "Enuresis",
+      "Diarrhea",
+      "Hemiplegia",
+      "Neurasthenia"
+    ],
+    "technique": "1,5-2 cun perpendicularly, or penetrate towards Xuanzhong moxibustion may also be used at some times."
+  },
+  {
+    "code": "BI-60",
+    "name": "Kunlun",
+    "description": "Middle point between the tip of malleolus lateralis and the tendo calcaneus.",
+    "anatomy": "The needle passes the skin, the subcutaneous tissue, and reaches the posterior border of the tendons of the m. peroneus longus and the m. peroneus brevis. There are the v. saphena parva and the n. suralis in the superficial layer, and the posterior lateral malleolaris vessels are in the deep layer.",
+    "functionalities": [
+      "Headache",
+      "Back pain",
+      "Lumbago",
+      "Sciatic neuralgia",
+      "Paralysis of lower extremities",
+      "Severe pain of the neck"
+    ],
+    "technique": "Perpendicularly 1-1,5 cun, or, penetrate towards Taixi."
+  },
+  {
+    "code": "SP-3",
+    "name": "Taibai",
+    "description": "On the medial aspect of the hallux, postero-inferior to the small head of os metararsale I",
+    "anatomy": "Under the acupoint is the muscle of the big leg and the short adjacent muscle, the tendon of the flexor muscle is longer than the big leg, the underside of the front of the foot is frame 1 - The nerve shows of the 3rd and 4th lumbar nerve sections and the mixed branch. union of the lateral popliteal branch of the 4th-segment lumbar nerve 1. The motor nerves are branches of the posterior masticatory nerve. The skin of the acupoint is controlled by the secretion of the T9 nerve segment.",
+    "functionalities": [
+      "Gastric pain",
+      "Abdominal distension",
+      "Lassitude",
+      "Dysentery"
+    ],
+    "technique": "Perpendicularly 0,5-1 cun."
+  },
+  {
+    "code": "GB-34",
+    "name": "Yangling-quan",
+    "description": "In the depression anterior and inferior to the caput fibulae, flex the knee during location.",
+    "anatomy": "The needle passes the skin, the subcutaneous tissue, through the space between the m. peroneus longus and the m. extensor digitorum longus and reaches the interosseus membrane. There are te branches of the n. cutaneus surae lateralis in the superficial layer, and the inferior lateral genicular vessels, and anterior tibial recurrent vessels and the branches of the n. peroneus communis are in the deep layer.",
+    "functionalities": [
+      "Pain in the art genus",
+      "Sciatic neuralgia",
+      "Apoplexy",
+      "Pain in the lower chest",
+      "Cholcystitis",
+      "Numbness of the lower extremity"
+    ],
+    "technique": "Perpendicularly 1-2 cun, or penetrate towards Yinligkuan."
+  },
+  {
+    "code": "GB-37",
+    "name": "Guagming",
+    "description": "5 cun above the top of the malleolus lateralis on the anterior border of the fibula.",
+    "anatomy": "The needle passes the skin, the subcutaneous tissue, through the space between the m. peroneus brevis and the m. extensor digitorum longus and reaches the interosseus membrane. There is the n. peroneus superficialis in the superficial layer, and the anterior tibia vessels and the n.peronus profundus are in the deep layer.",
+    "functionalities": [
+      "Night",
+      "Blindness optic atrophy migraine",
+      "Pain in the lateral aspect of the leg"
+    ],
+    "technique": "Perpendicularly 1-1,5 cun."
+  },
+  {
+    "code": "GB-30",
+    "name": "Huantiao",
+    "description": "At the junction of lateral 1/3 and medial 2/3 of the line between the top point of the trochanter major of the femur and the hiatus sacralis.",
+    "anatomy": "Passing the skin and the subcutaneous tissue, the needle pierces the m. gluteus maximus to the inferior border of the m. piriformis. The nn. clunium inferiores distribute in the superficial layer; in the deep layer there are n. gluteus inferior, the branches of the inferior gluteal vessels and n. ischiadicus.",
+    "functionalities": [
+      "Sciatic neuralgia",
+      "Lumbago and pain of the leg",
+      "Numbness of the lower extremities and paralysis"
+    ],
+    "technique": "2-3,5 cun perpendicularly."
+  },
+  {
+    "code": "GB-40",
+    "name": "Quixu",
+    "description": "Anterior and inferior to the malleolus lateralis, in the depression on the tendon of m. extensor digitorum longus.",
+    "anatomy": "Under the acupoint is the extensor muscle of the toes, the posterior border outside the anterior peroneal muscle. 3rd leg joint cleft - The musculoskeletal nerve is a branch of the anterior tibial nerve. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+    "functionalities": [
+      "Pain in the lower chest",
+      "Cholecystitis",
+      "Cervical lymphadenitis",
+      "Sciatic neuralgia",
+      "Disorders of ankle and its surrounding soft tissue"
+    ],
+    "technique": "0,3-0,5 cun perpendicularly, there is a feeling of tightness, sometimes numbness spreads to the tip of the 4th toe."
+  },
+  {
+    "code": "Liv-5",
+    "name": "Ligou",
+    "description": "5 cun above the malleolus medialis, on the medial surface of the tibia near the medial border.",
+    "anatomy": "Under the acupoint is the tip of the radial gyrus, the upper border of the shinbone, outside there is a long muscle tendon and an inner thumb short extensor tendon, a thumb long extensor tendon, a radial muscle tendon 1 - Muscular motor nerves caused by branch of the radial nerve. The skin of the acupoint is controlled by the secretion of the C6 nerve segment.",
+    "functionalities": [
+      "Irregular menstruation",
+      "Dysurea",
+      "Pain in the leg"
+    ],
+    "technique": "0.3-1 cun perpendicularly. There is a feeling of tension in the spot. "
+  },
+  {
+    "code": "Liv-3",
+    "name": "Taichong",
+    "description": "On the dorsum of the foot between the ossa metatasale I and II, in the depression poterior to the art, metatarso-phalangae.",
+    "anatomy": "Passing the skin and the subcutaneous tissue and the lateral border of the tendon of the m. extensor hallucis brevis, the needle pierces the m. interosseous doralis then gets into the first intermetatarsal space. There are the rete venosum of the dorsum pedis and the cutaneous branches of the n. peroneus profundus in the superficial layer, the first a. metatarsea doralis and the n. peroneus profundus are in the deep layer.",
+    "functionalities": [
+      "Headache",
+      "Dizziness or vertigo",
+      "Hypertension",
+      "Irregular menstruation",
+      "Menorrhagia",
+      "Mastitis"
+    ],
+    "technique": "0,1-0,5 cun obliquely."
+  },
+  {
+    "code": "BI-40",
+    "name": "Weizhong",
+    "description": "Midpoint of the popliteal transverse crease.",
+    "anatomy": "The needle passes through the skin, the subcutaneous tissue and into the interval the tendon of the m. biceps femoris and m. semimembranous. There are the v. saphen parva and the n. cutaneus femoris posterior in the superficial layer; while in the deep layer there are n. tibialis and the popliteal vessels.",
+    "functionalities": [
+      "Nocturnal emission",
+      "Impotence",
+      "Dysuria",
+      "Acute lumbago sciatic neuralgia",
+      "Disease of the lower extremities and knee joints"
+    ],
+    "technique": "1~1,5 cun perpendicularly or prick with three-edged needle swiftly till bleeding.",
+    "caution": "Do not overstimulate nerves and blood vessels."
+  },
+  {
+    "code": "BI-64",
+    "name": "Jinggu",
+    "description": "Anterio-inferior to the tuberosity of the 5th os metarsale.",
+    "anatomy": "Under the acupoint is the little toe muscle, the posterior tip of the metatarsal 5. The motor nerve is a branch of the posterior tibial nerve. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+    "functionalities": [
+      "Headache",
+      "Pain of the neck",
+      "Myocarditis",
+      "Meningitis",
+      "Epilepsy",
+      "Lumbago",
+      "Pain of the leg"
+    ],
+    "technique": "0.5-1 cun obliquely, at the spot where there is a feeling of tension."
+  },
+  {
+    "code": "BI-58",
+    "name": "Feiyang",
+    "description": "7 cun above Pt. Kunlun latero-inferior to Pt. Chengshan.",
+    "anatomy": "Below the acupoint is the lateral border where the junction between the flesh and the tendon of the external twin muscle, the soleus muscle, the long flexor of the big toe, the posterior tibialis muscle, the interosseous membrane - The motor nerves are the posterior tibial branches. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+    "functionalities": [
+      "Rheumatic arthritis",
+      "Nephritis",
+      "Cystitis",
+      "Hongkong foot",
+      "Hemorrhoid",
+      "Epilepsy",
+      "Lumbago",
+      "Pain of the leg"
+    ],
+    "technique": "1.5-2.5 cun perpendicularly, there is a feeling of tension and numbness like electric shock running down."
+  },
+  {
+    "code": "KI-3",
+    "name": "Taixi",
+    "description": "At the midpoint of the line between the tip of malleolus medialis and achillis tendon.",
+    "anatomy": "Through the skin and the subcutaneous tissue, the needle reaches above the lig. cruciatum cruris. The n. saphenus is in the superficial layer, in the deep layer there are the posterior tibial vessels and the n. tibialis.",
+    "functionalities": [
+      "Nephritis",
+      "Cystitis",
+      "Enuresis",
+      "Irregular menses",
+      "Paralysis of lower extremity"
+    ],
+    "technique": "0,5-1 cun perpendicularly, the needle may penetrate till Pt. Kunlun."
+  },
+  {
+    "code": "KI-4",
+    "name": "Dazhong",
+    "description": "Inferior and posterior to medial malleolus, in the depression medial to the insertion of the achillis tendon.",
+    "anatomy": "Under the acupoint is the medial margin of the heel tendon, in front of the long flexor tendon of the toes. Below that is the upper surface of the heel bone. The motor nerves are branches of the posterior tibial nerve. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+    "functionalities": [
+      "Asthema",
+      "Malaria",
+      "Neurosthenia",
+      "Hysteria",
+      "Retention of urine",
+      "Sore throat",
+      "Heel pain"
+    ],
+    "technique": "0.3-0.5 cun perpendicularly. There is a feeling of tightness or numbness like an electric shock down the foot."
+  },
+  {
+    "code": "LI-4",
+    "name": "Hegu",
+    "description": "In the middle point of os metacarpale II and at the highest spot of the first m. interosseous dorsalis, turning aside slightly to the index",
+    "anatomy": "The needle passes through the skin, and the subcutaneous tissue, penetrates the first m. interosseous dorsalis, and then reaches the m. abductor pollicis. in the superficial layer there are the dorsal venous network of the hand and the branches of the superficial branches of the n. radialis; and in the deeper layer, there are the branches of the nn. digitales palmares proprii of the n. medianus",
+    "functionalities": [
+      "Common cold",
+      "Facial paralysis",
+      "Hemiplegia",
+      "Neurasthenia",
+      "Tonsillitis",
+      "Sideways glance and movement of eyeball and mouth",
+      "Toothache",
+      "Abdominal pain"
+    ],
+    "technique": "Perpendicularly 0.5~1 cun. when treating the spasm of the fingers or paralysis of the muscle, puncture perpendicularly 2~3 cun towards Pt. Laogong or Pt. Houxi",
+    "caution": "Contraindication for pregnant woman"
+  },
+  {
+    "code": "LI-11",
+    "name": "Quchi",
+    "description": "Between the end of the cubital stransverse crease and the epicondylus lateralis of the humerus when the elbow is half flexed",
+    "anatomy": "the needle passes through the skin and the subcutaneuous tissue, penetrates the origin of the m. extensor carpi radialis longus and reaches the lower end of the m. brachialis. in the superficial layer, there are the tributaries of the v. cephalica and the n. cutaneus antebrachii dorsalis; and in the deeper layer there are the radial recurrent vessels aand the n. radialis",
+    "functionalities": [
+      "Hemiplegia",
+      "Pain in the joints of the supper extremities",
+      "Hypertension",
+      "High fever",
+      "Measles",
+      "Pain in the back and lumbar region"
+    ],
+    "technique": "Perpendicularly 1~1.5 cun"
+  },
+  {
+    "code": "LI-6",
+    "name": "Pianli",
+    "description": "3 cun above Pt. Yangxi, In the lateral depression of the radius",
+    "anatomy": "the needle passes through the skin and subcutaneous tissue, penetrates the m. abductor pollicis longus and reaches the m. extensor pollicis bRevis. in the superficial layer, there are the tributaries of the v. cephalica, the n. cutaneus antebrachii lateralis and dorsalis, and in the deeper layer, there are the superficial branches of the n. radialis",
+    "functionalities": [
+      "Tonsillitis",
+      "Facial paralysis",
+      "Neuralgia in the forearm",
+      "Uropnea",
+      "Edema",
+      "Epistasis"
+    ],
+    "technique": "Obliquely 0.3~0.8 cun"
+  },
+  {
+    "code": "LI-15",
+    "name": "Jianyu",
+    "description": "When are is in adduction at 90, there are two depressions on the shoulder joint. the point is in the depression between acromion and tuberculum majus of the humerus",
+    "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates the m. deltoideus, and reaches the art. humeri. in the superficial layer there are the nn. supraclaviculares; and in the deeper layer there are posterior circumflex humeral vessels, and the branches of the n. axillaris",
+    "functionalities": [
+      "Pain in the shoulder, arm and the joints of the upper extremities",
+      "Hemiplegia",
+      "Paralysis",
+      "Hypertension",
+      "Infection of the surrounding soft tissue of the shoulder joint, sweating"
+    ],
+    "technique": "Perpendicularly, then raise the arm, 2~3 cun towards Pt. Jiquan or obliquely downwards 1~1.5 cun",
+    "caution": "Do not inject too often"
+  },
+  {
+    "code": "PC-6",
+    "name": "Neiguan",
+    "description": "2 cun above the transverse crease of wrist, between the tendons of m. flexor carpi radialis and m. palmaris longus",
+    "anatomy": "The needle passes through the skin and the subcutaneous tissue, proceeds between the tendons of m. flexor carpi radialis and m. palmaris longus, penetrates the m. flexor digitorum sublimis and the m. flexor digitorum profundus, and reaches the m. pronator quadratus. in the superficial layer there are the n cutaneous antebrachii medialis and lateralis; and in the deeper layer there are the palmar interosseous vessels and the n. medianus.",
+    "functionalities": [
+      "Pain in the lower chest and hypochondriac region",
+      "Gastralgia",
+      "Shock",
+      "Nausea",
+      "Vomiting",
+      "Sore throat",
+      "Hysteria",
+      "Cardiac arrhythmia"
+    ],
+    "technique": "Perpendicularly 0.5~1.5 cun"
+  },
+  {
+    "code": "PC-7",
+    "name": "Daling",
+    "description": "on the transverse crease of wrist, between the tendons of m. flexor carpi radialis and m. palmaris longus",
+    "anatomy": "The needle passes through the skin and the subcutaneous tissue, proceeds between the tendons of the m. flexor carpi radialis and m. palmaris longus, penetrates the ulnar side of the m. flexor pollicis longus and reaches the suture of the art. radiocarpea. in the superficial layer there are the palmar veneous network of the wrist, the palmar branches of the n. medianus and the n. cutaneus antebrachii lateralis; and in the deeper layer there are the palmar arterial network and the n. medianus.",
+    "functionalities": [
+      "Pain in the lower chest and hypochrondriac region",
+      "Gastralgia",
+      "Shock",
+      "Nausea",
+      "Vomiting",
+      "Sore throat",
+      "Hysteria",
+      "Cardiac arrhythmia"
+    ],
+    "technique": "Straight, 0.3 - 0.5 cun deep, there is a feeling of tension sometimes like an electric shock down the arm"
+  },
+  {
+    "code": "HT-5",
+    "name": "Tongli",
+    "description": "1 cun above Pt. Shenmen, on the radial side of the tendon of m. flexor carpi ulnaris",
+    "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates between the tendons of m. flexor carpi ulnaris and m. flexor digitorum sublimis, and reaches the connective tissue superficial to m. pronator quadratus. in the superficial layer there are the palmar venous network of the wrist and the n. cutaneus antebrachii medialis; and in the deeper layer there are the ulnar vessels and n. ulnaris",
+    "functionalities": [
+      "Palpitation",
+      "Angina pectoris",
+      "Aphasia due to hysteria",
+      "Pain in the wrist and arm",
+      "Neurasthenia"
+    ],
+    "technique": "Perpendicularly 0.4~0.6 cun"
+  },
+  {
+    "code": "HT-7",
+    "name": "Shenmen",
+    "description": "when the forearm is in supination, it is in the depression at the ulnar end of the transverse crease of wrist, at the radial side of the tendon of m. flexor carpi ulnaris",
+    "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates the radial border of m. flexor carpi ulnaris, and reaches the suture of joint below the lower end of the ulna. in the superficial layer there are the palmar venous netword of the wrist, the n. cutaneus antibrachii medialis and the n. palmaris ulnaris; and in the deeper layer there are the ulnar vessels and n. ulnaris.",
+    "functionalities": [
+      "Amnesia",
+      "Insomnia",
+      "Dream-disturbed sleep",
+      "Palpitation",
+      "Angina pectoris",
+      "Hysteria"
+    ],
+    "technique": "Perpendicularly or obliuely 0.3~0.6 cun"
+  },
+  {
+    "code": "TE-4",
+    "name": "Yangchi",
+    "description": "between the ossa metacarpalia III and IV just above the dorsal transuerse crease of wrist, in the depression at the ulnar side of the tendon of m. extensor digitorum",
+    "anatomy": "The needle passes through the skin, subcutaneous tissue and the between the lig. radiocarpeum dorsale, the m. extensor digitorum and the tendon of the m. extensor digiti minimi then reaches the suture of the articulatio radiocarpea",
+    "functionalities": [
+      "Disorder of the articulatio radiocarpea",
+      "Malaria",
+      "Deafness"
+    ],
+    "technique": "Perpendicularly 0.4~0.6 cun"
+  },
+  {
+    "code": "TE-5",
+    "name": "Waiguan",
+    "description": "2 cun above the midpoint of the dorsal transversal crease of the wrist between the ulna and radius",
+    "anatomy": "The needle passes through the skin, subcutaneous tissue, between the tendon of the m. extensor digitorum, m. extensor pollicis longus and m. extensor indicis and membrana interossea, and reaches the m. pronator quadratus. there are the tributaries of the v. cephalica and the branches of the n. cutaneous antebrachii posterior in teh superficial layer and the a. et vv. interossae posteriores and n. interosseus posterior in the deep layer",
+    "functionalities": [
+      "Common cold",
+      "Pneumonia",
+      "Deafness",
+      "Migraine"
+    ],
+    "technique": "Straighten 1 - 1.5 cun, or skewer through Point Neiguan. There is a feeling of tightness, sometimes spreading to the fingertips"
+  },
+  {
+    "code": "SI-4",
+    "name": "Hand-wangu",
+    "description": "on the ulnar side of thje dorsal surface of the hand, in the depression between the base of os metacarpale V, the os hamatum and pisiforme",
+    "anatomy": "The needle passes through the skin and subcutaneous tissue, and reaches the lateral border of the origin of the m. abductor digitiminim I. there are the dorsal venous rete of the hand, the n. ulnaris and the branches of the a. ulnaris",
+    "functionalities": [
+      "Arthritis of the wrist",
+      "Elbow and phalangeal joints",
+      "Headache",
+      "Tinnitis",
+      "Vomiting",
+      "Cholecystitis"
+    ],
+    "technique": "Perpendicularly 0.3-0.5 cun"
+  },
+  {
+    "code": "SI-7",
+    "name": "Zhizheng",
+    "description": "5 cun above the ulnar end of dorsal transverse crease of the wrist, on the line between Pt. Yanggu and Pt. Xiaohai",
+    "anatomy": "The needle passes through the skin and subcutaneous tissue, and reaches the ulnar side of the m. extensor carpi ulnaris. there are the tributaries of the v. basilica and the n. cutaneous antebrachii medialis in the superficial layer and the dorsal interosseus vessel and the branches of the n. interosseus posterior in the deep layer",
+    "functionalities": [
+      "Rigidity of neck",
+      "Pain in arm",
+      "Elbow and finger",
+      "Mental disorder"
+    ],
+    "technique": "Perpendicularly 0.8~1.5 cun"
+  },
+  {
+    "code": "St-36",
+    "name": "Zusanli",
+    "description": "3 cun below dubi, one finger width lateral to the margo anterior of the tibia",
+    "anatomy": "The needle passes the skin, the subcutaneous tissue, the m. tibialis anterior and reaches the space between tibia and fibula. there are the branches of the n. cutaneus surae lateralis and the n. saphenus in the superficial layer, and the anterior tibial vessels and n. peroneus profundus are in the deep layer",
+    "functionalities": [
+      "Gastritis",
+      "Paptic ulcers, chr. and acute enteritis",
+      "Acute pancreatitis",
+      "Infantile stomachache",
+      "Diarrhea",
+      "Dysentery",
+      "Insomnia",
+      "Hypertension",
+      "Shock",
+      "Fever",
+      "Disease of the anterior aspect of the lower extremity, etc."
+    ],
+    "technique": "Perpendicularly 1-2 cun, or, obliquely downward 2-3 cun"
+  },
+  {
+    "code": "St-40",
+    "name": "Fenglong",
+    "description": "1 cun lateral to tiaokou",
+    "anatomy": "The needle passes through the skin, the subcutaneous tissue, by the way between the m. tibialis anterior and the m. extensor digitorum longus, then enters the m. extensor hallucis longus. there are the branches of the n. cutaneus surae lateralis and the n. saphenus in the superficial layer, and the n. peroneus profundus and anterior tibial vessels are in the deep layer.",
+    "functionalities": [
+      "Acute and chronic enteritis",
+      "Paralysis of the lower extremity",
+      "Intercostal neuralgia",
+      "Chronic and acute orchitis with pain which refers to the lower abdomen"
+    ],
+    "technique": "Perpendicularly 0.6-1.5 cun"
+  },
+  {
+    "code": "St-42",
+    "name": "Chongyang",
+    "description": "1.5 cun below Pt. Jiexi, at the highest spot of the dorsum pedis.",
+    "anatomy": "the needle passes through the skin and the subcutaneous tissue, the neddle passes the medial side of the m. extensor digitorum longus and gets into the m. extensor hallucis brevis. the dorsal pedal branches of the n. peroneus superficial are in the superficial layer; in the deep layer, there are the a. dorsalis pedis and the branches of the n. peroneus profundus",
+    "functionalities": [
+      "Pain in dorsum of foot",
+      "Paralysis of lower extremity",
+      "Toothache",
+      "Epilepsy"
+    ],
+    "technique": "0.3-0.5 cunperpendicularly, ought to avoid hurting a. dorsalis pedis"
+  }
+]

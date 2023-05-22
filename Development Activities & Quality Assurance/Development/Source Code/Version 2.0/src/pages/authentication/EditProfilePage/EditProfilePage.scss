@@ -1,0 +1,18 @@
+@import "src/responsive.scss";
+
+.edit-profile-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  margin-top: 60px;
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 40px;
+
+  &__content {
+    width: 50vw;
+    margin-left: 25vw;
+    padding-top: 40px;
+  }
+
+}

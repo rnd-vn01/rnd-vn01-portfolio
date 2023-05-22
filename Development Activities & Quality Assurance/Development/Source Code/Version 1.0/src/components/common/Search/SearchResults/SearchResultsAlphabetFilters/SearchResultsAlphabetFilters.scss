@@ -1,0 +1,16 @@
+.search-results-alphabet-filters {
+  width: 50vw;
+  margin: 0 auto;
+  margin-top: 20px;
+
+  &__alphabet {
+    font-size: 3.25rem;
+    cursor: not-allowed;
+    color: var(--theme-background-hover);
+
+    &--available {
+      cursor: pointer;
+      color: black;
+    }
+  }
+}

@@ -1,0 +1,4297 @@
+[{
+  "code": "M-HN-3",
+  "name": "Ấn đường",
+  "description": "Huyệt nằm ở chính giữa đường nối hai đầu lông mày, gióng từ giữa sống mũi thẳng trở lên.",
+  "anatomy": "Dưới huyệt là chỗ bám của hai cơ tháp, chỗ tiếp khớp của hai xương sống mũi và xương trán. Thần kinh vận động cơ là nhánh của dây thần kinh mặt. Da vùng huyệt chi phối bởi dây thần kinh sọ não số V.",
+  "functionalities": [
+    "Nhức đầu",
+    "Nghẹt mũi",
+    "Cảm mạo",
+    "Động kinh",
+    "Trẻ con co giật",
+    "Hoa mắt, chóng mặt"
+  ],
+  "technique": "Châm xiên, từ trên xuống, khi châm bóp hai bên Toản trúc lại để châm xuống hoặc hướng về phía phải hay trái, xuyên thẳng xuống huyệt Tinh minh hay Toản trúc, sâu 0.5 - 1 thốn. Tại chỗ có cảm giác căng tức có khi lan đến vùng chóp mũi. Khi bệnh nhân bớt chậm có thể châm xong nặn ra một ít mau. Ôn cứu 3 - 5 phút"
+},{
+  "code": "Du-20",
+  "name": "Bách hội",
+  "description": "Giao hội huyệt của mạch Đốc và 6 kinh dương. Khi điểm huyệt ngồi ngay thẳng, kéo vòng hai bên đỉnh tai lên ngay giữa đầu. Huyệt là điểm gặp nhau của hai đường vuông góc: Một là đường ngang qua đỉnh vành tai và một đường dọc qua giữa đầu, sờ vào đó có một khe hõm nhỏ",
+  "anatomy": "Dưới huyệt là cân sọ, dưới nữa là xương sọ. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C2.",
+  "functionalities": [
+    "Nhức đỉnh đầu",
+    "Sa trực trường",
+    "Nghẹt mũi",
+    "Nặng đầu hay quên",
+    "Điên cuồng",
+    "Hôn mê lạnh",
+    "Ù tai, hoa mắt",
+    "Hồi hộp, mất ngủ"
+  ],
+  "technique": "Châm xiên, hướng mũi kim ra phía trước sau hoặc phải trái. Không được châm đụng xương sọ. Sâu 0.5 - 1.5 thốn. Tại chỗ có cảm giác căng đau. Cứu 3 lửa, ở Trung quốc xứ lạnh thường hau cứu, còn nước ta không nên cứu vì xử nóng. Nếu cứu nhiều trợ cho hoả khí đi lên có thể gây nhức đầu, chóng mặt, ù tai, suy nhược thần kinh. Ôn cứu 5 - 20 phút",
+  "caution": "Da đầu mỏng không nên cứu dễ gây sẹo."
+},{
+  "code": "GB-20",
+  "name": "Phong trì",
+  "description": "Giao hội huyệt của 2 kinh thủ túc Thiếu Dương và mạch Dương duy. Xác định đáy họp sọ, cơ thang và cơ ức-đòn-chũm. Huyệt nằm ở chỗ hõm do bờ trong cơ ức-đòn-chũm và bờ ngoài cơ thang bám vào đáy hộp sọ tạo nên.",
+  "anatomy": "Dưới huyệt là góc tạo nên bởi cơ thang và cơ ức-đòn-chũm, đáy là cơ gối đầu và cơ đầu dài. Dưới là đáy hộp sọ. Thần kinh vận động cơ là nhánh của dây cổ 2, nhánh của dây thần kinh chẩm lớn, nhánh của dây thần kinh dưới chẩm. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C2.",
+  "functionalities": [
+    "Đau đầu",
+    "Cứng cổ, cứng gáy",
+    "Cảm mạo",
+    "Hoa mắt, bệnh mắt",
+    "Viêm mũi",
+    "Ù tai",
+    "Huyết áp cao",
+    "Động kinh",
+    "Liệt nửa người",
+    "Bệnh ở não",
+    "Trúng gió"
+  ],
+  "technique": "Châm thẳng, ngang với trái tai hơi hướng xuống dưới, khi châm huyệt này thì hướng mũi kim qua mắt bên kia, sâu 1 - 1.5 thốn, tại chỗ có cảm giác căng tức có khi giật tới đỉnh đầu, vùng xương vành tai, trước trán hoặc lan ra hố mắt. Châm xiên hướng Phong trì bên kia, sâu 2 - 3 thốn, tại chỗ có cảm giác căng tức, có khi lan ra vùng cổ. Cứu 3 - 7 lửa. Ôn cứu 5 - 10 phút",
+  "caution": "Dưới là hành tuỷ, không châm sâu"
+},{
+  "code": "GB-3",
+  "name": "Thái dương",
+  "description": "Xác định huyệt Hạ quan, đo thẳng lên, ở bờ trên xương gò má. Huyệt ở chỗ bờ sau chân tóc mai.",
+  "anatomy": "Dưới huyệt là cơ tai trước, cơ thái dương, xương thái dương. Thần kinh vận động cơ là nhánh dây mặt, nhánh sọ não số V. Da vùng huyệt chi phối bởi tiết đoạn thần kinh V3.",
+  "functionalities": [
+    "Ù tai, điếc",
+    "Viêm tai giữa",
+    "Đau răng cấm khẩu",
+    "Liệt mặt"
+  ],
+  "technique": "Châm thẳng, sâu 0.7 - 1 thốn. Không cứu. Ôn cứu 3 - 5 phút"
+},{
+  "code": "SI-19",
+  "name": "Thính cung",
+  "description": "Giao hội huyệt của kinh thủ Thái dương và thủ túc Thiếu dương.  Khi há miệng ở giữa phía trước bình tai có chỗ hõm, sau lồi cầu xương hàm dưới",
+  "anatomy": "Dưới huyệt là bờ sau tuyến mang tai, bờ sau lồi cầu xương hàm dưới. Da vùng huyệt chi phối bởi tiết đoạn thần kinh sọ não V3.",
+  "functionalities": [
+    "Ù tai, điếc",
+    "Viêm tai giữa, viêm tai ngoài"
+  ],
+  "technique": "Châm thẳng, hơi há miệng, mũi kim hơi hướng xuống dưới, sâu 1.5 - 2 thốn. Tại chỗ có cảm giác căng tức đau, có khi tê lan ra nửa mặt bên châm, có khi cảm giác căng vào màng nhĩ. Ít khi cứu, cứu không được gây bỏng."
+},{
+  "code": "TE-17",
+  "name": "Ế phong",
+  "description": "Giao hội huyệt của 2 kinh thủ túc Thiếu Dương.. Chỗ hõm khi há mồm sau dái tai, ấn vào đó thấy đau. Huyệt ở giữa xương hàm dưới và xương chũm, sau mỏm nhọn cao nhất của dái tai, sát bờ trước cơ ức-đòn-chũm, sau góc xương hàm dưới.",
+  "anatomy": "Dưới huyệt là trước bờ trước cơ ức-đòn-chũm, cơ trâm hầu, trâm mông, trâm lưỡi và cơ 2 thân, trên các cơ bậc thang. Thần kinh vận động cơ là nhánh của dây thần kinh sọ não XI, nhánh của đám rối cổ sau, nhánh dây thần kinh sọ não số IX, XII, nhánh của dây cổ 3, 4, 5. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C2.",
+  "functionalities": [
+    "Điếc, ù tai, lãng tai",
+    "Đau mắt",
+    "Đau răng",
+    "Viêm tuyến dưới tai",
+    "Liệt dây thần kinh mặt"
+  ],
+  "technique": "Châm xiên. Trong trường hợp câm điếc, sâu 1.5 - 2 thốn, tại chỗ có cảm giác căng tức, có khi lan tới vùng họng, hoặc vùng họng có cảm giác căng nóng lên. Trong trường hợp trị liệt mặt và viêm tuyến mang tai, mũi kim hướng về phía mắt đối diện, sâu 0.5 - 1 thốn. Tại chỗ có cảm giác căng đau có khi lan như điện xuống vùng trước lưỡi."
+},{
+  "code": "LI-20",
+  "name": "Nghinh hương",
+  "description": "Huyệt hội của các Dương minh ở tay và chân.. Cười thể hiện rõ vành mũi - mồm. Huyệt là điểm gặp nhau của đường ngang qua chân cánh mũi và rãnh mũi-mồm",
+  "anatomy": "Dưới huyệt là bờ ngoài cơ nâng cánh mũi và môi trên, bờ ngoài cơ nở cánh mũi và cơ ngang mũi, bờ trng cơ gò má nhỏ và cớ nanh, bờ trên cơ vòng môi. Thần kinh vận động cơ là nhánh thần kinh sọ não VII. Da vùng huyệt chi phối bởi tiết đoạn thần kinh V2.",
+  "functionalities": [
+    "Thông tỉ khiếu, tán phong nhiệt, thanh khí hoả.",
+    "Viêm mũi, chảy mũi nước",
+    "Liệt dây thần kinh 7",
+    "Giun chui ống mật"
+  ],
+  "technique": "Châm ngang. Để trị giun chui ống mật thì mũi kim hướng tới Tứ bạch, sâu 0.5 - 1 thốn. Khi điều trị bệnh ở mũi thì mũi kim hướng huyệt Tỷ thông, sâu 0.5 - 0.8 thốn. Tại chỗ có cảm giác căng đau, chảy nước mắt có khi lan tới vùng mũi."
+},{
+  "code": "ST-4",
+  "name": "Địa thương",
+  "description": "Giao hội huyệt của 2 kinh thủ, túc Dương minh và mạch Dương Kiểu. Khoé miệng đo ra 4 phân, cười để rõ rãnh mép mũi. Huyệt nằm trên đường ngang qua mép và rảnh mép-mũi",
+  "anatomy": "Dưới huyệt là chỗ đan chéo thớ của các cơ vòng môi, cơ gò má lớn, cơ cười, cơ tam giác môi. Dưới nữa là cơ mút, cơ manh. Thần kinh vận động cơ là nhánh của dây thần kinh sọ não số VII. Da vùng huyệt chi phối bởi tiết đoạn thần kinh V3.",
+  "functionalities": [
+    "Tê liệt thần kinh mặt, đau dây thần kinh tam thoa, co giật thần kinh mặt.",
+    "Chốc mép",
+    "Chứng rệu nưới dãi"
+  ],
+  "technique": "Khi châm liệt mặt, có thể luồn mũi kim tới huyệt Giáp xa, sâu 1.5 - 2.5 thốn. Khi trị đau thần kinh tam thoa nên châm mũi kim hướng tới huyệt Nghênh hương, sâu 1 - 2 thốn, tại chỗ có cảm giác căng tức, đau. Ôn cứu 5 phút"
+},{
+  "code": "ST-6",
+  "name": "Giáp xa",
+  "description": "Hả miệng, nhai, cắn chặt răng, đè có chỗ hõm ấn vào có cảm giác ê tức. Huyệt ở trước góc hàm và ở trên bờ dưới xương hàm dưới 1 ngang ngón tay.",
+  "anatomy": "Dưới huyệt là cơ cắn, xương hàm dưới. Thần kinh vận động cơ là nhánh thần kinh sọ não số V. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C2.",
+  "functionalities": [
+    "Thường có tác dụng trị bệnh tại chỗ",
+    "Chữa chứng đau thần kinh mặt, liệt thần kinh mặt",
+    "Viêm tuyến dưới tai",
+    "Co rút cơ nhai",
+    "Cấm khẩu",
+    "Viêm khớp hàm dưới",
+    "Đau dây thần kinh V",
+    "Đau răng"
+  ],
+  "technique": "Châm thẳng, sâu 0.5 thốn tại chỗ có cảm giác căng tức. Xiên, trong trường hợp trị liệt mặt thì mũi kim hướng tới Địa thương 2 - 3 thốm, tại chỗ có cảm giác căng tức đồng thời lan ra 2 bên. Trong trường hợp cơ nhai bị co rút, mũi kim nên châm hướng lên trên. Khi trị đau răng trên hoặc dưới, mũi kim nên hướng về răng đau. Cứu 5 - 10 phút."
+},{
+  "code": "Du-26",
+  "name": "Nhân trung",
+  "description": "Giao hội huyệt của mạch Đốc với 2 kinh Thủ túc Dương minh. Ngay giữa đáy rãnh Nhân trung. Huyệt là điểm nối với tỉ lệ 1/3 trên với 2/3 dưới.",
+  "anatomy": "Dưới huyệt là cơ vòng môi trên. Thần kinh vận động cơ là nhánh của dây sọ não VIII. Da vùng huyệt chi phối bởi tiết đoạn thần kinh V2.",
+  "functionalities": [
+    "Liệt mặt, cảm giác kiến bò ở môi, méo miệng.",
+    "Chấn thương lưng cấp tính, đau thắt lưng khó cúi ngửa",
+    "Hôn mê, kích ngất",
+    "Trúng nắng",
+    "Động kinh",
+    "Hystéria, tâm thần phân liệt",
+    "Say xe, say tàu",
+    "Bệnh mũi",
+    "Phù mặt",
+    "Hôi miệng"
+  ],
+  "technique": "Châm xiên, mũi kim hướng lên trên 0.5 - 1 thốn, khi châm có cảm giác đau tại chỗ, khi vê có cảm giác đau nhức dễ làm tỉnh người. Khi điều trị chứng rệu nước dãi, trước hết châm mũi kim lên trên xong rút lui đến dưới da rồi châm qua phải, qua trái (gọi là Tam thấu pháp) có cảm giác căng đau tại chỗ. Cứu 3 lửa. Ôn cứu 5 - 10 phút."
+},{
+  "code": "Ren-17",
+  "name": "Đản trung",
+  "description": "Mộ huyệt của Tâm bào, hội huyệt của Khí. Giữa ức, ngang giữa hai đầu vú, đàn bà lấy theo xương sườn thứ 4, ngay ở giữa. Huyệt là nơi gặp nhau của đường dọc giữa xương ức và đường ngang qua bờ trên khớp ức sườn 4.",
+  "anatomy": "Dưới huyệt là xương ức. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T4",
+  "functionalities": [
+    "Tức ngực, đau ngực, viêm màng ngực",
+    "Suyễn",
+    "Khó thở",
+    "Nấc cụt",
+    "Đau thần kinh liên sườn",
+    "Bệnh thuộc khi uất",
+    "Tuyến sữa giảm"
+  ],
+  "technique": "Châm dưới da, mũi kim hướng lên trên hoặc hai bên vú, sâu 0.5 - 1.5 thốn. Tại chỗ có cảm giác căng tức hoặc nặng trước ngực. Cứu 3 - 5 lửa. Ôn cứu 5 - 10 phút.",
+  "caution": "Khi châm huyệt này lỡ bị ngộ châm làm bệnh nhân lạnh tay chân, bất tỉnh nhân sự thì dùng huyệt Thiên đột để giải, dùng phương pháp vê kim đồng thời thủ pháp đề tháp 3 lần, mỗi lần vê chừng 9 lần, chừng 10 giây thì rút kim."
+},{
+  "code": "Ren-14",
+  "name": "Cự khuyết",
+  "description": "Mộ huyệt của Tâm. Ngồi ngay hoặc nằm ngửa. Huyệt là điểm gặp nhau của hai bờ sườn và rốn, tỷ lệ 6/8 dưới lên hoặc 2/8 trên xuống.",
+  "anatomy": "Dưới huyệt là đường trắng, sau là phúc mạc. Dưới nữa là thuỳ gan trái. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T6.",
+  "functionalities": [
+    "Co thắt hoành cách mô",
+    "Tức ngực, viêm màng ngực",
+    "Co thắt dạ dày",
+    "Đau thắt tim, tim đập mạnh, viêm màng ngoài tim",
+    "Đau bụng ợ chua, nôn mửa",
+    "Tâm thần phân liệt",
+    "Điên cuồng",
+    "Động kinh",
+    "Kém trí nhớ"
+  ],
+  "technique": "Châm thẳng, sâu chừng 1.5 - 2 thốn, tại chỗ có cảm giác tức căng có khi lan lên trên hoặc xuống dưới. Cứu 3 - 5 lửa. Ôn cứu 5 - 15 phút",
+  "caution": "Bên dưới là gan, không châm sâu quá"
+},{
+  "code": "Ren-12",
+  "name": "Trung quản",
+  "description": "Mộ huyệt của Vị, hội huyệt của Phủ.. Huyệt trên đường giữa bụng, từ rốn đo lên 4 thốn. Điểm huyệt nằm ngửa",
+  "anatomy": "Dưới huyệt là đường trắng, dưới nữa là mạc ngang, phúc mạc, phần ngang của dạ dày. Thần kinh: Da vùng huyệt chi phối bởi tiết đoạn T7 hoặc T8.",
+  "functionalities": [
+    "Viêm dạ dày, loét dạ dày, sa dạ dày, viêm dạ dày cấp mãn tính",
+    "Tắc ruộc cấp tính",
+    "Nôn mửa",
+    "Sình bụng, đầy hơi",
+    "Ỉa chải, bón, tiêu hoá kém",
+    "Huyết áp cao",
+    "Thần kinh suy nhược",
+    "Bệnh tâm thần"
+  ],
+  "technique": "Châm thẳng, sâu 1 - 2 thốn, có thể hướng mũi kim 4 huyệt quanh gần đó bằng cách châm xiên lòn dưới thịt. Khi châm vùng bụng trên có cảm giác tức căng nặng hoặc dạ dày có cảm giác rút lại. Cứu 3 - 7 lửa. Ôn cứu 10 - 20 phút.",
+  "caution": "Dưới là dạ dày, tuỵ tạng, động mạch chủ bụng, không nên châm sâu quá, người ốm yếu lại càng thận trọng. Nếu bệnh nhân có gan hoặc tỳ sưng lớn, không nên châm xiên quanh ra 4 phía"
+},{
+  "code": "Ren-6",
+  "name": "Khí hải",
+  "description": "Khi điểm huyệt nằm ngửa, từ rốn đo xuống 1.5 thốn. Huyệt là điểm nối 1.5 / 5 trên với 3.5 / 5 dưới của đoạn rốn - bờ trên xương mu.",
+  "anatomy": "Dưới huyệt là đường trắng, sau đường trắng là mạc ngang, phúc mạc. Dưới nữa là ruột non (bàng quang khi bí tiểu, tử cung khi có thai 4 - 5 tháng). Da vùng huyệt chi phối bởi tiết đoạn thần kinh T10 hoặc T11",
+  "functionalities": [
+    "Đái dầm, bệnh thuộc về niệu đạo",
+    "Đau thoát vị ruột",
+    "Suy nhược ngũ tạng",
+    "Chân khí toàn thân hư tổn",
+    "Suy nhược sinh dục",
+    "Tay chân mát lạnh",
+    "Suy nhược thần kinh",
+    "Hư thoát",
+    "Rối loạn kinh nguyệt",
+    "Bí tiểu, tiểu gắt, tiểu buốc",
+    "Di mộng tinh, liệt dương"
+  ],
+  "technique": "Châm xiên, hướng xuống dưới 2 - 3 thốn có cảm giác căng tức có khi lan tới cơ quan sinh dục. Cứu 3 - 5 lửa. Ôn cứu 15 - 20 phút",
+  "caution": "Có thai cấm châm cứu (Ngoại đài bí yếu). Chứng hư thoát có thể cứu 3 - 50 lửa. Dưới là Tiểu trường có thai không nên châm sâu. Trước khi châm cứu nên đi tiểu."
+},{
+  "code": "SP-11",
+  "name": "Kỳ môn",
+  "description": "Mộ huyệt của Can. Ngồi ngay, từ đầu gối đo lên 8 thốn cách Huyết hải 6 thốn, nơi có động mạch nhảy. Huyệt ở chỗ hõm tạo nên bởi bờ ngoài, cơ may, bờ trong, cơ thẳng trước đùi và cơ rộng trong.",
+  "anatomy": "Dưới huyệt là bờ ngoài bó mạch thần kinh đùi, khe giữa cơ chậu và cơ lược, cơ bịt ngoài, cơ sinh đôi dưới. Thần kinh vận động cơ là các ngành ngang của đám rối thắt lưng, nhánh của dây thần kinh cơ da, các nhánh dây thần kinh bịt. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L3.",
+  "functionalities": [
+    "Sưng hạch bẹn",
+    "Đau bụng dưới",
+    "Bí đái",
+    "Viêm niệu đạo",
+    "Đái không tự chủ, đái dầm",
+    "Đau tức hông sườn, đau thần kinh liên sườn",
+    "Mắt mờ, nôn"
+  ],
+  "technique": "Châm thẳng, sâu 1 - 2 thốn. Cứu 3 - 5 lửa. Ôn cứu 3 - 10 phút",
+  "caution": "Nếu khi châm có phản ứng ở chân làm cho vận động khó khăn không được tự ý hoặc bị đại tiện, nên châm huyệt Phúc ai để giải cứu. Châm sâu 1.5 thốn, lưu kim chừng nửa giờ, sau đó vê kim qua trái 9 lần, phải 6 lần rồi rút kim ra."
+},{
+  "code": "ST-25",
+  "name": "Thiên xu",
+  "description": "Từ huyệt Thần khuyết (giữa rốn) đo ra 2 thốn",
+  "anatomy": "Dưới huyệt là gân cơ chéo to, cơ thảng to, mạc ngang, phúc mạc. Dưới nữa là ruột non tử cung (có thai 7 - 8 tháng) - Thần kinh vận động cơ à 6 dây gian sườn dưới và dây bụng sinh dục. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T10.",
+  "functionalities": [
+    "Viêm phúc mạc",
+    "Viêm dạ dày cấp mãn tính",
+    "Viêm ruột cấp mãn tính, liệt ruột",
+    "Giun đường ruột",
+    "Bón",
+    "Kiết lỵ",
+    "Viêm màng trong tử cung",
+    "Đau thắt lưng"
+  ],
+  "technique": "Châm thẳng, sâu 1-2 thốn. Cứu 5-7 lửa. Ôn cứu 10-20 phút"
+},{
+  "code": "LU-1",
+  "name": "Trung phủ",
+  "description": "Bở dưới xương đòn gánh, ngang với cơ ngực to. CHỗ hõm giữa cơ Đenta. Từ đường dọc chính giữa xương ngực đo ngang ra mỗi bên 6 thốn.",
+  "anatomy": "Dưới huyệt là rãnh cơ ngực to, cơ ngực é, cơ răng cưa to, các cơ gian sườn 2. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T2",
+  "functionalities": [
+    "Viêm khí quản, viêm phổi",
+    "Lao phổi",
+    "Hen suyễn"
+  ],
+  "technique": "Châm xiên, hướng mũi kim ra ngoài lên trên, sâu 0,5 - 1 thốn, có cảm giác căng tức tới trước ngực, có khi tê lan tới chi trên. Cứu 3 - 5 lửa. Ôn cứu 5 - 10 phút"
+},{
+  "code": "Du-14",
+  "name": "Đại chuỳ",
+  "description": "Khi điểm huyệt ngồi ngay hơi cúi đầu xuống một tí, bảo bệnh nhân qay đầu qua lại trái phải, u xương tròn nào cao nhất động đậy dưới ngón tay nhiều là xương cổ thứ 7. Huyệt nằm dưới đầu mỏm gai này (Trên đầu mỏm gai xương sống lưng thứ nhất)",
+  "anatomy": "Dưới huyệt là cơ gân thang, cơ gân trám, gân cơ răng bé sa trên, cơ gối đầu, cơ gian gai, cơ ngang vai, dây chằng trên gai và dây chằng giữa vai, dây chằng vàng. Dưới nữa là ống sống. Nhánh sau dây thần kinh cổ 8 và nhánh trong của nhánh sau dây thần kinh ngực I. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C8.",
+  "functionalities": [
+    "Cứng gáy, vẹo cổ",
+    "Nhiệt cấp tính, sốt cao",
+    "Đau đầu đau lưng",
+    "Sốt rét",
+    "Cảm cúm",
+    "Ho, đau ngực",
+    "Lao phổi",
+    "Động kinh",
+    "Viêm khí quản, phế khí thủng"
+  ],
+  "technique": "Châm thẳng, hơi xiên lên trên 1 - 1,5 thốn, tại chỗ có cảm giác căng tức xuống dưới hoặc lan ra hai bên vai. Cứu 3 - 7 lửa. Ôn cứu 5 - 15 phút",
+  "caution": "Trong trường hợp tiết ứ dịch phế quản khi vê kim, nếu bệnh nhân có phản ứng thở dội lên, thường có kết quả tốt"
+},{
+  "code": "BL-13",
+  "name": "Phế du",
+  "description": "Huyệt là nơi gặp nhau của đường thằng đứng ngoài Đốc mạch đo ra 1,5 thốn và đường dưới gai cột sống lưng 3. Khi điểm huyệt nên ngồi khom lưng lại",
+  "anatomy": "Dưới huyệt là cơ thang, cơ trám, cơ răng cưa bé sau trên, cơ gối cổ, cơ lưng dài, cơ cổ dài, cơ bán gai của đầu, cơ bán gai của cổ, cơ ngang sườn. DƯới nữa là phổi - Thần kinh vận động cơ là nhánh dây thành kinh sọ não số XI, nhánh đám rối cổ sau, nhánh của đám rôi cánh tay, nhánh của dây gian sườn 3 và nhánh của dây sống lưng 3. Da vùng huyệt chi phối bởi tiết đoạn thành kinh T3",
+  "functionalities": [
+    "Viêm khí quản",
+    "Suyễn",
+    "Viêm phổi, lao phổi",
+    "Viêm màng ngực",
+    "Tự ra mồ hôi, ra mồ hôi trộm"
+  ],
+  "technique": "Châm thẳng, hơi xiên về phía cột sống, sau 0,5 - 1 thốn, tại chỗ có cảm giác căng tức, có khi lan ra tới giữa sườn - Ngang, từ trên xuống dưới theo bó lớp cơ 1 - 2 thốn, có cảm giác căng tức tại chỗ. Cứu 3 - 5 lửa. Ôn cứu 5 - 15 phút. ",
+  "caution": "Bên dưới là phổi, không châm sâu quá"
+},{
+  "code": "BL-14",
+  "name": "Quyết âm du",
+  "description": "Huyệt là nơi gặp nhau của đường thẳng đứng cách Đốc ạch 1,5 thốn và đường ngang qua dưới đốt sống lưng thứ 4. Khi điểm huyệt nên ngồi khom lưng lại",
+  "anatomy": "Dưới huyệt là cơ thang, cơ trám, cơ răng cơ bé sa trên, cơ gối cổ, cơ lưng dài, cơ cổ dài, cơ bán gai của đầu, cơ bán gai của cổ, cơ ngang gai, cơ ngang sườn. Dưới là phổi - Thần kinh vận động cơ là nhánh dây thần kinh sọ não số XI, nhánh đám rối cổ sâu, nhánh của đám rối cánh tay, nhánh của dây gian sườn 3, nhánh của dây sống lưng 4. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T4",
+  "functionalities": [
+    "Thắp tim",
+    "Thần kinh suy nhược",
+    "Đau thần kinh liên sườn",
+    "Mất ngủ",
+    "Ho"
+  ],
+  "technique": "Châm thẳng, hơi xiên xuống đốt sống lưng, sâu 0,5 - 1 thốn, tại chỗ có cảm giác căng tức, có khi lan ra liên sườn, hoặc châm ngang từ trên xuống dưới bở theo lớp cơ, sâu 1 - 2 thốn, có cảm giác căng tức tại chỗ. Cứu 3 - 5 lửa. Ôn cứu 5 - 15 phút."
+},{
+  "code": "BL-15",
+  "name": "Tâm du",
+  "description": "Huyệt là nơi gặp nhau của đường thẳng đứng cách Đốc mạch 1,5 thốn và đường ngang qua dưới gai đốt sống lưng thứ 5. Khi điểm huyệt ngồi hơi khom lưng xuống.",
+  "anatomy": "Dưới huyệt là cơ thang, cơ trám, cơ lưng dài, cơ ngang sườn. Dưới nữa là phổi. Thần kinh vận động cơ là nhánh dây thần kinh sọ não số XI, nhánh đám rối cổ sâu, nhánh đám rối cánh tay, nhánh của dây gian sườn 5 và nhánh dây sống lưng 5. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T5.",
+  "functionalities": [
+    "Suy nhược thần kinh",
+    "Đau thần kinh liên sườn",
+    "Đau tim do phong thấp",
+    "Tim đập nhanh",
+    "Động kinh",
+    "It-tê-ri",
+    "Tâm thần phân liệt"
+  ],
+  "technique": "Châm thẳng, hơi xiên xuống cột sống, sâu 0,5 - 1 thốn, tại chỗ có cảm giác căng tức, có khi lan ra giữa sườn - Xiên, hướng theo bờ lớp cơ vào sâu 1 - 2 thốn tại chỗ có cảm giác căng tức. Cứu 3 - 5 lửa. Khi cứu nên chú ý. Ôn cứu 5 - 10 phút.",
+  "caution": "Không nên châm thẳng hoặc xiên mũi kim quá sâu, sợ tổn thương tới phổi"
+},{
+  "code": "BL-18",
+  "name": "Can du",
+  "description": "Khi điểm huyệt ngồi hơi khom lưng hay nằm sấp, huyệt là nơi gặp nhau của 5 đường ngang qua đầu mỏm gai đốt sống lưng 9 và đường thẳng đứng ngoài Đốc mạnh 1,5 thốn",
+  "anatomy": "Dưới huyệt là cơ thang, cơ lưng to, cơ lưng dài, cơ bán gai của ngực, cơ ngang gai, cơ nang sườn. Dưới nữa là phổi - Thần Kinh vận động cơ là nhánh của dây thần kinh sọ não XI, nhánh của đám rối cánh tay, nhánh của dây gian sườn 9 và nhánh của dây sống lưng 9. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T8, hoặc t9",
+  "functionalities": [
+    "Đau lưng",
+    "Đau cột sống",
+    "Viêm gan cấp mãn tính, vàng da",
+    "Hoa mắt, sưng mắt, mộng thịt ở mắt",
+    "Chảy máu mũi",
+    "Ho đau sườn, tức ngực",
+    "Điên cuồng",
+    "Viêm dạ dày, dạ dày căng đầy"
+  ],
+  "technique": "Châm thẳng, hơi xiên xuống cuột sống, sâu 0,5- 1 thốn. Tại chỗ có cảm giác căng tức có khi lan ra giữa sườn, khi châm xiên theo hướng theo bở lớp cơ, châm vào 1 - 2 thốn có cảm giác căng tức tại chỗ. Cứu 3 - 5 thốn. Ôn cứu 5 - 10 phút.",
+  "caution": "Bên dưới là phổi, không nên châm sâu quá"
+},{
+  "code": "BL-19",
+  "name": "Đởm du",
+  "description": "Khi điểm huyệt ngồi khom lưng hay nàm sấp, dưới đốt xương sống thứ 10 đo ra 1,5 thốn. Huyệt là điểm gặp nhau của đường ngang qua mỏm gai đốt sống lưng 10 và đường thẳng đứng ngoài Đốc mạch 1,5 thốn",
+  "anatomy": "Dưới huyệt là cơ lưng to, cơ l7ng dài, cơ bản gai của ngực, cơ ngang vai, cơ ngang sườn. Dưới nữa bên trái là phổi, bên phải là gan - Thần kinh vận động cơ là nhánh của đám rối cánh tay, nhánh của dây gian sườn 10 và nhánh của dây sống lưng 10. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T9 hoặc T10.",
+  "functionalities": [
+    "Đau lưng, đau bở sườn",
+    "Đắng miệng",
+    "Viêm gan cấp mãn tính, vàng da",
+    "Viêm túi mật",
+    "Viêm hạch lâm ba ở ổ nách",
+    "Viêm dạ dày",
+    "Nhức đầu",
+    "Nôn mửa"
+  ],
+  "technique": "Châm thẳng, hơi xiên xuống phía cột sống, sâu 0,5 - 1 thốn; tại chỗ có cảm giác căng tức có khi lan ra giữa sườn - Xiên hướng theo bờ cơ sâu 1 - 2 thốn. Tại chỗ có cảm giác căng tức. Cứu 3 - 5 lửa. Ôn cứu 5 - 10 phút"
+},{
+  "code": "BL-20",
+  "name": "Tỳ du",
+  "description": "Khi điểm huyệt nên ngồi hơi khom lưng xuống hoặc nằm sấp. Dưới mỏm gai đốt xương sống lưng 11 đo ra 1,5 thốn.",
+  "anatomy": "Dưới huyệt là cân ngực - thắt lưng của cơ lưng to, cơ răng bé sau - dưới, cơ lưng dài, cơ bán gai của cơ ngực, cơ ngang vai, cơ ngang sườn. Dưới nữa là tuyến thượng thận - Thần kinh vận động cơ là nhánh của đám rối cánh tay, nhánh dây gian sườn 11, nhánh dây sống lưng 11. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T10 hoặc T11",
+  "functionalities": [
+    "Viêm dạ dày, loét dạ dày, sa dạ dày",
+    "Nôn mửa do thần kinh, tiêu hóa kém",
+    "Viêm gan, gan tỷ sưng lớn",
+    "Viêm ruột",
+    "Phù thũng",
+    "Thiếu máu, bệnh do xuất huyết mãn tính",
+    "Sa tử cung",
+    "Phong mề đay",
+    "Bải hoải cơ thể"
+  ],
+  "technique": "Châm thẳng, hơi xiên vào cột sống, sâu 1 - 1,5 thốn, tại chỗ có cảm giác căng, tức tê đồng thời lan tới vùng thắt lưng. Cứu 3-7 lửa. Ôn cứu 5 - 20 phút.",
+  "caution": "Không châm sâu quá, dưới là gan và thận"
+},{
+  "code": "BL-21",
+  "name": "Vị du",
+  "description": "Khi điểm huyệt ngồi hơi khom lưng, hoặc nằm sấp, dưới gai đốt sống 12 đo ra 1,5 thốn",
+  "anatomy": "Dưới huyệt là cân ngực - thắc lưng của cơ lưng to, cơ răng bé sau - dưới, cơ lưng dài, cơ ngang-gai, cơ gian mỏm ngang, cơ vuông thắt lưng, cơ đáy chậu - Thần kinh vận động cơ là nhánh cả đám rối cánh tay, nhánh dây gian sườn 12, nhánh dây sống lưng thứ 12, nhánh của đám rối thắt lưng. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T11.",
+  "functionalities": [
+    "Đau dạ dày, viêm dạ dày, no hơi, sa dạ dày, loét dạ dày",
+    "Đau cột sống lưng",
+    "Viêm tụy tạng",
+    "Viêm gan",
+    "Viêm ruột",
+    "Ăn uống kém",
+    "Mất ngủ"
+  ],
+  "technique": "Châm thẳng, hơi xiê về phía cột sống sâu 0,5 - 1 tốn, tại chỗ có cảm giác căng tức, có khi lan tới sườn - Xiên, hướng lên theo lớp cơ sâu 1 - 2 thốn, tại chỗ có cảm giác căng tức. Cứu 3 - 5 lửa. Ôn cứu 5 - 15 phút",
+  "caution": "Dưới là phổi, không châm quá sâu"
+},{
+  "code": "BL-23",
+  "name": "Thận du",
+  "description": "Dưới gai ngang đốt sống thất lưng thứ 2, tử đường giữa cột sống ngang 1,5 thốn. Khi điểm huyệt nên nằm sấp hoặc ngồi hơi khom lưng",
+  "anatomy": "thần kinh vận động cơ là các nhánh của đám rối cánh tay, nhánh của dây sống thắt lưng 2, nhánh của đám rối thắt lưng - Dưới huyệt là cân ngực - thắt lưng của cơ lưng to, cơ răng bé sau - dưới, cơ lưng dài, cơ ngang vai, cơ gian mỏm ngang, cơ vuông thắt lưng, cơ đái chậu. Da vùng huyệt chi phối, bởi tiết đoạn thần kinh L1",
+  "functionalities": [
+    "Viêm thân, đau thắt thận, sa thận, thận suy",
+    "Đau lưng, tổn thương tổ chức mềm vùng thắt lưbg",
+    "Ù tai, điếc",
+    "Di chứng liệt trẻ con",
+    "Suyễn",
+    "Di tinh, liệt dương",
+    "Kinh nguyệt không đều",
+    "Rung tóc",
+    "Thiếu máu",
+    "Đái dầm"
+  ],
+  "technique": "Châm thẳng, hơi xiên về phía cột sống, sâu 1,5 - 2 thốn có cảm giác căng tức ở vùng lưng, mông có khi xuống chân. Cứu 3 - 7 lửa. Ôn cứu 5 - 20 phút",
+  "caution": "Không châm quá sâu và hướng mũi kim ra phía ngoài dễ tổn thương thận"
+},{
+  "code": "BL-25",
+  "name": "Đại trường du",
+  "description": "Khi điểm huyệt, ngồi ngay hay nằm sấp, huyệt Dương quan đo ra 1,5 thốn. Huyệt là nơi gặp nhau của đường thẳng ngoài Đốc mạch 1,5 thốn với đường ngang qua dưới mỏm gai đốt sống thắt lửng thứ tư.",
+  "anatomy": "Dưới huyệt là cân ngực - thắt lưng của cơ lưng tom, khối cơ chung của các cơ ở rãnh cột sống. Trước mỏm ngang có cơ vuông thắt lưng, cơ đái chậu. Thần kinh vận động cơ là nhánh của đám rối cánh tay, nhánh của dây sống thắt lưng thứ tư, nhánh của đám rối thắt lưng. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L3 hoặc L4.",
+  "functionalities": [
+    "Đau thần kinh thắt lưng, cơ thắt cơ giữa xương sống, cứng lưng, đau lưng không cúi ngửng được",
+    "Viêm ruột",
+    "Bón",
+    "Xuất huyết ruột, bệnh đường ruột",
+    "Kiết lỵ",
+    "Sình bụng",
+    "Bại liệt chi dưới"
+  ],
+  "technique": "Châm thẳng, sâu 1 - 2 thốn, có cảm giác căng tức tại vùng thắt lưng. - Xiên, trong trường hợp đaudây thần kinh hông đùi, mũi kim hơi hướng xiên ra bên ngoài, sâu 2 -3 thốn có cảm giác tê căng tại chỗ hoặc như điện giật xuống chi dưới. - Châm cạn dưới da trong trường hợp viêm khớp chậu - háng thì mũi kim hướng tới Tiểu-trường du, có cảm giác khớp chậu căng tức có khi lan tới khớp xương cùng. Cứu 3 - 7 lửa. Ôn cứu 5 - 20 phút"
+},{
+  "code": "Du-4",
+  "name": "Mệnh môn",
+  "description": "Khi điểm huyệt ngồi ngay hơi cúi đầu xuống một tí, bảo bệnh nhân quay đầu qua lại phải trái, u xương tròn nào cao nhất động dậy dưới tay nhiều là xương cổ thứ 7. Huyệt nằm dưới đầu mỏm gai này (Trên đầu mỏm gai xương sống lưng thứ nhất)",
+  "anatomy": "Dưới huyệt là cơ gân thang, cơ gân trám, gân cơ răng bé sau-trên, cơ gối đầu, cơ gian sai, cơ ngang-vai, dây chằng trên gai và dây chằng giữa vai, dây chằng vàng. Dưới nữa là ống sống. Nhánh sau day thần kinh cổ 8 và nhánh trong của nhánh sau dây thần kinh ngực I. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C8",
+  "functionalities": [
+    "Cứng gáy, vẹo cổ",
+    "Nhiệt cấp tính, sốt cao",
+    "Đau đầu đau lưng",
+    "Sốt rét",
+    "Cảm cúm",
+    "Ho, đau ngực",
+    "Lao phổi",
+    "Động kinh",
+    "Viêm khí quản, phế khí thủng"
+  ],
+  "technique": "Châm thẳng, hơi xiên lên trên 1 - 1,5 thốn, tại chỗ có cảm giác căng tức xuống dưới hoặc lan ra hai bên vai. Cứu 3 - 7 lửa. Ôn cứu 5 - 15 phút"
+},{
+  "code": "LU-9",
+  "name": "Thái uyên",
+  "description": "Khi điểm huyệt lật bàn tay lui ra sau, huyệt ở chỗ hõm trên lằn chỉ mạch tay quay",
+  "anatomy": "Dưới huyệt là rãnh mạch tay quay, cấu tạo bởi gân cơ dạng dài và gân cơ duỗi ngắn ngón tay cái (ở ngoài), gân cơ gan tay to và gân cơ gấp dài ngón cái và xương thuyền - Thần kinh vận động cơ là các nhánh của dây thần kinh giữa và dâ thần kinh quay. Da vùng huyệt chi phối bở tiết đoạn thần kinh C6.",
+  "functionalities": [
+    "Bệnh thuộc tổ chức mềm quanh khớp cổ tay",
+    "Ho gà, viêm khí quản, dịch cúm, suyễn, ho yếu phổi",
+    "Đau ngực"
+  ],
+  "technique": "Châm thẳng, từ mặt bên trong lòng bàn tay hướng mũi kim tới mặt bên lưng bàn tay sâu 0,3 - 0,5 thốn. Tại chỗ có cảm giác căng tức. Cứu 1 - 3 lửa. Ôn cứu 3 - 5 phút",
+  "caution": "Tránh châm vào động mạch và xương"
+},{
+  "code": "LU-7",
+  "name": "Liệt khuyết",
+  "description": "Dưới xương quay nối với thân xương, trên khớp cổ tay 1,5 thốn. Khi điểm huyệt làm động tác gấp ngửa bàn tay để tìm gân cơ ngửa dài. Huyệt trước và trong gân cơ ngửa dài",
+  "anatomy": "Dưới huyệt là bờ trong trước của gân cơ ngửa dài cơ gấp dài ngón cái, chỗ bám của cơ sấp vuông vào xương quay - Thần kinh vận động cơ là nhánh của dây thần kinh giữa. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C6",
+  "functionalities": [
+    "Đau lưng cổ tay",
+    "Ho",
+    "Đau thần kinh 3 nhánh",
+    "Cảm cúm",
+    "Viêm khí quản",
+    "Tiểu khó",
+    "Các bệnh ở cổ gáy",
+    "Đau ngực"
+  ],
+  "technique": "Châm xiên, hướng mũi kim vào khớp khuỷu tay, sâu 0,5 - 1 thốn, có cảm giác căng tức tại chỗ, đồng thời hướng lan tới khớp khuỷu tay. Khi trị viêm gân cơ dạng dài có thể hướng mũi kim ra ngoài, sâu 0,5 - 1 thốn, có cảm giác căng tức tại chỗ. Cứu 3-5 lửa. Ôn cứu 5-15 phút."
+},{
+  "code": "SP-10",
+  "name": "Huyết hải",
+  "description": "Xương bánh chè, đầu gối đo lên 2 thốn, ngày xưa khi điểm huyệt để bệnh nhân ngồi ngay, thầy thuốc lấy 4 ngón tay úp án trên đầu gối, ngón cái ở phía trên đùi, chỗ đầu ngón cái là huyệt. Huyệt nằm trong khe hõm giữa cơ may và cơ rộng trong, ấn vào có cảm giác ê tức.",
+  "anatomy": "Dưới huyệt là khe giữa cơ may và cơ rộng trong, cơ rộng giữa xương đùi - Thần kinh vận động cơ là các nhánh của dây thần kinh đùi. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L3.",
+  "functionalities": [
+    "Đau mặt trong đùi.",
+    "Kinh nguyệt không đều.",
+    "Xuất huyết tử cung.",
+    "Thiếu máu.",
+    "Viêm thần kinh da.",
+    "Phong mề đay, ngứa ngoài da."
+  ],
+  "technique": "Châm thẳng, sâu 1-2 thốn, tại chỗ có cảm giác căng tức có khi lan tới bẹn. Cứu 3-5 lửa. Ôn cứu 5-15 phút.",
+  "caution": "Trong trường hợp vì châm quá sâu hoặc bệnh nhân bỗng nhiên bị chóng mặt xỉu té, phải rút kim ra, đồng thời châm huyệt Túc Tam-lý để giải cứu. Châm sâu 5-8 phân vẽ kim qua phải trái (qua phải chừng nửa phút, trái chừng 10 giây) nghỉ 5 giây rồi dùng thủ pháp chấn chiên rút kim ra thì tỉnh. Nếu châm huyệt Túc Tam-lý mà nghỉ quá lâu hay vì một lý do nào đó mà bệnh nhân run lên cả người thì có thể châm Khúc trì bên ngược lại để giải cứu, hoặc lấy ngón tay bấm xoa ở huyệt Tiểu hải thì tỉnh và hết run."
+},{
+  "code": "SP-6",
+  "name": "Tam âm giao",
+  "description": "Chỗ lồi lên cao nhất của mắt cá chân trong đo lên 3 thốn. Huyệt ở chỗ hõm sát bờ sau phía trong xương chày.",
+  "anatomy": "Dưới huyệt là bờ sau trong xương chày, bờ trước cơ gấp dài các ngón chân và cơ cẳng chân sau - Thần kinh vận động là các nhánh của dây chày sau. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L4.",
+  "functionalities": [
+    "Sưng đau cẳng chân.",
+    "Bí đái, bệnh thuộc hệ sinh dục.",
+    "Sình bụng, đau bụng, ỉa chảy.",
+    "Liệt nửa người.",
+    "Suy nhược thần kinh.",
+    "Viêm da do thần kinh.",
+    "Phong mề đay, thấp chẩn, ngứa ngáy."
+  ],
+  "technique": "Châm thẳng tới huyệt Tuyệt cốt, sâu 1,5-2 thốn, có cảm giác căng tức tại chỗ - Châm trị bệnh ở chân thì hướng mũi kim hơi ra phía sau, sâu 1-1,5 thốn, có cảm giác như điện giật lan xuống đáy bàn chân - Châm xiên, trong trường hợp trị bệnh toàn thân thì mũi kim hướng lên phía trên, sâu 1-2,5 thốn, khi đắc khí rồi vẽ kim xuống dưới, có cảm giác căng tức có thể lan tới khớp gối hoặc bên trong bắp đùi. Cứu 3-7 lửa. Ôn cứu 10-20 phút."
+},{
+  "code": "BL-60",
+  "name": "Côn lôn",
+  "description": "Huyệt là nơi giao điểm của bờ ngoài gân gót chân và đường kéo từ nơi cao nhất của mắt cá ra, nơi có khe hõm.",
+  "anatomy": "Dưới huyệt là khe giữa gân cơ mác bên ngắn và gân cơ mác bên dài ở trước gân gót chân, ở sau đầu dưới xương chày. Thần kinh vận động cơ là các nhánh của dây thần kinh cơ da và dây thần kinh chày sau. Da vùng huyệt chi phối bởi tiết đoạn thần kinh S1",
+  "functionalities": [
+    "Viêm khớp mắt cá.",
+    "Đau đầu do thần kinh.",
+    "Đau dây thần kinh hông.",
+    "Đau thần kinh vai, cứng cổ gáy.",
+    "Thắt lưng đau không cúi ngửa được.",
+    "Động kinh trẻ con.",
+    "Đau mắt, hoa mắt.",
+    "Chảy máu cam.",
+    "Cước khí.",
+    "Nhau bong chậm, sót nhau."
+  ],
+  "technique": "Châm thẳng, tới Thái khê hoặc một bên ngoài mắt cá sâu 0,5-1 thốn. Tại chỗ có cảm giác căng đau, đồng thời lan xuống ngón út. Xiên, mũi kim hướng tới huyệt Phụ dương sâu 1-3 thốn để trị sưng tuyến giáp trạng. Tại chỗ có cảm giác căng tức có thể lan tới mắt cá chân hoặc ngón chân. Cứu 3-5 lửa. Ôn cứu 5-15 phút."
+},{
+  "code": "SP-3",
+  "name": "Thái bạch",
+  "description": "Phía sau dưới đầu xương bàn chân thứ 1. Huyệt nằm trên đường tiếp giáp da gan chân và da mu chân ở bờ trong bàn chân.",
+  "anatomy": "Dưới huyệt là cơ dạng ngón chân cái và cơ gấp ngắn ngón cái, gân cơ gấp dài ngón chân cái, mặt dưới đầu trước xương  bàn chân 1 - Dây thần kinh hiển của tiết đoạn thần kinh thắt lưng 3-4 và nhánh hỗn hợp của nhánh thần kinh hông khoeo ngoài của tiết đoạn thần kinh thắt lưng 4 - cùng 1. Thần kinh vận động cơ là các nhánh của dây thần kinh chày sau. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T9.",
+  "functionalities": [
+    "Sưng đau khớp chân cái",
+    "Đau dạ dày, sình bụng, viêm dạ dày cấp tính",
+    "Bí ỉa",
+    "Phù thủng",
+    "Lỵ"
+  ],
+  "technique": "Châm thẳng, sâu 0,5-1 thốn. Cứu 3 lửa. Ôn cứu 5-10 phút."
+},{
+  "code": "GB-34",
+  "name": "Dương lăng tuyền",
+  "description": "Khi điểm huyệt nên ngồi ngay co gối, thòng chân thẳng xuống. Huyệt ở chỗ hõm phía trước chỗ thân nối với đầu trên xương mác.",
+  "anatomy": "Dưới huyệt là khe giữa cơ mác bên dài và cơ duỗi chung các ngón chân, phía trước và trong đầu trên xương mác - Thần kinh vận động cơ là nhánh của dây thần kinh cơ-da và dây thần kinh chày trước. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L5.",
+  "functionalities": [
+    "Viêm khớp gối",
+    "Đau thần kinh liên sườn",
+    "Viêm túi mật",
+    "Liệt nửa người",
+    "Đau dây thần kinh tọa",
+    "Tê, tay chân nhức mỏi"
+  ],
+  "technique": "Châm thẳng hướng bờ sau xương ống chân. Sâu 1-3 thốn. Tại chỗ có cảm giác tê, căng, tức hoặc như điện giật xuống bàn chân. Cứu 5-7 lửa. Ôn cứu 5-10 phút."
+},{
+  "code": "GB-37",
+  "name": "Quang minh",
+  "description": "Trên mắt cá ngoài đo lên 5 thốn. Huyệt ở sát bờ trước xương mác trong khe của cơ duỗi chung các ngón chân và cơ mác bên ngắn. Dưới là bờ trước xương mác - Thần kinh vận động cơ là nhánh của dây thần kinh chày trước và nhánh của dây thần kinh cơ-da-cẳng chân. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L5.",
+  "anatomy": "Dưới huyệt là khe trống giữa cơ mác bên ngắn và cơ duỗi ngón chân đến màng gian cốt. Có dây thần kinh da cẳng chân ở lớp nông và các mạch xương chày trước và dây thần kinh chày trước ở lớp sâu.",
+  "functionalities": [
+    "Teo thần kinh thị giác, quáng gà, thị lực giảm, các bệnh ở mắt",
+    "Đau nhức nửa đầu",
+    "Đau mặt ngoài cẳng chân"
+  ],
+  "technique": "Châm thẳng, sâu 1-1,5 thốn, có cảm giác căng lan tới khớp gối và bên ngoài mu bàn chân. Cứu 3-5 lửa. Ôn cứu 5-20 phút."
+},{
+  "code": "GB-30",
+  "name": "Hồn khiêu",
+  "description": "Nằm nghiêng đưa chân đau lên trên co lại, chân dưới duỗi thẳng, chỗ ngoài khớp bên bàn tọa nới có hõm. Huyệt là điểm nối 1/3 ngoài và 2/3 trong của đường nối giữa điểm cao nhất của mấu chuyển lớn và khe xương cùng (mỏm gai đốt sống cùng 4).",
+  "anatomy": "Dưới huyệt là cơ mông to, bờ dưới cơ tháp, bờ trên cơ sinh đôi trên Thần kinh vận động cơ là nhánh của dây thần kinh mông trên, dây thần kinh mông dưới, và các nhánh của đám rối thần kinh cùng (có dây thần kinh hông đi qua). Da vùng huyệt chi phối bởi tiết đoạn thần kinh L2.",
+  "functionalities": [
+    "Đau khớp háng",
+    "Đau dây thần kinh tọa",
+    "Liệt nửa người",
+    "Thấp khớp, cước khí"
+  ],
+  "technique": "Châm thẳng, trong điều trị đau dây thần kinh tọa, khi châm mũi kim hướng ra phía cơ quan sinh dục, sâu 2-3,5 thốn, có cảm giác căng tức hoặc như điện giật lan xuống chi dưới - Khi điều trị viêm khớp háng hoặc viêm tổ chức chung quanh có thể châm thẳng hoặc hướng mũi kim qua phải, qua trái sâu 2-3 thốn. Khi kích thích có cảm giác căng tức có khi lan tới khớp háng. Cứu 5-10 lửa. Ôn cứu 15-30 phút. "
+},{
+  "code": "GB-40",
+  "name": "Khâu khư",
+  "description": "Khi điểm huyệt nghiêng bàn chân vào trong để dễ tìm, thẳng ngón chân thứ 4 lên đến mắt cá, nơi có chỉ ngang có hõm phía trước mắt cá ngoài. Giữa 2 huyệt Giải khê và Thân mạch, ấn tay vào có cảm giác ê tức.",
+  "anatomy": "Dưới huyệt là cơ duỗi các ngón chân, bờ sau ngoài cơ mác trước. Khe khớp xương chân 3 - Thần kinh cơ xương là nhánh của thần kinh chày trước. Da của huyệt được điều khiển bởi sự bài tiết của dây thần kinh S1.",
+  "functionalities": [
+    "Đau chân",
+    "Đau đầu, chóng mặt",
+    "Viêm kết mạc",
+    "Viêm tuyến vú",
+    "Lao hạch cổ",
+    "Đau hông sườn",
+    "Ít sữa"
+  ],
+  "technique": "Châm thẳng, sâu 0,3-0,5 thốn, tại chỗ có cảm giác căng tức có khi tê lan tới trước mút ngón chân thứ 4. Cứu 1-3 lửa. Ôn cứu 5-10 phút."
+},{
+  "code": "Liv-5",
+  "name": "Lãi câu",
+  "description": "Nghiêng bàn tay, thẳng 2 ngón cái và trỏ đưa lên về phía ngón trái cái để hiện rõ hố lào giữa gân cơ duỗi và dang ngón cái. Huyệt ở sát đầu mỏm trâm xương quay.",
+  "anatomy": "Dưới huyệt là đầu mỏm trâm xương quay, bờ trên xương thuyền, ngoài có gân cơ dạng dài và gân cơ duỗi ngắn ngón tay cái trong có gân cơ duỗi dài ngón tay cái, gân cơ quay 1 - Thần kinh vận động cơ do các nhánh của dây thần kinh quay. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C6.",
+  "functionalities": [
+    "Nhức cánh tay, đau do viêm cổ tay",
+    "Nhức thần kinh răng",
+    "Nhức khớp vai",
+    "Đau họng",
+    "Ù tai",
+    "Đỏ mắt",
+    "Trẻ con tiêu hóa kém",
+    "Sốt cao",
+    "Tức ngực, thở khó",
+    "Nhức đầu",
+    "Phát cuồng"
+  ],
+  "technique": "Châm thẳng, sâu 0,3 - 1 thốn. Có cảm giác căng tức tại chỗ. Cứu 3 lửa. Ôn cứu 10-15 phút."
+},{
+  "code": "Liv-3",
+  "name": "Thái xung",
+  "description": "Ở mu bàn tay phía trên đầu xương bàn tay thứ 2. Huyệt ở trên đường tiếp gián da gan tay mu tay ở bờ ngoài ngón trỏ, ngang với chỗ tiếp nối của thân và đầu dưới xương bàn tay thứ 2.",
+  "anatomy": "Dưới huyệt là cơ quan cốt mu tay 1, cơ khép ngón cái. Thần kinh vận động cơ là các nhánh của dây thần kinh trụ. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C7.",
+  "functionalities": [
+    "Đau ngón trỏ, sưng đau lưng bàn tay",
+    "Đau răng, đau họng thanh quản",
+    "Đau thần kinh sinh ba",
+    "Đau mắt",
+    "Sốt rét"
+  ],
+  "technique": "Châm thẳng, sâu 0,3 thốn. Cứu 3 lứa. Ôn cứu 5-10 phút."
+},{
+  "code": "BL-40",
+  "name": "Ủy trung",
+  "description": "Chính giữa nếp chỉ ngang chính của nhượng chân. Khi điểm huyệt nằm sấp thẳng chân.",
+  "anatomy": "Dưới huyệt là chính giữa vùng trảm khoeo. Khe khớp gối - Da vùng huyệt chi phối bởi tiết đoạn L3, S2. Da vùng huyệt chi phối bởi tiết đoạn thần kinh S2.",
+  "functionalities": [
+    "Viêm khớp gối",
+    "Co rút cơ bắp chân",
+    "Đau lưng thắt lưng",
+    "Đau dây thần kinh hông, bại liệt chi dưới",
+    "Giải độc cơ thể",
+    "Trúng nắng",
+    "Viêm trường vị cấp tính"
+  ],
+  "technique": "Châm thẳng, sâu 0,5-1 thốn có cảm giác căng tức tại chỗ, hoặc có cảm giác như điện giật tê xuống bàn chân - Khi trị chấn thương vùng thắt lưng cấp tính, dùng tam lăng châm điểm thích xuất huyết. Cứu Ôn cứu 3-5 phút.",
+  "caution": "Không kích thích mạnh quá tổn thương thần kinh và mạch máu."
+},{
+  "code": "BL-64",
+  "name": "Kinh cốt",
+  "description": "Bên ngoài bàn chân, thẳng với ngón út, trước huyệt Kim môn, chỗ lằn da trắng đỏ dưới mắt xương.",
+  "anatomy": "Dưới huyệt là cơ dạng ngón chân út, đầu sau xương bàn chân 5. Thần kinh vận động cơ là nhánh của dây thần kinh chày sau. Da vùng huyệt chi phối bởi tiết đoạn thần kinh S1.",
+  "functionalities": [
+    "Đau phía ngoài bàn chân",
+    "Đau thần kinh thắt lưng",
+    "Cứng gáy",
+    "Đau khớp háng",
+    "Động kinh",
+    "Viêm cơ tim, hồi hộp",
+    "Sốt rét"
+  ],
+  "technique": "Châm mũi kim xiên hướng vào trong, phía dưới, sâu 0,5-1 thốn, tại chỗ có cảm giác căng tức. Cứu 1-3 lửa. Ôn cứu 5-10 phút."
+},{
+  "code": "BL-58",
+  "name": "Phi dương",
+  "description": "Khi điểm huyệt, ngồi ngay thỏng chân xuống hoặc nằm sấp, ngoài mắt cá chân đo lên 7 thốn, ngang huyệt Thửa sơn 1 thốn là đúng. Huyệt là nơi tiếp nối giữa phần thịt và gân của bờ ngoài cơ sinh đôi ngoài.",
+  "anatomy": "Dưới huyệt là bờ ngoài nơi tiếp nối giữa phần thịt với phần gân của cơ sinh đôi ngoài, cơ dép, cơ gấp dài ngón chân cái, cơ chày sau, màng gian cốt - Thần kinh vận động cơ là các nhánh dây chày sau. Da vùng huyệt chi phối bởi tiết đoạn thần kinh S1.",
+  "functionalities": [
+    "Cước khí",
+    "Đau nhức ống chân",
+    "Viêm khớp do phong thấp",
+    "Viêm thận",
+    "Viêm bàng quang",
+    "Trĩ",
+    "Động kinh",
+    "Đau thắt lưng đùi"
+  ],
+  "technique": "Châm thẳng, sau 1,5-2,5 thốn, tại chỗ có cảm giác căng tức tê như điện giật chạy xuống dưới. Cứu 3-7 lửa. Ôn cứu 5-20 phút."
+},{
+  "code": "KI-3",
+  "name": "Thái khê",
+  "description": "Điểm giữa của đường nối bờ sau mắt cá mắt trong và mép trong gân gót, ngang với mỏm cao nhất của mắt cá trong.",
+  "anatomy": "Dưới huyệt là khe giữa gân gót chân ở sau, gân cơ gấp dài ngón chân cái, gân cơ gấp chung các ngón chân và gân cơ cẳng chân sau ở trước, mặt trong sau đầu dưới xương chày - Thần kinh lớp nông có dây thần kinh da cẳng chân trong của tiết đoạn thần kinh thắt lưng 5 - cùng 1, lớp sau có dây thần kinh chày của tiết đoạn thần kinh cùng 1-2. Da vùng huyệt chi phối bởi tiết đoạn thần kinh S1.",
+  "functionalities": [
+    "Đau cổ chân, đau gót chân, đau thắt lưng, liệt hạ chi",
+    "Viêm Bàng quang",
+    "Viêm thận",
+    "Kinh nguyệt không đều",
+    "Di tính",
+    "Đái dầm",
+    "Đau răng",
+    "Viêm họng mãn tính",
+    "Ù tai, rụng tóc",
+    "Suy nhược thần kinh"
+  ],
+  "technique": "Châm thẳng, có thể thấy tới Côn lôn, sâu 0,5-1 thốn, có cảm giác căng tức có khi như điện giật tê xuống gót chân - Khi trị đau gót chân thì mũi kim hướng xuống, bên trong mắt cá sâu 0,5-1 thốn tại chỗ có cảm giác như điện giật tê lan xuống đáy gót chân. Cứu 3-5 lửa. Ôn cứu 5-15 phút."
+},{
+  "code": "KI-4",
+  "name": "Đại chung",
+  "description": "Dưới huyệt Thái khê 5 phân, khi điểm huyệt hơi lui sau một tí. Huyệt ở góc tạo nên do gân gót bám vào bờ trên - trong xương gót.",
+  "anatomy": "Dưới huyệt là bờ trong gân gót chân, phía trước có gân cơ gấp dài các ngón chân. Dưới nữa là mặt trên xương gót chân. Thần kinh vận động cơ là các nhánh của dây thần kinh chày sau. Da vùng huyệt chi phối bởi tiết đoạn thần kinh S1.",
+  "functionalities": [
+    "Sưng đau gót chân",
+    "Đau lưng",
+    "Đái khó",
+    "Đau cuống họng",
+    "Đau bụng",
+    "Suy nhược thần kinh",
+    "Đần độn, suyễn",
+    "Sốt rét",
+    "Ít-tê-ri",
+    "Bón",
+    "Thích nằm"
+  ],
+  "technique": "Châm thẳng, thường hay châm xiên sâu 0,3-0,5 thốn. Tại chỗ có cảm giác căng tức hoặc tê như điện giật xuống bàn chân. Cứu 3 lửa. Ôn cứu 5-20 phút."
+},{
+  "code": "LI-4",
+  "name": "Hợp cốc",
+  "description": "Huyệt Hợp Cốc là huyệt thứ 4 của đường kinh Đại Đường chạy tới Đại Tràng, và là một trong 6 huyệt trị các bệnh liên quan đến đầu, mắt, miệng.",
+  "anatomy": "Giữa hai xương bàn tay thứ nhất và thứ 2, ở mu bàn tay gần điểm giữa bên quay của xương bàn tay thứ 2",
+  "functionalities": [
+    "Đau tê ngón, bàn tay",
+    "Đau thần kinh răng, viêm hạnh nhân",
+    "Liệt thần kinh mặt",
+    "Đau thần kinh ngón tay trước",
+    "Giải nhiệt, cảm cúm, đau đầu, sốt cao",
+    "Làm co bóp tử cung",
+    "Phụ nữ tắc kinh"
+  ],
+  "technique": "Châm thẳng, sâu từ nửa - 1 thốn, có cảm giác căng tức tại chỗ, có khi như điện giật tê xuống ngón trỏ.. Co quắp, bại liệt: mũi kim hướng tới lao cung, sâu 2 - 3 thốn. Bệnh đầu và mặt: Châm xiên, dọc theo bờ xương ngón tay 1 - 1,5 thốn.. Cứu 3 – 5 lửa. . Ôn cứu từ 5 – 15 phút",
+  "caution": "Cấm châm cho phụ nữ sinh non. Châm kèm huyệt Tam Âm giao có thể làm hư thai"
+},{
+  "code": "LI-11",
+  "name": "Khúc trì",
+  "description": "Khi điểm huyệt co khuỷu tay vào, bàn tay vào ngực. Huyệt nằm ở đầu chỉ của nếp gấp khuỷu",
+  "anatomy": "Dưới huyệt là chỗ bám của cơ ngửa dài, cơ quay 1, cơ ngửa ngắn khớp khuỷu. Thần kinh vận động cơ là các nhánh của dây quay. Da vùng huyệt chi phối bỏi tiết đoạn thần kinh C6",
+  "functionalities": [
+    "Đau khuỷu tay",
+    "Liệt chi trên, đau thần kinh vai, đau cánh tay",
+    "Ho, viêm phổi",
+    "Cảm cúm, thương hàn",
+    "Ngứa ngáy, dị ứng"
+  ],
+  "technique": "Châm thẳng tới huyệt Thiếu hải, 2 - 2.5 thốn. Tại chỗ có cảm giác căng tức có khi có cảm giác như điện giật đến vùng vai hoặc xuống đến ngón tay.. Châm hơi xiên xuốn ngón tay, sâu 1.5 - 2.5 thốn. Cảm giác căng chặt lan ra tới trước cánh tay hay vùng tai.. Liệt chi trên: châm mũi kim hơi hướng xuống mặt cong khớp khuỷu, sâu 0.5 - 1 thốn. Cảm giác như điện giật xuống mút cánh tay.. Cứu 3 - 7 lửa.. Ôn cứu 5 - 20 phút"
+},{
+  "code": "LI-6",
+  "name": "Thiên lịch",
+  "description": "Trên huyệt Dương Khê 3 thốn của đoạn nối huyệt Dương Khê và Khúc Trì. Huyệt ở chỗ hõm",
+  "anatomy": "Dưới huyệt là cơ duỗi ngắn ngón cái - Thần kinh vận động cơ là các nhánh của dây quay. Da vùng huyệt chi phối bỏi tiết đoạn thần kinh C6",
+  "functionalities": [
+    "Đau thần kinh cánh tay trước",
+    "Đau cẳng tay",
+    "Xuất huyết mũi",
+    "Liệt mặt",
+    "Viêm tuyến biên đào"
+  ],
+  "technique": "Châm thẳng, sâu 0.5 - 1 thốn . Cứu 3 lửa. . Ôn cứu từ 5 – 15 phút"
+},{
+  "code": "LI-15",
+  "name": "Kiên ngung",
+  "description": "Dang cánh tay thẳng, mỏm, vai và mấu động lớn xương cánh tay làm thành 2 chỗ lõm. Huyệt nằm ở hõm nhỏ phía trước, sát bờ trước mỏng cùng vai",
+  "anatomy": "Dưới huyệt là khe giữa bó đòn và bó cùng vai của cơ Delta. khe khớp giữa xương bả vai và xương cánh tay - Thần kinh vận động cơ là dây thần kinh mũ. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C4",
+  "functionalities": [
+    "Trúng phong, liệt nửa người",
+    "Đau nhức thần kinh hoặc cơ do phong thấp, viêm khớp vai",
+    "Huyết áp cao",
+    "Chứng nhiều mồ hôi"
+  ],
+  "technique": "Châm thẳng 0, 5 - 1, 5 thốn hoặc giơ tay lên cho ngang với vai, châm thẳng tới huyệt Cực Tuyền (hố nách).. Trị bệnh ở cơ bó đòn và bó cùng: xuôi tay xuống, châm mũi kim giữa khớp xương cánh tay và khớp vai, sâu 0, 5 1 thốn, khi đắc khí rồi thì hướng mũi kim ra 2 bên (mỗi bên sâu 2 - 3 thốn) cho đến khi có cảm giác như điện giật xuống vùng cánh tay.. - Trị tay lệch ra ngoài thì châm luồn kim dưới da, hướng kim về phía cơ tam giác.. - Cứu 3 - 5 tráng, . - Ôn cứu 5 - 15 phút.",
+  "caution": "Không nên cứu nhiều"
+},{
+  "code": "PC-6",
+  "name": "Nội quan",
+  "description": "Vểnh ngược bàn tay vào cẳng tay để lộ rõ khe của cơ gân tay lớn và cơ gân tay bé. Trên khớp gấp nếp cổ tay 2 thốn",
+  "anatomy": "Dưới lớp da vùng huyệt là khe giữa gân cơ gan tay bé, gân cơ gan tay lớn, gân cơ gấp dài ngón tay cái, gân cơ gấp chung ngón tay nông và sâu, cơ sấp vuông, màng gian cốt trụ và quay.. Các nhánh của dây thần kinh giữa và các nhánh của dây thần kinh trụ đóng vai trò là dây thần kinh vận động cơ.. Da vùng huyệt do tiết đoạn thần kinh D1 hoặc C7 chi phối.",
+  "functionalities": [
+    "Đau cẳng tay",
+    "Viêm cơ tim",
+    "Đau vùng ngực, hồi hộp",
+    "Đau thần kinh khớp khuỷu cánh tay",
+    "Bứt rứt nóng ruột, bồn chồn, khó chịu",
+    "Nôn mửa",
+    "Động kinh",
+    "Mất ngủ",
+    "Buồn phiền",
+    "Châm tê phẫu thuật đau thần kinh vị, loét dạ dày"
+  ],
+  "technique": "Châm thẳng, sâu 0,5 - 1 thốn, có thể xuyên tới huyệt Ngoại Quan. Bệnh thân: châm xiên, mũi châm hướng lên trên, sâu 1 - 2 thốn.. Tê ngón tay: châm xiên, mũi châm hướng xuống một bên tay quay, sâu 0.3 - 0.5 thốn. Cứu 3 - 7 lửa. Ôn cứu 5 - 15 phút"
+},{
+  "code": "PC-7",
+  "name": "Đại lăng",
+  "description": "Lật ngửa bàn tay ra sau cẳng tay lộ rõ khe gân. Huyệt ở trên lằn chỉ gấp khớp cổ tay, giữa hai cơ gân tay lớn và cơ gân tay bé.. Hoặc có thể xác định bằng cách gấp các ngón tay vào lòng bàn tay, đầu ngón tay giữa chạm vào lằn chỉ (văn) tay ở đâu thì đó là huyệt",
+  "anatomy": "Dưới da vùng huyệt là khe giữa gân cơ gan tay lớn và gân cơ gan tay bé. Ở sâu bên trong là khe giữa gân cơ gấp dài ngón tay cái, cơ gấp chung ngón tay nông và sâu cùng khe khớp cổ tay.. Thần kinh vận động cơ tại vị trí huyệt là các nhánh của dây thần kinh giữa và dây thần kinh trụ.. Da vùng huyệt được chi phối bởi tiết đoạn thần kinh C7 hoặc C8.",
+  "functionalities": [
+    "Đau cổ tay",
+    "Viêm khớp cổ tay",
+    "Viêm cơ tim, đau vùng tim",
+    "Đau sườn ngực",
+    "Nóng nảy bức rứt trong ngực",
+    "Viêm dạ dày cấp",
+    "Viêm họng cấp",
+    "Đau dạ dày",
+    "Bệnh nhiệt",
+    "Chứng hay cười, dễ sợ hãi"
+  ],
+  "technique": "Châm thẳng, sâu 0.3 - 0.5 thốn, có cảm giác căng tức có khi như điện giật xuống cánh tay. Sưng khớp cổ tay: Châm xiên. Cứu 1 - 3 lửa. Ôn cứu 5 - 15 phút"
+},{
+  "code": "HT-5",
+  "name": "Thông lý",
+  "description": "Mặt trước trong cẳng tay, trên nếp gấp cổ tay 1 thốn (huyệt Thần Môn - Tm.7), khe giữa gân cơ trụ trước và cơ gấp chung nông các ngón tay. Lật ngửa bàn tay ra sau lộ gân cơ",
+  "anatomy": "Dưới huyệt là khe giữa gân cơ trụ trước và gân cơ gấp chung sâu các ngón tay, cơ gấp vuông, xương trụ.. . Thần kinh vận động cơ là các nhánh của dây thần kinh giữa và dây trụ.. . Da vùng huyệt chi phối bởi tiết đoạn thần kinh C8.",
+  "functionalities": [
+    "Hồi hộp, đau tim, tim đập quá chậm",
+    "Suy nhược thần kinh",
+    "Ho suyễn",
+    "Tâm thần phân liệt",
+    "Mất tiếng do Iterri"
+  ],
+  "technique": "Châm thẳng sâu 0,5 -1 thốn. cảm giác căng tức đồng thời tê cuống hoặc lên trên xương trụ . Cứu 1 - 3 tráng . Ôn cứu 10 - 20 phút."
+},{
+  "code": "HT-7",
+  "name": "Thần môn",
+  "description": "Duỗi ngửa bàn tay, ở phía xương trụ, nằm trên lằn chỉ cổ tay, nơi chỗ lõm sát bờ ngoài gân cơ trụ trước và góc ngoài bờ trên xương trụ.",
+  "anatomy": "Dưới huyệt là gân cơ trụ trước, xương đậu và xương tháp.. . Thần kinh vận động cơ là nhánh của dây thần kinh trụ.. . Da vùng huyệt chi phối bởi tiết đoạn thần kinh C8.",
+  "functionalities": [
+    "Suy nhược thần kinh",
+    "Bệnh tâm thần",
+    "Đái dầm",
+    "Mất ngủ",
+    "Mộng mị",
+    "Bệnh tim, quặn đau tim",
+    "Liệt cơ xương lưỡi"
+  ],
+  "technique": "Châm thẳng, hơi chếch qua phía xương trụ (ngón út), sâu 0,3 - 0,5 thốn, căng tức đồng thời tê như điện giật lan xuống mút ngón tay . Cứu 1 - 3 lửa. Ôn cứu 5 - 15 phút."
+},{
+  "code": "TE-4",
+  "name": "Dương trì",
+  "description": "Khớp xương cổ tay, phía trên thẳng với ngón áp út, gần mắt cá tay. Muốn biết rõ phải ngửa bàn tay ra sau để rõ các nếp gấp khớp và gân",
+  "anatomy": "Dưới huyệt là khe giữa gân cơ duỗi chung ngón tay và duỗi riêng ngón tay trỏ ở ngoài với gân cơ duỗi riêng ngón tay út ở trong, khe giữa đầu dưới xương quay và xương trụ, ở trên xương nguyệt.. Thần kinh vận động cơ là các nhánh của dây thần kinh trụ.. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C7.",
+  "functionalities": [
+    "Viêm khớp cổ tay, đau tay",
+    "Viêm họng",
+    "Đau vai",
+    "Đau mắt",
+    "Điếc",
+    "Cảm mạo, cúm",
+    "Sốt rét",
+    "Đái đường"
+  ],
+  "technique": "Châm thẳng, sâu 0.3 - 0.5 thốn, có cảm giác căng tức có khi lan ra đến ngón giữa. Khớp cổ tay: Châm xiên, mũi kim hướng phải hoặc trái, sâu 0.5 - 1 thốn. Có cảm giác căng tức, tê giật toàn bộ khớp ngón tay"
+},{
+  "code": "TE-5",
+  "name": "Ngoại quan",
+  "description": "Từ huyệt Dương Trì đo lên 2 thốn, huyệt ở giữa khe xương quay và xương trụ",
+  "anatomy": "Dưới huyệt là khe giữa các cơ duỗi chung ngón tay và cơ duỗi dài riêng ngón tay cái ở ngoài, với các cơ duỗi riêng ngón tay út và cơ duỗi riêng ngón tay trỏ ở trong, giữa màng gian cốt.. Thần kinh vận động cơ là các nhánh của dây thần kinh quay.. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C7.",
+  "functionalities": [
+    "Đau thần kinh tay trước",
+    "Viêm khớp chi trên",
+    "Viêm tuyến dưới tai, ù tai",
+    "Đau đầu, cảm cúm",
+    "Giải nhiệt do ngoại cảm",
+    "Viêm phổi",
+    "Thương hàn"
+  ],
+  "technique": "Châm thẳng 1 - 1.5 thốn, hoặc xiên qua Nội Quan. Có cảm giác căng tức, có khi lan tới các mút ngón tay. Bệnh thận: châm xiên, mũi châm hướng lên trên, sâu 1.5 - 2 thốn. khi hướng có cảm giác căng tức, khi vê kim có khi lan tới khớp khuỷu vai. Cứu 3 - 5 lửa . Ôn cứu 5 - 15 phút."
+},{
+  "code": "SI-4",
+  "name": "Uyển cốt",
+  "description": "Bàn tay hơi nắm lại, ở phía mu tay quay. Phía bờ trong bàn tay, nơi chỗ lõm giữa xương móc và xương bàn tay 5, trên đường tiếp giáp da gan tay, mu tay.",
+  "anatomy": "Dưới huyệt là cơ da gan tay, cơ dạng ngón út, chỗ lõm giữa đầu trên xương bàn tay 5 và xương tháp, đáy chỗ lõm là xương móc.. Thần kinh vận động cơ là các nhánh của dây thần kinh trụ.. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C8.",
+  "functionalities": [
+    "Viêm khớp ngón, cổ tay, khớp khuỷu",
+    "Đau đầu",
+    "Ù tai",
+    "Đái đường",
+    "Viêm dạ dày",
+    "Viêm túi mật"
+  ],
+  "technique": "Châm thẳng sâu 0, 3 - 0, 5 thốn. Có cảm giác căng tức có khi lan tới bàn tay. . Cứu 3 lửa, . Ôn cứu 5 - 20 phút."
+},{
+  "code": "SI-7",
+  "name": "Chi chính",
+  "description": "Đo thẳng lên 5 thốn từ khớp cổ tay, tại sát bờ sau xương trụ, cách cổ tay 5 thốn, trên đường nối huyệt Dương Cốc và huyệt Tiểu Hải.",
+  "anatomy": "Dưới huyệt là khe giữa cơ trụ trước và cơ trụ sau, chỗ bám vào xương của cơ duỗi riêng ngón tay trỏ và cơ gấp chung sâu các ngón tay xương trụ.. Thần kinh vận động cơ là các nhánh của dây thần kinh trụ và dây thần kinh quay.. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T1.",
+  "functionalities": [
+    "Đau cánh tay, co tay, ngón tay không nắm được",
+    "Cổ gáy sưng đau, đau hàm",
+    "Suy nhược thần kinh",
+    "Sốt không ra mồ hôi",
+    "Điên",
+    "Kinh sợ"
+  ],
+  "technique": "Châm thẳng sâu 0, 5-0, 8 thốn. Cứu 3 lửa . Ôn cứu 5-10 phút."
+},{
+  "code": "ST-36",
+  "name": "Túc tam lý",
+  "description": "Dưới mắt gối ngoài 3 thốn, phía ngoài xương mác khoảng 1 khoát ngón tay, nơi cơ cẳng chân trước, khe giữa xương chầy và xương mác.. Hoặc úp lòng bàn tay vào giữa đầu gối, đầu ngón tay giữa chạm vào xương ống chân (xương chầy), từ đó đo ra 1 thốn là huyệt túc tam lý. Dưới lõm ngoài xương bánh chè (Độc Tỵ) 3 thốn.",
+  "anatomy": "Dưới da là cơ cẳng chân trước, chỗ bám các thớ gân cơ 2 đầu đùi, khe giữa xương chầy và xương mác, màng gian cốt.. Thần kinh đi từ tiết đoạn thắt lưng 4 cùng 1. Lớp nông có dây thần kinh da bắp chân ngoài và nhánh da thần kinh hiển, lớp sâu có dây thần kinh hông khoeo đi qua. . Thần kinh vận động cơ là nhánh của dây thần kinh hông to, nhánh của dây thần kinh chầy trước.. . Da vùng huyệt chi phối bởi tiết đoạn thần kinh L5.",
+  "functionalities": [
+    "Đau đầu gối co duỗi khó",
+    "Viêm dạ dày cấp mãn tính, loét dạ dày",
+    "Viêm ruột cấp mãn tính",
+    "Viêm tuỵ tạng cấp tính",
+    "Bệnh thuộc hệ thống tiêu hoá, trẻ con tiêu hoá kém, bại liệt",
+    "Thần kinh suy nhược",
+    "Bệnh thuộc hê sinh dục bài tiết",
+    "Suy nhiệt, thiếu máu, huyết áp cao",
+    "Suyễn",
+    "Kích ngất",
+    "Động kinh",
+    "Vàng da",
+    "Dị ứng"
+  ],
+  "technique": "Châm thẳng, hơi hướng mũi kim về hướng xương mác, sâu 1 - 2 thốn, có cảm giác tê như điện giật lan xuốn mu bàn chân. Châm xiên, hướng mũi kim xuống dưới, sâu 2 - 3 thốn, có cảm giác căng tức mu bàn chân, có khi hướng lan tới đầu gối. Cứu 5 - 15 lửa. Ôn cứu 10 - 30 phút"
+},{
+  "code": "ST-40",
+  "name": "Phong long",
+  "description": "Ngồi thòng chân, đỉnh mắt cá chân ngoài lên 8 thốn hoặc lấy huyệt ở điểm giữa nếp kheo chân và mắt cá chân ngoài.. Khi tìm huyệt vểnh bàn chân lên xoay qua lại cho lộ khe cơ. Huyệt ở trên chỗ lồi cao nhất của mắt cá ngoài chân",
+  "anatomy": "Dưới da là khe giữa cơ duỗi chung các ngón chân và cơ mác bên ngắn, ở sâu là cơ duỗi dài riêng ngón chân cái, xương mác.. . Thần kinh vận động cơ là nhánh của dây thần kinh chầy trước và nhánh của dây thần kinh cơ-da.. . Da vùng huyệt chi phối bởi tiết đoạn thần kinh L5.",
+  "functionalities": [
+    "Cước khí, đau nhứt chân, sưng tứ chi",
+    "Đau đầu, chóng mặt",
+    "Ho, đàm nhiều",
+    "Bế kinh, băng huyết"
+  ],
+  "technique": "Châm thẳng, mũi kim hướng về phía trong, sâu 1 -  3 thốn, có cảm giác căng tức hướng lên trên lan tới vùng đùi hoặc chạy cuống mắt cá ngoài  . Cứu 5-7 lửa . Ôn cứu 5-10 phút."
+},{
+  "code": "ST-42",
+  "name": "Xung dương",
+  "description": "Nơi cao nhất của mu bàn chân, có động mạch đập, trên huyệt Nội Đình 5 thốn, nằm giữa huyệt Nội Đình và Giải Khê, bờ trong gân cơ duỗi ngón thứ 2 và cơ duỗi ngắn ngón cái.",
+  "anatomy": "Dưới huyệt là bờ trong gân cơ duỗi ngón 2 của cơ duỗi chung các ngón chân, cơ duỗi ngắn ngón cái, sau khớp chêm-thuyền.. . Thần kinh vận động cơ là các nhánh của dây thần kinh chày trước.. . Da vùng huyệt chi phối bởi tiết đoạn thần kinh L5.",
+  "functionalities": [
+    "Đau mu bàn chân, tay chân không đưa lên cao",
+    "Đau đầu liệt mặt, đau răng",
+    "Sốt cao",
+    "Bệnh tâm thần",
+    "Sốt rét"
+  ],
+  "technique": "Châm thẳng, sâu 0.3 - 0.5 thốn, tránh động mạch ở mu bàn chân. Cứu 3 lửa. Ôn cứu 5 - 10 phút"
+},{
+  "code": "LU-2",
+  "name": "Vân môn",
+  "description": "Bờ dưới xương đòn gánh, ngang với cơ ngực to. Chỗ hõm giữa cơ Đenta. Từ đường dọc chính giữa xương ngực đo ngang ra mỗi bên 6 thốn.",
+  "functionalities": [
+    "Ho",
+    "Bồn chồn trong ngực, đau tức ngực",
+    "Suyễn",
+    "Viêm quanh khớp vai"
+  ]
+},{
+  "code": "LU-3",
+  "name": "Thiên phủ",
+  "description": "Dưới nếp nách trước 3 thốn, huyệt ở bờ ngoài cơ hai đầu cánh tay.",
+  "functionalities": [
+    "Đau bên trong trên cánh tay",
+    "Viêm khí quản",
+    "Suyễn",
+    "Xuất huyết mũi"
+  ]
+},{
+  "code": "LU-4",
+  "name": "Hiệp bạch",
+  "description": "Từ huyệt Xích trạch đo lên 5 thốn, đè mạnh có động mạch nhảy. Huyệt là nơi gặp nhau của bờ ngoài cơ 2 đầu cánh tay, với đường ngang dưới đầu nếp nách trước 4 thốn và trên khớp khuỷu 5 thốn.",
+  "functionalities": [
+    "Đau phía trước ngoài cánh tay",
+    "Suyễn",
+    "Ho, tức ngực, viêm khí quản",
+    "Xuất huyết mũi"
+  ]
+},{
+  "code": "LU-5",
+  "name": "Xích trạch",
+  "description": "Gấp nếp khuỷu tay, chỗ sũng phía tay quay của gân cơ 2 đầu cánh tay",
+  "functionalities": [
+    "Tại chỗ sưng đau khuỷu tay",
+    "Theo kinh Ho, suyễn, viêm khí quản, viêm phổi, viêm màng ngực, ho ra máu",
+    "Đơn độc, sưng họng thanh quản"
+  ]
+},{
+  "code": "LU-6",
+  "name": "Khổng tối",
+  "description": "Thẳng cẳng tay, gấp duỗi bàn tay lên xuống để thấy cơ. Huyệt là nơi gặp nhau của bờ trong cơ ngửa dài hay bờ ngoài của cơ gan tay to với đường ngang trên khớp cổ tay 7 thốn và dưới khớp khuỷu 5 thốn (nối từ Xích trạch và Thái uyên).",
+  "functionalities": [
+    "Ho, suyễn",
+    "Viêm phổi, viêm tuyến Amydale",
+    "Đau cẳng tay",
+    "Lạc huyết"
+  ]
+},{
+  "code": "LU-8",
+  "name": "Kinh cừ",
+  "description": "Tay duỗi ra, ngón tay cái và lòng bàn tay đưa lên, từ chỉ cườm tay đo lên 1 thốn, chỗ 3 ngón tay ấn mạch ở ngón giữa.",
+  "functionalities": [
+    "Đau cổ tay",
+    "Viêm khí quản, ho, đau ngực",
+    "Suyễn, sốt không có mồ hôi"
+  ]
+},{
+  "code": "LU-10",
+  "name": "Ngư tế",
+  "description": "Điểm giữa chiều dài của xương bàn tay. Huyệt trên chỗ tiếp giáp của da gan tay và da mu tay.",
+  "functionalities": [
+    "Đau tay vùng ngón cái, nóng lòng bàn tay",
+    "Ho ra máu, suyễn",
+    "Viêm họng, viêm tuyến biên đảo, mất tiếng, phát sốt, lao phổi"
+  ]
+},{
+  "code": "LU-11",
+  "name": "Thiếu thương",
+  "description": "Cách gốc móng tay chừng 0,1 thốn về phía tay quay. Huyệt nằm ở chỗ gặp nhau tiếp giáp da gan tay mu tay và đường ngang qua gốc móng tay cái.",
+  "functionalities": [
+    "Sưng ngón tay cái",
+    "Ho, viêm phổi",
+    "Viêm tuyến biên đảo",
+    "Viêm tuyến mang tai",
+    "Cảm mạo",
+    "Trúng gió, hôn mê",
+    "Trẻ con tiêu hoá kém",
+    "Tâm thần phân liệt"
+  ],
+  "caution": "Đàn bà có thai cấm cứu. Trị đỏ mắt đau họng nên chích xuất huyết. Trị chứng tâm thần phân liệt nên dùng Ngải cứu"
+},{
+  "code": "LI-1",
+  "name": "Thương dương",
+  "description": "Một bên ngón trỏ phía tay quay, cách góc móng tay chừng 0,1 thốn. Huyệt ở trên đường tiếp giáp da gan tay - mu tay",
+  "functionalities": [
+    "Đau nhức ngón trỏ, tê ngón trỏ",
+    "Đau răng",
+    "Hôn mê",
+    "Sốt cao",
+    "Ù tai",
+    "Đau họng, thanh quản"
+  ]
+},{
+  "code": "LI-2",
+  "name": "Nhị gian",
+  "description": "Trên đường tiếp giáp da gan tay - mu tay, sờ thấy xương hình vòng cung. Huyệt ở bên ngoài ngón trẻo, chỗ tiếp nối của thân với đầu trên xương đốt 1 ngón trỏ.",
+  "functionalities": [
+    "Đau ngón tay trỏ, bàn tay",
+    "Đau răng, đau họng",
+    "Xuất huyết mũi",
+    "Liệt mặt, đau dây thần kinh ba nhánh",
+    "Nóng sốt"
+  ]
+},{
+  "code": "LI-3",
+  "name": "Tam gian",
+  "description": "Ở mu bàn tay phía trên đầu xương bàn tay thứ 2. Huyệt ở trên đường tiếp giáp da gan tay - mu tay ở bờ ngoài ngón trỏ, ngang với chỗ tiếp nối của thân và đầu dưới xương bàn tay thứ 2.",
+  "functionalities": [
+    "Đau ngón trỏ, sưng đau lưng bàn tay",
+    "Đau răng, đau họng thanh quản",
+    "Đau thần kinh sinh ba",
+    "Đau mắt",
+    "Sốt rét"
+  ]
+},{
+  "code": "LI-5",
+  "name": "Dương khê",
+  "description": "Nghiêng bàn tay, thẳng 2 ngón cái và trỏ đưa lên về phía ngón cái để hiện rõ hố lào giữa gân cơ duỗi và dang ngón cái. Huyệt ở sát đầu mỏm trâm xương quay.",
+  "functionalities": [
+    "Nhức cánh tay, đau do viêm cổ tay",
+    "Nhức thần kinh răng",
+    "Nhức khớp vai",
+    "Đau họng",
+    "Ù tai",
+    "Đỏ mắt",
+    "Trẻ con tiêu hoá kém",
+    "Sốt cao",
+    "Tức ngực, thở khó",
+    "Nhức đầu",
+    "Phát cuồng"
+  ]
+},{
+  "code": "LI-7",
+  "name": "Ôn lưu",
+  "description": "Chỗ hõm trên xương quay tay khi bàn tay nắm chặt lại. Nối huyệt Dương khê và Khúc trì, từ Dương khê đo lên 5 thốn.",
+  "functionalities": [
+    "Đau cẳng tay",
+    "Viêm xoang miệng, viêm lưỡi",
+    "Liệt mặt",
+    "Đau bụng",
+    "Thanh quản",
+    "Viêm tuyến mang tai"
+  ]
+},{
+  "code": "LI-8",
+  "name": "Hạ liêm",
+  "description": "Xác định huyệt Khúc trì và Dương khê. Huyệt nằm dưới Khúc trì 4 thốn hoặc trên Dương khê 8 thốn, có thể xác định huyệt Ôn lưu và trên huyệt này 1 thốn.",
+  "functionalities": [
+    "Đau cánh tay, đau khuỷu tay",
+    "Đau đầu, xoang đầu, chóng mặt",
+    "Đau mắt",
+    "Nhức vai",
+    "Đau cổ",
+    "Đau bụng",
+    "Viêm tuyến vú"
+  ]
+},{
+  "code": "LI-9",
+  "name": "Thượng liêm",
+  "description": "Dưới huyệt Khúc trì 3 thốn. Huyệt nằm trên đường nối của huyệt Dương khê và Khúc trì. Khi điểm huyệt gập một bên cổ tay vào khuỷu tay.",
+  "functionalities": [
+    "Liệt chi trên, chấn thương",
+    "Tê tay tê chân",
+    "Sôi ruột, đau bụng"
+  ]
+},{
+  "code": "LI-10",
+  "name": "Thủ tam lý",
+  "description": "Dưới huyệt Khúc trì 2 thốn, trên đường nối Khúc trì và Dương khê. Khi điểm huyệt co một bên cổ tay vào khuỷu tay.",
+  "functionalities": [
+    "Đau vai cánh tay, bại xuội chi trên",
+    "Ỉa chảy, tiêu hoá kém",
+    "Loét dạ dày, đau dạ dày",
+    "Đau bụng"
+  ]
+},{
+  "code": "LI-12",
+  "name": "Trữu liêu",
+  "description": "Co tay, huyệt Khúc trì xiên lên ra ngoài chừng 1 thốn ở bờ ngoài xương cánh tay.",
+  "functionalities": [
+    "Đau khớp khuỷu cánh tay",
+    "Viêm lồi cầu xương cánh tay"
+  ]
+},{
+  "code": "LI-13",
+  "name": "(Thủ) ngũ lý",
+  "description": "Trên huyệt Khúc trì 3 thốn. Huyệt ở sát bờ xương cánh tay.",
+  "functionalities": [
+    "Đau khuỷu cánh tay",
+    "Lao hạch cổ",
+    "Ho ra máu",
+    "Viêm phổi",
+    "Viêm phúc mạc"
+  ]
+},{
+  "code": "LI-14",
+  "name": "Tí nhu",
+  "description": "Co duỗi cánh tay để lộ gân cơ. Huyệt ở chỗ đầu cuối của cơ tam giác cánh tay.",
+  "functionalities": [
+    "Đau vai cánh tay, bại liệt chi trên",
+    "Bệnh mắt"
+  ]
+},{
+  "code": "LI-16",
+  "name": "Ngự cốt",
+  "description": "Sờ tìm ngoài đầu xương đòn, chỗ đầu vai có hõm, trên huyệt Kiên ngung. Huyệt là khe giữa xương đòn với gai sống vai.",
+  "functionalities": [
+    "Bệnh khớp vai",
+    "Lao hạch cổ",
+    "Mửa ra máu"
+  ]
+},{
+  "code": "LI-17",
+  "name": "Thiên đỉnh",
+  "description": "Phía dười bờ xương hàm độ 2 thốn, ngang với bờ dưới của sụn giáp trạng. Huyệt là nơi gặp nhau của bờ sau cơ bó đòn cơ ức-đòn-chũm và đường ngang qua giữa cổ.",
+  "functionalities": [
+    "Viêm hầu, họng",
+    "Lao hạch cổ",
+    "Liệt cơ lưỡi"
+  ]
+},{
+  "code": "LI-18",
+  "name": "Phù đột",
+  "description": "Ngồi ngay, từ chỗ cao nhất của yết hầu, đo ra 3 thốn, ngoài huyệt Nhân nghênh, bờ sau cơ ức-đòn-chũm",
+  "functionalities": [
+    "Tắt tiếng, khàn tiếng, sưng đau họng thanh quản, nuốt khó",
+    "Suyễn, đàm nhiều, ho",
+    "Huyệt dùng để gây tê trong phẫu thuật tuyến giáp trạng"
+  ]
+},{
+  "code": "LI-19",
+  "name": "Hòa liêu",
+  "description": "Giữa mũi, môi trên, tứ huyệt Nhân trung đo ra 5 phân. Huyệt nằm trên đường ngang qua 1/3 trên hoặc 2/3 dưới của rãnh Nhân trung, ở phía ngoài đường rảnh giữa 0,5 thốn.",
+  "functionalities": [
+    "Viêm mũi, nghẹt mũi",
+    "Liệt dây thần kinh mặt, co giật thần kinh mặt"
+  ]
+},{
+  "code": "ST-1",
+  "name": "Thừa khấp",
+  "description": "Mắt nhìn thẳng, dưới đồng tử 7 phân, ở giữa nhãn cầu và bờ dưới hố mắt",
+  "functionalities": [
+    "Viêm kết mạc cấp mãn tính, viêm teo thần kinh thị giác",
+    "Cận thị, viễn thị, tán quang",
+    "Lác mắt",
+    "Quáng gà"
+  ],
+  "caution": "Huyệt này dễ xuất huyết, sau khi rút kim cần phải ép bông 2-3 phút để phòng chảy máu. Nếu có xuất huyết, khoanh dưới mắt có thể tím xanh, một tuần sau tan hết không ảnh hưởng tới thị lực. Cần lưu ý tránh châm vào nhãn cầu, hoặc vào mạch máu khu mi dưới mắt. Không nên châm quá sâu tránh kim vào xoang sọ."
+},{
+  "code": "ST-2",
+  "name": "Tứ bạch",
+  "description": "Điểm giữa mi dưới thẳng xuống 1 thốn, ở lỗ dưới hố mắt",
+  "functionalities": [
+    "Liệt thần kinh mặt, co rút thần kinh mặt, đau thần kinh sinh ba",
+    "Viêm giác mạc, cận thị",
+    "Viêm mũi",
+    "Giun chui ống mật",
+    "Phù mặt do dị ứng"
+  ],
+  "caution": "Châm mũi kim hướng lên trên, vào lỗ dưới hố thắt, không nên châm sâu quá, nếu châm sâu quá có thể chui vào hố mắt tổn thương tới nhãn cầu."
+},{
+  "code": "SP-19",
+  "name": "Hung hương",
+  "description": "Nằm ngửa dang tay ra, từ vú đo ra 2 thốn. Huyệt ở bờ trên xương sườn 5, ngoài Nhâm mạch 6 thốn, trên đường dưới nách.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Tức ngực"
+  ],
+  "caution": "Bên dưới là phổi không được châm sâu quá"
+},{
+  "code": "SP-20",
+  "name": "Chu vinh",
+  "description": "Khi điểm huyệt nằm ngửa dang tay ra, từ đầu vú đo ra 2 thốn. Từ Thiên khê đo lên 2 xương sườn, dưới Trung phủ 1 xương sườn. Huyệt ở bờ trên xương sườn thứ 4, ngoài Nhâm mạch 6 thốn ở trên đường nách trước.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Ho",
+    "Viêm màng ngực"
+  ],
+  "caution": "Bên dưới là phổi không được châm sâu quá"
+},{
+  "code": "SP-21",
+  "name": "Đại bao",
+  "description": "Khi điểm huyệt nằm ngửa dang ta ra. Huyệt là điểm gặp nhau của đường nách giữa và bờ trên xương sườn 7.",
+  "functionalities": [
+    "Suyễn",
+    "Đau thần kinh liên sườn, tức sườn ngực",
+    "Đau nhức toàn thân, đau mỏi nặng nề khắp người",
+    "Bải hoải tay chân, lười biếng",
+    "Đau đa khớp"
+  ],
+  "caution": "Bên dưới là phổi không được châm sâu quá"
+},{
+  "code": "HT-1",
+  "name": "Cực tuyền",
+  "description": "Đưa thẳng tay lên chỗ lằn chỉ ở nách, đè tay vào có mạch nhảy ở chỗ hõm. Huyệt sau gân cơ hai đầu và cơ quạ cánh tay, phía trước động mạch nách.",
+  "functionalities": [
+    "Viêm khớp vai, viêm quanh khớp vai",
+    "Đau thắt tim",
+    "Đau nhức sườn",
+    "Đau ngực",
+    "Cánh tay không đưa lên được",
+    "Lao hạch"
+  ],
+  "caution": "Tránh vê kim để khỏi tổn thương đến bó mạch thần kinh nách"
+},{
+  "code": "HT-2",
+  "name": "Thanh linh",
+  "description": "Co khớp khuỷu 90 độ để rõ cơ. Huyệt ở phía trên đầu trong nếp gấp khuỷu tay 3 thốn, ở rãnh trong cơ 2 đầu cánh tay.",
+  "functionalities": [
+    "Đau hông sườn",
+    "Vàng mắt",
+    "Đau vai, đau cánh tay"
+  ],
+  "caution": "Nếu ngộ châm làm bệnh nhân trong ngực bứt rứt khó chịu, nên dùng huyệt Thần môn để hoá giải."
+},{
+  "code": "HT-3",
+  "name": "Thiếu hải",
+  "description": "Khi điểm huyệt co tay, huyệt ở chỗ hõm, huyệt nằm cuối lằn chỉ tay ở sát đầu trong nếp gấp khớp khuỷu.",
+  "functionalities": [
+    "Đau tổ chức mềm quanh khớp khuỷu",
+    "Tê cánh tay trước",
+    "Đau thần kinh sườn",
+    "Suy nhược thần kinh",
+    "Tâm thần phân liệt"
+  ]
+},{
+  "code": "HT-4",
+  "name": "Linh đạo",
+  "description": "Khi điểm huyệt gấp bàn tay ngược vào cẳng tay để nối khe của gân cơ trụ trước và gân cơ gấp chung các ngón tay. Huyệt ở giữa khe và trên huyệt Thần môn 1 thốn 5 phân.",
+  "functionalities": [
+    "Đau khớp cườm tay, đau cẳng tay",
+    "Đau vùng tim",
+    "Kinh sợ",
+    "Tâm thần phân liệt",
+    "Hysteria"
+  ]
+},{
+  "code": "HT-6",
+  "name": "Âm khích",
+  "description": "Khi điểm huyệt, ngửa bàn tay vào cẳng tay để lộ rõ các khe gân. Huyệt ở trong khe của gân cơ trụ trước và các gân cơ gấp chung ngón tay. Trên huyệt Thần môn 0,5 thốn.",
+  "functionalities": [
+    "Tức ngực, ngột thở, hồi hộp",
+    "Đau tim",
+    "Ra mồ hôi trộm",
+    "Chảy máu cam",
+    "Mửa ra máu"
+  ]
+},{
+  "code": "HT-8",
+  "name": "Thiếu phủ",
+  "description": "Khi nắm chặt các ngón tay lại, đầu mút của ngón tay út, chỉ vào đâu thì đó là huyệt (giữa xương bàn tay thứ 5 và 4), huyệt nằm trên đường vân của lòng bàn tay.",
+  "functionalities": [
+    "Nóng lòng bàn tay",
+    "Tê quắp ngón tay út",
+    "Đau quặn tim, hồi hộp, nhịp tim không đều, thấp tim",
+    "I-tê-ri",
+    "Đái dầm",
+    "Tiêu không thông"
+  ]
+},{
+  "code": "HT-9",
+  "name": "Thiếu xung",
+  "description": "Ở ngón tay út phía tay quay, cách góc móng tay độ 0,1 thốn, trên đường tiếp giáp da gan tay - mu tay",
+  "functionalities": [
+    "Hồi hộp",
+    "Sốt cao",
+    "Trúng phong hôn mê",
+    "Trẻ con động kinh",
+    "I-tê-ri"
+  ]
+},{
+  "code": "SI-1",
+  "name": "Thiếu trạch",
+  "description": "Ở ngón út phía tay trụ, cách gốc móng tay chừng 0,1 thốn. Huyệt trên đường tiếp giáp da gan tay - mu tay.",
+  "functionalities": [
+    "Đau đầu",
+    "Đau thần kinh cánh tay trước",
+    "Nội tiết sữa giảm",
+    "Viêm tuyến vú",
+    "Tâm thần phân liệt"
+  ]
+},{
+  "code": "SI-2",
+  "name": "Tiền cốc",
+  "description": "Ở khớp xương ngón tay thứ 5 về phía trụ, khi nắm tay lại huyệt ở mút trước của lằn chỉ tay ngón út và bàn, nơi tiếp giáp da gan tay và mu tay.",
+  "functionalities": [
+    "Ù tai",
+    "Đau họng",
+    "Viêm tuyến vú",
+    "Đau mắt",
+    "Tê ngón tay",
+    "Đái nóng đỏ"
+  ]
+},{
+  "code": "SI-3",
+  "name": "Hậu khê",
+  "description": "Nắm bày tay lại, nơi chỗ hõm của khớp xương ngón tay út và xương bàn tay. Huyệt ở trên đường tiếp giáp da gan tay - mu tay ở bờ trong bàn tay, ngang với đầu trong đường vân tim ở bàn tay.",
+  "functionalities": [
+    "Ngón tay út co duỗi khó",
+    "Đau cứng cổ gáy",
+    "Đau đầu, ù tai",
+    "Động kinh, sốt rét",
+    "Tâm thần phân liệt",
+    "Suy nhược thần kinh",
+    "Mồ hôi trộm"
+  ]
+},{
+  "code": "BL-62",
+  "name": "Thân mạch",
+  "description": "Khi điểm huyệt gấp duỗi để tìm gân cơ, huyệt ở trong rãnh thẳng từ đầu nhọn mắt cá ngoài xuống khoảng 0.5 thốn.",
+  "functionalities": [
+    "Đau đầu, chóng mặt, xoàng đầu gốc trong tai",
+    "Viêm khớp mắt cá",
+    "Đau lưng thắt lưng đài",
+    "Viêm màng não tuỷ",
+    "Động kinh",
+    "Tâm thần phân liệt"
+  ]
+},{
+  "code": "BL-63",
+  "name": "Kim môn",
+  "description": "Trước huyệt Thân mạch, cách Thân mạch 5 phân nơi có chỗ hõm, hơi chếch về phía trước sát bờ xương hộp.",
+  "functionalities": [
+    "Đau lưng đùi",
+    "Đau gót chân",
+    "Động kinh",
+    "Trẻ con kinh phong"
+  ]
+},{
+  "code": "BL-65",
+  "name": "Thúc cốt",
+  "description": "Phía sau đầu nhỏ của xương bàn chân 5, huyệt ở chỗ hõm nơi tiếp giáp da gan chân - mu chân.",
+  "functionalities": [
+    "Đau đỉnh đầu",
+    "Đau phía ngoài bàn chân",
+    "Mờ mắt",
+    "Sốt rét",
+    "Động kinh",
+    "Bệnh tâm thần"
+  ]
+},{
+  "code": "BL-66",
+  "name": "Thủ thông cốc",
+  "description": "Chỗ hõm bờ ngoài phía trước khớp xương ngón chân 5. Huyệt ở trên đường tiếp giáp da gan chân - mu chân.",
+  "functionalities": [
+    "Đau đầu chóng mắt",
+    "Suyễn",
+    "Xuất huyết mũi",
+    "Bệnh tâm thần"
+  ]
+},{
+  "code": "BL-67",
+  "name": "Chí âm",
+  "description": "Ở đầu ngón út, cách gốc móng chân độ 0,2 thốn. Huyệt ở trên đường tiếp giáp da gan chân - mu chân, ở cạnh ngoài ngón út ngang với gốc móng út.",
+  "functionalities": [
+    "Sưng nhức khớp chân",
+    "Nóng gan bàn chân",
+    "Đau đầu",
+    "Mộng thịt mắt",
+    "Nghẹt mũi, chảy máu mũi, bứt rứt",
+    "Di tinh",
+    "Đẻ khó, vị trí thai không chính",
+    "Sót nhau",
+    "Đái khó",
+    "Trúng phong"
+  ]
+},{
+  "code": "KI-1",
+  "name": "Dũng tuyền",
+  "description": "Dưới lòng bàn chân, huyệt ở điểm nối 2/5 trước với 3/5 sau của đoạn đầu ngón chân 2 và giữa bờ sau gót chân lỗ hõm dưới bàn chân. Khi điểm huyệt nên nảy bàn chân lên cẳng chân.",
+  "functionalities": [
+    "Đau nhức, nóng, lạnh gan bàn chân",
+    "Đau, nhức đỉnh đầu",
+    "Đau tê mặt trong đùi",
+    "Kích ngất",
+    "Mất ngủ",
+    "Trúng nắng",
+    "Trúng gió",
+    "Huyết áp cao",
+    "Động kinh",
+    "Bệnh tâm thần"
+  ]
+},{
+  "code": "KI-2",
+  "name": "Nhiên cốc",
+  "description": "Xác định đường tiếp giáp da gan chân - mu chân. Huyệt sát giữa bờ dưới xương thuyền.",
+  "functionalities": [
+    "Đau khớp bàn chân",
+    "Ngứa âm hộ",
+    "Bệnh thuộc cơ quan sinh dục và tiết niệu",
+    "Viêm yếu hầu",
+    "Đái đường",
+    "Vàng da",
+    "Sốt rét",
+    "Ù tai",
+    "Ra mồ hôi trộm",
+    "Phá thương phong"
+  ]
+},{
+  "code": "KI-5",
+  "name": "Thủy tuyền",
+  "description": "Dưới huyệt Thái khê thẳng xuống 1 thốn, trên xương gót chân.",
+  "functionalities": [
+    "Đau gót chân",
+    "Bế kinh",
+    "Sưng tử cung",
+    "Cận thị"
+  ]
+},{
+  "code": "KI-6",
+  "name": "Chiếu hải",
+  "description": "Khi điểm huyệt bảo bệnh nhân gấp hoặc duỗi lật bàn chân vào trong để xác định gân cơ thẳng chân sau và cơ gấp dải các ngón chân, ở thẳng dưới mắt cá trong chân 1 thốn. Huyệt nằm ở chỗ hõm đo từ mỏm cao nhất của xương mắt cá nhân trong xuống 1 thốn.",
+  "functionalities": [
+    "Viêm khớp mắt cá trong",
+    "Viêm họng",
+    "Sa tử cung",
+    "Khô họng",
+    "Suy nhược thần kinh",
+    "Y bệnh",
+    "Động kinh",
+    "Kinh nguyệt không đều",
+    "Táo bón",
+    "Ngứa sinh dục ngoài. Âm hư hoả vượng"
+  ]
+},{
+  "code": "KI-7",
+  "name": "Phục lưu",
+  "description": "Xác định huyệt Thái kê rồi đo lên 2 thốn. Huyệt trong khe của mặt trước gân gót chân và cơ gấp dài riêng ngón cái.",
+  "functionalities": [
+    "Lạnh chân từ mắt cá xuống",
+    "Teo cơ",
+    "Viêm dịch hoàn",
+    "Viêm thận",
+    "Nhiễm trùng đường tiểu",
+    "Xuất huyết tử cung chức năng",
+    "Bạch đới nhiều",
+    "Suy nhược thần kinh",
+    "Đau lưng",
+    "Phù thủng",
+    "Ra mồ hôi trộm"
+  ]
+},{
+  "code": "KI-8",
+  "name": "Giao tín",
+  "description": "Trước huyệt Phục lưu 0.5 thốn. Huyệt ở giữa đoạn nối bờ sau trong xương chảy và bờ trong gân gót chân.",
+  "functionalities": [
+    "Đau mặt trong chân dưới",
+    "Kinh nguyệt không đều",
+    "Băng lậu",
+    "Đái rắt",
+    "Lỵ",
+    "Bón"
+  ]
+},{
+  "code": "KI-9",
+  "name": "Trúc tân",
+  "description": "Trên huyệt Thái khê chừng 5 thốn, sau bờ trong xương chầy chừng 2 thốn. Vểnh bản chân lên để hiện ra huyệt.",
+  "functionalities": [
+    "Co rút cơ bắp chân",
+    "Viêm thận",
+    "Bàng quang",
+    "Viêm dịch hoàn",
+    "Viêm hố khung chậu",
+    "Động kinh",
+    "Tâm thần phân liệt"
+  ]
+},{
+  "code": "GB-22",
+  "name": "Uyển dịch",
+  "description": "Đường chính giữa nách kéo xuống 3 thốn, giữa xương sườn thứ 5.",
+  "functionalities": [
+    "Viêm màng ngực",
+    "Đau thần kinh gian sườn",
+    "Viêm hạch nách",
+    "Đau vai - cánh tay"
+  ],
+  "caution": "Dưới là phổi, không được châm sâu"
+},{
+  "code": "GB-23",
+  "name": "Triếp cân",
+  "description": "Trước huyệt Uyên dịch 1 thốn, ngang giữa xương sườn thứ 5. Khi điểm huyệt nằm nghiêng.",
+  "functionalities": [
+    "Viêm màng ngực",
+    "Suyễn",
+    "Nôn mửa",
+    "Nuốt chua"
+  ],
+  "caution": "Bên dưới là phổi, cấm châm sâu"
+},{
+  "code": "GB-24",
+  "name": "Nhật nguyệt",
+  "description": "Từ núm vú kéo thẳng xuống ở khoảng giữa gian sườn 7, sát bờ trên xương sườn 8.",
+  "functionalities": [
+    "Viêm gan cấp mãn tính",
+    "Viêm túi mật",
+    "Lỡ loét do tiêu hoá",
+    "Co thắt cách mô"
+  ],
+  "caution": "Không nên châm sâu quá vì dưới bên phải là túi mật hay gan, bên phải là lá lách, dạ dày hoặc kết trường ngang."
+},{
+  "code": "GB-25",
+  "name": "Kinh môn",
+  "description": "Khi điểm huyệt nằm nghiêng, dưới đầu mút của xương sườn cụt, đè vào có cảm giác ê hoặc tức.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Viêm thận",
+    "Ỉa chảy",
+    "Đầy bụng",
+    "Đau thoát vị ruột",
+    "Đau lưng đùi"
+  ],
+  "caution": "Dưới là thận và kết trường, không được châm sâu quá"
+},{
+  "code": "GB-26",
+  "name": "Đới mạch",
+  "description": "Nằm nghiêng tìm tại xương sườn thứ 11 thẳng vào bụng ngang với rốn, nằm dưới huyệt Kinh môn.",
+  "functionalities": [
+    "Đau thắt lưng",
+    "Đau dây chằng bụng dưới",
+    "Viêm màng trong tử cung",
+    "Viêm bàng quang",
+    "Đau thần kinh tử cung",
+    "Thoát vị",
+    "Bạch đới",
+    "Kinh nguyệt không đều"
+  ]
+},{
+  "code": "GB-27",
+  "name": "Ngũ khu",
+  "description": "Huyệt ở phía trước gai chậu trước - trên nằm dưới đường ngang nối rốn với huyệt Đới mạch 3 thốn.",
+  "functionalities": [
+    "Viêm màng trong tử cung",
+    "Bạch đới quá nhiều",
+    "Đau do thoát vị",
+    "Viêm dịch hoàn",
+    "Đau lưng"
+  ]
+},{
+  "code": "GB-28",
+  "name": "Duy đạo",
+  "description": "Nằm ngửa, dưới phía trước huyệt ngũ khu 0.5 thốn, dưới Chương môn 5.3 thốn, ở dưới trước và gai chậu trước - trên.",
+  "functionalities": [
+    "Đau ruột",
+    "Viêm màng trong tử cung, viêm phần phụ, sa tử cung",
+    "Thoát vị",
+    "Bón",
+    "Bạch đới",
+    "Đau thắt bụng dưới qua thắt lưng"
+  ]
+},{
+  "code": "GB-29",
+  "name": "Cự liêu",
+  "description": "Khi điểm huyệt nằm nghiêng, từ huyệt Duy đạo đo xiên vào bụng xuống 3 thốn, đo vào thêm 5 phân. Huyệt ở giữa đường nối của gai chậu trước - trên với điểm cao nhất của mấu chuyển lớn xương đùi.",
+  "functionalities": [
+    "Viêm khớp háng",
+    "Co thắt vùng bụng dưới",
+    "Đau thắt lưng lan vào bụng dưới",
+    "Liệt chân, yếu chân",
+    "Đau thần kinh toạ",
+    "Viêm dịch hoàn",
+    "Viêm bàng quang"
+  ]
+},{
+  "code": "GB-31",
+  "name": "Phong thị",
+  "description": "Nằm hoặc đứng thẳng, xuôi tay xuống thẳng, ép ngón tay giữa vào bờ sau cơ căng cân đùi. Huyệt ở mút ngón tay giữa áp trên đùi, thường thường nằm trên đầu gối 7 thốn.",
+  "functionalities": [
+    "Liệt hạ chi",
+    "Đau thắt lưng đùi",
+    "Đau thần kinh toạ",
+    "Viêm khớp gối",
+    "Ngứa ngáy"
+  ]
+},{
+  "code": "GB-32",
+  "name": "Trung độc",
+  "description": "Xác định huyệt Phong thị, xong đo xuống 2 thốn.",
+  "functionalities": [
+    "Nhức ống chân",
+    "Bại xuội chi dưới",
+    "Đau dây thần kinh hông",
+    "Viêm khớp gối"
+  ]
+},{
+  "code": "GB-33",
+  "name": "(Tất) Dương quan",
+  "description": "Khi điểm huyệt hơi co đầu gối để thấy chỗ hõm và gân cơ. Trên huyệt Dương lăng - tuyền 3 thốn, chỗ hõm phía sau ngoài lồi cầu ngoài xương đùi.",
+  "functionalities": [
+    "Sưng đau tại chỗ",
+    "Khớp gối không co duỗi được, viêm khớp gối",
+    "Cước khí"
+  ]
+},{
+  "code": "GB-35",
+  "name": "Dương giao",
+  "description": "Từ huyệt Côn lôn ở mắt ngoài đo thẳng lên 7 thốn, huyệt gần bờ xương mác trong khe cơ mác bên đùi và cơ mác bên ngắn.",
+  "functionalities": [
+    "Cước khí, nhức ống chân, đau gối",
+    "Đau thần kinh toạ",
+    "Liệt chân",
+    "Tức ngực",
+    "Đau sườn",
+    "Đắng miệng"
+  ]
+},{
+  "code": "GB-36",
+  "name": "Ngoại khâu",
+  "description": "Trên mắt cá ngoài chân 7 thốn, huyệt ở bờ trước xương mác.",
+  "functionalities": [
+    "Đau cẳng chân",
+    "Đau đầu, tức ngực",
+    "Đau túi mật",
+    "Viêm gan",
+    "Liệt hạ chi"
+  ]
+},{
+  "code": "ST-3",
+  "name": "Cự liêu",
+  "description": "Khi điểm huyệt mắt ngó ngay, từ lỗ mũi đo ra 8 phân ngay dưới huyệt Tứ bạch. Huyệt là nơi gặp nhau của đường giữa mắt kéo xuống với rãnh mũi-má",
+  "functionalities": [
+    "Liệt dây thần kinh 7, đau thần kinh mặt, co giật thần kinh mặt.",
+    "Viêm mũi"
+  ]
+},{
+  "code": "ST-5",
+  "name": "Đại nghênh",
+  "description": "Khi điểm huyệt cắn chặt răng lại, cơ cắn đầy lên. Huyệt ở bờ trước cơ cắn và trên bờ dưới xương hàm dưới, ngang một ngón tay, ngay trên rãnh động mạch mặt.",
+  "functionalities": [
+    "Co giật thần kinh mặt",
+    "Viêm tuyến mang tai",
+    "Liệt dây thần kinh VII",
+    "Cấm khẩu",
+    "Đau răng"
+  ],
+  "caution": "Không được cứu thành sẹo và châm nhầm động mạch để tránh xuất huyết"
+},{
+  "code": "ST-7",
+  "name": "Hạ quan",
+  "description": "Lấy tay đè trước tai chừng 5-6 phân có hõm xuống, khi ngậm miệng lại thì có hõm, hi há ra thì đóng lại. Huyệt ở góc phía trước của mỏm tiếp xương Thái dương và lồi cầu xương hàm dưới.",
+  "functionalities": [
+    "Liệt mặt",
+    "Đau thần kinh răng",
+    "Viêm tai giữa",
+    "Đau thần kinh tam thoa (3 nhánh)",
+    "Điếc câm",
+    "Viêm khớp hàm dưới"
+  ]
+},{
+  "code": "ST-8",
+  "name": "Đầu duy",
+  "description": "Khi điểm huyệt ngồi ngay thẳng, từ trước tai lên mi tóc làm một đường ngày trán đúng hai mí tóc. Huyệt trên đường khớp đỉnh - trán. Từ Thần đinh đo ra 4,5 thốn.",
+  "functionalities": [
+    "Đau thần kinh trước trán",
+    "Thiên đầu thống",
+    "Rung giật mí mắt"
+  ]
+},{
+  "code": "ST-9",
+  "name": "Nhân nghênh",
+  "description": "Sờ ở cổ có động mạch cảnh đập. Huyệt là điểm gặp nhau của bờ trước cơ ức-đòn-chũm và đường ngang qua chỗ lồi nhất của yết hầu",
+  "functionalities": [
+    "Sưng tuyến giáp trạng",
+    "Sưng đau yết hầu",
+    "Phát âm khó, mất tiếng nói đột ngột",
+    "Suyễn",
+    "Huyết áp cao hoặc thấp"
+  ],
+  "caution": "Không châm quá sâu, nên tránh động mạch cảnh"
+},{
+  "code": "ST-10",
+  "name": "Thủy đột",
+  "description": "Bờ trước cơ ức-đòn-chũm. Trung điểm của đoạn nối huyệt Khi xá và Nhân nghênh",
+  "functionalities": [
+    "Đau họng, thanh quản, bệnh ở thanh đới, sưng tuyến giáp trạng",
+    "Ho",
+    "Suyễn"
+  ],
+  "caution": "Dưới là bó mạch cảnh dễ chảy máu, không được châm sâu quá."
+},{
+  "code": "ST-11",
+  "name": "Khí xá",
+  "description": "Xác định huyệt Nhân nghênh rồi thẳng xuống Thiên dột đo ra 1 thốn. Huyệt ở chỗ hõm sát bờ trên xương đòn",
+  "functionalities": [
+    "Viêm yết hầu",
+    "Sưng tuyến giáp trạng",
+    "Lao hạch cổ",
+    "Suyễn"
+  ]
+},{
+  "code": "ST-12",
+  "name": "Khuyết bồn",
+  "description": "Ngồi ngay hoặc nằm ngữa, từ chỗ hõm cổ họng đo ra 4 thốn, ngay đầu vú thẳng lên. Huyệt ở chỗ hõm sát bờ trên xương đòn.",
+  "functionalities": [
+    "Đau thần kinh liên sườn, tức ngực",
+    "Suyễn",
+    "Nấc cụt",
+    "Lao hạch cổ"
+  ]
+},{
+  "code": "ST-13",
+  "name": "Khí hộ",
+  "description": "Ngồi ngay hay nằm ngửa từ tuyến giữa cổ ngực đo ra  thốn thẳng với đầu vú, dưới huyệt Khyết bồn 1 thốn. Huyệt nằm trên xương sườn 1 và ở trên đường thẳng đứng qua núm vú, cách Nhâm mạch 4 thốn.",
+  "functionalities": [
+    "Viêm khí quản",
+    "Suyễn",
+    "Nấc cụt",
+    "Đau thần kinh liên sườn"
+  ],
+  "caution": "Từ xương sườn 1- 6 bên dưới là phổi, không được châm sâu quá"
+},{
+  "code": "ST-14",
+  "name": "Khố phòng",
+  "description": "Ngồi ngay hoặc nằm ngửa, từ Khí hộ thẳng xuống. Huyệt ở trên bờ xương sườn 2 và ở trên đường thẳng đứng qua núm vú, cách Nhâm mạch 4 thốn",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Viêm khí quản"
+  ],
+  "caution": "Không nên châm sâu vì đụng phổi"
+},{
+  "code": "ST-15",
+  "name": "Ốc ế",
+  "description": "Xác định huyệt Tử cung đo ra 4 thốn. Huyệt ở bờ trên xương sườn 3 và đường thẳng đứng qua núm vú, cách Nhâm mạch 4 thốn",
+  "functionalities": [
+    "Viêm tuyến vú",
+    "Suyễn",
+    "Đau nhức thần kinh liên sườn",
+    "Viêm khí quản"
+  ],
+  "caution": "Không châm quá sâu, có thể đụng phổi"
+},{
+  "code": "ST-16",
+  "name": "Ưng song",
+  "description": "Huyệt Ngọc đường đo ra 4 thốn, giữa xương đòn gánh kéo xuống, ngang với giữa xương sườn 3. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T3",
+  "functionalities": [
+    "Viêm khí quản",
+    "Viêm tuyến vú",
+    "Đau thần kinh gian sườn",
+    "Suyễn",
+    "Sôi ruột",
+    "Ỉa chảy"
+  ]
+},{
+  "code": "ST-17",
+  "name": "Nhũ trung",
+  "description": "Ngay giữa núm vú, giữa xương gian sườn 4",
+  "functionalities": [
+    "Sưng vú, sưng vú nổi hạch",
+    "Kích thích dục ở phụ nữ",
+    "Kích thích để có sữa",
+    "Thường dùng làm mốc để đo huyệt vùng ngực và bụng"
+  ]
+},{
+  "code": "SI-5",
+  "name": "Dương cốc",
+  "description": "Cổ tay co vào, chỗ khớp xương cổ tay, ngay lằn chỉ tay, huyệt nằm ở chỗ hỏm sát đầu mỏm trâm xương trụ",
+  "functionalities": [
+    "Đau cổ tay",
+    "Viêm tuyến mang tai, ù tai",
+    "Đau sau mặt trong cánh tay",
+    "Đau gáy",
+    "Bệnh tâm thần",
+    "Động kinh, cứng lưỡi",
+    "Sốt không ra mồ hôi"
+  ],
+  "caution": "Khi châm huyệt này cần bảo bệnh nhân hơi úp lòng bàn tay vào cẳng tay để dễ châm vào"
+},{
+  "code": "SI-6",
+  "name": "Dưỡng lão",
+  "description": "Co khớp khuỷu, vặn bàn tay vào ngực để xác định hỏm. Huyệt ở chỗ hõm gần bờ trong cổ tay, ngang với nơi tiếp nối của thân với mỏm trâm xương trụ. Từ huyệt Dương cốc đo lên 1 thốn",
+  "functionalities": [
+    "Sưng phía trong sau cẳng tay",
+    "Tê liệt, co rút thần kinh vận động vai cánh tay, vẹo cổ",
+    "Teo thần kinh thị giác, mờ mắt, nhãn cầu sung huyết"
+  ]
+},{
+  "code": "SI-8",
+  "name": "Tiểu hải",
+  "description": "Co tay, huyệt ở giữa mỏm khuỷu và mỏm trên dòng rọc của đầu dưới xương cánh tay",
+  "functionalities": [
+    "Co rút cơ vai cẳng tay, đau khớp khuỷu",
+    "Đau thần kinh trụ",
+    "Tâm thần phân liệt, bệnh múa vởn"
+  ]
+},{
+  "code": "SI-9",
+  "name": "Kiên trinh",
+  "description": "Khi điểm huyệt để sát cánh tay vào nách, đo từ đầu chỉ nách thẳng lên 1 thốn. Huyệt ở gần bờ sau-dưới của cơ Delta",
+  "functionalities": [
+    "Bệnh thuộc tổ chức mềm và khớp vai",
+    "Liệt chi trên",
+    "Mồ hôi nách nhiều"
+  ]
+},{
+  "code": "SI-10",
+  "name": "Nhu du",
+  "description": "Đưa tay lên tại đầu vai, phía sau lưng. Chỗ đầu xương giáp vai có hõm, trên huyệt Kiên trinh. Huyệt là nơi gặp nhau của đường nếp nách sau kéo dài gặp chỗ hõm dưới gai sống vai",
+  "functionalities": [
+    "Trúng phong: liệt nửa người",
+    "Đau thần kinh-cơ do phong thấp",
+    "Viêm khớp vai",
+    "Huyết áp cao",
+    "Chứng nhiều mồ hôi"
+  ]
+},{
+  "code": "SI-11",
+  "name": "Thiên tông",
+  "description": "Chính giữa hố dưới gai, hoặc kéo đường ngang qua mỏm gai đốt sống lưng 4 gặp chỗ kéo của đường dày nhất của gai sống vai (có thể kéo đường song song với Đốc mạch từ chóp xương bả vai lên)",
+  "functionalities": [
+    "Đay nhức bả vai, cánh tay"
+  ]
+},{
+  "code": "SI-12",
+  "name": "Bỉnh phong",
+  "description": "Khi điểm huyệt đưa tay lên, ở ngay chỗ hỏm trong hố trên gai, thẳng tới chỗ dày nhất của gai sống xương bả vai. Huyệt  ở giữa Cự cốt và Khúc viên",
+  "functionalities": [
+    "Sưng phổi, sưng màng ngực",
+    "Nhức vai không nâng lên được, đau thần kinh bả vai"
+  ]
+},{
+  "code": "SI-13",
+  "name": "Khúc viên",
+  "description": "Xác định Bỉnh phong, vào 1,5 thốn, trong hố trên gai của xương bả vai. Huyệt trên đường thẳng qua huyệt Kiên tỉnh",
+  "functionalities": [
+    "Đau nhức khớp vai, vai cử động khó",
+    "Các bệnh thuộc tổ chức mềm ở khớp vai"
+  ]
+},{
+  "code": "SI-14",
+  "name": "Kiên ngoại du",
+  "description": "Xác định huyệt Đào đạo, đo ra 3 thốn nơi có chỗ hõm",
+  "functionalities": [
+    "Đau thần kinh bả vai",
+    "Co rút, tê liệt",
+    "Đau lưng trên và khớp vai, đau vai gáy"
+  ]
+},{
+  "code": "SI-15",
+  "name": "Kiên trung du",
+  "description": "Xác định huyệt Đại chùy và huyệt Kiên tỉnh. Huyệt ở trên đường này và cách Đốc mạch 2 thốn",
+  "functionalities": [
+    "Đau thần kinh bả vai",
+    "Đau vai, lưng, cổ, gáy",
+    "Suyễn",
+    "Viêm khí quản"
+  ]
+},{
+  "code": "SI-16",
+  "name": "Thiên song",
+  "description": "Củ hầu đo ra 3,5 thốn, huyệt ở bờ sau cơ ức đòn chũm, sau huyệt Phù đột 0,5 thốn",
+  "functionalities": [
+    "Đau cứng cổ gáy",
+    "Sưng tuyến giáp trạng, sưng đau họng thanh quản",
+    "Ù tai, điếc"
+  ]
+},{
+  "code": "SI-17",
+  "name": "Thiên dung",
+  "description": "Ngang với mỏm nhọn của góc xương hàm dưới. Huyệt ở bờ trước cơ ức-đòn-chũm",
+  "functionalities": [
+    "Ù tai, điếc",
+    "Tê họng, cứng thanh quản",
+    "Sưng đau cổ gáy",
+    "Suyễn"
+  ]
+},{
+  "code": "SI-18",
+  "name": "Quyền liêu",
+  "description": "Từ huyệt Nghênh hương kéo ngang ra, bờ ngoài của mắt kéo thẳng xuống. Huyệt ở bờ dưới xương gò má",
+  "functionalities": [
+    "Liệt mặt, co giật cơ mặt, đau thần kinh sinh ba"
+  ]
+},{
+  "code": "BL-1",
+  "name": "Tình minh",
+  "description": "Chỗ hõm hai bên trên đầu mắt, hai bên cạnh gốc sóng mũi",
+  "functionalities": [
+    "Viêm kết mạc cấp mãn tính",
+    "Cận thị, viễn thị",
+    "Mờ mắt, quáng gà",
+    "Viêm thần kinh thị giác, teo thần kinh thị giác, viêm võng mạc mộng thịt, chứng chảy nước mắt, các chứng bệnh thuộc mắt",
+    "Liệt thần kinh mặt"
+  ]
+},{
+  "code": "BL-2",
+  "name": "Toản trúc",
+  "description": "Chỗ hõm ở đầu trong lông mày. Từ huyệt Tinh minh gióng lên",
+  "functionalities": [
+    "Đau đầu",
+    "Viêm kết mạc cấp tính",
+    "Rung giật mí mắt, chảy nước mắt, mờ mắt",
+    "Cận thị",
+    "Liệt thần kinh mặt"
+  ]
+},{
+  "code": "BL-3",
+  "name": "Mi xung",
+  "description": "Giữa chân tóc trán đo lên 0,5 thốn (Thần đình) rồi đo ngang ra 0,5 thốn là huyệt",
+  "functionalities": [
+    "Đau đầu vùng trán",
+    "Động kinh",
+    "Chóng mặt, hoa mắt"
+  ]
+},{
+  "code": "BL-4",
+  "name": "Khúc sai",
+  "description": "Xác định huyệt Thần đình giữa chân tóc trán lên 0,5 thốn rồi đo ngang ra 1,5 thốn",
+  "functionalities": [
+    "Đau đầu",
+    "Nghẹt mũi, xuất huyết mũi",
+    "Bệnh mắt"
+  ]
+},{
+  "code": "BL-5",
+  "name": "Ngũ xứ",
+  "description": "Xác định huyệt Khúc sai đo ra sau 0,5 thốn",
+  "functionalities": [
+    "Đau đầu, chóng mặt",
+    "Viêm mũi",
+    "Động kinh"
+  ]
+},{
+  "code": "BL-6",
+  "name": "Thừa quang",
+  "description": "Phía sau huyệt Ngũ xứ 1,5 thốn, cách đường giữa đầu 1,5 thốn",
+  "functionalities": [
+    "Đau đầu",
+    "Mờ mắt, chóng mặt",
+    "Cảm mạo",
+    "Viêm mũi"
+  ]
+},{
+  "code": "BL-7",
+  "name": "Thông thiên",
+  "description": "Trước huyệt Bách hội 1 thốn, rồi đo ra 1,5 thốn",
+  "functionalities": [
+    "Nhức đầu",
+    "Viêm mũi, ngạt mũi, chảy mũi nước",
+    "Mất khướu giác, mũi hôi"
+  ]
+},{
+  "code": "BL-8",
+  "name": "Lạc khước",
+  "description": "Chính giữa đầu đo ra 1,5 thốn, sau huyệt Thông liên 1,5 thốn",
+  "functionalities": [
+    "Đau vùng đỉnh đầu",
+    "Liệt mặt",
+    "Ù tai",
+    "Mờ mắt",
+    "Sưng tuyến giáp trạng",
+    "Viêm mũi",
+    "Nôn mửa"
+  ],
+  "caution": "Nếu châm lở làm cho bệnh nhân câm thì châm huyệt Chí âm để giải. Châm sâu vào 1 phân dùng thủ pháp vê kim chừng nửa giờ thì nói được"
+},{
+  "code": "BL-9",
+  "name": "Ngọc chẩm",
+  "description": "Lấy ngang với ụ chẩm, đo ra 1,5 thốn (có sách lấy từ Não hộ ra 1,3 thốn, dưới Lạc khước 4 thốn)",
+  "functionalities": [
+    "Đau đầu",
+    "Chóng mặt",
+    "Cận thị",
+    "Nghẹt mũi",
+    "Đau mắt"
+  ],
+  "caution": "Khi ngộ châm dễ sinh ra lở chảy nước vàng (hoàng thủy sang), nên châm huyệt Thiên trì, Ủy trung để giải cứu. Khi châm vào cần vê kim qua phải, đồng thời để tháp lên xuống chừng 5 phút rồi rút kim"
+},{
+  "code": "BL-10",
+  "name": "Thiên trụ",
+  "description": "Xác định huyệt Á môn, đo ra 1,3 thốn",
+  "functionalities": [
+    "Đau sau đầu, đau cứng cổ gáy",
+    "Thần kinh suy nhược",
+    "It-tê-ri",
+    "Viêm họng, thanh quản"
+  ],
+  "caution": "Không được châm quá sâu và mũi kim hướng lên trên, dễ tổn thương tới hành tủy"
+},{
+  "code": "BL-11",
+  "name": "Đại trữ",
+  "description": "Khi điểm huyệt, ngồi hơi cúi đầu, huyệt là điểm gặp nhau của đường ngang qua mỏm gai của đốt sống lưng thứ nhất và đường thẳng đứng ngoài Đốc mạch 1,5 thốn, hoặc huyệt Đào đạo đo ra 1,5 thốn",
+  "functionalities": [
+    "Vẹo cứng cổ",
+    "Nhức đầu, co rút cơ vai lưng, đau vùng trên lưng",
+    "Viêm khí quản, viêm màng ngực",
+    "Động kinh",
+    "Cảm cúm",
+    "Ho",
+    "Sốt không có mồ hôi",
+    "Huyệt chính để giải nhiệt"
+  ]
+},{
+  "code": "BL-12",
+  "name": "Phong môn",
+  "description": "Huyệt là nơi gặp nhau của đường thẳng đứng cách Đốc mạch 1,5 thốn và đường ngang qua dưới gai đốt sống lưng 2. Khi điểm huyệt nên ngồi khom lưng lại",
+  "functionalities": [
+    "Đau phần trên lưng, vẹo cổ, cứng gáy",
+    "Cảm mạo",
+    "Viêm khí quản, viêm phổi, viêm màng ngực",
+    "Suyễn",
+    "Ho gà",
+    "Phong mề đay",
+    "Tổn thương tổ chức mềm vùng vai-lưng"
+  ]
+},{
+  "code": "KI-10",
+  "name": "Âm cốc",
+  "description": "Khi điểm huyệt, ngồi ngay thòng chân xuống hoặc co gối để nổi gân lên, huyệt ở đầu trong nếp gấp khoeo, sau lồi cầu trong xương chày, khe trong của gân cơ bán gân (chắc, nhỏ ở phía dưới) và gân cơ bán mạc (mềm, lớn hơn ở trên).",
+  "functionalities": [
+    "Viêm khớp gối, sưng đau mặt trong khớp gối",
+    "Bệnh thuộc hệ sinh dục và bài tiết",
+    "Liệt dương",
+    "Xuất huyết tử cung, băng lậu",
+    "Viêm âm đạo",
+    "Đái gắt, đái buốt",
+    "Thoát vị"
+  ]
+},{
+  "code": "KI-11",
+  "name": "Hoành cốt",
+  "description": "Nằm ngửa, xác định huyệt Khúc cốt đo ra 5 phân, sát bờ trên xương mu.",
+  "functionalities": [
+    "Thoát vị",
+    "Viêm đường tiểu",
+    "Đái dầm",
+    "Liệt dương",
+    "Di tinh"
+  ],
+  "caution": "Có thai cấm châm, bí đái không được châm sâu. Lỡ bị ngộ châm làm bệnh nhân bị bí đái, nên châm huyệt Dũng tuyền để giải cứu, châm sâu 5 phân, nằm ngửa dùng thủ pháp triền nhiên (vê kim) chừng 1 phút, đợi cho đến khi bệnh nhân thấy dễ chịu hay mắc tiểu là rút kim ra."
+},{
+  "code": "KI-12",
+  "name": "Đại hách",
+  "description": "Khi điểm huyệt nằm ngửa, từ huyệt Hoành cốt đo lên 1 thốn, cách Trung cực giữa Nhâm mạch 0,5 thốn.",
+  "functionalities": [
+    "Đau âm hộ, ngọc hành",
+    "Bạch đới",
+    "Sưng bọng đái",
+    "Di tinh, xuất tinh sớm, suy nhược sinh dục",
+    "Đau mắt, tròng có gân máu"
+  ],
+  "caution": "Có thai, bí đái không được châm sâu."
+},{
+  "code": "KI-13",
+  "name": "Khí huyệt",
+  "description": "Khi điểm huyệt nằm ngửa, từ huyệt Hoành cốt đo lên 2 thốn, hoặc huyệt Quan nguyên đo ra 5 phân.",
+  "functionalities": [
+    "Kinh nguyệt không đều",
+    "Bạch đới",
+    "Chứng vô sinh",
+    "Ỉa chảy",
+    "Nhiễm trùng niệu đạo"
+  ]
+},{
+  "code": "KI-14",
+  "name": "Tứ mãn",
+  "description": "Xác định huyệt Thạch môn (dưới rốn 2 thốn) xong đo ra 0,5 thốn. Khi điểm huyệt nằm ngửa.",
+  "functionalities": [
+    "Kinh nguyệt không đều",
+    "Bạch đới",
+    "Chứng không mang thai",
+    "Nhiễm trùng đường tiểu",
+    "Ỉa chảy"
+  ]
+},{
+  "code": "KI-15",
+  "name": "Trung chú",
+  "description": "Khi điểm huyệt nằm ngửa, ở đường chính giữa bụng dưới, dưới rốn 1 thốn, đo ngang ra mỗi bên 5 phân.",
+  "functionalities": [
+    "Kinh nguyệt không đều",
+    "Đau bụng",
+    "Bón",
+    "Đau thắt lưng"
+  ]
+},{
+  "code": "KI-16",
+  "name": "Hoang du",
+  "description": "Ngay giữa rốn đo ra 5 phân.",
+  "functionalities": [
+    "Co thắt dạ dày",
+    "Đau do thoát vị",
+    "Bón",
+    "Viêm ruột",
+    "Co thắt tử cung",
+    "Nất cụt"
+  ],
+  "caution": "Có thai nhiều tháng cấm châm"
+},{
+  "code": "KI-17",
+  "name": "Thương khúc",
+  "description": "Xác định huyệt Hạ quản (trên rốn 2 thốn) đo ra 0,5 thốn. Khi điểm huyệt nằm ngửa.",
+  "functionalities": [
+    "Viêm phúc mạc",
+    "Đau dạ dày",
+    "Đau thoát vị"
+  ]
+},{
+  "code": "KI-18",
+  "name": "Thạch quan",
+  "description": "Khi điểm huyệt nằm ngửa. Huyệt ở trên rốn 3 thốn, đường chính giữa bụng đo ngang ra mỗi bên 5 phân.",
+  "functionalities": [
+    "Đau dạ dày",
+    "Co thắt thực đạo",
+    "Bí ỉa",
+    "Nấc cụt"
+  ],
+  "caution": "Có thai gần sinh cấm châm"
+},{
+  "code": "KI-19",
+  "name": "Âm đô",
+  "description": "Xác định huyệt Trung quản, từ huyệt này đo ra mỗi bên 0,5 thốn.",
+  "functionalities": [
+    "Sình bụng, sôi bụng",
+    "Đau bụng",
+    "Sốt rét",
+    "Viêm màng ngực",
+    "Phế khí thủng",
+    "Đau nóng cạnh sườn"
+  ]
+},{
+  "code": "KI-20",
+  "name": "(Phúc) Thông cốc",
+  "description": "Xác định huyệt Thượng quản xong đo ra 0,5 thốn. Hoặc trên rốn 5 thốn đo ra mỗi bên 5 phân.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Nôn mửa",
+    "Ỉa chảy",
+    "Cứng gáy",
+    "Động kinh",
+    "Hồi hộp"
+  ],
+  "caution": "Có thai gần sinh không châm cứu. Không được châm sâu để tránh tổn thương tới gan"
+},{
+  "code": "KI-21",
+  "name": "U môn",
+  "description": "Xác định huyệt Cự khuyết rồi đo ra 0,5 thốn.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "No hơi",
+    "Co thắt dạ dày",
+    "Viêm dạ dày mãn tính"
+  ],
+  "caution": "Dưới là gan không được châm sâu."
+},{
+  "code": "KI-22",
+  "name": "Bộ lang",
+  "description": "Khi điểm huyệt nằm ngửa, giữa hai đầu vú ngay huyệt Chiên trung giữa ngực, đo từ Chiên trung xuống 1,6 thốn là huyệt Trung đình. Từ huyệt Trung đình đo ra 2 thốn, nơi chỗ hõm gian sườn 5.",
+  "functionalities": [
+    "Viêm màng ngực",
+    "Đau thần kinh liên sườn",
+    "Viêm mũi",
+    "Viêm dạ dày",
+    "Viêm khí quản",
+    "Ho suyễn",
+    "Tức ngực",
+    "Ăn kém"
+  ],
+  "caution": "Không được châm sâu quá về bên dưới. Bên phải là phổi và gan, bên trái là tim."
+},{
+  "code": "KI-24",
+  "name": "Linh khâu",
+  "description": "Huyệt Ngọc đường giữa Nhâm mạch đo ra 2 thốn, huyệt nằm khoảng dưới xương sườn 3.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Viêm tuyến vú",
+    "Viêm khí quản",
+    "Nôn mửa",
+    "Ho suyễn",
+    "Tức ngực",
+    "Không thèm ăn"
+  ],
+  "caution": "Bên dưới là phổi và tim. Cấm châm sâu và kích thích mạnh."
+},{
+  "code": "KI-25",
+  "name": "Thần tàng",
+  "description": "Xác định huyệt Tử cung, từ huyệt này đo ngang ra 2 thốn. Huyệt ở khoảng gian sườn 2.",
+  "functionalities": [
+    "Đau thần kinh gian sườn",
+    "Viêm khí quản",
+    "Nôn mửa"
+  ],
+  "caution": "Dưới là phổi, không được châm sâu."
+},{
+  "code": "KI-26",
+  "name": "Hoắc trung",
+  "description": "Xác định huyệt Hoa cái đo ngang ra 2 thốn. Huyệt ở trong khoảng gian sườn 1.",
+  "functionalities": [
+    "Viêm khí quản",
+    "Nôn mửa",
+    "Đau thần kinh gian sườn"
+  ],
+  "caution": "Dưới là phổi, không được châm sâu."
+},{
+  "code": "KI-27",
+  "name": "Du phủ",
+  "description": "Nằm ngửa, ở chỗ hõm xương mỏ ác giữa ngực đo ra 2 thốn. Huyệt ở trong khe giữa xương sườn 1 và xương đòn, từ huyệt Toàn cơ ra 2 thốn.",
+  "functionalities": [
+    "Đau ngực, tức ngực",
+    "Bụng sình",
+    "Suyễn",
+    "Viêm khí quản",
+    "Nôn mửa"
+  ],
+  "caution": "Dưới là đỉnh của phổi, không được châm sâu."
+},{
+  "code": "PC-1",
+  "name": "Thiên trì",
+  "description": "Bên ngoài núm vú 1 thốn tương đương với giữa xương sườn 4.",
+  "functionalities": [
+    "Cơn quặn đau tim",
+    "Đau thần kinh sườn",
+    "Sưng đau dưới nách"
+  ],
+  "caution": "Dưới là phổi, không châm sâu hoặc kích thích mạnh."
+},{
+  "code": "PC-2",
+  "name": "Thiên tuyền",
+  "description": "Co hơi khuỷu tay để rõ cơ. Huyệt ở dưới nếp nách 2 thốn giữa 2 cơ phần ngắn và phần dài của cơ 2 đầu cánh tay.",
+  "functionalities": [
+    "Đau mặt trong cánh tay",
+    "Đau nhói tim",
+    "Đau hông sườn",
+    "Hồi hộp",
+    "Ho"
+  ]
+},{
+  "code": "PC-3",
+  "name": "Khúc trạch",
+  "description": "Khi điểm huyệt đưa thẳng cùi chỏ ra, để lộ rõ gân, huyệt ở trên nếp gấp khớp khuỷu tay.",
+  "functionalities": [
+    "Đau khuỷu tay",
+    "Thấp tim, viêm cơ tim, đau vùng tim",
+    "Đau cẳng tay",
+    "Trúng nắng",
+    "Viêm khí quản",
+    "Ra mồ hôi đầu",
+    "Bứt rứt"
+  ]
+},{
+  "code": "PC-4",
+  "name": "Khích môn",
+  "description": "Lật ngược bàn tay vào cẳng tay để lộ rõ khe cơ. Huyệt giữa 2 khe cơ gan tay lớn và bé, trên khớp cổ tay 5 thốn.",
+  "functionalities": [
+    "Viêm cơ tim",
+    "Hồi hộp do thần kinh",
+    "Đau vùng trước tim có nôn mửa",
+    "Ít-tê-ri, uể oải",
+    "Bứt rứt nóng nảy",
+    "Ngũ tâm phiền nhiệt"
+  ]
+},{
+  "code": "PC-5",
+  "name": "Giản sử",
+  "description": "Dưới huyệt là khe giữa gân cơ gan tay lớn và gân cơ gan tay bé, gân cơ gấp dài ngón tay cái, cơ gấp chung các ngón tay nông và sâu, bờ trên cơ xấp vuông. Dưới là màng gian cốt. Thần kinh vận đông cơ là các nhánh của dây thần kinh giữa và dây thần kinh trụ. Da vùng huyệt chi phối bởi tiết đoạn thần kinh C7.",
+  "functionalities": [
+    "Nóng trong lòng bàn tay",
+    "Đau cánh tay",
+    "Viêm cơ tim, đau vùng tim",
+    "Bứt rứt xót xa hồi hộp",
+    "Sốt rét",
+    "Động kinh",
+    "Tâm thần phân liệt",
+    "Trúng phong",
+    "Điên cuồng",
+    "Nôn mửa"
+  ]
+},{
+  "code": "PC-8",
+  "name": "Lao cung",
+  "description": "Nắm chặt các ngón tay, huyệt ở trên đường văn tim của gang bàn tay, nơi khe của ngón giữa và ngón vô danh chấm vào đường văn này.",
+  "functionalities": [
+    "Ra mồ hôi tay",
+    "Eczéma bàn tay",
+    "Đau vùng tim bứt rứt, hồi hộp",
+    "Viêm xoang miệng",
+    "Não xuất huyết",
+    "Ý bệnh"
+  ]
+},{
+  "code": "PC-9",
+  "name": "Trung xung",
+  "description": "Ở ngón giữa về phía tay quay, cách góc móng tay chừng 0,1 thốn.",
+  "functionalities": [
+    "Tim quặn đau",
+    "Kích ngất",
+    "Hôn mê",
+    "Sốt cao"
+  ]
+},{
+  "code": "TE-1",
+  "name": "Quan xung",
+  "description": "Huyệt ở trên đường tiếp giáp da gan tay - mu tay của bờ trong ngón đeo nhẫn, ngang với góc của móng tay, cách 0,1 - 0,2 thốn.",
+  "functionalities": [
+    "Viêm họng",
+    "Viêm kết mạc",
+    "Đau đầu",
+    "Nhiệt bệnh, sốt không ra mồ hôi"
+  ]
+},{
+  "code": "GB-38",
+  "name": "Dương phụ",
+  "description": "Trên mắt cá ngoài chân 4 thốn hơi xiên về trước 3 phân, sát bờ trước xương mác. Da vùng huyệt chi phối bởi tiết đoạn thần kinh L5",
+  "functionalities": [
+    "Nhức mỏi cẳng chân",
+    "Đau hông, đau gối",
+    "Đau trên hố đòn",
+    "Đau mắt",
+    "Đau đầu, nhức nửa đầu",
+    "Đau họng",
+    "Liệt hạ chi",
+    "Nhức mỏi tứ chi",
+    "Viêm da khớp"
+  ]
+},{
+  "code": "GB-39",
+  "name": "Huyền chung",
+  "description": "Đo từ ngoài mắt cá chân, thẳng lên 3 thốn. Huyệt ở trên mắt cá ngoài chân sát bờ trước xương mác, ấn vào thấy ê tức",
+  "functionalities": [
+    "Cước khí, phong thấp ở chi dưới",
+    "Liệt nửa người",
+    "Vẹo cổ nhức nửa đầu",
+    "Lao hạch cổ đau nhức",
+    "Thần kinh tọa",
+    "Viêm quanh tổ chức mềm khớp gối hoặc mắt cá",
+    "Không thèm ăn",
+    "Nhức trong xương",
+    "Nóng trong ruột"
+  ]
+},{
+  "code": "GB-41",
+  "name": "Túc lâm khấp",
+  "description": "Chỗ hõm phía trước xương bàn chân 4 và 5",
+  "functionalities": [
+    "Đau chân",
+    "Đau đầu, chóng mặt",
+    "Viêm kết mạc",
+    "Viêm tuyến vú",
+    "Lao hạch cổ",
+    "Đau hông sườn",
+    "Ít sữa"
+  ]
+},{
+  "code": "GB-42",
+  "name": "Địa ngũ hội",
+  "description": "Tại khoảng khớp xương ngón chân thứ 4 trên bàn chân nơi chỗ hõm. Huyệt trong khoảng gian đốt xương bàn chân 4-5, chỗ hõm trước gân duỗi ngón chân út của cơ duỗi chung các ngón chân",
+  "functionalities": [
+    "Sưng lưng bàn chân",
+    "Ù tai",
+    "Viêm tuyến vú",
+    "Mắt đỏ đau",
+    "Đau lưng"
+  ]
+},{
+  "code": "GB-43",
+  "name": "Hiệp khê",
+  "description": "Ép hai đầu ngón chân 4 và 5 vào nhau, ở khoảng giữa đốt xương thứ nhất ngón chân thứ 4 chỗ hõm gần kẽ. Huyệt nằm ở đầu kẽ giữa hai ngón chân phía trên mu chân",
+  "functionalities": [
+    "Đau sưng mu bàn chân, ngón út",
+    "Não sung huyết",
+    "Ù tai, lãng tai",
+    "Đau thần kinh liên sườn",
+    "Sốt không ra mồ hôi"
+  ]
+},{
+  "code": "GB-44",
+  "name": "Túc khiếu âm",
+  "description": "Bên ngoài ngón chân thứ 4, cách góc móng chân chừng 0,1 thốn. Huyệt trên đường tiếp giáp da gan mu chân",
+  "functionalities": [
+    "Nhức đầu",
+    "Viêm kết mạc",
+    "Đau thần kinh hông sườn",
+    "Viêm màng ngực",
+    "Huyết áp cao",
+    "Hen suyễn"
+  ]
+},{
+  "code": "Liv-1",
+  "name": "Đại đôn",
+  "description": "Tại đốt thứ nhất ngón chân cái trên gốc móng chân trong cách móng chừng 0,2 thốn",
+  "functionalities": [
+    "Đau ngón cái",
+    "Viêm dịch hoàn",
+    "Sa tử cung",
+    "Đau thoát vị",
+    "Băng lậu",
+    "Đái rát, đái ra máu, đái dầm",
+    "Hystéria"
+  ]
+},{
+  "code": "Liv-2",
+  "name": "Hành gian",
+  "description": "Ép ngón chân cái sát vào ngón thứ hai, chỗ bên kẽ ngón chân cái. Huyệt nằm trên đầu kẽ của 2 ngón trên, ở phía mu trên",
+  "functionalities": [
+    "Đau ngón chân, tê ngón chân",
+    "Đau do thoát vị ruột",
+    "Viêm dịch hoàn",
+    "Trẻ con co quắp giật cấp tính",
+    "Có kinh nguyệt nhiều",
+    "Đau hai bên sườn",
+    "Đỏ mắt",
+    "Động kinh mất ngủ",
+    "Nhức đầu, hỏa vượng có tính cách thực chứng"
+  ]
+},{
+  "code": "Liv-4",
+  "name": "Trung phong",
+  "description": "Vểnh bàn chân lên xuống để lộ rõ gân cơ, huyệt ở trước bờ dưới mắt cá chân trong 1 thốn. Giữa huyệt Giải khê và Thương khâu",
+  "functionalities": [
+    "Bệnh thuộc tổ chức mềm quanh khớp chân",
+    "Viêm gan",
+    "Bí đái",
+    "Đau dương vật",
+    "Thoát vị",
+    "Đau bụng dưới",
+    "Di tinh"
+  ]
+},{
+  "code": "Liv-6",
+  "name": "Trung đô",
+  "description": "Mắt cá chân trong đo lên 7 thốn, huyệt Lãi câu thẳng lên 2 thốn, bờ sau xương chày",
+  "functionalities": [
+    "Rong kinh",
+    "Viêm gan cấp tính",
+    "Tê liệt chi dưới"
+  ]
+},{
+  "code": "Liv-7",
+  "name": "Tất quan",
+  "description": "Xác định huyệt Âm Lăng-tuyền. Huyệt Tất quan ở chỗ hõm ngang với huyệt Âm Lăng-tuyền và sau huyệt này độ 1 khoát ngón tay. Ngồi co chân để điểm huyệt",
+  "functionalities": [
+    "Thường có tác dụng tại chỗ trị viêm khớp gối",
+    "Thống phong"
+  ]
+},{
+  "code": "Liv-8",
+  "name": "Khúc tuyền",
+  "description": "Khi điểm huyệt ngồi ngay, co đầu gối, đo vào lằn chỉ phía trong khuỷu đầu gối. Huyệt ở đầu trong nếp gấp khoeo, trước và trên huyệt Âm cốc",
+  "functionalities": [
+    "Viêm đầu gối, đau mặt trong khớp gối",
+    "Viêm âm đạo",
+    "Viêm thận",
+    "Thoát vị",
+    "Di tinh",
+    "Liệt dương",
+    "Suy nhược sinh dục",
+    "Cuồng"
+  ]
+},{
+  "code": "Liv-9",
+  "name": "Âm bao",
+  "description": "Khi điểm huyệt ngồi ngay thòng chân xuống hoặc co chân, từ huyệt Khúc Tuyền phía trong đùi đo lên 4 thốn, nằm giữa khe cơ may và cơ thẳng trong",
+  "functionalities": [
+    "Viêm cơ đùi trong",
+    "Tiểu khó, bí đái, đái không tự chủ",
+    "Đau bụng dưới",
+    "Kinh không đều",
+    "Đau thắt lưng"
+  ]
+},{
+  "code": "Liv-10",
+  "name": "(Túc) Ngũ lý",
+  "description": "Xác định huyệt Âm liêm, rồi đo xuống 1 thốn hoặc dưới nếp nhăn của bẹn 3 thốn ở bờ trong động mạch đùi",
+  "functionalities": [
+    "Đau mặt trong đùi",
+    "Lở bùi dái",
+    "Bí đái, đái dầm",
+    "Thích ngủ"
+  ],
+  "caution": "Không châm sâu, dễ tổn thương bó mạch thần kinh đùi"
+},{
+  "code": "Liv-11",
+  "name": "Âm liêm",
+  "description": "Khi điểm huyệt bảo bệnh nhân nằm ngửa, sờ động mạch nhảy ở bẹn. Huyệt nằm sát bờ trong động mạch đùi và dưới cung đùi hay nếp nhăn của bẹn 2 thốn",
+  "functionalities": [
+    "Đau âm hộ",
+    "Sa tử cung, sưng tinh hoàn, đau dương vật, đau háng",
+    "Kinh nguyệt không đều, phụ nữ vô kinh, rối loạn kinh nguyệt",
+    "Bạch dới"
+  ],
+  "caution": "Khi châm tránh làm tổn thương bó mạch thần kinh ở đùi"
+},{
+  "code": "Liv-12",
+  "name": "Cấp mạch",
+  "description": "Ở háng, huyệt nằm trên nếp lằn của bẹn, dưới cung đùi, trên và ngoài huyệt Khí xung độ 0,5 thốn, ngoài Nhâm mạch 2,5 thốn",
+  "functionalities": [
+    "Sưng đau ngọc hành, sưng đau âm hộ, sa tử cung",
+    "Suy nhược sinh dục"
+  ],
+  "caution": "Khi châm tránh làm tổn thương bó mạch thần kinh và vỡ động mạch ở đùi"
+},{
+  "code": "Liv-13",
+  "name": "Chương môn",
+  "description": "Dưới đầu của xương sườn cụt thứ 11",
+  "functionalities": [
+    "Tỳ sương lớn",
+    "Viêm gan",
+    "Đau hông sườn",
+    "Đau ngực",
+    "Đau thắt lưng",
+    "Sôi bụng, đầy bụng",
+    "Tiêu hóa kém, sình ruột ăn không ngon",
+    "Sốt rét",
+    "Buồn nôn"
+  ],
+  "caution": "Phía dưới huyệt, bên phải là gan, bên trái là tụy trạng, bệnh gan tụy lớn không được châm sâu"
+},{
+  "code": "Liv-14",
+  "name": "Kỳ môn",
+  "description": "Nằm ngửa, huyệt là giao điểm của hai đường thẳng ngang qua đầu núm vú và đường ngang qua huyệt Cự khuyết thường nằm vào bờ trên của xương sườn 7",
+  "functionalities": [
+    "Tức ngực",
+    "Đau thần kinh liên sườn",
+    "Đau xóc hai bên sườn",
+    "Mờ mắt",
+    "Viêm túi mật",
+    "Viêm màng ngực",
+    "Viêm gan",
+    "Ợ mửa nước chưa"
+  ],
+  "caution": "Không nên châm sâu quá vì dưới là gan (bên phải), hoành kết trường và đáy bao tử (bên trái)"
+},{
+  "code": "Du-1",
+  "name": "Trường cường",
+  "description": "Huyệt ở giữa hậu môn và trước đầu xương cụt. Khi điểm huyệt nằm chổm hổm hoặc chùm hum, đầu gối vào bụng",
+  "functionalities": [
+    "Trĩ ra máu",
+    "Sa trực trường",
+    "Lở láy cơ quan sinh dục",
+    "Ỉa chảy",
+    "Liệt dương",
+    "Tâm thần phân liệt"
+  ]
+},{
+  "code": "Du-2",
+  "name": "Yêu du",
+  "description": "Dưới đốt xương cùng thứ 4, ở khe xương cùng (có sách nói giữa 2 huyệt Hạ liêu)",
+  "functionalities": [
+    "Đau thắt lưng",
+    "Đau xương cùng cụt",
+    "Kinh nguyệt không đều",
+    "Động kinh",
+    "Trĩ",
+    "Đái không tự chủ",
+    "Tê liệt chi dưới"
+  ]
+},{
+  "code": "Du-3",
+  "name": "(Yêu) Dương quan",
+  "description": "Ở giữa sau hai đốt sống thắt lưng 4-5, ngang với mào chậu",
+  "functionalities": [
+    "Đau nhức vùng thắt lưng cùng",
+    "Liệt chi dưới",
+    "Kinh nguyệt không đều",
+    "Di tinh, liệt dương",
+    "Viêm ruột mãn tính"
+  ]
+},{
+  "code": "Du-5",
+  "name": "Huyền khu",
+  "description": "Ngồi ngay hơi cúi xuống đè dưới đốt xương sống thứ 13 (xương thắt lưng thứ 1). Huyệt ở chỗ hõm dưới đầu mỏm gai đốt sống lưng thứ 1",
+  "functionalities": [
+    "Đau cứng vùng xương thắt lưng",
+    "Đau bụng, ỉa chảy",
+    "Lỵ",
+    "Sa trực trường"
+  ]
+},{
+  "code": "Du-6",
+  "name": "Tích trung",
+  "description": "Dưới gai đốt sống lưng thứ 11 nơi chỗ hõm. Khi điểm huyệt nằm sấp",
+  "functionalities": [
+    "Đau vai lưng",
+    "Tê liệt chi dưới",
+    "Động kinh",
+    "Viêm gan"
+  ]
+},{
+  "code": "Du-7",
+  "name": "Trung khu",
+  "description": "Dưới gai đốt sống lưng thứ 10 ở chỗ hõm. Khi điểm huyệt ngồi hoặc nằm sấp",
+  "functionalities": [
+    "Đau lưng-thắt lưng",
+    "Tê liệt chi dưới",
+    "Viêm gan",
+    "Động kinh"
+  ]
+},{
+  "code": "Du-8",
+  "name": "Cân súc",
+  "description": "Khi điểm huyệt ngồi hơi cúi đầu xuống hoặc nằm sấp, lấy huyệt ở chỗ hõm dưới đầu mỏm gai đốt sống lưng thứ 9",
+  "functionalities": [
+    "Đau lưng, đau thắt lưng",
+    "Đau liên sườn",
+    "Đau thần kinh xương thắt lưng co giật có tính cách căng thẳng",
+    "Động kinh",
+    "Uốn ván",
+    "It-tê-ri",
+    "Viêm gan",
+    "Viêm túi mật",
+    "Viêm màng ngực",
+    "Đau dạ dày"
+  ]
+},{
+  "code": "ST-18",
+  "name": "Nhũ căn",
+  "description": "Đầu núm vú kéo xuống, bờ trên xương sườn 6, cách đường Nhâm mạch 4 thốn, nếu phụ nữ thì đẩy vú lên để tìm xương sườn.",
+  "functionalities": [
+    "Sữa ít",
+    "Viêm tuyến vú",
+    "Đau ngực",
+    "Ho",
+    "Suyễn",
+    "Viêm Khí Quản"
+  ],
+  "caution": "Không cứu nhiều quá. Không nên châm sâu vì bên dưới là gan trên (phải), phần dưới phổi (trái)."
+},{
+  "code": "ST-19",
+  "name": "Bất dung",
+  "description": "Nằm ngửa đo từ xương mỏ ác xuống rốn là 8 thốn, rồi từ rốn đo lên 6 thốn, xong đo ngang ra 2 thốn là huyệt.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Đầy bụng, nôn mửa, sình ruột, no hơi",
+    "Đau dạ dày",
+    "Mửa ra máu",
+    "Đau vùng tim"
+  ],
+  "caution": "Không nên châm quá sâu, vì dưới là gan, có thể gây xuất huyết bên trong nguy hiểm."
+},{
+  "code": "ST-20",
+  "name": "Thừa mãn",
+  "description": "Trên rốn 5 thốn (huyệt Thượng quản) đo ngang ra 2 thốn",
+  "functionalities": [
+    "Đau dạ dày, viêm dạ dày cấp mãn tính",
+    "Sỏi ruột, tiêu hóa kém",
+    "Đau do thoát vị"
+  ]
+},{
+  "code": "ST-21",
+  "name": "Lương môn",
+  "description": "Xác định huyệt Trung quản trên rốn 4 thốn, xong đo ra 2 thốn",
+  "functionalities": [
+    "Nôn mửa, kém ăn",
+    "Ỉa chảy",
+    "Viêm dạ dày cấp mãn tín, đau thần kinh dạ dày, loét dạ dày"
+  ]
+},{
+  "code": "ST-22",
+  "name": "Quan môn",
+  "description": "Trên rốn 3 thốn từ huyệt Kiến lý đo ra mỗi bên 2 thốn",
+  "functionalities": [
+    "Sình bụng, ăn uống kém, sôi ruột",
+    "Ỉa chảy",
+    "Phù",
+    "4."
+  ]
+},{
+  "code": "ST-23",
+  "name": "Thái ất",
+  "description": "Xác định rốn rồi đo lên 2 thốn (huyệt Hạ quản) xong đo ra mỗi bên 2 thốn",
+  "functionalities": [
+    "Đau dạ dày",
+    "Bệnh tâm thần",
+    "Cước khí",
+    "Đái dầm",
+    "Thoát vị ruột"
+  ],
+  "caution": "Có thai nhiều tháng không nên châm"
+},{
+  "code": "ST-24",
+  "name": "Hoạt nhục môn",
+  "description": "Nằm ngửa , từ rún đo lên 1 thốn (Thủy phân) đo ra 2 thốn",
+  "functionalities": [
+    "Viêm trưởng vị cấp mãn tính",
+    "Bệnh tâm thần"
+  ],
+  "caution": "Có thai nhiều tháng cấm châm"
+},{
+  "code": "ST-26",
+  "name": "Ngoại lăng",
+  "description": "Xác định rốn, đo xuống 1 thốn (huyệt Âm giao) xong đo ra 2 thốn",
+  "functionalities": [
+    "Đau bụng",
+    "Sa ruột",
+    "Bệnh kinh nguyệt"
+  ]
+},{
+  "code": "ST-27",
+  "name": "Đại cự",
+  "description": "Khi điểm huyệt nằm ngửa, từ huyệt Thiên khu đo xuống dưới 2 thốn, hoặc Thạch môn đo ra 2 thốn",
+  "functionalities": [
+    "Tức đầy bụng dưới, đau bụng",
+    "Bí dái",
+    "Viêm Bàng-quang",
+    "Di tinh, xuất tinh sớm",
+    "Suy nhược sinh dục"
+  ],
+  "caution": "Cấm châm lúc có thai, lúc bí tiểu không được châm sâu quá"
+},{
+  "code": "ST-28",
+  "name": "Thủy đạo",
+  "description": "Dưới rốn 3 thốn (huyệt Quan nguyên) xong đo ra 2 thốn",
+  "functionalities": [
+    "Tức bụng dưới, bí dái",
+    "Viêm thận, viêm Bàng-quang, viêm dịch hoàn"
+  ]
+},{
+  "code": "ST-29",
+  "name": "Qui lai",
+  "description": "Dưới rốn 4 thốn (huyệt Trung Cực) xong đo ra mỗi bên 2 thốn",
+  "functionalities": [
+    "Viêm phần phụ, đau bụng dưới",
+    "Viêm dịch hoàn, viêm màng trong tử cung",
+    "Kinh nguyệt không đều, bạch đới"
+  ]
+},{
+  "code": "ST-30",
+  "name": "Khí xung",
+  "description": "Nằm ngửa, xác định huyệt Qui lai đo xuống 1 thốn",
+  "functionalities": [
+    "Bệnh thuộc bộ phận sinh dục nam hoặc nữ, thoát vị, kinh nguyệt không đều"
+  ],
+  "caution": "Không châm sâu quá, vì ở dưới đàn ông là ống dẫn tinh, đàn bà là dây dẫn trứng. Trường hợp ngộ châm, sinh ra thoát vị đau ở cơ quan sinh dục, nên dùng huyệt Phong long để giải cứu. Châm sâu 1 thốn, dùng thủ pháp vê kim. Trước hết vẽ vào trong nửa giờ rút kim ra 5 phân, lại hướng ra bên ngoài vê kim chừng nửa giờ lại châm vào 5 phân xong rút nhanh ra, bảo bệnh nhân nằm nghỉ một lát thì bớt."
+},{
+  "code": "ST-31",
+  "name": "Bễ quan",
+  "description": "Nằm ngửa để điểm huyệt Phục thố ( đo thẳng từ đầu gối lên là huyệt Phục thố). Từ huyệt Phục thố đo lên 6 thốn, khi đo Phục thố nhớ duỗi thẳng chân, như vậy đo từ đầu gối lên Bễ quan đúng 12 thốn là huyệt. Hoặc kẻ đường ngang qua xương mu và đường thẳng qua gai chậu trước trẽn. Điểm gặp nhau của hai đường này nơi chỗ hõm giữa cơ may và cơ căng cân đùi, ngang với huyệt Hội âm.",
+  "functionalities": [
+    "Đau hoặc co duỗi khó ở đùi háng, viêm cơ đái chậu",
+    "Liệt do di chứng tai biến mạch máu não, di chứng bại liệt",
+    "Phong thấp"
+  ]
+},{
+  "code": "BL-16",
+  "name": "Đốc du",
+  "description": "Ngồi thẳng hay nằm sấp, dưới đốt sống thứ 6 tức ở huyệt Linh đài đo ngang ra 1,5 thốn. Huyệt là điểm gặp nhau của đường thẳng đứng ngoài Đốc mạch 1,5 thốn và đường ngang qua đầu mỏm gai đốt sống lưng 6.",
+  "functionalities": [
+    "Đau vai lưng",
+    "Cứng cổ, vẹo cổ",
+    "Viêm trong ngoài màng tim, đau vùng tim",
+    "Co thắt cơ hoành làm nấc cụt",
+    "Sôi ruột, đau bụng",
+    "Viêm tuyến vú",
+    "Rụng tóc",
+    "Ngứa ngáy ngoài da"
+  ]
+},{
+  "code": "BL-17",
+  "name": "Cách du",
+  "description": "Khi điểm huyệt ngồi hơi khom lưng hoặc nằm sấp, tìm huyệt Chí dương ở dưới đốt sống lưng thứ 7 đo ra 1,5 thốn. Huyệt ở điểm gặp nhau của đường ngang qua mỏm gai của đốt sống lưng 7 và đường thẳng đứng ngoài Đốc mạch 1,5 thốn.",
+  "functionalities": [
+    "Đau lưng, đau thắt lưng",
+    "Nấc cụt",
+    "Kém ăn",
+    "Sốt không có mồ hôi",
+    "Mồ hôi trộm, mồ hôi nhiều",
+    "Huyết hư, huyết nhiệt",
+    "Ho lao",
+    "Hẹp thực đạo, viêm dạ dày, co thắt cơ hoành",
+    "Nôn mửa do thần kinh",
+    "Phong độc, mề đay"
+  ]
+},{
+  "code": "BL-22",
+  "name": "Tam tiêu du",
+  "description": "Huyệt là nơi gặp nhau của đường thẳng đứng cách Đốc mạch 1,5 thốn và đường ngang qua dưới gai đốt sống thứ 13",
+  "functionalities": [
+    "Ngoài tác dụng tại chỗ ra còn có tác dụng toàn thân trong",
+    "Viêm dạ dày",
+    "Viêm ruột",
+    "Viêm thận",
+    "Phúc thủy",
+    "Bí đái, đái dầm",
+    "Suy nhược thần kinh",
+    "Đau thắt lưng"
+  ]
+},{
+  "code": "BL-24",
+  "name": "Khí hải du",
+  "description": "Dưới xương đốt sống thắt lưng thứ 3 đo ra 1,5 thốn. (Có cách ghi trên gai đốt sống thắt lưng 3 đo ra 1,5 thốn). Khi điểm huyệt nên nằm sấp.",
+  "functionalities": [
+    "Đau xương vùng thắt lưng",
+    "Liệt chi dưới",
+    "3.Xuất huyết tử cung chức năng",
+    "Kinh nguyệt không đều",
+    "Hay quên"
+  ]
+},{
+  "code": "BL-26",
+  "name": "Quan nguyên du",
+  "description": "Dưới gai đốt sống thắt lưng thứ 5 đỏa mỗi bên 1,5 thốn",
+  "functionalities": [
+    "Đau lưng",
+    "Viêm ruột mãn tính",
+    "Đái đường",
+    "Thiếu máu",
+    "Viêm bàng quang",
+    "Viêm hố khung chậu mãn tính"
+  ]
+},{
+  "code": "BL-27",
+  "name": "Tiểu trường du",
+  "description": "Dưới đốt xương cùng 1 đo ra 1,5 thốn ngang với lỗ cùng 1. Khi điểm huyệt nằm sấp.",
+  "functionalities": [
+    "Đau thắt lưng, đau khớp thắt lưng cùng, xương vùng chậu",
+    "Viêm hố xoang chậu",
+    "Viêm ruột",
+    "Đái dầm",
+    "Di tính. Bón"
+  ]
+},{
+  "code": "BL-28",
+  "name": "Bàng quang du",
+  "description": "Điểm gặp nhau của đường ngang qua đầu mỏm gai đốt sống cùng 2 và đường thẳng đứng ngoài Đốc mạch 1,5 thốn. Khi điểm huyệt nên nằm sấp.",
+  "functionalities": [
+    "Đau vùng xương cùng , đau lưng",
+    "Đau thần kinh thắt lưng cùng",
+    "Bệnh đường niệu đạo",
+    "Viêm bàng quang",
+    "Đái dầm",
+    "Bón",
+    "Ỉa chảy",
+    "Đau bụng",
+    "Viêm màng trong tử cung"
+  ]
+},{
+  "code": "BL-29",
+  "name": "Trung lữ du",
+  "description": "Khi điểm huyệt nằm sấp, dưới mỏm gai đốt cùng 3 đo ra 1,5 thốn hoặc ngang lỗ cùng 3 đo ra",
+  "functionalities": [
+    "Đau thắt lưng cùng",
+    "Đau thần kinh hông",
+    "Viêm ruột"
+  ]
+},{
+  "code": "BL-30",
+  "name": "Bạch hoàn du",
+  "description": "Điểm gặp nhau của đường ngang qua mỏm gai đốt sống cùng thứ tư và đường thẳng đứng ngoài Đốc mạch đo ra 1,5 thốn, khi điểm huyệt nên nằm sấp",
+  "functionalities": [
+    "Đau thần kinh tọa",
+    "Đau thần kinh xương cùng",
+    "Bệnh cơ hậu môn",
+    "Đau thắt lưng, sưng háng",
+    "Di tính",
+    "Kinh nguyệt không đều",
+    "Khí hư",
+    "Thoát vị ruột",
+    "Sa trực trường",
+    "Bí ỉa"
+  ],
+  "caution": "Hạn chế cứu"
+},{
+  "code": "BL-31",
+  "name": "Thượng liêu",
+  "description": "Khi điểm huyệt nằm sấp, dưới gai đốt sống thắt lưng 5, từ đường giữa cột sống ngang ra 1 thốn, trong lỗ xương cùng thứ 1",
+  "functionalities": [
+    "Đau thắt lưng cùng",
+    "Đau thần kinh hông",
+    "Sa tử cung",
+    "Khí hư",
+    "Bí đại tiểu tiện"
+  ]
+},{
+  "code": "BL-32",
+  "name": "Thứ liêu",
+  "description": "Lỗ xương cùng thứ 2. Khi điểm huyệt nên nằm sấp.",
+  "functionalities": [
+    "Đau thắt lưng xuống háng",
+    "Đau dây thần kinh hông, chân tê yếu",
+    "Viêm màng trong tử cung",
+    "Viêm dịch hoàn",
+    "Viêm noãn sào",
+    "Bón",
+    "Bí đái"
+  ]
+},{
+  "code": "BL-33",
+  "name": "Trung liêu",
+  "description": "Ở lỗ xương cùng thứ 3, ở phía trong của huyệt Thứ liêu. Khi điểm huyệt nên nằm sấp.",
+  "functionalities": [
+    "Đau thắt lưng cùng",
+    "Bón",
+    "Bệnh thuộc cơ quan sinh dục",
+    "Bí tiểu",
+    "Kinh không đều"
+  ]
+},{
+  "code": "BL-34",
+  "name": "Hạ liêu",
+  "description": "Ngay giữa lỗ cùng 4. Khi điểm huyệt nên nằm sấp.",
+  "functionalities": [
+    "Tiểu tiện khó",
+    "Đau dưới thắt lưng, đau dây thần kinh hông",
+    "Viêm dịch hoàn",
+    "Viêm phấn phụ",
+    "Kinh nguyệt không đều",
+    "Bệnh thuộc hệ sinh dục, bài tiết",
+    "Trĩ",
+    "Suy nhược thần kinh"
+  ]
+},{
+  "code": "BL-35",
+  "name": "Hội dương",
+  "description": "Dưới xương cụt (đốt xương 21) đo ngang ra 5 phân, dưới huyệt Hạ liêu. Huyệt ở ngang đầu dưới xương cụt Đốc mạch đo ra 0,5 thốn.",
+  "functionalities": [
+    "Đau lưng khi có thai",
+    "Bạch đới nhiều",
+    "Liệt dương",
+    "Ỉa chảy",
+    "Trĩ"
+  ]
+},{
+  "code": "BL-36",
+  "name": "Thừa phù",
+  "description": "Khi điểm huyệt nằm sấp, đường chính phía sau đùi. Huyệt là điểm giữa của lằn chỉ ngang ở mông.",
+  "functionalities": [
+    "Đau vai lưng",
+    "Đau dây thần kinh hông",
+    "Liệt chi dưới",
+    "Bón",
+    "Bí đái",
+    "Trĩ"
+  ]
+},{
+  "code": "BL-37",
+  "name": "Ân môn",
+  "description": "Khi điểm huyệt nằm sấp hoặc đứng thẳng, huyệt ở giữa khe của cơ bán gân và cơ hai đầu đùi, dưới nếp mông 6 thốn.",
+  "functionalities": [
+    "Đau đùi, mông",
+    "Đau sau đầu",
+    "Đau thắt lưng",
+    "Thoát vị đĩa đệm thắt lưng",
+    "Liệt hạ chi"
+  ]
+},{
+  "code": "BL-38",
+  "name": "Phù khích",
+  "description": "Trên khớp nhượng chân đầu gối ngoài. Huyệt ở trong góc tạo nên bởi bờ cơ hai đầu đùi và bờ ngoài cơ bán mạc, trên nhượng chân 1 thốn. Khi điểm huyệt nên co nảy chân để tìm.",
+  "functionalities": [
+    "Viêm trường vị cấp tính",
+    "Viêm bàng quang",
+    "Liệt hạ chi mặt ngoài",
+    "Bón"
+  ]
+},{
+  "code": "BL-39",
+  "name": "Ủy Dương",
+  "description": "Ở bờ ngoài khoeo, gữa 2 gân, ngang với huyệt Ủy trung hoặc đầu ngoài nếp gấp khoeo, khi điểm huyệt nằm sấp hơi co gối để lộ rõ gân cơ.",
+  "functionalities": [
+    "Đau thắt lưng-lưng",
+    "Viêm bàng quang",
+    "Co rút cơ bắp chân",
+    "Viêm thận",
+    "Đái ra dưỡng trấp"
+  ]
+},{
+  "code": "BL-41",
+  "name": "Phụ phân",
+  "description": "Khi điểm huyệt nên ngồi khom lưng. Huyệt là nơi gặp nhau của đường thẳng đứng ngoài Đốc mạch 3 thốn và đường ngang qua dưới xương sống lưng thứ 2",
+  "functionalities": [
+    "Đau nhức vai cổ lưng",
+    "Tê cứng cánh tay"
+  ]
+},{
+  "code": "BL-42",
+  "name": "Phách hạ",
+  "description": "Khi điểm huyệt cần ngồi khom lưng. Huyệt là giao điểm của đường thẳng đứng ngoài Đốc mạch 3 thốn và là đường ngang qua dưới đốt sống lưng 3. Da vùng huyệt chi phối bởi tiết đoạn thần kinh T3.",
+  "functionalities": [
+    "Viêm khí quản, suyễn, viêm màng ngực",
+    "Lao phổi"
+  ],
+  "caution": "Dưới là phổi không nên châm sâu quá"
+},{
+  "code": "BL-43",
+  "name": "Cao hoang",
+  "description": "Huyệt là nơi gặp nhau của đường ngang qua đầu mỏm gai đốt sống lưng 4 và đường thẳng đứng ngoài Đốc mạch 3 thốn",
+  "functionalities": [
+    "Đau lưng ngực",
+    "Thần kinh suy nhược",
+    "Viêm màng ngực",
+    "Viêm khí quản",
+    "Lao phổi",
+    "Di mộng tinh",
+    "Thiếu máu",
+    "Có tác dụng nâng cao chính khí và đề phòng bệnh tật"
+  ],
+  "caution": "Dưới là phổi, không được châm quá sâu. Khi châm cần tả huyệt Túc Tam-lý"
+},{
+  "code": "BL-44",
+  "name": "Thần đường",
+  "description": "Khi điểm huyệt nên ngồi khom lưng xuống, điểm gặp nhau của đường thẳng đứng cách Đốc mạch 3 thốn và đường ngang qua dưới mỏm gai xương sống lưng thứ 5.",
+  "functionalities": [
+    "Viêm khí quản",
+    "Suyễn",
+    "Đau thần kinh gian sườn",
+    "Bệnh ở tim"
+  ]
+},{
+  "code": "BL-45",
+  "name": "Y hy",
+  "description": "Dưới gai đốt sống lưng thứ 6 đo ra 3 thốn",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Viêm tâm bào",
+    "Suyễn",
+    "Sốt rét",
+    "Nấc cụt"
+  ]
+},{
+  "code": "BL-46",
+  "name": "Cách quan",
+  "description": "Đốt xương sống thứ 7 đo ra 3 thốn hoặc điểm giao nhau của đường ngang qua mỏm gai của đốt xương sống lưng 7 và đường thẳng đứng ngoài Đốc mạch 3 thốn. Khi điểm huyệt nên ngồi khom lưng hay nằm sấp.",
+  "functionalities": [
+    "Đau cứng lưng",
+    "Đau thần kinh liên sườn",
+    "Co thắt thực đạo",
+    "Xuất huyết dạ dày",
+    "Ăn uống kém",
+    "Nôn mửa, ợ hơi"
+  ],
+  "caution": "Không được châm sâu, dễ tổn thương tới Phổi"
+},{
+  "code": "BL-47",
+  "name": "Hồn môn",
+  "description": "Xác định đốt xương sống 9 (Cân súc) đo ra 3 thốn. Huyệt là điểm gặp nhau của đường giữa cột sống ngang ra 3 thốn và đường ngang dưới gai đốt sống lưng thứ 9. Khi điểm huyệt nằm sấp hoặc ngồi hơi khom lưng.",
+  "functionalities": [
+    "Viêm màng ngực",
+    "Đau dạ dày",
+    "Suy nhược thần kinh",
+    "Bệnh thuộc gan mật"
+  ],
+  "caution": "Cấm châm sâu có thể đụng phổi"
+},{
+  "code": "TE-2",
+  "name": "Dịch môn",
+  "description": "Khi điểm huyệt nắm tay lại, chỗ kẽ ngón tay út và ngón áp út. Huyệt ở trên đường tiếp giáp da gan tay-mu tay của bờ trong ngón tay đeo nhẫn, ngang chỗ tiếp nối của thân với đầu trên xương đốt một ngón tay",
+  "functionalities": [
+    "Sưng ngón tay, đau bàn tay",
+    "Đau cánh tay",
+    "Viêm họng thanh quản",
+    "Điếc",
+    "Đau mắt",
+    "Sốt rét"
+  ]
+},{
+  "code": "TE-3",
+  "name": "Trung chử",
+  "description": "Giữa xương bàn tay thứ 4 và thứ 5 phía mu tay, trên kẻ ngón tay 1 thốn. Khi điểm huyệt hơi nắm bàn tay lại",
+  "functionalities": [
+    "Câm điếc",
+    "Ù tai, điếc",
+    "Nhức đầu",
+    "Đau vai lưng",
+    "Đau thần kinh sườn"
+  ]
+},{
+  "code": "TE-6",
+  "name": "Chi câu",
+  "description": "Xác định huyệt Dương trì đo lên 3 thốn. Huyệt ở khe xương quay và xương trụ mặt sau cẳng tay.",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Nhức mỏi vai gáy",
+    "Vẹo cổ, sưng đau cạnh cổ",
+    "Đau nhói vùng tim",
+    "Viêm màng ngực",
+    "Táo bón kinh niên",
+    "Sốt không có mồ hôi",
+    "Chóng mặt sau khi sinh"
+  ]
+},{
+  "code": "TE-7",
+  "name": "Hội tông",
+  "description": "Trên huyệt Dương trì 3 thốn, cách huyệt Ngoại quan 1 ngón tay về phía ngón tay út. Huyệt ở sát bờ ngoài xương trụ, mặt sau cẳng tay.",
+  "functionalities": [
+    "Đau cánh tay",
+    "Ù tai, lãng tai",
+    "Động kinh"
+  ]
+},{
+  "code": "TE-8",
+  "name": "Tam dương lạc",
+  "description": "Trên huyệt Dương trì 4 thốn, ở giữa khe xương quay, xương trụ mặt sau cẳng tay",
+  "functionalities": [
+    "Đau cánh tay",
+    "Mất tiếng",
+    "Lảng tai, điếc",
+    "Đau nhức do giải phẫu phổi"
+  ]
+},{
+  "code": "TE-9",
+  "name": "Tứ độc",
+  "description": "Lật bàn tay vào cẳng để lộ rõ khe cơ, huyệt dưới khớp khuỷu mặt sau cẳng tay 5 thốn, giữa 2 xương quay và trụ",
+  "functionalities": [
+    "Đau đầu",
+    "Điếc",
+    "Đau trước cánh tay",
+    "Liệt chi trên",
+    "Đau răng",
+    "Suy nhược thần kinh",
+    "Xâm xoàng",
+    "Viêm thận"
+  ]
+},{
+  "code": "TE-10",
+  "name": "Thiên tỉnh",
+  "description": "Co tay để dễ tìm chỗ hõm, chỗ hõm trên đầu mỏm khuỷu xương trụ, phía trên khóp khuỷu 1 thốn",
+  "functionalities": [
+    "Viêm tổ chức mềm quanh khớp khuỷu",
+    "Thiên đầu thống",
+    "Lao hạch cổ (cứu)",
+    "Viêm tuyến biên đảo",
+    "Mề đay ngứa ngáy",
+    "Tâm thần phân liệt"
+  ]
+},{
+  "code": "TE-11",
+  "name": "Thanh lãng uyên",
+  "description": "Khi điểm huyệt co tay lại, xác định huyệt Thiên tỉnh rồi đo lên 1 thốn",
+  "functionalities": [
+    "Đau cánh tay, vai",
+    "Đau đầu",
+    "Đau mắt"
+  ]
+},{
+  "code": "TE-12",
+  "name": "Tiêu lạc",
+  "description": "Khi điểm huyệt xoay cánh tay ra trước để rõ cơ. Huyệt ở giữa đoạn nối của 2 huyệt Thanh-lãnh uyên và Nhu hội",
+  "functionalities": [
+    "Đau cứng đầu, cổ gáy",
+    "Cứng lưng, cánh tay",
+    "Đau răng",
+    "Động kinh"
+  ]
+},{
+  "code": "TE-13",
+  "name": "Nhu hội",
+  "description": "Ngồi ngay, xác định huyệt Kiên liêu, ở chót vai đo xuống 3 thốn thẳng với huyệt Thiên tỉnh. Huyệt nằm bờ sau cơ tam giác",
+  "functionalities": [
+    "Sưng tuyến giáp",
+    "Đau vai",
+    "Đau cánh tay"
+  ]
+},{
+  "code": "TE-14",
+  "name": "Kiên liêu",
+  "description": "Đưa tay lên, tại sau chót vai có hõm, sau huyệt Kiên ngung 1 thốn. Huyệt ở chỗ hõm phía dưới và sau mỏm cùng vai",
+  "functionalities": [
+    "Viêm quanh khớp vai, co rút tê liệt cơ bả vai",
+    "Đau thần kinh cẳng tay",
+    "Huyết áp cao",
+    "Chứng nhiều mồ hôi"
+  ]
+},{
+  "code": "TE-15",
+  "name": "Thiên liêu",
+  "description": "Trung điểm của đoạn nối từ huyệt Đại chùy và bờ ngoài phía sau mỏm cùng vai, hoặc trung điểm của đoạn nối từ huyệt Kiên tỉnh và Khúc viên, nằm ở hố trên gai sống xương bả vai. Hoặc xác định huyệt Kiên tỉnh rồi đo xuống 1 thốn",
+  "functionalities": [
+    "Đau nhức vùng cổ, gáy, bả vai",
+    "Sốt"
+  ]
+},{
+  "code": "TE-16",
+  "name": "Thiên dũ",
+  "description": "Nếp sau gáy làm chuẩn. Huyệt ở tỷ lệ 1/3 ngoài của đường nối Thiên trụ và Thiên dung",
+  "functionalities": [
+    "Ù tai, lãng tai",
+    "Cứng cổ",
+    "Đau họng"
+  ]
+},{
+  "code": "TE-18",
+  "name": "Khế mạch",
+  "description": "Ép vành tai vào đầu, ngay sau tai đúng với lỗ tai chỗ hõm sau vành tai trên Ế phong. Huyệt ở chỗ nối 1/3 dưới với 2/3 trên của đường cong theo bờ vành tai từ Ế phong đến Giác tôn.",
+  "functionalities": [
+    "Ù tai, lãng tai",
+    "Đau đầu",
+    "Động kinh trẻ con"
+  ]
+},{
+  "code": "TE-19",
+  "name": "Lư tức",
+  "description": "Trên huyệt Khế mạch 1 thốn. Khi tìm, ép sát vành tai vào đầu. Huyệt ở chỗ nối 2.3 dưới với 1/3 trên của đường cong theo bờ vành tai từ huyệt Ế phong đến huyệt Giác tôn",
+  "functionalities": [
+    "Đau đầu",
+    "Ù tai, đau tai, viêm tai giữa",
+    "Nôn mửa",
+    "Sợ sệt"
+  ]
+},{
+  "code": "TE-20",
+  "name": "Giác tôn",
+  "description": "Ép vành tai sát vào tóc, lấy tay đè há miệng nhai có động dưới tay là huyệt",
+  "functionalities": [
+    "Nóng tai, sưng vành tai, viêm tuyến mang tai",
+    "Mờ mắt, mộng thịt mắt",
+    "Đau răng"
+  ],
+  "caution": "Khi bị ngộ châm, dễ sinh ra não sung huyết làm bệnh nhân hôn mê nên châm Tam dương lạc để giải cứu. Khi châm giải nên châm cạn, tối đa chừng 5 phân đồng thời hướng mũi kiêm xiên về phía dưới thủ pháp nhẹ. Cứu huyệt này không được gây bỏng"
+},{
+  "code": "TE-21",
+  "name": "Nhĩ môn",
+  "description": "Đầu trên chân bình tai, huyệt ở ngay phía trước rãnh trên bình tai",
+  "functionalities": [
+    "Điếc câm",
+    "Ù tai, lãng tai, viêm tai giữa",
+    "Đau răng",
+    "Viêm khớp hàm dưới"
+  ],
+  "caution": "Cổ thư bảo trong tai có mủ cấm cứu (Giáp ất)"
+},{
+  "code": "TE-22",
+  "name": "Nhĩ hòa liêu",
+  "description": "Trước lỗ tai, dưới mi tóc trước huyệt Nhĩ môn. Huyệt ở bờ trên của mỏm tiếp xương Thái dương phía trên và sau bờ sau của chân tóc mai, sờ thấy động mạch Thái dương nông, trước bình tai chừng 1 đốt ngón tay",
+  "functionalities": [
+    "Đau đầu, nặng nửa đầu",
+    "Ù tai",
+    "Cấm khẩu",
+    "Liệt mặt"
+  ]
+},{
+  "code": "TE-23",
+  "name": "Ti trúc không",
+  "description": "Chỗ hõm bên ngoài đuôi lông mày, đè vào có cảm giác ê tức",
+  "functionalities": [
+    "Đau đầu",
+    "Bệnh ở mắt, liệt mặt"
+  ],
+  "caution": "Sách xưa bảo cấm cứu"
+},{
+  "code": "GB-1",
+  "name": "Đồng tử liêu",
+  "description": "Nhắm mắt, chỗ khóe ngoài 5 phân. Huyệt ở chỗ hõm sát ngoài đường khớp của mỏm ngoài ổ mắt, xương gò má và xương trán",
+  "functionalities": [
+    "Nhức đầu",
+    "Viêm giác mạc, teo thần kinh thị giác",
+    "Đỏ mắt",
+    "Chảy nước mắt",
+    "Liệt dây thần kinh",
+    "Quáng gà"
+  ],
+  "caution": "Không được cứu bỏng"
+},{
+  "code": "GB-2",
+  "name": "Thính hội",
+  "description": "Phía trước rãnh bình tai nơi chỗ hõm khi há mồm, dưới huyệt Nhĩ môn. Khi điểm huyệt hơi há mồm ra",
+  "functionalities": [
+    "Câm điếc",
+    "Viêm tai giữa, ù tai, lãng tai",
+    "Đau răng",
+    "Liệt thần kinh mặt"
+  ]
+},{
+  "code": "GB-4",
+  "name": "Hàm yến",
+  "description": "Phía sau mái tóc trán, dưới huyệt Đầu duy 1 thốn. Xác định huyệt Đầu duy rồi tìm huyệt này hoặc để tay sau mé tóc trán, bảo bệnh nhân nhai, dưới tay có di động (có sách ghi dưới huyệt Đầu duy 5 phân). Huyệt là chỗ nối 1/4 trên và 3/4 dưới của đoạn nối 2 huyệt Đầu duy và Khúc tân",
+  "functionalities": [
+    "Nhức đầu do thần kinh, nhức nửa đầu",
+    "Ù tai",
+    "Viêm mũi",
+    "Động kinh, co quắp",
+    "Đau mắt, hoa mắt"
+  ]
+},{
+  "code": "GB-5",
+  "name": "Huyền lư",
+  "description": "Huyệt Hàm yến đo xuống 6 phân, đo ra phía sau 1 phân. Huyệt là nơi Hàm yến nối với Đầu duy và Khúc tân tỉ lệ 2/4 trên hay 2/4 dưới, sát động mạch Thái dương nông",
+  "functionalities": [
+    "Nhức nửa đầu",
+    "Đau răng",
+    "Suy nhược thần kinh",
+    "Phù mặt"
+  ],
+  "caution": "Không được gây bỏng"
+},{
+  "code": "GB-6",
+  "name": "Huyền ly",
+  "description": "Dưới huyệt Huyền lô 5 phân, đo ra sau 1 phân. Huyệt ở chỗ nối 1/3 trên và 1/4 dưới của đoạn nối huyệt Đầu duy và Khúc tân, sát động mạch thái dương nông",
+  "functionalities": [
+    "Đau nửa đầu",
+    "Đau răng",
+    "Phù mặt",
+    "Suy nhược thần kinh"
+  ]
+},{
+  "code": "GB-7",
+  "name": "Khúc tân",
+  "description": "Phía sau, bên đầu trên tai, trên chân tóc, giữa huyệt Giác tôn và Hỏa liêu. Sát động mạch Thái dương nông",
+  "functionalities": [
+    "Thiên đầu thống",
+    "Đau thần kinh 3 nhánh, co giật cơ mặt"
+  ]
+},{
+  "code": "Du-9",
+  "name": "Chí dương",
+  "description": "Ngồi ngay, hơi cúi đầu phía trước, ấn tại dưới đốt xương sống thứ 7 là huyệt. Hoặc là điểm gặp nhau của đường nối hai đầu mỏm xương bả vai và đường dọc xương sống",
+  "functionalities": [
+    "Đau thần kinh liên sườn",
+    "Đau lưng",
+    "Viêm gan",
+    "Viêm túi mật",
+    "Viêm màng ngực",
+    "Vàng da",
+    "Sôi bụng",
+    "Không muốn ăn",
+    "Ho suyễn",
+    "Tức ngực"
+  ]
+},{
+  "code": "Du-10",
+  "name": "Linh đài",
+  "description": "Chỗ hõm dưới đầu mỏm gai dốt sống lưng 6",
+  "functionalities": [
+    "Đau sống lưng",
+    "Cứng gáy",
+    "Đinh nhọt",
+    "Suyễn, viêm khí quản",
+    "Giun chui ống mật",
+    "Sốt rét",
+    "Đau bao tử"
+  ]
+},{
+  "code": "Du-11",
+  "name": "Thần đạo",
+  "description": "Ở chỗ hõm giữa gai sau 2 đốt sống lưng thứ 5-6 . Khi điểm huyệt nằm sấp hoặc hơi ngồi khom lưng",
+  "functionalities": [
+    "Sốt nhiệt cao",
+    "Bệnh thuộc tạng tim",
+    "Sốt rét",
+    "Động kinh",
+    "Đau thần kinh liên sườn"
+  ]
+},{
+  "code": "Du-12",
+  "name": "Thân trụ",
+  "description": "Khi điểm huyệt ngồi hơi cúi đầu xuống. Dưới gai đốt sống thứ 3, nơi chỗ hỏ",
+  "functionalities": [
+    "Đau lưng hông",
+    "Viêm khí quản",
+    "Viêm phổi, lao phổi",
+    "Suyễn",
+    "Bệnh tâm thần",
+    "Y bệnh (It-tê-ri)",
+    "Huyệt trị bệnh tâm thần phân liệt, đau cột sống thắt lưng-sốt rét rất có hiệu quả"
+  ]
+},{
+  "code": "Du-13",
+  "name": "Đào đạo",
+  "description": "Khi điểm huyệt ngồi ngay, dưới đốt xương sống thứ nhất, huyệt ở chỗ hõm dưới đầu mỏm gai đốt sống lưng thứ nhất",
+  "functionalities": [
+    "Co giật các cơ vùng đầu cổ",
+    "Đau đầu",
+    "Đau cột sống, yếu cột sống",
+    "Sốt cấp tính",
+    "Lao phổi",
+    "Sốt rét",
+    "Cảm cúm",
+    "Hoảng hốt",
+    "Ra mồ hôi trộm"
+  ],
+  "caution": "Khi cứu cần chú ý vì huyệt này nằm trên Đốc mạch"
+},{
+  "code": "Du-15",
+  "name": "Á môn",
+  "description": "Huyệt nằm giữa hai mỏm gai của đốt sống cổ 1 và 2. Khi điểm huyệt nên ngồi thẳng, đầu hơi cúi tới phía trước",
+  "functionalities": [
+    "Đau cứng vùng gáy",
+    "Đau cứng cột sống",
+    "Xuất huyết mũi không cầm",
+    "Câm, ngọng nghịu, lưỡi khó phát âm, rụt lưỡi, teo lưỡi, mất tiếng đột ngột",
+    "Điên cuồng"
+  ],
+  "caution": "Trong trường hợp tiết ứ dịch phế quản khi vê kim, nếu bệnh nhân có phản ứng thở dội lên, thường có kết quả tốt"
+},{
+  "code": "Du-16",
+  "name": "Phong phủ",
+  "description": "Cúi đầu xuống thì gân cơ thang nổi lên ở chỗ bám vào hộp sọ. Ngửa đầu lên thì khe xương hõm xuống có thể sờ được đáy hộp sọ. Huyệt ngay ở chỗ hõm giữa hai cơ thang ngang với đáy hộp sọ. Thường lấy ở chỗ hõm giữa gáy, trên chân tóc 1 thốn , giữa khe xương chấm và đốt sống cổ 1.",
+  "functionalities": [
+    "Đau đầu, cứng gáy",
+    "Cảm mạo",
+    "Tê tứ chi",
+    "Trúng phong",
+    "Bệnh tâm thần"
+  ],
+  "caution": "Bên dưới là hành tủy không được châm sâu hoặc chếch kim lên trên, nguy hiểm"
+},{
+  "code": "Du-17",
+  "name": "Não hộ",
+  "description": "Xác định huyệt Phong Phủ rồi đo lên 1,5 thốn",
+  "functionalities": [
+    "Đau đầu, cứng cổ",
+    "Mất ngủ",
+    "Động kinh"
+  ],
+  "caution": "Tránh châm vào xương. Sách xưa bảo cấm cứu, cứu làm cho câm. Nếu châm nhầm, phát sinh nhức đầu, nên dùng huyệt Bách hội để giải cứu, châm mũi kim xiên xuống phía dưới lắc nhẹ bốn mặt hoặc lắc trên cán kim thì bớt"
+},{
+  "code": "Du-18",
+  "name": "Cường gian",
+  "description": "Ngồi ngay thẳng, xác định huyệt Não hộ đo lên 1,5 thốn. Huyệt là điểm giữa đoạn nối huyệt Phong phủ và Bách hội",
+  "functionalities": [
+    "Đau sau đầu, nhức đầu xây xẩm",
+    "Vẹo cổ, cứng gáy",
+    "Hoa mắt",
+    "Trẻ con động kinh",
+    "Điên cuồng"
+  ],
+  "caution": "Tránh châm vào đụng xương"
+},{
+  "code": "Du-19",
+  "name": "Hậu đính",
+  "description": "Điểm giữa của huyệt Bách hội và Cường gian, hoặc từ Cường gian đo lên 1,5 thốn",
+  "functionalities": [
+    "Đau đỉnh đầu, nhức nửa đầu",
+    "Cảm mạo",
+    "Mất ngủ",
+    "Động kinh"
+  ],
+  "caution": "Tránh châm đụng xương"
+},{
+  "code": "Du-21",
+  "name": "Tiền đính",
+  "description": "Xác định huyệt Bách hội đo tới trước 1,5 thốn. Khi điểm huyệt ngồi thẳng hoặc hơi cúi tới trước",
+  "functionalities": [
+    "Đau đầu",
+    "Chóng mặt, hoa mắt",
+    "Phù thủng",
+    "Trẻ con động kinh"
+  ]
+},{
+  "code": "Du-22",
+  "name": "Tín hội",
+  "description": "Xác định huyệt Bách hội, đo tới trước 3 thốn, ở giữa thóp trước. Khi điểm huyệt ngồi thẳng hay dựa đầu ra sau",
+  "functionalities": [
+    "Đau đầu, xâm xoàng",
+    "Viêm mũi, trĩ mũi",
+    "Động kinh trẻ con"
+  ],
+  "caution": "Dưới 8 tuổi không nên cứu vì thóp trước chưa khít (Đồng nhân). Ngộ châm làm té xỉu, nên dùng huyệt Phong môn để giải cứu"
+},{
+  "code": "Du-23",
+  "name": "Thượng tinh",
+  "description": "Đường chính giữa đầu, phía sau chân tóc trán 1 thốn, khi điểm huyệt nên ngồi thẳng hay hơi ngửa đầu ra ngoài",
+  "functionalities": [
+    "Đau đầu",
+    "Viêm mũi, mũi xuất huyết, trĩ mũi",
+    "Viêm giác mạc, bệnh mắt"
+  ],
+  "caution": "Không nên cứu nhiều (Ngoại đài). Cứu nhiều lần làm hỏa bốc lên đầu làm mờ mắt (Minh đường). Trẻ con cấm cứu, cấm châm vì thóp hở "
+},{
+  "code": "Du-24",
+  "name": "Thần đình",
+  "description": "Trên huyệt Ấn đường 3,5 thốn hoặc sau chân tóc 0,5 thốn",
+  "functionalities": [
+    "Đau đầu, chóng mặt",
+    "Viêm mũi",
+    "Động kinh",
+    "Bệnh tâm thần"
+  ],
+  "caution": "Châm huyệt này lỡ ngộ châm thì dùng huyệt Tích trung để hóa giải, kích thích mạnh"
+},{
+  "code": "Du-25",
+  "name": "Tố liêu",
+  "description": "Ngay chính giữa đầu nhọn nhất của sống mũi. Khi điểm huyệt ngồi thẳng hoặc hơi dựa đầu lui sau",
+  "functionalities": [
+    "Viêm mũi, xuất huyết mũi, thịt thừa trên mũi",
+    "Kích ngất",
+    "Huyết áp thấp",
+    "Tim đập chậm"
+  ]
+},{
+  "code": "Du-27",
+  "name": "Đoài đoan",
+  "description": "Chỗ nhọn của môi trên, ngay dưới rãnh nhân trung, nơi tiếp giáp giữa da và niêm mạc môi trên",
+  "functionalities": [
+    "Viêm xoang miệng",
+    "Đau môi, đau lợi răng",
+    "Nôn mửa",
+    "Nghẹt mũi, polip mũi",
+    "Động kinh",
+    "Điên cuồng"
+  ]
+},{
+  "code": "Du-28",
+  "name": "Ngân giao",
+  "description": "Lật môi trên lên, huyệt giữa lợi răng và kẽ môi trên, đầu trên nếp hãm môi trên",
+  "functionalities": [
+    "Polip mũi",
+    "Đau răng chảy máu",
+    "Chấn thương lưng cấp tính",
+    "Bệnh tâm thần"
+  ]
+},{
+  "code": "Ren-1",
+  "name": "Hội âm",
+  "description": "Đàn ông ở giữa bìu dái và hậu môn, đàn bà ở đường sau âm thần và hậu môn. Đó là chỗ hội tụ của các mép da chạy từ hậu môn, phần sinh dục và hai bên háng tới. Huyệt ở giữa nút đáy chậu",
+  "functionalities": [
+    "Viêm niệu đạo",
+    "Viêm tuyến tiền liệt",
+    "Di tính",
+    "Kinh nguyệt không đều",
+    "Thượng mã phong",
+    "Chết đuối",
+    "Điên cuồng"
+  ],
+  "caution": "Khi châm phải sát trùng cẩn thận, nơi dễ nhiễm trùng thành rò"
+},{
+  "code": "Ren-2",
+  "name": "Khúc cốt",
+  "description": "Nằm ngửa, huyệt ở chính giữa bờ trên xương mu",
+  "functionalities": [
+    "Viêm bàng quang",
+    "Viêm dịch hoàn",
+    "Sa tử cung",
+    "Kinh nguyệt không đều",
+    "Bí dái, đái khó"
+  ]
+},{
+  "code": "Ren-3",
+  "name": "Trung cực",
+  "description": "Trên đường giữa bụng dưới rốn 4 thốn, trên bờ xương mu 1 thốn. Khi điểm huyệt nằm ngửa.",
+  "functionalities": [
+    "Liệt dương, xuất tinh sớm, di tinh",
+    "Đái dầm, bí đái",
+    "Đau dây thần kinh hông",
+    "Kinh nguyệt không đều",
+    "Chứng nhiều bạch trọc",
+    "Phụ nữ vô sinh",
+    "Nhiễm trùng đường tiểu",
+    "Viêm hố khung chậu",
+    "Thống kinh",
+    "Viêm thận"
+  ]
+},{
+  "code": "Ren-4",
+  "name": "Quan nguyên",
+  "description": "Xác định đoạn rốn và bờ trên xương mu. Huyệt ở điểm tỷ lệ 3/5 trên và 2/5 dưới.",
+  "functionalities": [
+    "Nâng cao đề kháng, bổ các chứng hư tổn",
+    "Phù thủng",
+    "Thận dương suy",
+    "Mệt mỏi, lừ đừ",
+    "Chứng thoát của trúng phong, suy nhược toàn thân"
+  ]
+},{
+  "code": "Ren-5",
+  "name": "Thạch môn",
+  "description": "Huyệt ở trên điểm nối tỷ lệ 2/5 trên và 3/5 dưới của đoạn rốn và bờ trên xương mu",
+  "functionalities": [
+    "Bế kinh",
+    "Rong huyết",
+    "Bí đái",
+    "Phù thủng",
+    "Viêm tuyến vú",
+    "Hạ huyết áp"
+  ],
+  "caution": "Không châm quá sâu"
+},{
+  "code": "Ren-7",
+  "name": "Âm giao",
+  "description": "Nằm ngửa huyệt ở điểm nối 1/5 trên với 4/5 dưới của đoạn rốn bờ trên xương mu",
+  "functionalities": [
+    "Đau bụng quanh rốn",
+    "Đau do thoát vị",
+    "Sa tử cung",
+    "Bệnh thuộc hệ sinh dục ngoài",
+    "Bệnh về kinh nguyệt, băng lậu, khí hư",
+    "Phù thủng"
+  ]
+},{
+  "code": "Ren-8",
+  "name": "Thần khuyết",
+  "description": "Ngay giữa rốn",
+  "functionalities": [
+    "Viêm ruột cấp mãn tính",
+    "Lỵ mãn tính",
+    "Lao ruột",
+    "Ỉa chảy",
+    "Kích ngất vì dính ruột",
+    "Sa trực tràng",
+    "Thoát chứng do trúng phong",
+    "Bệnh thuộc hư hàn, chân dương hư"
+  ]
+},{
+  "code": "Ren-9",
+  "name": "Thủy phân",
+  "description": "Đường chính giữa bụng, trên rốn 1 thốn. Khi điểm huyệt phải nằm sâu",
+  "functionalities": [
+    "Cổ trướng",
+    "Nôn mửa",
+    "Ỉa chảy",
+    "Viêm thận"
+  ],
+  "caution": "Trong bệnh phù thủng và cổ trướng phải cứu lâu, không châm. Nếu ngộ lỡ châm làm bệnh nhân phù thủng, nên châm 2 huyệt Thiên khu và Hoang du để giải cứu, có thể dùng Huyết kiệt tán bột vào đó, nếu không có Huyết kiệt thì dùng Hòe hoa sậy khô tán bột dán lên cũng được"
+},{
+  "code": "ST-32",
+  "name": "Phục thỏ",
+  "description": "Ở điểm cách góc trên phía ngoài xương bánh chè 6 thốn, bờ ngoài cơ thẳng trước, bờ trong cơ rộng ngoài. Hoặc bàn tay úp lên đầu gối, các ngón tay khép lại, để ngay giữa lằn cổ tay thứ nhất lên trên giữa đầu gối, đầu ngón tay giữa áp lên da chân ở đầu, nơi đó là huyệt.",
+  "functionalities": [
+    "Tê liệt hạ chi, bại xụi",
+    "Viêm khớp gối",
+    "Phong mề đay"
+  ]
+},{
+  "code": "ST-33",
+  "name": "Âm thị",
+  "description": "Khi điểm huyệt phải gấp duỗi gối để tìm gân cơ, ở chỗ lõm trên góc trên ngoài xương bánh chè 3 thốn, sát bờ ngoài gân cơ thẳng trước đùi.",
+  "functionalities": [
+    "Viêm khớp gối, tê đầu gối, co duỗi đầu gối đau",
+    "Liệt hạ chi, liệt do di chứng tai biến mạch máu não"
+  ]
+},{
+  "code": "ST-34",
+  "name": "Lương khâu",
+  "description": "Co duỗi khớp gối để tìm khe giữa gân cơ thẳng trước và cơ rộng ngoài của cơ 4 đầu đùi. Huyệt ở bề trên phía ngoài xương bánh chè đo lên 6 thốn. Hoặc huyệt ở góc trên bên ngoài xương bánh chè 2 thốn",
+  "functionalities": [
+    "Viêm khớp gối",
+    "Viêm dạ dày",
+    "Viêm tuyến vú, tắc sữa"
+  ]
+},{
+  "code": "ST-35",
+  "name": "Độc tị",
+  "description": "Ngồi co đầu gối, huyệt ở chỗ lõm dướigóc dưới - ngoài xương bánh chè và ở ngoài gân cơ tứ đầu đùi.",
+  "functionalities": [
+    "Các loại sưng đau ở khớp gối hoặc bệnh thuộc tổ chức mềm quanh khớp gối"
+  ]
+},{
+  "code": "ST-37",
+  "name": "Thượng cự hư",
+  "description": "Huyệt Ngoại tất nhãn thẳng xuống 6 thốn, mào trước xương chày ngang ra 1 khoát ngón tay, huyệt giữa xương chày và mác",
+  "functionalities": [
+    "Đau nhức ống chân",
+    "Đau bụng, sình bụng ỉa chảy",
+    "Viêm ruột thừa, viêm ruột, viêm dạ dày"
+  ]
+},{
+  "code": "ST-38",
+  "name": "Điều khẩu",
+  "description": "Ngồi ngay co đầu gối, dưới huyệt Túc Tam lý 5 thốn, huyệt ở giữa đoạn nối huyệt Độc tỵ và Giải khê",
+  "functionalities": [
+    "Đau tê ống chân đầu gối, viêm khớp gối, liệt hạ chi, cước khí, chứng nóng trong chân",
+    "Liệt bại",
+    "Viêm dạ dày, viêm ruột"
+  ]
+},{
+  "code": "ST-39",
+  "name": "Hạ cự hư",
+  "description": "Ngồi ngay vểnh bàn chân xoay ra ngoài để lộ các khe cơ, xác định huyệt Túc Tam lý rồi đo xuống 6 thốn. Huyệt nằm trong khe giữa cơ cẳng chân trước và cơ duỗi chung các ngón chân",
+  "functionalities": [
+    "Thấp khớp, cước khí",
+    "Liệt chi dưới",
+    "Bệnh thuộc trường vị, ăn kém, viêm ruột cấp, mãn tính",
+    "Viêm gan cấp mãn tính"
+  ]
+},{
+  "code": "ST-41",
+  "name": "Giải khê",
+  "description": "Ngồi ngay, lắc bàn chân lên xuống, để lộ rõ vân cơ cẳng chân trước và cơ gân duỗi dài riêng ngón chân cái. Huyệt ở chỗ hõm trên nếp gấp trước khớp cổ chân",
+  "functionalities": [
+    "Viêm tổ chức mềm quanh khớp cổ chân, bàn chân buông thõng, teo cơ cẳng chân",
+    "Não thiếu máu, đau đầu",
+    "Đầy bụng, viêm ruột",
+    "Đau răng, tắc tia sữa, viêm tuyến vú",
+    "Viêm thận",
+    "Cổ trướng",
+    "Động kinh"
+  ]
+},{
+  "code": "ST-43",
+  "name": "Hãm cốc",
+  "description": "Giữa kẹt 2 ngón chân thứ 2 và 3. Huyệt ở chỗ nối thân và đầu trước xương bàn chân 2",
+  "functionalities": [
+    "Đau khớp cổ chân",
+    "Phù mặt, phù thũng",
+    "Viêm kết mạc",
+    "Sôi ruột, đau bụng",
+    "Ít tê ri",
+    "Sốt không có mồ hôi"
+  ]
+},{
+  "code": "ST-44",
+  "name": "Nội đình",
+  "description": "Giữa kẹt 2 ngón chân cái và trỏ, nơi có lỗ hõm. Huyệt là chỗ nối thân với đầu sau xương đốt 1 ngón chân",
+  "functionalities": [
+    "Đau ngón chân, bàn chân, cước khí",
+    "Đau đầu thần kinh sinh ba, đau răng, viêm hạnh nhân",
+    "Đau dạ dày",
+    "Viêm ruột cấp mãn tính",
+    "Ỉa ra máu, lỵ"
+  ]
+},{
+  "code": "ST-45",
+  "name": "Lệ đoài",
+  "description": "Cách móng chân độ 0.1 - 0.2 thốn phía ngoài góc móng chân 2, trên đường tiếp giáp với gan chân và da mu chân",
+  "functionalities": [
+    "Lạnh bàn chân",
+    "2.Viêm amydal",
+    "Chảy máu cam",
+    "Đau răng",
+    "Suy nhược thần kinh, ít tê ri",
+    "Thiếu máu não",
+    "Tiêu hoá kém",
+    "Viêm gan"
+  ]
+},{
+  "code": "SP-1",
+  "name": "Ẩn bạch",
+  "description": "Huyệt ở chỗ góc móng chân phía ngoài ngón chân cái, cách móng chân 1 phân là đúng huyệt. Huyệt ở trên đường tiếp giáp da gan chân với da mu chân",
+  "functionalities": [
+    "Lạnh, chân, sưng ngón chân cái",
+    "Sình bụng, chứng không thèm ăn, nôn ỉa chảy",
+    "Động kinh, điên cuồng",
+    "Liệt do di chứng xuất huyết não",
+    "Phụ nữ có kinh lai rai không dứt",
+    "Băng lậu"
+  ]
+},{
+  "code": "SP-2",
+  "name": "Đại đô",
+  "description": "Chỗ khớp đầu xương ngón chân cái, phía trong có chỗ hõm gần xương gan bàn chân. Huyệt trên đường tiếp giáp da gan chân với da mu bàn chân của bờ trong ngón cái",
+  "functionalities": [
+    "Đau sưng bàn chân, mắt cá trong.",
+    "Sình bụng, ỉa chảy",
+    "Đau dạ dày",
+    "Ăn không tiêu",
+    "Nôn mửa",
+    "Bón",
+    "Sốt không ra mồ hôi"
+  ]
+},{
+  "code": "SP-4",
+  "name": "Công tôn",
+  "description": "Tìm khớp xương bàn chân và xương dài, ngón chân cái hợp lại chỗ nổi cao trên bàn chân, xiên vào một tí nơi chỗ hõm. Huyệt nằm trên đường tiếp giáp do gan chân với da mu chân ở bàn chân trong, ngang chỗ tiếp nối của thân và đầu sau xương bàn chân",
+  "functionalities": [
+    "Nóng hoặc đau nhức ở gan bàn chân",
+    "Co thắt vùng bụng dưới",
+    "Đau dạ dày do thần kinh",
+    "Nôn mửa",
+    "Viêm ruột cấp, mãn tính",
+    "Viêm màng trong tử cung",
+    "Động kinh",
+    "Ăn kém ngon"
+  ]
+},{
+  "code": "SP-5",
+  "name": "Thương khâu",
+  "description": "Phía dưới ở trước mắt cá chân trong, nơi chỗ hõm. Khi tìm, gấp duỗi bàn chân để tìm chỗ hõm",
+  "functionalities": [
+    "Cước khí, nhức chân",
+    "Viêm dạ dày",
+    "Viêm ruột",
+    "Tiêu hoá kém",
+    "Phù thũng"
+  ]
+},{
+  "code": "SP-7",
+  "name": "Lậu cốc",
+  "description": "Xác định chỗ lồi cao nhất của mắt cá trong đo lên 6 thốn. Huyệt ở chỗ hõm sát bờ sau trong xương gáy",
+  "functionalities": [
+    "Đau cẳng chân, liệt hạ chi",
+    "Đầy bụng, sôi ruột",
+    "Viêm đường tiểu"
+  ]
+},{
+  "code": "SP-8",
+  "name": "Địa cơ",
+  "description": "Khi điểm huyệt để thẳng chân, dưới Âm Lăng tuyền 3 thốn. Huyệt ở sát bồ sau trong xương chày",
+  "functionalities": [
+    "Căng tức bụng dưới, đái khó",
+    "Không muốn ăn, ăn vào đói liền",
+    "Kinh nguyệt không đều, xuất huyết tử cung, thống kinh, bệnh ở tử cung",
+    "Phù thũng",
+    "Di tinh",
+    "Đau lưng",
+    "Trưng hà"
+  ]
+},{
+  "code": "SP-9",
+  "name": "Âm lăng tuyền",
+  "description": "Khi điểm huyệt để ngay chân, điểm gặp nhau của chỗ hõm phía sau bờ sau trong đầu trên xường chày với đường ngang qua chỗ lồi cao nhất của cơ cẳng chân trước xương chày.",
+  "functionalities": [
+    "Viêm đầu gối, đau chân, cước khí",
+    "Bí đái, đái khó, đái dầm, đái không tự chủ",
+    "Ngực sườn căng tức",
+    "Viêm thận",
+    "Viêm ruột",
+    "Ăn ít, lạnh trong bụng",
+    "Cổ trướng",
+    "8 Di tinh"
+  ]
+},{
+  "code": "SP-12",
+  "name": "Xung môn",
+  "description": "Ngoài động mạch đùi, bờ trên khớp xương thẹn ở đường giữa bụng ngang ra 3.5 thốn hoặc huyệt Khúc Cốt đo ra 3.5 thốn",
+  "functionalities": [
+    "Đau thoát vị",
+    "Bái đái",
+    "Viêm màng trong tử cung, viêm dịch hoán"
+  ]
+},{
+  "code": "SP-13",
+  "name": "Phủ xá",
+  "description": "Xác định huyệt Xung Môn, đo lên 0.7 thốn, ngoài Nhâm Mạch 4 thốn (có sách lấy ngoài Nhâm mạch 3.5 thốn) huyệt ở ngoài động mạch đùi, phía trên nếp bẹn",
+  "functionalities": [
+    "Viêm hạch rãnh bụng đùi",
+    "Đau bụng dưới",
+    "Viên phần phụ",
+    "Viêm ruột thừa"
+  ]
+},{
+  "code": "SP-14",
+  "name": "Phúc kết",
+  "description": "Huyệt là nơi gặp nhau của đường dọc qua núm ví và đường ngang qua Nhâm mạch ở dưới rốn 1 thốn (có sách lấy trên huyệt Phủ xá 3 thốn, đo từ Nhâm mạch ra mỗi bên 3.5 thốn)",
+  "functionalities": [
+    "Đau quanh rốn",
+    "Đau bụng ỉa chảy",
+    "Đau do thoát vị"
+  ],
+  "caution": "Có thai không nên châm"
+},{
+  "code": "SP-15",
+  "name": "Đại hoành",
+  "description": "Khi điểm huyệt nằm ngửa, giữa rốn đo ra 4 thốn. Huyệt là điểm gặp nhau của đường rốn kéo ra và đường trên vú kéo xuống",
+  "functionalities": [
+    "Sình bụng",
+    "Ỉa chảy",
+    "Bón",
+    "Liệt ruột",
+    "Giun"
+  ]
+},{
+  "code": "SP-16",
+  "name": "Phúc ai",
+  "description": "Huyệt là nơi gặp nhau của đường dọc qua núm vú và đường ngang qua huyệt Kiến lý (trên rốn 3 thốn) (có sách lấy trên huyệt Đại Hoành 3 thốn, từ Nhâm mạch đo ra 3 thốn)",
+  "functionalities": [
+    "Đau quanh rốn",
+    "Tiêu hoá kém",
+    "Lỵ",
+    "Bón"
+  ],
+  "caution": "Không nên châm sâu quá và chếch mũi kim ngược lên, dễ tổn thương gan hoặc lách"
+},{
+  "code": "SP-17",
+  "name": "Thực đậu",
+  "description": "Đưa tay lên cao để dễ lấy huyệt. Huyệt ở giữa xương sường 5, ngoài đường Nhâm mạch 6 thốn",
+  "functionalities": [
+    "Đau thần kinh gian sườn",
+    "Viêm dạ dày",
+    "Cổ trướng",
+    "Bí đái"
+  ],
+  "caution": "Bên dưới huyệt là phổi, cấm không được châm sâu"
+},{
+  "code": "SP-18",
+  "name": "Thiên khê",
+  "description": "Giữa xương sườn 4, cách đường giữa ngực 6 thốn",
+  "functionalities": [
+    "Viêm tuyến vú",
+    "Đau dây thần kinh sường",
+    "Viêm khí quản, suyễn, nấc cụt"
+  ],
+  "caution": "Bên dưới huyệt là phổi, cấm không được châm sâu"
+},{
+  "code": "BL-48",
+  "name": "Dương cương",
+  "description": "Xương sống đốt thứ 10 đo ra 3 thốn. Huyệt ở điểm gặp nhau của đường ngang qua đầu mỏm gai đốt sống lưng 10 và đường thẳng đứng ngoài đốc mạch 3 thốn. Khi điểm huyệt nên nằm sấp hoặc ngồi khom lưng",
+  "functionalities": [
+    "Viêm gan, vàng da",
+    "Viêm mật",
+    "Viêm dạ dày",
+    "Đau đốt sống",
+    "Ỉa chảy, bụng sôi"
+  ],
+  "caution": "Bên dưới huyệt là phổi, cấm không được châm sâu"
+},{
+  "code": "BL-49",
+  "name": "Ý xá",
+  "description": "Dưới xương đốt sống lưng thứ 11 đo ngang ra 3 thốn. Khi điểm huyệt nằm sấp",
+  "functionalities": [
+    "Viêm gan",
+    "Viêm mật",
+    "Viêm dạ dày"
+  ]
+},{
+  "code": "BL-50",
+  "name": "Vị thương",
+  "description": "Dưới gai đốt sống lưng thứ 12 đo ra 3 thốn. Khi điểm huyệt nên nằm sấp",
+  "functionalities": [
+    "Đau lưng",
+    "Đau, viêm dạ dày",
+    "Đau bụng"
+  ]
+},{
+  "code": "BL-51",
+  "name": "Hoang môn",
+  "description": "Đốt sống lưng thứ 13, dưới huyệt Huyền khu đo ra 3 thốn, ngang với huyệt Tam tiêu du (cách 1,5 thốn). Huyệt là giao điểm của đường ngang qua dưới gai đốt sống thắt lưng và đường thẳng đứng ngoài Đốc mạch ra 3 thốn (có thể dựa theo bờ xương sường cuối để xác định xương sống lưng 12 rồi lấy xuống 1 đốt). Khi điểm huyệt nên nằm sấp.",
+  "functionalities": [
+    "Đau lưng, thắt lưng",
+    "Đau bụng trên",
+    "Viêm tuyến vú",
+    "Liệt hạ chi"
+  ],
+  "caution": "Không châm quá sâu"
+},{
+  "code": "BL-52",
+  "name": "Chí thất",
+  "description": "Khi điểm huyệt ngồi hoặc nằm sấp. Huyệt là điểm gặp nhau của đường thẳng ngang qua dưới mỏm gai đốt sống thắt lưng 2 và đường thẳng đứng cách Đốc mạch 3 thốn. Có thể dựa theo xương sườn để xác định đốt sống lưng thứ 12 để lấy xuống 2 đốt",
+  "functionalities": [
+    "Đau, mỏi thắt lưng",
+    "Đái rắn, bí đái",
+    "Sưng sinh dục ngoài, suy nhược sinh dục, liệt dương",
+    "Viêm thận",
+    "Viêm tuyến tiền liệt",
+    "Di tinh, mộng tinh",
+    "Ăn khó tiêu",
+    "Phù thũng"
+  ],
+  "caution": "Không nên châm sâu, dễ tổn thương bên trong"
+},{
+  "code": "BL-53",
+  "name": "Bào hoang",
+  "description": "Khi điểm huyệt nên nằm sấp, lấy điểm gặp nhau của đường ngang qua mỏm gai cửa đốt sống cùng 2 và đường thẳng đứng ngoài Đốc mạch 3 thốn. Hoặc có thể xác định lỗ cùng 2 đo ngang ra để lấy huyệt",
+  "functionalities": [
+    "Đau vùng thắt lưng - cùng",
+    "Đau lưng - đùi",
+    "Sôi ruột đau bụng",
+    "Đầy bụng",
+    "Bí đái"
+  ]
+},{
+  "code": "BL-54",
+  "name": "Trật biên",
+  "description": "Khi điểm huyệt nằm sấp, dưới gai xương cùng 4, từ đường giữa lưng đo ra 3 thốn, tức huyệt Bạch hoàn du đo ra 1,5 thốn, hoặc dựa vào lỗ cùng 4 để ngang ra lấy huyệt",
+  "functionalities": [
+    "Đau thần kinh toạ",
+    "Tổn thương cơ mông",
+    "Liệt chi dưới",
+    "Bệnh ở hậu môn, sinh dục"
+  ]
+},{
+  "code": "BL-55",
+  "name": "Hợp dương",
+  "description": "Điểm huyệt nằm sấp 2 chân ngay thẳng, từ huyệt Uỷ trung đo xuống 2 thốn. Huyệt ở đỉnh của góc tứ giác khoeo tạo nên bởi phần trên cơ sinh đôi ngoài",
+  "functionalities": [
+    "Đau nhức thắt lưng gối",
+    "Băng lậu",
+    "Thoát vị",
+    "Đau nhức chi dưới"
+  ]
+},{
+  "code": "BL-56",
+  "name": "Thừa cân",
+  "description": "Chính giữa cơ sinh đôi. Huyệt là trung điểm nối 2 huyệt Thừa sơn và Hợp Dương. Khi điểm huyệt cần nằm sấp nảy châm để tìm kẻ cơ",
+  "functionalities": [
+    "Nhứt đầu",
+    "Đau cứng vai lưng",
+    "Tê liệt hạ chi",
+    "Đau bắp chân",
+    "Trĩ"
+  ]
+},{
+  "code": "BL-57",
+  "name": "Thừa sơn",
+  "description": "Khi điểm huyệt nảy bàn chân sẽ hiện rõ khe cơ. Huyệt dưới bắp cơ của cơ sinh đôi, ở điểm khoảng giữa gót chân và khoeo chân. Huyệt ngay chỗ hõm (khi nảy chân sẽ có chữ ^)",
+  "functionalities": [
+    "Đau thắt lưng - đùi",
+    "Đau thần kinh hông",
+    "Co rút bắp chân",
+    "Liệt chi dưới",
+    "Trĩ, sa trực tràng"
+  ]
+},{
+  "code": "BL-59",
+  "name": "Phụ dương",
+  "description": "Khi điểm huyệt ngồi thòng chân xuống. Xác định huyệt Côn Lôn, đo lên 3 thốn. Huyệt ở trong khe cơ mác bên ngắn và cơ dép",
+  "functionalities": [
+    "Đau đầu",
+    "Đau thắt lưng - đùi",
+    "Liệt hạ chi",
+    "Sưng khớp mắt cá",
+    "Đau nhứt toàn thân"
+  ]
+},{
+  "code": "BL-61",
+  "name": "Bộc tham",
+  "description": "Khi điểm huyệt chắp hai chân lại với nhau, xác định bờ bên ngoài mặt xương gót chân, huyệt sát bờ trên xương gót chân và thẳng từ huyệt Côn Lôn xuống, nơi chỗ giáp giới của da trắng và đỏ, đè vào thường cảm thấy đau",
+  "functionalities": [
+    "Đau gót chân",
+    "Đau mắt cá chân",
+    "Cước khí",
+    "Liệt hạ chi",
+    "Vọp bẻ",
+    "Đau lưng",
+    "Điên, động kinh"
+  ]
+},{
+  "code": "GB-8",
+  "name": "Suất cốc",
+  "description": "Khi điểm huyệt, áp vành tai vào đầu để lấy huyệt Giác Tôn, xong đo lên 1,5 thốn để lấy huyệt",
+  "functionalities": [
+    "Thiên đầu thống",
+    "Bệnh thuộc mắt, hoa mắt",
+    "Chóng mặt"
+  ]
+},{
+  "code": "GB-9",
+  "name": "Thiên xung",
+  "description": "Sau huyệt Suất Cốc 0.5 thốn trên chân tóc 2 thốn",
+  "functionalities": [
+    "Nhứt đầu",
+    "Sưng đau lợi răng",
+    "Sưng tuyến giáp trạng",
+    "Động kinh"
+  ]
+},{
+  "code": "GB-10",
+  "name": "Phù bạch",
+  "description": "Xác định huyệt Thiên Xung và Hoàn Cốt, lấy ở tỷ lệ 1/3 trên hoặc 2/3 dưới. Huyệt ở sau huyệt Thiên Xung đo xuống 1 thốn",
+  "functionalities": [
+    "Nhức đầu",
+    "Đau răng",
+    "Lãng tai, ù tai",
+    "Viêm khí quản"
+  ],
+  "caution": "Không được cứu bỏng"
+},{
+  "code": "GB-11",
+  "name": "Đầu khiếu âm",
+  "description": "Khi điểm huyệt ngồi hơi cúi đầu, xác định huyệt Dương Bạch đo thẳng lên, vào bờ tóc 5 phân. Huyệt ở chỗ nối 2/3 trên và 1/3 dưới của đoạn nối huyệt Thiên Xung với huyệt Hoàn Cốt",
+  "functionalities": [
+    "Đau đầu",
+    "Đau gáy",
+    "Đau tai",
+    "Đau ngực",
+    "Điếc",
+    "Viêm họng, viêm phế quản",
+    "Viêm tuyến giáp trạng"
+  ]
+},{
+  "code": "GB-12",
+  "name": "Hoàn cốt",
+  "description": "Xác định huyệt Đầu Khiếu Âm đo xuống 7 phân, ở mí tóc sau rai đo lên 4 phân. Huyệt ở chỗ hõm sau mỏm trâm trũng phía sau tai, sát ở bờ sau cơ ức đòn chũm",
+  "functionalities": [
+    "Đau đầu",
+    "Cứng gáy",
+    "Phù mặt",
+    "Đau răng",
+    "Liệt mặt",
+    "Viêm tuyến mang tai",
+    "Động kinh"
+  ]
+},{
+  "code": "GB-13",
+  "name": "Bản thần",
+  "description": "Ngồi ngay điểm huyệt Thần Đình (mạch đốc đo ra 3 thốn), từ huyệt Ty trúc không đo thẳng lên, vào mé tóc 5 phân là huyệt",
+  "functionalities": [
+    "Đau đầu",
+    "Hoa mắt",
+    "Cổ cứng đau",
+    "Đau sườn ngực",
+    "Liệt nửa người",
+    "Động kinh",
+    "Điên"
+  ],
+  "caution": "Khi cứu không được gây bỏng, cẩn thận lúc cứu"
+},{
+  "code": "GB-14",
+  "name": "Dương bạch",
+  "description": "Trước trán ở trên dường thẳng qua chính giữa mắt và phía trên lông mày 1 thốn.",
+  "functionalities": [
+    "Nhức đầu trước trán",
+    "Viêm giác mạc",
+    "Đau mắt",
+    "Mắt nhiều ghèn",
+    "Đau thần kinh tam thoa",
+    "Bệnh mắt như quáng gà, loạn thị, đau thần kinh vành mắt, liệt cơ mắt"
+  ]
+},{
+  "code": "GB-15",
+  "name": "Đầu lâm khấp",
+  "description": "Xác định huyệt dương bạch rồi đo thẳng lên, vào bờ tóc 5 phân. Huyệt ở trên đường thằng qua giữa huyệt Thần Đình và Đầu Duy, trên chân tóc 5 phân",
+  "functionalities": [
+    "Đau nhức trước đầu",
+    "Viêm kết mạc cấp mãn tính",
+    "Viêm khoé mắt ngoài",
+    "Chảy nước mắt sống",
+    "Động kinh",
+    "Nghẹt mũi"
+  ],
+  "caution": "Không được cứu, dễ gây bỏng thành sẹo"
+},{
+  "code": "GB-16",
+  "name": "Mục song",
+  "description": "Trên huyệt Đầu Lâm Khấp1,5 thốn",
+  "functionalities": [
+    "Đau đầu, hoa mắt",
+    "Phù đầu mặt",
+    "Viêm kết mạc",
+    "Đau răng",
+    "Trúng phong"
+  ]
+},{
+  "code": "GB-17",
+  "name": "Chính dinh",
+  "description": "Xác định huyệt Đầu Lâm Khấp ở khớp xương sọ, đo thẳng lên 3 thốn. Huyệt ở trên đường nối Đầu Lâm Khấp và Phong Trì",
+  "functionalities": [
+    "Đau nửa đầu",
+    "Đau cứng cổ",
+    "Đau mắt",
+    "Đau răng",
+    "Xoàng đầu",
+    "Nôn mửa"
+  ]
+},{
+  "code": "GB-18",
+  "name": "Thừa linh",
+  "description": "Nối huyệt Phong Trì và Lâm khấp, sau huyệt Lâm khấp 4,5 thốn",
+  "functionalities": [
+    "Đau đầu",
+    "Bệnh mắt",
+    "Cảm mạo",
+    "Viêm khí quản",
+    "Chảy máu mũi",
+    "Nghẹt thở"
+  ]
+},{
+  "code": "GB-19",
+  "name": "Não không",
+  "description": "Xác định huyệt Đầu Lâm Khấp và Phong Trì. Huyệt nằm trên đường nối này và cách Đầu Lâm khấp 6 thốn, ngang với ụ chẩm. Ngang với huyệt Não Hộ của Đốc mạch",
+  "functionalities": [
+    "Đau sau đầu",
+    "Cảm mạo",
+    "Suyễn",
+    "Động kinh",
+    "Bệnh tâm thần",
+    "Hồi hôp",
+    "Ù tai"
+  ],
+  "caution": "Huyệt nằm ở đầu, khi cứu cần chú ý"
+},{
+  "code": "GB-21",
+  "name": "Kiên tỉnh",
+  "description": "Giữa huyệt Đại Chuỳ và Kiên Ngung để tay lên có chỗ hõm thẳng với huyệt Khuyết Bồn, hay huyệt là điểm gặp nhau của đường thẳng ngang qua vú với đường ngang nối huyệt Đại Chuỳ với điểm cao nhất của đầu ngoài xương đòn, đè vào có cảm giác ê tức",
+  "functionalities": [
+    "Đau vai, lưng, cổ gáy",
+    "Viêm tuyến vú",
+    "Rong kinh cơ năng",
+    "Lao hạch cổ",
+    "Liệt do trúng phong, não sung huyết"
+  ]
+},{
+  "code": "Ren-10",
+  "name": "Hạ quản",
+  "description": "Xác định đoạn rốn và điểm gặp nhau của hai bờ sườn. Huyệt ở điểm nối 6/8 trên và 2/8 dưới",
+  "functionalities": [
+    "Trướng hơi",
+    "Co thắt dạ dày, sa dạ dày, viêm dạ dày mạn tính",
+    "Viêm ruột mãn",
+    "Bụng có nước",
+    "Người gầy dần"
+  ]
+},{
+  "code": "Ren-11",
+  "name": "Kiến lý",
+  "description": "Xác định điểm gặp của 2 bờ sườn và rốn. Huyệt là điểm nối 3/8 dưới và 5/8 trên của đoạn này",
+  "functionalities": [
+    "Đau dạ dày cấp, mãn tính",
+    "Khó tiêu, đầy bụng, sôi ruột",
+    "Nôn mửa",
+    "Tim quặn đau",
+    "Phù thũng"
+  ],
+  "caution": "Có thai cấm cứu. Châm quá sâu có thể tổn thương tới Tuỵ Tạng"
+},{
+  "code": "Ren-13",
+  "name": "Thượng quản",
+  "description": "Trên đường giữa bụng, từ rốn đo lên 5 thốn, khi điểm huyệt nằm ngửa",
+  "functionalities": [
+    "Viêm dạ dày cấp, mãn tính",
+    "No hơi",
+    "Co thắt dạ dày, co thắt thực đạo"
+  ]
+},{
+  "code": "Ren-15",
+  "name": "Cưu vĩ",
+  "description": "Khi điểm huyệt nằm ngửa hay ngồi ngay, tại chỗ chấn thuỷ (mỏ ác) đo xuống 1 thốn. Huyệt ở sát đầu mũi ức, chỗ đầu trên của đường trắng, ở điểm nối tỷ lệ 7/8 dưới hoặc 1/8 trên của đoạn rốn điểm gặp nhau của bờ sườn",
+  "functionalities": [
+    "Nấc cụt",
+    "Đau thắt tim",
+    "Tâm thần",
+    "Suyễn",
+    "Động kinh"
+  ],
+  "caution": "Bệnh nhân lớn tim và gan sưng không nên châm sâu. Mút kim lại không nên châm xiên lên trên.\nKhi châm bảo bệnh nhân đưa hai cánh tay lên trên"
+},{
+  "code": "Ren-16",
+  "name": "Trung đình",
+  "description": "Dưới huyệt Chiên Trung 1,6 thốn, ngang với khúc khe xương sườn thứ 5",
+  "functionalities": [
+    "Suyễn",
+    "Nôn mửa",
+    "Nghẹn",
+    "Nấc cụt"
+  ]
+},{
+  "code": "Ren-18",
+  "name": "Ngọc đường",
+  "description": "Huyệt là điểm gặp nhau của đường dọc xương ức và đường ngang qua bờ trên khớp ức - sườn 4 (có sách ghi trên huyệt  Chiên Trung, 1,6 thốn, ngang với xương sườn 3)",
+  "functionalities": [
+    "Tức ngực",
+    "Đau thần kinh sườn",
+    "Viêm khí quản",
+    "Suyễn",
+    "Nôn mửa",
+    "Phế khí thủng"
+  ],
+  "caution": "Xương ức mềm, nhất là trẻ con không nên châm thẳng góc, dễ xuyên qua trung thất"
+},{
+  "code": "Ren-19",
+  "name": "Tử cung",
+  "description": "Trên huyệt Ngọc Đường 1,6 thốn, ngang giữa xương sườn thứ 2",
+  "functionalities": [
+    "Suyễn",
+    "Lao phổi",
+    "Tức ngực"
+  ]
+},{
+  "code": "Ren-20",
+  "name": "Hoa cái",
+  "description": "Nằm ngửa, từ huyệt Chiên trung đo lên 4,8 thốn, hoặc từ Thiên Đột đo xuống 2 thốn. Huyệt là điểm gặp nhau của đường dọc xương ức và đường ngang qua giữa 2 khớp ức - sườn 2",
+  "functionalities": [
+    "Đau ngực, tức ngực",
+    "Ho suyễn",
+    "Viêm khí quản, viêm yết hầu",
+    "Đau thần kinh sườn"
+  ],
+  "caution": "Không được châm quá sâu vì xương ức mềm, có thể xuyên qua nội tạng"
+},{
+  "code": "Ren-21",
+  "name": "Toàn cơ",
+  "description": "Dưới huyệt Thiên Đột 1 thốn, ở trên đường dọc giữa xương ức. Giữa khớp ức sườn thứ 1",
+  "functionalities": [
+    "Hen phế quản, viêm phế quản mãn tính",
+    "Co thắt thực đạo, co thắt môn vị"
+  ]
+},{
+  "code": "Ren-22",
+  "name": "Thiên đột",
+  "description": "Huyệt ở giữa chỗ hõm bờ trên xương ức",
+  "functionalities": [
+    "Viêm yết hầu",
+    "Viên tuyến biên đào",
+    "Khan tiếng",
+    "Sưng tuyến giáp trạng",
+    "Mai hạch khí",
+    "Ho",
+    "Suyễn",
+    "Co thắt cơ hoành"
+  ],
+  "caution": "Sau khi châm hướng mũi kim theo mặt sau xương ức, không nên sâu quá để tránh động mạch chủ hoặc động mạch vô danh.\nChâm thẳng cũng không được quá sâu dễ đi vào khí quản gây ho.\nTránh các loại thủ pháp, cẩn thận để tránh tổn thương chóp phổi và động mạch dưới xương đòn."
+},{
+  "code": "Ren-23",
+  "name": "Liêm tuyền",
+  "description": "Chỗ cuống hầu, trên lằn chỉ ngang 0,2 thốn. Ngước đầu lên để tìm huyệt. Huyệt nằm ở bờ trên sụn giáp trạng",
+  "functionalities": [
+    "Khó nuốt, nghẹn, chảy dãi",
+    "Viêm yếu hầu, viêm tuyến amydal",
+    "Cứng lưỡi, lưỡi mềm khó nói, liệt cơ lưỡi",
+    "Mất tiếng"
+  ]
+},{
+  "code": "Ren-24",
+  "name": "Thừa tương",
+  "description": "Chỗ hõm giữa rãnh môi - cằm, phía dưới bờ môi dưới, trên đường bổ dọc giữa hàm dưới",
+  "functionalities": [
+    "Liệt mặt",
+    "Bại xuội do tai biến mạch máu não",
+    "Đau răng",
+    "Lở loét xoang mồm",
+    "Chứng rệu nước dãi"
+  ]
+}]

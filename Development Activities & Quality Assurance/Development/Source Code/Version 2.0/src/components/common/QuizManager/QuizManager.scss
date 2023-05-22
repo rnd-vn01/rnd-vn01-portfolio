@@ -1,0 +1,32 @@
+.quiz-manager {
+  height: 100%;
+
+  &__section {
+    width: 100%;
+    border-bottom: 1px solid black;
+
+    &--top {
+      height: 60px;
+
+      &--wide {
+        height: 100px;
+      }
+    }
+
+    &--button {
+      height: 60px;
+    }
+
+    &--main {
+      height: calc(100vh - 3 * 60px);
+
+      &--wide {
+        height: calc(100vh - 3 * 60px - 40px)
+      }
+    }
+  }
+
+  &__no-border {
+    border: none;
+  }
+}

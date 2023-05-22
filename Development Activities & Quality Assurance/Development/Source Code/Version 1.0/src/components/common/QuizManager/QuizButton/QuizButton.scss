@@ -1,0 +1,24 @@
+.quiz-button {
+  height: 100%;
+  cursor: pointer;
+
+  &__caption {
+    font-size: 1.5rem;
+    line-height: 45px;
+  }
+
+  &__disabled {
+    color: #DDDDDD;
+    cursor: not-allowed;
+
+    &:hover {
+      background: unset !important;
+      color: #DDDDDD !important;
+    }
+  }
+
+  &:hover {
+    background: var(--theme-background-hover);
+    color: black;
+  }
+}

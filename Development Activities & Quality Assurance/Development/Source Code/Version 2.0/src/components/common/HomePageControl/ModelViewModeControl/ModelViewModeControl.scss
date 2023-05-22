@@ -1,0 +1,17 @@
+.model-view-mode-control {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+
+  &__icon {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    object-fit: contain;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+  }
+}

@@ -1,0 +1,132 @@
+@import "src/responsive.scss";
+
+.about-page-section {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 20px;
+  height: fit-content;
+
+  &__flex-block {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+  }
+
+  &__header {
+    position: relative;
+    margin-top: 30px;
+
+    &--section {
+      font-size: 1.75rem;
+      line-height: 1.75rem;
+    }
+
+    &--info {
+      font-size: 1.25rem;
+      line-height: 1.75rem;
+      font-weight: normal;
+      text-align: right;
+    }
+
+    &--collapsable {
+      cursor: pointer;
+    }
+  }
+
+  &__school-logo {
+    height: 150px;
+  }
+
+  &__information {
+    margin-right: -8px;
+    margin-bottom: 15px;
+    max-height: fit-content;
+    margin-top: 5px;
+    padding-right: 3px;
+    -moz-transition: height .5s;
+    -ms-transition: height .5s;
+    -o-transition: height .5s;
+    -webkit-transition: height .5s;
+    transition: height .5s;
+    height: 0;
+    overflow: hidden;
+  }
+
+  &__member {
+    filter: grayscale(1);
+
+    &:hover {
+      cursor: pointer;
+      filter: grayscale(0);
+    }
+
+    &:hover>h1 {
+      color: #E2BE96;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+    }
+
+    &--avatar {
+      border-radius: 50%;
+    }
+
+    h1 {
+      font-size: 1.7rem;
+      line-height: 1.75rem;
+      word-wrap: break-word;
+      transform: translateY(-50%);
+      color: black;
+      margin-bottom: -12%;
+
+      @include smallscreen {
+        font-size: 1.5rem;
+        line-height: 1.55rem;
+      }
+    }
+  }
+
+  &__doctor {
+    max-width: 265px;
+
+    &--avatar {
+      height: 200px;
+
+      @include smallscreen {
+        height: 150px;
+      }
+    }
+
+    h1 {
+      text-align: center;
+    }
+  }
+
+  &__reference {
+    filter: grayscale(1);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &:hover {
+      cursor: pointer;
+      filter: grayscale(0);
+    }
+
+    &:hover>h1 {
+      color: #E2BE96;
+      text-shadow: 1px 1px 1px rgba(0, 0, 0, .3);
+    }
+
+    img {
+      height: 300px;
+    }
+
+    h1 {
+      font-size: 1.75rem;
+      line-height: 2rem;
+      max-width: 300px;
+      text-align: center;
+      color: black;
+      transform: translateY(-2rem);
+    }
+  }
+}

@@ -1,0 +1,142 @@
+@import "src/responsive.scss";
+
+.information-block {
+  height: fit-content;
+  max-height: 65vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  &__category {
+    padding: 5px;
+    color: black;
+    background: var(--theme-primary);
+    font-size: 1.15rem;
+    font-family: "header" !important;
+    line-height: 2rem;
+    padding-top: 6px;
+
+    &--caution {
+      background: var(--theme-danger);
+      color: white;
+    }
+  }
+
+  &__title {
+    border-bottom: 1px solid black;
+    font-size: 2.5rem;
+    font-family: "header" !important;
+    padding: 10px 40px;
+    cursor: default;
+
+    h1 {
+      display: inline;
+    }
+
+    &--code {
+      background: var(--theme-highlight);
+      margin-right: 20px;
+
+      @media screen and (max-width: 1200px) {
+        margin-right: 0px;
+      }
+    }
+
+    @include tablet {
+      height: 100%;
+      border-right: 1px solid black;
+      line-height: 2.75rem;
+    }
+
+    &--back-icon {
+      border: none;
+      padding: 2.5px;
+      height: 22.5px;
+      width: 22.5px;
+      position: absolute;
+      left: 5px;
+      top: 5px;
+      opacity: 0.5;
+      cursor: pointer;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+
+    span {
+      max-width: 100%;
+    }
+
+    @media screen and (max-width: 1200px) {
+      &--name {
+        display: block !important;
+      }
+    }
+  }
+
+  &__info {
+    &--text-caution {
+      color: var(--theme-danger);
+      font-weight: semibold;
+      font-family: "header" !important;
+    }
+
+    &--text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      line-clamp: 5;
+      -webkit-box-orient: vertical;
+    }
+  }
+
+  &__view-details {
+    cursor: pointer;
+    padding: 7.5px 5px;
+    margin-top: 0.5rem;
+    background: #ebe0d5;
+
+    &:hover {
+      background: var(--theme-primary)
+    }
+  }
+
+  &__menu {
+    display: inline-flex;
+    align-items: center;
+    opacity: 1;
+
+    &--icon {
+      height: 20px;
+      width: 20px;
+      padding: 7.5px;
+    }
+
+    &--button-logo {
+      background: var(--theme-background);
+      padding: 5px;
+      border-radius: 50px;
+      cursor: pointer;
+      border: 1px solid black;
+      margin-left: 5px;
+      position: absolute;
+      height: 40px;
+      width: 40px;
+      right: 5px;
+      top: -48px;
+
+      @include smallscreen {
+        bottom: 100px;
+        left: unset;
+        right: 5px;
+      }
+    }
+
+    &--faded {
+      opacity: 0.5;
+      background: rgba(0, 0, 0, 0.5);
+      color: white;
+    }
+  }
+}

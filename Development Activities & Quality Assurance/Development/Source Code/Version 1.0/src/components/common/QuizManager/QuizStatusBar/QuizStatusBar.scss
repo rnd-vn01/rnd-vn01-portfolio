@@ -1,0 +1,53 @@
+.quiz-status-bar {
+  position: relative;
+
+  &__menu {
+    &--name {
+      font-size: 1.5rem;
+      line-height: 45px;
+      transform: translateY(-5px);
+      margin-right: 7.5px;
+    }
+
+    &--image-logo {
+      height: 35px;
+      width: 35px;
+    }
+
+    &--button-logo {
+      background: var(--theme-gray);
+      padding: 5px;
+      border-radius: 50px;
+      cursor: pointer;
+    }
+
+    &--current,
+    &--count,
+    &--total {
+      font-size: 1.5rem;
+      color: black;
+    }
+
+    &--total,
+    &--count {
+      color: #DDDDDD;
+    }
+
+    &--total {
+      margin-right: 5px;
+    }
+
+    &--plus {
+      font-size: 1.5rem;
+      margin-right: 10px;
+      color: #95A543;
+    }
+
+    &--point {
+      position: absolute;
+      left: 5px;
+      font-size: 1.5rem;
+      color: #95A543;
+    }
+  }
+}

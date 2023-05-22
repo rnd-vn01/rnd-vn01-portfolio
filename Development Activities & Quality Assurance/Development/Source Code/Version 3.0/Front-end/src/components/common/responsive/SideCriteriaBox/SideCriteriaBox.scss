@@ -1,0 +1,108 @@
+@import "src/responsive.scss";
+
+.side-criteria-box {
+  height: 100%;
+  width: 100vw;
+  position: fixed;
+  top: 123px;
+  right: 0;
+  bottom: 0;
+  transition: left 500ms ease;
+  left: 100vw;
+  z-index: 200;
+  background: rgba(0, 0, 0, .4);
+  display: flex;
+
+  &__main {
+    background: var(--theme-background);
+    padding: 10px;
+    height: fit-content;
+    left: 100vw;
+    position: fixed;
+    right: 0;
+    width: 100vw;
+    top: 124px;
+    transition: left 500ms ease;
+
+    @include tablet {
+      width: fit-content;
+      min-width: 35vw;
+      left: auto;
+      display: none;
+    }
+
+    &--showing {
+      @include mobile {
+        left: 0;
+      }
+
+      @include tablet {
+        display: flex;
+      }
+    }
+  }
+
+  &--showing {
+    left: 0
+  }
+
+  &__menu-item {
+    cursor: pointer;
+    padding-bottom: 10px;
+
+    &--text {
+      font-size: 1.5rem;
+    }
+
+    &--icon {
+      font-size: 1.15rem;
+      transform: translateY(5px);
+    }
+
+    &--selectable {
+      &:hover {
+        background: var(--theme-primary);
+      }
+    }
+  }
+
+  &__language-pick {
+    display: block;
+    height: 0;
+    overflow: hidden;
+    animation: collapse 200ms linear;
+    animation-fill-mode: forwards;
+    padding-bottom: 0px;
+
+    &--showing {
+      animation: de-collapse 200ms linear;
+      animation-fill-mode: forwards;
+      padding-bottom: 10px;
+    }
+  }
+
+  &__language-pick-item {
+    font-size: 1.25rem;
+    line-height: 2rem;
+    cursor: pointer;
+    padding: 5px 0;
+
+    &--selected {
+      background: var(--theme-highlight)
+    }
+
+    &:hover {
+      background: var(--theme-primary)
+    }
+  }
+
+  &__divider {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 100%;
+    background-color: black;
+    height: 1px;
+    margin: 2px 0;
+  }
+}

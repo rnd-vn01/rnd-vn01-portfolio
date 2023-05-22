@@ -1,0 +1,51 @@
+@import "src/responsive.scss";
+
+.about-us-page {
+  width: 100vw;
+  margin: 0 auto;
+  background: var(--theme-background);
+  margin-top: 60px;
+  min-height: 100vh;
+
+  &__content {
+    margin-top: 30px;
+    width: 70vw;
+    margin-left: 15vw;
+    margin-bottom: 40px;
+  }
+
+  &__head {
+    width: fit-content;
+
+    &--logo {
+      width: 125px;
+    }
+
+    &--project-name {
+      font-size: 3.25rem;
+      line-height: 3.75rem;
+      width: fit-content;
+      text-align: left;
+    }
+  }
+
+  &__description {
+    margin-top: 20px;
+
+    b {
+      font-family: "header" !important;
+      font-size: 1.15rem;
+    }
+
+    p {
+      font-family: "regular" !important;
+      text-align: justify;
+      font-size: 1rem;
+    }
+  }
+
+  &__flex-block {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+  }
+}

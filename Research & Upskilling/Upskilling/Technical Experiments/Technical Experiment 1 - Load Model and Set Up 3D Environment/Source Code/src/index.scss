@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import "src/responsive.scss";
+
+:root {
+  --theme-dark: #2d2d2d;
+  --theme-light: #ffffff;
+  --theme-blue-1: #bce4ed;
+  --theme-blue-2: #59bcd3;
+  --theme-blue-3: #2babc9;
+  --theme-blue-4: #3398b3;
+  --theme-orange-1: #ffd9b3;
+  --theme-orange-2: #eeaa5a;
+  --theme-orange-3: #ea8d1f;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+::-webkit-sadcrollbar {
+  width: 0px;
+  background: transparent;
+  display: none;
+}
+
+body * {
+  transition: all 0.3s ease;
+}
+
+h1, h2 {
+  font-family: "Lobster" !important;
+}
+
+* {
+  font-family: "Roboto";
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

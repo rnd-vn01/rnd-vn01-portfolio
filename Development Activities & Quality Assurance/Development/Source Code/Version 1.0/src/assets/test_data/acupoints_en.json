@@ -1,0 +1,4060 @@
+[{
+  "code": "M-HN-3",
+  "name": "Yintang",
+  "description": "At the middle point between the medial ends of the two eyebrows",
+  "anatomy": "The needle passes through skin, subcutis, musculus depressor glabellae and reaches the periosteum of os nasale. There are branches of the angular vessels, nervus supratrochelaris and facialis in this area.",
+  "functionalities": [
+    "Headache",
+    "Insomnia",
+    "Dizziness and vertigo",
+    "Diseases of the nasal cavity",
+    "Febrile seizures"
+  ],
+  "technique": "0.6 - 1 cun horizontally downwards or penetrate horizontally toward the left or right Pt. Zanzhu or Pt. Jingming"
+},{
+  "code": "Du-20",
+  "name": "Baihui",
+  "description": "At the junction between the line connecting the apices of both ears and the mid-sagittal line",
+  "anatomy": "The needle passes through aponeurotica, and reaches the subaponeurotic tissue. There is the nervus occipitalis magnus, nervus frontalis, nervus auriculo-temporalis, left and right superficial temporal vessels and the anastomic network of the supraorbital vessels.",
+  "functionalities": [
+    "Faint",
+    "Headache",
+    "Vertigo",
+    "Mental diseases",
+    "Prolapse of uterus",
+    "Prolapse of anus",
+    "Frequently used for acupuncture aneasthesia in the operations of the cranium"
+  ],
+  "technique": "Perpendicularly or horizontally 0.2 - 1 cun",
+  "caution": "Thin scalp should not be acupuncture, easy to cause scarring"
+},{
+  "code": "GB-20",
+  "name": "Fengchi",
+  "description": "At the level of Pt. Fengfu, in the depression between musculus trapezius and musculus sterno-cleido-mastoideus",
+  "anatomy": "The needle passes through the skin, subcutis, between musculus sterno-cleido-mastoideus and musculus trapezius to musculus splenius capitis and musculus semispinalis capitis and then reaches the areolar tissue of the lateral side of musculus rectus capitis poterior major and behind the processus transversus of the vertebrae cervicales. There are occipital vessels and branches of nervus occipitalis minor in the superficial layer; vertebral vessels and branches of nervus occipitalis magnus and minor in the deeper layer.",
+  "functionalities": [
+    "Common cold",
+    "Headache",
+    "Vertigo",
+    "Pain and stiffness of the neck",
+    "Eye diseases",
+    "Rhinitis",
+    "Tinnitus",
+    "Deafness",
+    "Hypertension",
+    "Epilepsy",
+    "Hemiplegia",
+    "Disorders of the brain"
+  ],
+  "technique": "Insert the needle 1 - 1.5 cun towards the eyeball of the opposite side.",
+  "caution": "It is not allowed to puncture too deep, to avoid injuring the medulla oblongata and prevent serious results."
+},{
+  "code": "GB-3",
+  "name": "Shangguan",
+  "description": "Above point Xiaguan, in the depression on the upper margin of the arcus zygomaticus",
+  "anatomy": "Under the acupoint are the anterior ear muscle, the temporal muscle, and the temporal bone. The motor nerve is the branch of the facial nerve, the branch of the cranium No. V. The skin of the acupoint is controlled by the secretion of the V3 nerve segment.",
+  "functionalities": [
+    "Tinnitus",
+    "Deafness",
+    "Otitis media",
+    "Toothache",
+    "Lockjaw",
+    "Facial paralysis"
+  ],
+  "technique": "Insert the needle 0.7 - 1 cun deep"
+},{
+  "code": "SI-19",
+  "name": "Tinggong",
+  "description": "Anterior to helix in the depression posterior to the mandibular joint when the mouth is opened.",
+  "anatomy": "The needle passes through the skin, subcutis, and the glandula parotis. There are superficial temporal vessels, branches of the nervus auriculotemporalis and nervus facialis in the superficial layer; and internal carotid vessels in the deeper layer.",
+  "functionalities": [
+    "Tinnitus aurium",
+    "Deafness",
+    "Otitis media",
+    "Deaf-mutism",
+    "Toothache",
+    "Facial paralysis"
+  ],
+  "technique": "Let the patient open the mouth, puncture perpendicularly or slightly downward 0.6 - 1.5 cun"
+},{
+  "code": "TE-17",
+  "name": "Yifeng",
+  "description": "Posterior to the inferior border of the ear-lobe, in the depression antero-inferior to the mastoid process",
+  "anatomy": "The needle passes through the skin, subcutis, glandula parotis and reaches the plexus pterygoideus. There are branches of the nervus auricularis magnus, the vena jugularis externa, the maxillary vessels, the plexus pterygoideus, the trunk of nervus facialis and branches of nervus mandibularis in the deeper layer",
+  "functionalities": [
+    "Tinnitus",
+    "Deafness",
+    "Deaf-mutism",
+    "Facial paralysis",
+    "Parotiditis",
+    "Arthritis of mandible joint",
+    "Toothache",
+    "Eye disease"
+  ],
+  "technique": "Let the patient open the mouth and pucture oliquely 1 - 2 cun, directing the needle towards the angulus oculi medialis of the opposite eye in a forward and upward way"
+},{
+  "code": "LI-20",
+  "name": "Yingxiang",
+  "description": "Between the nasolabial groove and the midpoint of the lateral border of the nasal ala",
+  "anatomy": "The needle passes through the skin, subcutis to the musculus quadratus labbi superior. There are branches of facial vessels and nervus facialis, nervus infraorbitalis and infraorbital vessels.",
+  "functionalities": [
+    "Diseases of the nasal cavity",
+    "Facial paralysis",
+    "Trigemeinal neuralgia",
+    "Ascariasis of the bile tract"
+  ],
+  "technique": "Perpendicularly 0.1 - 0.3 cun, or horizontally 0.5 - 0.8 cun in medial and upward direction. When treating billary ascariasis, penetrate 0.5 - 1 cun toward point Sibai."
+},{
+  "code": "ST-4",
+  "name": "Dicang",
+  "description": "0.4 cun lateral to the mouth angle",
+  "anatomy": "The needle passes through the skin, subcutis, musculus orbicularis oris to the musculus buccinator. There are nervus facialis, nervus mandibularis and facial vessels to distribute in this area.",
+  "functionalities": [
+    "Facial paralysis",
+    "Salivation",
+    "Trigeminal neuralgia"
+  ],
+  "technique": "1.5 - 2 cun horizontally toward point Jaiche. When treating facial paralysis, horizontally penetrate into point Jiache. Penetrate into point Yingxiang for trigeminal neuralgia"
+},{
+  "code": "ST-6",
+  "name": "Jiache",
+  "description": "One finger width anterior and superior to the angle of lower jaw, at the prominence of the masseter during mastication",
+  "anatomy": "The needle passes through the skin, subcutis and reaches the musculus masseter. There are mandibular branch of nervus facialis in the superficial layer, there are vessels supplying the musculus masseter and nervus massetericus in the deeper layer",
+  "functionalities": [
+    "Trigeminal neuralgia",
+    "Toothache",
+    "Pariotiditis",
+    "Facial paralysis",
+    "Lockjaw",
+    "Stiffeness and pain of the neck"
+  ],
+  "technique": "Perpendicularly 0.3 - 0.5 cun or horizontally penetrate 1 - 2 cun into point Dicang"
+},{
+  "code": "Du-26",
+  "name": "Renzhong",
+  "description": "In the midline at the junction of the upper 1/3 and lower 2/3 of the philtrum",
+  "anatomy": "The needle passes through the skin, subcutis to the musculus orbicularis oris. There are superios labial vessels and branches of nervus facialis, nervus infraorbitalis in this area",
+  "functionalities": [
+    "Shock",
+    "Coma",
+    "Psychosis",
+    "Epilepsy",
+    "Sunstroke",
+    "Asphyxia",
+    "Respiratory failure"
+  ],
+  "technique": "Obliquely 0.3 - 0.5 cun, with the needle tip tilted upwards"
+},{
+  "code": "Ren-17",
+  "name": "Shanzhong",
+  "description": "In the middle point between the two papillae. Locate this point with the patient lying on back",
+  "anatomy": "The needle passes through the skin, subcutis and reaches the sternum. There are anterior cutaneous branches of the 4th thoracic nervus in the superficial layer, and anterior perforating branches of the internal mammary vessels in the deeper layer.",
+  "functionalities": [
+    "Chest pain",
+    "Fullness in the chest",
+    "Milk deficiency",
+    "Intercostal neuralgia",
+    "Angina pectoris",
+    "Cough",
+    "Astoma",
+    "Hiccup and mastitis"
+  ],
+  "technique": "Obliquely downward or 0.8 - 1.2 cun horizontally to the right or the left side",
+  "caution": "When this acupuncture point is accidentally enlightened, causing the patient to become cold hands and feet, unconscious, use the Tiantu point to solve it, use the needle method and the tower method 3 times, about 9 times each time, about 10 times. seconds, then withdraw the needle."
+},{
+  "code": "Ren-14",
+  "name": "Juque",
+  "description": "6 cun above the umbilicus on the frontal midline",
+  "anatomy": "Under the acupoint is the white line, behind is the peritoneum. Below that is the left lobe of the liver. The skin of the acupoint is controlled by the secretion of the T6 nerve.",
+  "functionalities": [
+    "Gastraligia",
+    "Hiccup",
+    "Palpitation",
+    "Mental disorder",
+    "Epilepsy"
+  ],
+  "technique": "Insert the needle straight, 1 - 2 cun deep, you can direct the needle to 4 points around the area by inserting skewers under the meat. When pricking the upper abdomen, there is a feeling of tightness or the stomach has a feeling of retraction.",
+  "caution": "Below is the liver, do not puncture too deep"
+},{
+  "code": "Ren-12",
+  "name": "Zhongwan",
+  "description": "4 cun above the umbilicus, on the middle of the abdomen. Locate this point with the patient lying on back",
+  "anatomy": "The needle passes through the skin, subcutis and penetrates the linea alba, the fascia transversalis and reaches the peritoneum. In the deep part is the gaster. There are tributaries of the vena epigastrica superficialis and anterior cutaneous branches of the 7th and 8th thoracic nervus superficial layer, and the branches of the superior epigastric vessels and the 7th and 8th nervus thoracici in the deeper layer",
+  "functionalities": [
+    "Gastralgia",
+    "Vomiting",
+    "Hiccup",
+    "Abdominal distension",
+    "Diarrhea",
+    "Gastritis",
+    "Gastric ulcer",
+    "Gastric ptosis",
+    "Acute intestinal obstruction",
+    "Dyspepsia"
+  ],
+  "technique": "Perpendicularly 1 - 2 cun, or puncture obliquely to the surrounding points",
+  "caution": "Below is the stomach, pancreas, and abdominal aorta, should not be inserted too deeply, the sick person is even more cautious. If the patient has a large swelling of the liver or spleen, do not insert the needle around 4 sides"
+},{
+  "code": "Ren-6",
+  "name": "Qihai",
+  "description": "1.5 cun below the umbilicus, on the midline of the abdomen. Locate this point with the patient lying on back",
+  "anatomy": "The needle passes through the skin, subcutis, penetrates the linea alba, fascia transversalis, and reaches the extra-peritoneal fat or peritoneum. In the deep part are the omentum majus and intestinum tenue. There are superficial epigastric vessels and anterior cutaneous branches of the throacic 11th and 12th nervus in the superficial layer, and branches of the epigastric vessels and the 11th and 12th neuvus thoracici in the deep layer.",
+  "functionalities": [
+    "Spermatorrhea",
+    "Impotence",
+    "Dysmenorrhea",
+    "Irregular menstruation",
+    "Abdominal distension",
+    "Diarrhea",
+    "Enuresis",
+    "Frequent micturition",
+    "Retention of urine"
+  ],
+  "technique": "Perpendicularly 0.8 - 1.2 cun or obliquely downward 2 - 3 cun",
+  "caution": "Acupuncture is forbidden during pregnancy. Below is the Small Intestine meridian, pregnant should not be punctured deeply. Before acupuncture should urinate."
+},{
+  "code": "SP-11",
+  "name": "Jimen",
+  "description": "6 cun above point Xuehai",
+  "anatomy": "Through the skin and the subcutaneous tissue, the needle passes the musculus sartorius, then into the musculus vastus medialis. There are the medial cutaneous branches of the nervus femoralis and the tributaries of the vena saphena magna in the superficial layer. In the deep layer, there are the muscular branches of the femoral vessels and nerve",
+  "functionalities": [
+    "Urethritis",
+    "Incontinue of urine",
+    "Lymphadenitis of inguinal region"
+  ],
+  "technique": "Perpendicularly 1 -2 cun",
+  "caution": "If the acupuncture point has a reaction in the legs that makes it difficult to move freely or defecate, it is recommended to acupuncture Fuai acupuncture point to rescue. Insert 1.5 cun deep, store the needle for about half an hour, then turn the needle 9 times to the left, 6 times to the right, then pull the needle out."
+},{
+  "code": "ST-25",
+  "name": "Tianshu",
+  "description": "2 cun lateral to the umbilicus",
+  "anatomy": "The needle passes through the skin, subcutis, m. rectus ab-dominis ,and its sheath, penetrates the fascia traneversalis and peritoneum. In the deep part of the point are the omentum majus and the intestinum tenue. There are the v. epigastrica superficialis and cutaneous branches of the 10th intercostal n. in the supericial layer, and branches of the 10th intercostal vessels and branches of superior and inferior epigastric vessels in the deeper layer.",
+  "functionalities": [
+    "Acute or chronic diarrhea",
+    "Acillary dysentery",
+    "Acutechronic gastritis",
+    "Enteritis",
+    "Appendicitis",
+    "Dntestinal asariasis",
+    "Constipation",
+    "Diarrhea of infants, etc."
+  ],
+  "technique": "Perpendicularly 1.5-2 cun."
+},{
+  "code": "LU-1",
+  "name": "Zhongfu",
+  "description": "1 cun below Pt. Yunmen, in the 1st. Intercostal space.",
+  "anatomy": "The needle passes through the skin, subcutis, m. pectoralis major and reaches m. pectoralis minor. There are nn. supraclaviculares in the superficial layer, and a. thoracoacromialis and nn. thoracales anterior in the deeper layer. When the needle enters the axilla, the vessels of the axilla and the plexus brachialis can be found.",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Opression in the chest",
+    "Pain in the",
+    "Chest",
+    "Pain in shoulder and back."
+  ],
+  "technique": "Obliquely 0.5-1.5 cun towards the post-lateral aspect of the chest, perpendicularly 10.3-1 cun."
+},{
+  "code": "Du-14",
+  "name": "Dazhui",
+  "description": "Between the processus spinosus of thevertebra cervicalis VII and the vertebra thoracica I.",
+  "anatomy": "The structures that the needle passes through are same as Pt. Yaoyangguan. In the superficial layer, there are cutaneus branches of the r. dorsalis of the n. thoracica I. In the deeper layer, there are plexus venosi vertebrales posterior between the processus spinosus of the vertebrae and the r. dorsalis of the n. cervicalis VIII.",
+  "functionalities": [
+    "Fever",
+    "Malaria",
+    "Common cold",
+    "Cough",
+    "Asthma",
+    "Hectic disease, urticaria, stiff neck, stiff back, maniac psychosis",
+    "Preventing diseases and building up health"
+  ],
+  "technique": "Perpendicularly or obliquely 0.5-1 cun slightly upward and also with the three-edged needle pricking swifly to let the blood out.",
+  "caution": "In the case of bronchial fluid retention during needle insertion, if the patient has an echocardiographic response, there is usually a good outcome."
+},{
+  "code": "BL-13",
+  "name": "Feishu",
+  "description": "Below the processus spinosus of vertebra thoracica III. i.e. 1.5 cun lateral to Pt. Shenzhu.",
+  "anatomy": "The structure that the needle passes through are the same as Pt. Dashu. In the superficial layer, there are cutaneus branches of the posterior branches of the 3rd thoracic n. and its accompanying vessels. There are muscular branches of the posterior branches of the 4th n.thoracica and the posterior branches of the 4th intercostal vessels in the deeper layer.",
+  "functionalities": [
+    "Common cold",
+    "Stuffiness of the nose",
+    "Cough",
+    "Shortness of breath",
+    "Hectic fever",
+    "Night sweats",
+    "Diseases of the back"
+  ],
+  "technique": "Perpendicularly 0.6-1 cun or obliquely toward columna vertebralis",
+  "caution": "Below is the lung, don't puncture too deep"
+},{
+  "code": "BL-14",
+  "name": "Jueyinshu",
+  "description": "1.5 cun laterally below the processus spinosus of vertebra thoracica IV",
+  "anatomy": "The needle passes through the skin, subcutis, m. trapezius, m. rhomboideus and reaches m. sacrospinalis. In the superficial layer, there are cutaneous branches of the posterior branches of the 4th thoracic n.and its accompanying vessels. In the deeper layer, there are muscular branches of the posterior branches of the 5th thoracic n. and the posterior branches Of the 5th intercostal vessels.",
+  "functionalities": [
+    "Angina pectoris, arrhythmia, tachycardia and other ardica diseases, epilepsy, mental diseases, insomnia, pain in the chest, etc."
+  ],
+  "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna vertebralis."
+},{
+  "code": "BL-15",
+  "name": "Xinshu",
+  "description": "1.5 cun laterally below the processus spinous of the vertebra thoracica V",
+  "anatomy": "The needle passes through the skin, subcutis, and penetrates m. trapezius, the lower border of m. rhomboideus, and reaches m. sacraspinalis. There are cutaneous branches of the posterior branch of the 5th thoracici n. and its accompanying vessels in the superficial layer, and muscular branches of the posterior branches of the 6th thoracic n. nd posterior branches of the 6th intercostal vessels in the deeper layer.",
+  "functionalities": [
+    "Palpitation with fear",
+    "Vexed feeling",
+    "Amnesia",
+    "Cough",
+    "Frequently used in the treatment of angina pectoris, arrhythmia, tachycardia, other diseases of the heart, neurasthenia, etc."
+  ],
+  "technique": "Perpendicularly 0.6-1 cun, or obliquely towards the columna vertebralis",
+  "caution": "Do not direct or skewer the needle too deeply, may cause damage to the lungs"
+},{
+  "code": "BL-18",
+  "name": "Ganshu",
+  "description": "Below the processus spinosus of vertebra thoracica IX, 1.5 cun lateral to middle line",
+  "anatomy": "The needle passes through the skin, subcutis, m. latissimus dorsi, m. serratus posterior inferior and reaches m. sacrospinalis. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica VIII and its accompanying vessels, but the muscular branches of the rami dorsales of the n. thoracica X and the rami dorsales of the 10th intercostal vessels are in the deeper layer",
+  "functionalities": [
+    "Indicated for diseases of the liver and gall bladder especially for jaundice",
+    "Pain of the lower chest",
+    "Gastric diseases",
+    "Hematemesis",
+    "Epistaxis, redness of the eye, night blindness, glaucoma and back pain."
+  ],
+  "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna vertebralis",
+  "caution": "In the depth of all the shu points above Pt. Ganshu, there are lungs and pleurae. Don't puncture too deep, so as to avoid injuring these organs and causing artificial pneumothorax"
+},{
+  "code": "BL-19",
+  "name": "Danshu",
+  "description": "Below the processus spinosus of vertebra thoracica X, 1.5 cun lateral to the middle line.",
+  "anatomy": "The structures that the needle passes through are the same as Pt. Ganshu. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica IX and its accompanying vessels. There are muscular branches of the rami dorsales of the n. thoracica XI and rami dorsales of the 11th intercostal vessels in the deeper layer.",
+  "functionalities": [
+    "Jaundice",
+    "Bitter taste",
+    "Pain in the chest and hypochondrium",
+    "Hectic fever in pulmonary tuberculosis",
+    "Diseases of the loin and back."
+  ],
+  "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna. vertebralis."
+},{
+  "code": "BL-20",
+  "name": "Pishu",
+  "description": "Below the processus spinosus of vertabra thoracica XI. 1.5 cun lateral to middle line.",
+  "anatomy": "The structures that the needle passes through are the same as Pt. Ganshu. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica X and its accompanying vessels. There are muscular branches of the rami dorsales of the n. thoracica XII and the rami dorsales of the subcostal vessels in the deeper layer.",
+  "functionalities": [
+    "Abdominal distension",
+    "Jaundice",
+    "Vomiting",
+    "Diarrhea",
+    "Dysentery",
+    "Edema",
+    "Weakness of the function of the alimentary canal",
+    "Chronic diarrhea",
+    "Hepatitis",
+    "Back pain"
+  ],
+  "technique": "Perpendicularly 0.6-1 cun or obliquely toward the columna. vertebralis.",
+  "caution": "Do not insert too deeply, below are the liver and kidneys"
+},{
+  "code": "BL-21",
+  "name": "Weishu",
+  "description": "Below the processus spinosus of vertebra thoracica XII. 1.5 cun lateral to middle line.",
+  "anatomy": "Anatomy: The needle passes through the skin, subcutis, m. latissimus dorsi, m. serratus posterior inferior, m. sacrospinalis and reaches m. quadratus lumborum. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica XII and its ccompanying vessels. In the deeper layer, there are muscular branches of the n. lumbalis I and the rami dorsales of the 1st lumbar vessels.",
+  "functionalities": [
+    "Pain of the lower chest and hypochondrium, pain of epigastrium",
+    "Abdominal distension",
+    "Regurgitation",
+    "Vomiting",
+    "Borborygmus",
+    "Weakness of the function of the alimentary canal, frequently used for indigastion and chronic diarrhea."
+  ],
+  "technique": "The needle is straight, slightly oblique towards the spine, 0.5 - 1 deep, at the place there is a feeling of tension, sometimes spreading to the ribs. Oblique, upward along the muscle layer 1 - 2 cun deep, at the place there is a feeling of tension.",
+  "caution": "Below is the lung, do not insert too deeply"
+},{
+  "code": "BL-23",
+  "name": "Shenshu",
+  "description": "Below the processus spinosus of vertebra lumbalis II, 1.5 cun lateral to the middle line.",
+  "anatomy": "The needle passes through the skin, subcutis, m. latissmus dorsi, (or fascia thoracolumbalis), m. sacrospinalis and reaches m. quadratus lumbarum. In the superficial layer, there are cutaneous branches of the rami dorsales of the n. thoracica XII and its accompanying vessels. In the deeper layer, there are muscular branches of the n. lumbalis III and its accompanying vessels.",
+  "functionalities": [
+    "Infection of the urinary tract",
+    "Impotence",
+    "Nocturnal emission",
+    "Irrigular menstruation",
+    "Leucorrhea",
+    "Retention of urine",
+    "Shortness of breath due to weakness of kidney function",
+    "Tinnitus",
+    "Deafness",
+    "Chronic diarrhea",
+    "Lumbago and back pain"
+  ],
+  "technique": "Perpendicularly 0.6-1 cun, or obliquely toward the colum-. na vertebralis"
+},{
+  "code": "BL-25",
+  "name": "Dachangshu",
+  "description": "Below the processus spinosus of verterbra lumbalis I V, i.e.  1.5 cun lateral to Pt. Yaoyangguan.",
+  "anatomy": "The needle passes through the skin, subcutis, fascia thoracolumbalis and m. sacrospinalis and reaches m. quadratus lumborum or m. psoas major. In the superficial layer, there are cutaneus branches of the n. lumbalis I. In the deeper layer, there are muscular branches of the n. lumbalis IV or V.",
+  "functionalities": [
+    "Abdominal pain and distension",
+    "Borborygmus",
+    "Diarrhea",
+    "Constipation",
+    "Acute and chronic lumbago",
+    "Sciatica neuralgia."
+  ],
+  "technique": "The needle is straight, 1-2 cun deep, there is a feeling of tension in the lumbar region. - Oblique, in case of sciatic nerve pain, the needle point is slightly oblique to the outside, 2-3 cun deep, there is a feeling of local tension or electric shock to the lower extremities. In the case of iliac-groin arthritis, the needle is directed to the minor-longevity, and there is a feeling of tension in the pelvic joint, sometimes spreading to the sacral joint."
+},{
+  "code": "Du-4",
+  "name": "Mingmen",
+  "description": "Between the processus spinosus of the vertebrae lumbales",
+  "anatomy": "The structures that the needle passes through are the same as Pt. Yaoyangguan. In the superficial layer, there are the cutaneous branches of the r. dorsalis of the n. thoracica XII and its accompanying vessels. In the deeper layer, there are plexus venosi vertebrales posterior between processus spinosus of the vertebrae and r. dorsalis of the n. lumbalis II.",
+  "functionalities": [
+    "Noctural emission",
+    "Impotence",
+    "Menorrhalgia",
+    "Irregular menstruation",
+    "Leucorrhea",
+    "Chronic diarrhea",
+    "Lumbago and back pain also"
+  ],
+  "technique": "Perpendicularly 1-1.5 cun"
+},{
+  "code": "LU-9",
+  "name": "Taiyuan",
+  "description": "On the transverse crease of the wrist, in the depression radial to the a. radialis.",
+  "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates the ulnar side of the tendon of m. abductor pollicis longus and reaches the lower border of m. pronator quadratus. In the superficial layer there are the tributaries of the v. cephalica and the n.cutaneus antebrachii lateralis; and in the deeper layer there are the superficial branches of the n. radialis and the radial vessels.",
+  "functionalities": [
+    "Arotism",
+    "Asthma",
+    "Pain in the chest, back and shoulder",
+    "Diseases of the wrist and its surrounding soft tissue"
+  ],
+  "technique": "Perpendicularly 0.3—0.5 cun, avoiding artery.",
+  "caution": "Avoid pricking arteries and bones"
+},{
+  "code": "LU-7",
+  "name": "Lieque",
+  "description": "Above the processus of styloideus of the radius, 1.5 cun bove the transverse crease of the wrist, i.e. when the index and pollex of both hands are crossed, the point is in the depression right under the tip of the index.",
+  "anatomy": "The needle passes through the skin, the subcutaneous tissue and between the tendons of m. brachioradialis and m. abductor pollicis longus, and then reaches the radial border of the m. pronator quadratus. In the superficial layer there are the tributaries of the v. cephalica and the superficial branches of the n. radialis; and in the deeper layer there are the radial vessels.",
+  "functionalities": [
+    "Headache",
+    "Cough",
+    "Nasal obstruction",
+    "Sore throat",
+    "Stiff neck",
+    "Asthma",
+    "Facial paralysis."
+  ],
+  "technique": "Obliquely upwards 0.5—1 cun"
+},{
+  "code": "SP-10",
+  "name": "Xuehai",
+  "description": "2 cun above the antero-superior border of the condylus medialis of the tibia, when the knee is flexed.",
+  "anatomy": "Passing the skin, the subcutaneous tissue, the needle gets into the m. vastus medialis. There are the anterior cutaneous branches of the n. femoralis in the superficial layer, and the muscular branches of the femoral vessels and nerve are in the deep layer.",
+  "functionalities": [
+    "Irregiular menstruation",
+    "Functional uterine bleeding",
+    "Urticaria",
+    "Menor-rhagia"
+  ],
+  "technique": "1-2 cun perpendicularly.",
+  "caution": "In case the needle is too deep or the patient suddenly becomes dizzy, the needle must be removed and Zusanli acupoint at the same time acupressure to rescue. Insert the needle 5-8 inches deep, move the needle to the right and left (about half a minute to the right, about 10 seconds to the left) rest for 5 seconds and then use the needle trick to wake up. If the Zusanli acupuncture point rests for too long, or for some reason, the patient runs all over the body, the opposite side can be acupuncture to rescue, or press the Xiao Hai point with a finger to wake up and stop shaking."
+},{
+  "code": "SP-6",
+  "name": "Sanyinjiao",
+  "description": "3 cun above the highest point of the malleous medialis at the posterior border of the tibia.",
+  "anatomy": "Passing the skin and the subcutaneous tissue, the needle penetrates into the interval of the tibia's post border and the tendon of the soleus; gets into the m. flexor digitorum longus and the m. felxor hallucis longus. In the superficial layer there are branches of the n. saphenus; there are the posterior tibial vessels and the n. tibialis in the deep layer.",
+  "functionalities": [
+    "Irregiular menstruation",
+    "Menorrhagia nocturnal emission",
+    "Impotence",
+    "Ab dominal pain",
+    "Enuresis",
+    "Diarrhea",
+    "Hemiplegia",
+    "Neurasthenia"
+  ],
+  "technique": "1,5-2 cun perpendicularly, or penetrate towards Xuanzhong moxibustion may also be used at some times."
+},{
+  "code": "BL-60",
+  "name": "Kunlun",
+  "description": "Middle point between the tip of malleolus lateralis and the tendo calcaneus.",
+  "anatomy": "The needle passes the skin, the subcutaneous tissue, and reaches the posterior border of the tendons of the m. peroneus longus and the m. peroneus brevis. There are the v. saphena parva and the n. suralis in the superficial layer, and the posterior lateral malleolaris vessels are in the deep layer.",
+  "functionalities": [
+    "Headache",
+    "Back pain",
+    "Lumbago",
+    "Sciatic neuralgia",
+    "Paralysis of lower extremities",
+    "Severe pain of the neck"
+  ],
+  "technique": "Perpendicularly 1-1,5 cun, or, penetrate towards Taixi."
+},{
+  "code": "SP-3",
+  "name": "Taibai",
+  "description": "On the medial aspect of the hallux, postero-inferior to the small head of os metararsale I",
+  "anatomy": "Under the acupoint is the muscle of the big leg and the short adjacent muscle, the tendon of the flexor muscle is longer than the big leg, the underside of the front of the foot is frame 1 - The nerve shows of the 3rd and 4th lumbar nerve sections and the mixed branch. union of the lateral popliteal branch of the 4th-segment lumbar nerve 1. The motor nerves are branches of the posterior masticatory nerve. The skin of the acupoint is controlled by the secretion of the T9 nerve segment.",
+  "functionalities": [
+    "Gastric pain",
+    "Abdominal distension",
+    "Lassitude",
+    "Dysentery"
+  ],
+  "technique": "Perpendicularly 0,5-1 cun."
+},{
+  "code": "GB-34",
+  "name": "Yangling-quan",
+  "description": "In the depression anterior and inferior to the caput fibulae, flex the knee during location.",
+  "anatomy": "The needle passes the skin, the subcutaneous tissue, through the space between the m. peroneus longus and the m. extensor digitorum longus and reaches the interosseus membrane. There are te branches of the n. cutaneus surae lateralis in the superficial layer, and the inferior lateral genicular vessels, and anterior tibial recurrent vessels and the branches of the n. peroneus communis are in the deep layer.",
+  "functionalities": [
+    "Pain in the art genus",
+    "Sciatic neuralgia",
+    "Apoplexy",
+    "Pain in the lower chest",
+    "Cholcystitis",
+    "Numbness of the lower extremity"
+  ],
+  "technique": "Perpendicularly 1-2 cun, or penetrate towards Yinligkuan."
+},{
+  "code": "GB-37",
+  "name": "Guagming",
+  "description": "5 cun above the top of the malleolus lateralis on the anterior border of the fibula.",
+  "anatomy": "The needle passes the skin, the subcutaneous tissue, through the space between the m. peroneus brevis and the m. extensor digitorum longus and reaches the interosseus membrane. There is the n. peroneus superficialis in the superficial layer, and the anterior tibia vessels and the n.peronus profundus are in the deep layer.",
+  "functionalities": [
+    "Night",
+    "Blindness optic atrophy migraine",
+    "Pain in the lateral aspect of the leg"
+  ],
+  "technique": "Perpendicularly 1-1,5 cun."
+},{
+  "code": "GB-30",
+  "name": "Huantiao",
+  "description": "At the junction of lateral 1/3 and medial 2/3 of the line between the top point of the trochanter major of the femur and the hiatus sacralis.",
+  "anatomy": "Passing the skin and the subcutaneous tissue, the needle pierces the m. gluteus maximus to the inferior border of the m. piriformis. The nn. clunium inferiores distribute in the superficial layer; in the deep layer there are n. gluteus inferior, the branches of the inferior gluteal vessels and n. ischiadicus.",
+  "functionalities": [
+    "Sciatic neuralgia",
+    "Lumbago and pain of the leg",
+    "Numbness of the lower extremities and paralysis"
+  ],
+  "technique": "2-3,5 cun perpendicularly."
+},{
+  "code": "GB-40",
+  "name": "Quixu",
+  "description": "Anterior and inferior to the malleolus lateralis, in the depression on the tendon of m. extensor digitorum longus.",
+  "anatomy": "Under the acupoint is the extensor muscle of the toes, the posterior border outside the anterior peroneal muscle. 3rd leg joint cleft - The musculoskeletal nerve is a branch of the anterior tibial nerve. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+  "functionalities": [
+    "Pain in the lower chest",
+    "Cholecystitis",
+    "Cervical lymphadenitis",
+    "Sciatic neuralgia",
+    "Disorders of ankle and its surrounding soft tissue"
+  ],
+  "technique": "0,3-0,5 cun perpendicularly, there is a feeling of tightness, sometimes numbness spreads to the tip of the 4th toe."
+},{
+  "code": "Liv-5",
+  "name": "Ligou",
+  "description": "5 cun above the malleolus medialis, on the medial surface of the tibia near the medial border.",
+  "anatomy": "Under the acupoint is the tip of the radial gyrus, the upper border of the shinbone, outside there is a long muscle tendon and an inner thumb short extensor tendon, a thumb long extensor tendon, a radial muscle tendon 1 - Muscular motor nerves caused by branch of the radial nerve. The skin of the acupoint is controlled by the secretion of the C6 nerve segment.",
+  "functionalities": [
+    "Irregular menstruation",
+    "Dysurea",
+    "Pain in the leg"
+  ],
+  "technique": "0.3-1 cun perpendicularly. There is a feeling of tension in the spot. "
+},{
+  "code": "Liv-3",
+  "name": "Taichong",
+  "description": "On the dorsum of the foot between the ossa metatasale I and II, in the depression poterior to the art, metatarso-phalangae.",
+  "anatomy": "Passing the skin and the subcutaneous tissue and the lateral border of the tendon of the m. extensor hallucis brevis, the needle pierces the m. interosseous doralis then gets into the first intermetatarsal space. There are the rete venosum of the dorsum pedis and the cutaneous branches of the n. peroneus profundus in the superficial layer, the first a. metatarsea doralis and the n. peroneus profundus are in the deep layer.",
+  "functionalities": [
+    "Headache",
+    "Dizziness or vertigo",
+    "Hypertension",
+    "Irregular menstruation",
+    "Menorrhagia",
+    "Mastitis"
+  ],
+  "technique": "0,1-0,5 cun obliquely."
+},{
+  "code": "BL-40",
+  "name": "Weizhong",
+  "description": "Midpoint of the popliteal transverse crease.",
+  "anatomy": "The needle passes through the skin, the subcutaneous tissue and into the interval the tendon of the m. biceps femoris and m. semimembranous. There are the v. saphen parva and the n. cutaneus femoris posterior in the superficial layer; while in the deep layer there are n. tibialis and the popliteal vessels.",
+  "functionalities": [
+    "Nocturnal emission",
+    "Impotence",
+    "Dysuria",
+    "Acute lumbago sciatic neuralgia",
+    "Disease of the lower extremities and knee joints"
+  ],
+  "technique": "1~1,5 cun perpendicularly or prick with three-edged needle swiftly till bleeding.",
+  "caution": "Do not overstimulate nerves and blood vessels."
+},{
+  "code": "BL-64",
+  "name": "Jinggu",
+  "description": "Anterio-inferior to the tuberosity of the 5th os metarsale.",
+  "anatomy": "Under the acupoint is the little toe muscle, the posterior tip of the metatarsal 5. The motor nerve is a branch of the posterior tibial nerve. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+  "functionalities": [
+    "Headache",
+    "Pain of the neck",
+    "Myocarditis",
+    "Meningitis",
+    "Epilepsy",
+    "Lumbago",
+    "Pain of the leg"
+  ],
+  "technique": "0.5-1 cun obliquely, at the spot where there is a feeling of tension."
+},{
+  "code": "BL-58",
+  "name": "Feiyang",
+  "description": "7 cun above Pt. Kunlun latero-inferior to Pt. Chengshan.",
+  "anatomy": "Below the acupoint is the lateral border where the junction between the flesh and the tendon of the external twin muscle, the soleus muscle, the long flexor of the big toe, the posterior tibialis muscle, the interosseous membrane - The motor nerves are the posterior tibial branches. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+  "functionalities": [
+    "Rheumatic arthritis",
+    "Nephritis",
+    "Cystitis",
+    "Hongkong foot",
+    "Hemorrhoid",
+    "Epilepsy",
+    "Lumbago",
+    "Pain of the leg"
+  ],
+  "technique": "1.5-2.5 cun perpendicularly, there is a feeling of tension and numbness like electric shock running down."
+},{
+  "code": "KI-3",
+  "name": "Taixi",
+  "description": "At the midpoint of the line between the tip of malleolus medialis and achillis tendon.",
+  "anatomy": "Through the skin and the subcutaneous tissue, the needle reaches above the lig. cruciatum cruris. The n. saphenus is in the superficial layer, in the deep layer there are the posterior tibial vessels and the n. tibialis.",
+  "functionalities": [
+    "Nephritis",
+    "Cystitis",
+    "Enuresis",
+    "Irregular menses",
+    "Paralysis of lower extremity"
+  ],
+  "technique": "0,5-1 cun perpendicularly, the needle may penetrate till Pt. Kunlun."
+},{
+  "code": "KI-4",
+  "name": "Dazhong",
+  "description": "Inferior and posterior to medial malleolus, in the depression medial to the insertion of the achillis tendon.",
+  "anatomy": "Under the acupoint is the medial margin of the heel tendon, in front of the long flexor tendon of the toes. Below that is the upper surface of the heel bone. The motor nerves are branches of the posterior tibial nerve. The skin of the acupoint is controlled by the secretion of the S1 nerve.",
+  "functionalities": [
+    "Asthema",
+    "Malaria",
+    "Neurosthenia",
+    "Hysteria",
+    "Retention of urine",
+    "Sore throat",
+    "Heel pain"
+  ],
+  "technique": "0.3-0.5 cun perpendicularly. There is a feeling of tightness or numbness like an electric shock down the foot."
+},{
+  "code": "LI-4",
+  "name": "Hegu",
+  "description": "In the middle point of os metacarpale II and at the highest spot of the first m. interosseous dorsalis, turning aside slightly to the index",
+  "anatomy": "The needle passes through the skin, and the subcutaneous tissue, penetrates the first m. interosseous dorsalis, and then reaches the m. abductor pollicis. in the superficial layer there are the dorsal venous network of the hand and the branches of the superficial branches of the n. radialis; and in the deeper layer, there are the branches of the nn. digitales palmares proprii of the n. medianus",
+  "functionalities": [
+    "Common cold",
+    "Facial paralysis",
+    "Hemiplegia",
+    "Neurasthenia",
+    "Tonsillitis",
+    "Sideways glance and movement of eyeball and mouth",
+    "Toothache",
+    "Abdominal pain"
+  ],
+  "technique": "Perpendicularly 0.5~1 cun. when treating the spasm of the fingers or paralysis of the muscle, puncture perpendicularly 2~3 cun towards Pt. Laogong or Pt. Houxi",
+  "caution": "Contraindication for pregnant woman"
+},{
+  "code": "LI-11",
+  "name": "Quchi",
+  "description": "Between the end of the cubital stransverse crease and the epicondylus lateralis of the humerus when the elbow is half flexed",
+  "anatomy": "the needle passes through the skin and the subcutaneuous tissue, penetrates the origin of the m. extensor carpi radialis longus and reaches the lower end of the m. brachialis. in the superficial layer, there are the tributaries of the v. cephalica and the n. cutaneus antebrachii dorsalis; and in the deeper layer there are the radial recurrent vessels aand the n. radialis",
+  "functionalities": [
+    "Hemiplegia",
+    "Pain in the joints of the supper extremities",
+    "Hypertension",
+    "High fever",
+    "Measles",
+    "Pain in the back and lumbar region"
+  ],
+  "technique": "Perpendicularly 1~1.5 cun"
+},{
+  "code": "LI-6",
+  "name": "Pianli",
+  "description": "3 cun above Pt. Yangxi, In the lateral depression of the radius",
+  "anatomy": "the needle passes through the skin and subcutaneous tissue, penetrates the m. abductor pollicis longus and reaches the m. extensor pollicis bRevis. in the superficial layer, there are the tributaries of the v. cephalica, the n. cutaneus antebrachii lateralis and dorsalis, and in the deeper layer, there are the superficial branches of the n. radialis",
+  "functionalities": [
+    "Tonsillitis",
+    "Facial paralysis",
+    "Neuralgia in the forearm",
+    "Uropnea",
+    "Edema",
+    "Epistasis"
+  ],
+  "technique": "Obliquely 0.3~0.8 cun"
+},{
+  "code": "LI-15",
+  "name": "Jianyu",
+  "description": "When are is in adduction at 90, there are two depressions on the shoulder joint. the point is in the depression between acromion and tuberculum majus of the humerus",
+  "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates the m. deltoideus, and reaches the art. humeri. in the superficial layer there are the nn. supraclaviculares; and in the deeper layer there are posterior circumflex humeral vessels, and the branches of the n. axillaris",
+  "functionalities": [
+    "Pain in the shoulder, arm and the joints of the upper extremities",
+    "Hemiplegia",
+    "Paralysis",
+    "Hypertension",
+    "Infection of the surrounding soft tissue of the shoulder joint, sweating"
+  ],
+  "technique": "Perpendicularly, then raise the arm, 2~3 cun towards Pt. Jiquan or obliquely downwards 1~1.5 cun",
+  "caution": "Do not inject too often"
+},{
+  "code": "PC-6",
+  "name": "Neiguan",
+  "description": "2 cun above the transverse crease of wrist, between the tendons of m. flexor carpi radialis and m. palmaris longus",
+  "anatomy": "The needle passes through the skin and the subcutaneous tissue, proceeds between the tendons of m. flexor carpi radialis and m. palmaris longus, penetrates the m. flexor digitorum sublimis and the m. flexor digitorum profundus, and reaches the m. pronator quadratus. in the superficial layer there are the n cutaneous antebrachii medialis and lateralis; and in the deeper layer there are the palmar interosseous vessels and the n. medianus.",
+  "functionalities": [
+    "Pain in the lower chest and hypochondriac region",
+    "Gastralgia",
+    "Shock",
+    "Nausea",
+    "Vomiting",
+    "Sore throat",
+    "Hysteria",
+    "Cardiac arrhythmia"
+  ],
+  "technique": "Perpendicularly 0.5~1.5 cun"
+},{
+  "code": "PC-7",
+  "name": "Daling",
+  "description": "on the transverse crease of wrist, between the tendons of m. flexor carpi radialis and m. palmaris longus",
+  "anatomy": "The needle passes through the skin and the subcutaneous tissue, proceeds between the tendons of the m. flexor carpi radialis and m. palmaris longus, penetrates the ulnar side of the m. flexor pollicis longus and reaches the suture of the art. radiocarpea. in the superficial layer there are the palmar veneous network of the wrist, the palmar branches of the n. medianus and the n. cutaneus antebrachii lateralis; and in the deeper layer there are the palmar arterial network and the n. medianus.",
+  "functionalities": [
+    "Pain in the lower chest and hypochrondriac region",
+    "Gastralgia",
+    "Shock",
+    "Nausea",
+    "Vomiting",
+    "Sore throat",
+    "Hysteria",
+    "Cardiac arrhythmia"
+  ],
+  "technique": "Straight, 0.3 - 0.5 cun deep, there is a feeling of tension sometimes like an electric shock down the arm"
+},{
+  "code": "HT-5",
+  "name": "Tongli",
+  "description": "1 cun above Pt. Shenmen, on the radial side of the tendon of m. flexor carpi ulnaris",
+  "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates between the tendons of m. flexor carpi ulnaris and m. flexor digitorum sublimis, and reaches the connective tissue superficial to m. pronator quadratus. in the superficial layer there are the palmar venous network of the wrist and the n. cutaneus antebrachii medialis; and in the deeper layer there are the ulnar vessels and n. ulnaris",
+  "functionalities": [
+    "Palpitation",
+    "Angina pectoris",
+    "Aphasia due to hysteria",
+    "Pain in the wrist and arm",
+    "Neurasthenia"
+  ],
+  "technique": "Perpendicularly 0.4~0.6 cun"
+},{
+  "code": "HT-7",
+  "name": "Shenmen",
+  "description": "when the forearm is in supination, it is in the depression at the ulnar end of the transverse crease of wrist, at the radial side of the tendon of m. flexor carpi ulnaris",
+  "anatomy": "The needle passes through the skin and the subcutaneous tissue, penetrates the radial border of m. flexor carpi ulnaris, and reaches the suture of joint below the lower end of the ulna. in the superficial layer there are the palmar venous netword of the wrist, the n. cutaneus antibrachii medialis and the n. palmaris ulnaris; and in the deeper layer there are the ulnar vessels and n. ulnaris.",
+  "functionalities": [
+    "Amnesia",
+    "Insomnia",
+    "Dream-disturbed sleep",
+    "Palpitation",
+    "Angina pectoris",
+    "Hysteria"
+  ],
+  "technique": "Perpendicularly or obliuely 0.3~0.6 cun"
+},{
+  "code": "TE-4",
+  "name": "Yangchi",
+  "description": "between the ossa metacarpalia III and IV just above the dorsal transuerse crease of wrist, in the depression at the ulnar side of the tendon of m. extensor digitorum",
+  "anatomy": "The needle passes through the skin, subcutaneous tissue and the between the lig. radiocarpeum dorsale, the m. extensor digitorum and the tendon of the m. extensor digiti minimi then reaches the suture of the articulatio radiocarpea",
+  "functionalities": [
+    "Disorder of the articulatio radiocarpea",
+    "Malaria",
+    "Deafness"
+  ],
+  "technique": "Perpendicularly 0.4~0.6 cun"
+},{
+  "code": "TE-5",
+  "name": "Waiguan",
+  "description": "2 cun above the midpoint of the dorsal transversal crease of the wrist between the ulna and radius",
+  "anatomy": "The needle passes through the skin, subcutaneous tissue, between the tendon of the m. extensor digitorum, m. extensor pollicis longus and m. extensor indicis and membrana interossea, and reaches the m. pronator quadratus. there are the tributaries of the v. cephalica and the branches of the n. cutaneous antebrachii posterior in teh superficial layer and the a. et vv. interossae posteriores and n. interosseus posterior in the deep layer",
+  "functionalities": [
+    "Common cold",
+    "Pneumonia",
+    "Deafness",
+    "Migraine"
+  ],
+  "technique": "Straighten 1 - 1.5 cun, or skewer through Point Neiguan. There is a feeling of tightness, sometimes spreading to the fingertips"
+},{
+  "code": "SI-4",
+  "name": "Hand-wangu",
+  "description": "on the ulnar side of thje dorsal surface of the hand, in the depression between the base of os metacarpale V, the os hamatum and pisiforme",
+  "anatomy": "The needle passes through the skin and subcutaneous tissue, and reaches the lateral border of the origin of the m. abductor digitiminim I. there are the dorsal venous rete of the hand, the n. ulnaris and the branches of the a. ulnaris",
+  "functionalities": [
+    "Arthritis of the wrist",
+    "Elbow and phalangeal joints",
+    "Headache",
+    "Tinnitis",
+    "Vomiting",
+    "Cholecystitis"
+  ],
+  "technique": "Perpendicularly 0.3-0.5 cun"
+},{
+  "code": "SI-7",
+  "name": "Zhizheng",
+  "description": "5 cun above the ulnar end of dorsal transverse crease of the wrist, on the line between Pt. Yanggu and Pt. Xiaohai",
+  "anatomy": "The needle passes through the skin and subcutaneous tissue, and reaches the ulnar side of the m. extensor carpi ulnaris. there are the tributaries of the v. basilica and the n. cutaneous antebrachii medialis in the superficial layer and the dorsal interosseus vessel and the branches of the n. interosseus posterior in the deep layer",
+  "functionalities": [
+    "Rigidity of neck",
+    "Pain in arm",
+    "Elbow and finger",
+    "Mental disorder"
+  ],
+  "technique": "Perpendicularly 0.8~1.5 cun"
+},{
+  "code": "ST-36",
+  "name": "Zusanli",
+  "description": "3 cun below dubi, one finger width lateral to the margo anterior of the tibia",
+  "anatomy": "The needle passes the skin, the subcutaneous tissue, the m. tibialis anterior and reaches the space between tibia and fibula. there are the branches of the n. cutaneus surae lateralis and the n. saphenus in the superficial layer, and the anterior tibial vessels and n. peroneus profundus are in the deep layer",
+  "functionalities": [
+    "Gastritis",
+    "Paptic ulcers, chr. and acute enteritis",
+    "Acute pancreatitis",
+    "Infantile stomachache",
+    "Diarrhea",
+    "Dysentery",
+    "Insomnia",
+    "Hypertension",
+    "Shock",
+    "Fever",
+    "Disease of the anterior aspect of the lower extremity, etc."
+  ],
+  "technique": "Perpendicularly 1-2 cun, or, obliquely downward 2-3 cun"
+},{
+  "code": "ST-40",
+  "name": "Fenglong",
+  "description": "1 cun lateral to tiaokou",
+  "anatomy": "The needle passes through the skin, the subcutaneous tissue, by the way between the m. tibialis anterior and the m. extensor digitorum longus, then enters the m. extensor hallucis longus. there are the branches of the n. cutaneus surae lateralis and the n. saphenus in the superficial layer, and the n. peroneus profundus and anterior tibial vessels are in the deep layer.",
+  "functionalities": [
+    "Acute and chronic enteritis",
+    "Paralysis of the lower extremity",
+    "Intercostal neuralgia",
+    "Chronic and acute orchitis with pain which refers to the lower abdomen"
+  ],
+  "technique": "Perpendicularly 0.6-1.5 cun"
+},{
+  "code": "ST-42",
+  "name": "Chongyang",
+  "description": "1.5 cun below Pt. Jiexi, at the highest spot of the dorsum pedis.",
+  "anatomy": "the needle passes through the skin and the subcutaneous tissue, the neddle passes the medial side of the m. extensor digitorum longus and gets into the m. extensor hallucis brevis. the dorsal pedal branches of the n. peroneus superficial are in the superficial layer; in the deep layer, there are the a. dorsalis pedis and the branches of the n. peroneus profundus",
+  "functionalities": [
+    "Pain in dorsum of foot",
+    "Paralysis of lower extremity",
+    "Toothache",
+    "Epilepsy"
+  ],
+  "technique": "0.3-0.5 cunperpendicularly, ought to avoid hurting a. dorsalis pedis"
+},{
+  "code": "LU-2",
+  "name": "Yunmen",
+  "description": "Below the lower border of the clavicula, 6 cun lateral to the midline of the chest. When the upper limb is flexed forward, this point is just in the midline of the subclavicular fossa.",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Oppression in the chest",
+    "Chest pain"
+  ]
+},{
+  "code": "LU-3",
+  "name": "Tianfu",
+  "description": "6 cun above Pt. Chize on the radial side of musculus biceps brachi.",
+  "functionalities": [
+    "Asthma",
+    "Epistaxis",
+    "Pain in the medial aspect of the upper arm"
+  ]
+},{
+  "code": "LU-4",
+  "name": "Xiabai",
+  "description": "5 cun above Pt. Chize on the radial side of musculus biceps brachi.",
+  "functionalities": [
+    "Cough",
+    "Dyspnoea",
+    "Fullness of the chest",
+    "Pain in the medial aspect of the upper arm"
+  ]
+},{
+  "code": "LU-5",
+  "name": "Chize",
+  "description": "On the cubital crease, near the radial border of musculus biceps brachii, flex the elbow slightly to locate the point.",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Hemoptysis",
+    "Sore throat",
+    "Pain in the medial aspect of articulatio cubiti"
+  ]
+},{
+  "code": "LU-6",
+  "name": "Kongzui",
+  "description": "7 cun above the transverse crease of the wrist, on the line of connecting Pt. Chize and Pt. Taiyuan.",
+  "functionalities": [
+    "Cough",
+    "Headache",
+    "Pain in the chest",
+    "Severe pain in the neck",
+    "Asthma",
+    "Pain and disability of extension and flexion of the elbow and the arm"
+  ]
+},{
+  "code": "LU-8",
+  "name": "Jingqu",
+  "description": "1 cun above Pt. Taiyuan on the radial side of the arteria radialis.",
+  "functionalities": [
+    "Cough",
+    "Dyspnea",
+    "Sore throat",
+    "Pain in the wrist and hand"
+  ]
+},{
+  "code": "LU-10",
+  "name": "Yuji",
+  "description": "In the mid-point of the palmar surface of the os metacarpale I, at the junction of the white and red skin.",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Fever",
+    "Sore throat",
+    "Disease of the tendon",
+    "Synovial sheath of the wrist and the hand"
+  ]
+},{
+  "code": "LU-11",
+  "name": "Shaoshang",
+  "description": "On the radial side of the pollex, 0.1 cun proximal from the corner of the nail.",
+  "functionalities": [
+    "Sore throat",
+    "Fever",
+    "Coma",
+    "Respiratory failure",
+    "Suffocation"
+  ],
+  "caution": "Pregnant women are forbidden to this acupuncture point. Treatment of red eyes, sore throat, should inject bleeding."
+},{
+  "code": "LI-1",
+  "name": "Shangyang",
+  "description": "On the tip of the radial side of the index, 0.1 cun proximal to the corner of the nail.",
+  "functionalities": [
+    "Fever",
+    "Sore throat"
+  ]
+},{
+  "code": "LI-2",
+  "name": "Erjian",
+  "description": "In the depression anterior to the radial side of the 2nd articulatio of metacarpo-phalangeal joint.",
+  "functionalities": [
+    "Dizzness",
+    "Epistaxis",
+    "Toothache",
+    "Sore throat"
+  ]
+},{
+  "code": "LI-3",
+  "name": "Sanjian",
+  "description": "In the depression of the radial aspect of the index posterior to the caput of the os metacarpale II, let the patient close his hand loosely to locate the point.",
+  "functionalities": [
+    "Ophthalmalgia",
+    "Lower toothache",
+    "Trigeminal neuralgia",
+    "Sore throat",
+    "Redness and swelling of the fingers and back of the hand"
+  ]
+},{
+  "code": "LI-5",
+  "name": "Yangxi",
+  "description": "On the radial end of the dorsal crease of the wrist, when the pollex is tilted upwards, it is in the depression between the tendons of the musculus extensor pollicis longus and brevis.",
+  "functionalities": [
+    "Headache",
+    "Redness of the eye",
+    "Deafness",
+    "Tinnitus",
+    "Paralysis of the larynx",
+    "Pain in the wrist",
+    "Motor impairment of elbow and arm",
+    "Delirium",
+    "Anxiety",
+    "Dyspepsia in infants and children"
+  ]
+},{
+  "code": "LI-7",
+  "name": "Wenliu",
+  "description": "5 cun above Pt. Yangxi",
+  "functionalities": [
+    "Headache",
+    "Sore throat",
+    "Borborygmus",
+    "Abdominal pain",
+    "Pain of the shoulder and back regions"
+  ]
+},{
+  "code": "LI-8",
+  "name": "Xialian",
+  "description": "4 cun below Pt. Quchi",
+  "functionalities": [
+    "Headache",
+    "Dizzness",
+    "Abdominal pain",
+    "Pain in the elbow and arm",
+    "Indigestion"
+  ]
+},{
+  "code": "LI-9",
+  "name": "Shanglian",
+  "description": "3 cun below Pt. Quchi",
+  "functionalities": [
+    "Hemiplegia",
+    "Numbness of the foot and hand",
+    "Sprain",
+    "Borborygmus",
+    "Abdominal pain"
+  ]
+},{
+  "code": "LI-10",
+  "name": "Shousanli",
+  "description": "2 cun below Pt. Quchi",
+  "functionalities": [
+    "Hemiplegia",
+    "Parotitis",
+    "Rheumatic neuralygia in the elbow and the arm",
+    "Facial paralysis",
+    "Headache",
+    "Ophthalmalgia",
+    "Deafness",
+    "Tinnitus",
+    "Dyspepsia in infants and children"
+  ]
+},{
+  "code": "LI-12",
+  "name": "Zhouliao",
+  "description": "Between the end of the cubital crease and the epicondylus lateralis of the humerus, forming a 90 degree angle of elbow to locate the point.",
+  "functionalities": [
+    "Pain in the elbow and shoulder regions",
+    "Numbness",
+    "Pain of the elbow joint"
+  ]
+},{
+  "code": "LI-13",
+  "name": "Shouwuli",
+  "description": "3 cun above Pt. Quchi",
+  "functionalities": [
+    "Hemoptysis",
+    "Tuberculosis of the cervicle lymph nodes",
+    "Pneumonia",
+    "Pleurisy",
+    "Pain in the elbow and arm"
+  ]
+},{
+  "code": "LI-14",
+  "name": "Binao",
+  "description": "On the lateral aspect of the arm, slightly anterior to the sertion of musculus deltoideus, on the line between Pt. Jianyu and Pt. Quchi.",
+  "functionalities": [
+    "Pain in the shoulder and the arm",
+    "Paralysis of the upper extremities",
+    "Eye diseases"
+  ]
+},{
+  "code": "LI-16",
+  "name": "Jugu",
+  "description": "In the depression between the extremitas acromialis of the clavicula and the spina scapulea.",
+  "functionalities": [
+    "Disorders of the shoulder joint and its surrounding soft tissue",
+    "Hemoptysis",
+    "Tuberculosis of the cervical lymph nodes"
+  ]
+},{
+  "code": "LI-17",
+  "name": "Tianding",
+  "description": "1 cun below Pt. Futu, at the posterior border of the musculus sterno cleido mastoideus.",
+  "functionalities": [
+    "Tonsillitis",
+    "Tuberculosis of cervical lymph nodes"
+  ]
+},{
+  "code": "LI-18",
+  "name": "Futu",
+  "description": "On the posterior border of the musculus sternocleidomastoideus, at the level of the prominentia laryngea",
+  "functionalities": [
+    "Cough",
+    "Excessive sputum",
+    "Sore throat",
+    "Hoarseness",
+    "Dysphagia"
+  ]
+},{
+  "code": "LI-19",
+  "name": "Kouheliao",
+  "description": "0.5 cun lateral to Pt. Renzhong just below the lateral border of the naris.",
+  "functionalities": [
+    "Diseases of the nasal cavity",
+    "Facial paralysis",
+    "Trigeminal neuralgia",
+    "Ascariasis of the bile duct"
+  ]
+},{
+  "code": "ST-1",
+  "name": "Chengqi",
+  "description": "When the patient is looking straight forward, it is just below the pupil, above the lower ridge of the orbit. When the patient closes the eyes and lies on his back, it is inferior to the eyeball, locating the point along the margin of the orbits.",
+  "functionalities": [
+    "Myopia",
+    "Redness and swelling of the eye",
+    "Night blindness",
+    "Spasm of eyelids",
+    "Optic atrophy"
+  ],
+  "caution": "Near this point it is rich in vessels, therefore liable to cause bleeding. Insert the needle slowly without manipulating it, such as pecking. It is not advisable to puncture it too deep."
+},{
+  "code": "ST-2",
+  "name": "Sibai",
+  "description": "When the eyes look straight forwards, 1 cun below the pupil, at the point of the foremen infraorbitale.",
+  "functionalities": [
+    "Facial paralysis",
+    "Facial spasm",
+    "Trigeminal neuralgia",
+    "Conjunctivitis",
+    "Myopia",
+    "Freguntly used for acupuncture aneasthesia in the operations of the eye"
+  ],
+  "caution": "Insert the needle pointing upwards, into the hole below the constriction. Do not insert too deeply, if the needle is too deep, it can enter the eye socket and damage the eyeballs."
+},{
+  "code": "SP-19",
+  "name": "Xiongxiang",
+  "description": "In the 3rd intercostal space, 6 cun lateral to Ren Mai",
+  "functionalities": [
+    "Pain and distension of lower chest and hypochondrium"
+  ],
+  "caution": "Below is the lung. Do not inject too deeply"
+},{
+  "code": "SP-20",
+  "name": "Zhourong",
+  "description": "In the 2nd intercostal space, 6 cun lateral to Ren Mai",
+  "functionalities": [
+    "Distenstion of lowerchest and hypochondrium",
+    "Cough",
+    "Pain of hypochondrium"
+  ],
+  "caution": "Below is the lung. Do not inject too deeply"
+},{
+  "code": "SP-21",
+  "name": "Dabao",
+  "description": "In the 6th intercostal space, on the midaxillary line",
+  "functionalities": [
+    "Pain of lowerchest and hypochondrium",
+    "General aching",
+    "Weakness of limbs"
+  ],
+  "caution": "Below is the lung. Do not inject too deeply"
+},{
+  "code": "HT-1",
+  "name": "Jiquan",
+  "description": "At the centre of fossa axillaris, on the medial side of the arteria axillaris when the arm is abducted",
+  "functionalities": [
+    "Arthirits of the shoulder",
+    "Pain in the lower chest and hypochrondriac region"
+  ],
+  "caution": "Avoid pinching the needle to avoid damage to the axillary nerve bundle"
+},{
+  "code": "HT-2",
+  "name": "Qingling",
+  "description": "3 cun above Point Shaohai",
+  "functionalities": [
+    "Pain of hypochondrium",
+    "Yellow discoloration of the eye ball",
+    "Pain of the shoulder and back"
+  ],
+  "caution": "If acupuncture makes the patient feel uncomfortable in the chest, use Point Shenmen to neutralize."
+},{
+  "code": "HT-3",
+  "name": "Shaohai",
+  "description": "Between the the ulnar end of the cubital transversal crease and epicondylus medialis of the humerus",
+  "functionalities": [
+    "Diseases of the articulatio cubit and the palmar side of the forearm",
+    "Neurasthenia",
+    "Schizophrenia",
+    "Neuralgia of nervus intercostalis"
+  ]
+},{
+  "code": "HT-4",
+  "name": "Lingdao",
+  "description": "1.5 cun above Point Shenmen, on the ulnar border of dorsal surface of the hand",
+  "functionalities": [
+    "Cardiac pain",
+    "Mental disorder",
+    "Diseases of the ulnar aspect"
+  ]
+},{
+  "code": "HT-6",
+  "name": "Yinxi",
+  "description": "0.5 cun below Point Tongli",
+  "functionalities": [
+    "Angina pectoris",
+    "Cardiac arrhythmia",
+    "Night sweating"
+  ]
+},{
+  "code": "HT-8",
+  "name": "Shaofu",
+  "description": "On the ulnar side of Point Loaong, between the ossa metacarpale IV and V",
+  "functionalities": [
+    "Cardiac arrhythmia",
+    "Angina pectoris",
+    "Toothache"
+  ]
+},{
+  "code": "HT-9",
+  "name": "Shaochong",
+  "description": "On the radial aspect of the digitus minimus, about 0.1 cun proximal from the corner of the nail",
+  "functionalities": [
+    "Coma",
+    "Insanity",
+    "Angina pectoris"
+  ]
+},{
+  "code": "SI-1",
+  "name": "Shaoze",
+  "description": "On the ulnar side of the little finger, 0.1 cun proximal from the corner of the nail",
+  "functionalities": [
+    "Headache",
+    "Mastitis",
+    "Difficiency of lactation",
+    "Pterygium"
+  ]
+},{
+  "code": "SI-2",
+  "name": "Qiangu",
+  "description": "Anterior to the ulnar side of the 5th articulatio metacarphophlangae when clenching a fist, a transverse crease is formed there and distal to which the point stands",
+  "functionalities": [
+    "Numbness of the finger",
+    "Difficiency of lactation",
+    "Pterygium"
+  ]
+},{
+  "code": "SI-3",
+  "name": "Houxi",
+  "description": "On the ulnar side of the caput of os metacarpale V, when the hand is half clenched, in the depression of the end of the palmar transverse crease",
+  "functionalities": [
+    "Tinnitis",
+    "Deafness",
+    "Pilepsy",
+    "Malaria",
+    "Pain of the shoulder and neck",
+    "Parietal headache",
+    "Lumbago",
+    "Neuralgia of the nervus intercostales",
+    "Acute twist of lumbar region"
+  ]
+},{
+  "code": "BL-62",
+  "name": "Shenmai",
+  "description": "In the depression at the lower border of the malleolus lateralis.",
+  "functionalities": [
+    "Headache",
+    "Pain of the neck",
+    "Epilepsy dementia",
+    "Diseases of the posterior aspect of lumbosacralregion and lower extremity."
+  ]
+},{
+  "code": "BL-63",
+  "name": "Jinmen",
+  "description": "Antero-inferior to Point Shenmai, in the lateral depression of the os cuboideum.",
+  "functionalities": [
+    "Epilepsy",
+    "Dementia",
+    "Infantile convulsion",
+    "Diseases of posterior aspect of the lumbosacral region and lower extremities"
+  ]
+},{
+  "code": "BL-65",
+  "name": "Shugu",
+  "description": "Postero-inferior to the tuberosity of the 5th os metatarsale.",
+  "functionalities": [
+    "Headache",
+    "Pain of the neck",
+    "Malaria",
+    "Leucoma",
+    "Epilepsy dementia"
+  ]
+},{
+  "code": "BL-66",
+  "name": "Zutonggu",
+  "description": "In the depression anterior and inferior to the 5th articulatio metatarsophalangeae.",
+  "functionalities": [
+    "Headache",
+    "Dizziness asthma",
+    "Epistaxis dementia"
+  ]
+},{
+  "code": "BL-67",
+  "name": "Zhiyin",
+  "description": "On the lateral side of the top of the digitus minimus about 0.1 cun proximal to the corner of the nail.",
+  "functionalities": [
+    "Headache",
+    "Pain of the neck",
+    "Retention labour",
+    "Abnormal presentation (moxibustion)"
+  ]
+},{
+  "code": "KI-1",
+  "name": "Yong Quan",
+  "description": "In the center of the planta (not including toes), at the junction between anterior 1/3 and posterior 2/3 of the planta.",
+  "functionalities": [
+    "Shock",
+    "Sunstroke",
+    "Hypertension",
+    "Cerebral hemarrhage",
+    "Infantile convulsion",
+    "Hysteria",
+    "Epilepsy"
+  ]
+},{
+  "code": "KI-2",
+  "name": "Rangu",
+  "description": "In the depression at the inferior border of the tuberositas ossis navicularis.",
+  "functionalities": [
+    "Infantile convulsions",
+    "Pruritus of external genitalia",
+    "Infection of urinary tract",
+    "Diabetes mellitus"
+  ]
+},{
+  "code": "KI-5",
+  "name": "Shuiquan",
+  "description": "1 cun below Point Taixi",
+  "functionalities": [
+    "Amenia",
+    "Prolapse of the uterus",
+    "Myopia"
+  ]
+},{
+  "code": "KI-6",
+  "name": "Zhaohai",
+  "description": "1 cun below tip of the malleolus medialis",
+  "functionalities": [
+    "Irregular menses",
+    "Neurasthnia",
+    "Epilepsy",
+    "Constipation",
+    "Laryngopharyngitis",
+    "Tonsiltitis"
+  ]
+},{
+  "code": "KI-7",
+  "name": "Fuliu",
+  "description": "2 cun above Point Taixi",
+  "functionalities": [
+    "Nephritis",
+    "Architis",
+    "Night sweeting",
+    "Lumbago",
+    "Infection of urinary tract",
+    "Edema"
+  ]
+},{
+  "code": "KI-8",
+  "name": "Jiaoxin",
+  "description": "Anterior to Point Fuliu posterior to the medial border of the tibia.",
+  "functionalities": [
+    "Irregular menses",
+    "Menorrhagia",
+    "Retention of urine",
+    "Dysentery",
+    "Constipation",
+    "Pain in medial aspect of the lower extremity"
+  ]
+},{
+  "code": "KI-9",
+  "name": "Zhubin",
+  "description": "On the line between Point Taixi and Point Yingu, on the lower end of the medial belly of the musculus gastrocnemius",
+  "functionalities": [
+    "Menorrhagia",
+    "Pain of the leg"
+  ]
+},{
+  "code": "GB-22",
+  "name": "Yuanye",
+  "description": "On the mid-axillary line, at the level of the 4th intercostal space",
+  "functionalities": [
+    "Pleuritis",
+    "Intercostal neuralgia",
+    "Lymphadenitis of the axilla",
+    "Pain in the shoulder and back"
+  ],
+  "caution": "Below is the lung, do not inject too deeply"
+},{
+  "code": "GB-23",
+  "name": "Zhejin",
+  "description": "1 cun below Point Yuanye",
+  "functionalities": [
+    "Pleuritis asthma",
+    "Vomitting",
+    "Regurgitation of acid"
+  ],
+  "caution": "Below is the lung, do not inject too deeply"
+},{
+  "code": "GB-24",
+  "name": "Riyue",
+  "description": "Directly below the nipple in the 7th intercostal space.",
+  "functionalities": [
+    "Pain in the stomach",
+    "Hepatitis",
+    "Cholecystitis",
+    "Shoulder disease"
+  ],
+  "caution": "Do not inject too deeply because the lower right is the gallbladder or liver, the right side is the spleen, stomach or the end of transverse."
+},{
+  "code": "GB-25",
+  "name": "Jingmen",
+  "description": "On the lower border of the free end of the 12th rib",
+  "functionalities": [
+    "Nephritis",
+    "Painful hernia",
+    "Intercostal neuralgia",
+    "Lumbago",
+    "Pain of the leg"
+  ],
+  "caution": "Below is the kidneys, do not inject too deeply"
+},{
+  "code": "GB-26",
+  "name": "Daimai",
+  "description": "Directly below Point Zhongmen, level with the umbilicus.",
+  "functionalities": [
+    "Irregular menstruation",
+    "Leukorrhea",
+    "Herinia",
+    "Endocervicitis",
+    "Cystits",
+    "Pain in the loin",
+    "Back or the costal region"
+  ]
+},{
+  "code": "GB-27",
+  "name": "Wushu",
+  "description": "At the lateral abdomen in front of the spina aliac anterior superior, level with Point Guanyuan.",
+  "functionalities": [
+    "Endometritis",
+    "Leucorrhea",
+    "Painful hernia",
+    "Orchitis",
+    "Lumbago"
+  ]
+},{
+  "code": "GB-28",
+  "name": "Weidao",
+  "description": "Anterior and inferior to the spinailiac anterior superior, 0.5 cun anterior and inferior to Point Wushu.",
+  "functionalities": [
+    "Adnexitis",
+    "Endometritis",
+    "Prolapse of the uterus",
+    "Painful intestinal hernia habitual constipation"
+  ]
+},{
+  "code": "GB-29",
+  "name": "Juliao",
+  "description": "In the center of the line between the spina illiac anterior superior and the trochanter major of the femur.",
+  "functionalities": [
+    "Gastralgia",
+    "Lower abdominal pain",
+    "Orchitis",
+    "Endometritis",
+    "Cystitis",
+    "Disorders in the hip joint and its surrounding soft tissue",
+    "Lumbago and pain in the leg"
+  ]
+},{
+  "code": "GB-31",
+  "name": "Fengshi",
+  "description": "With the patient standing erect, hands close to thighs, the point is at the tip of the digitus medius.",
+  "functionalities": [
+    "Paralysis of lower extremity",
+    "Lumbago",
+    "Pain in the leg",
+    "Neurodermatitis of lateral aspect of the thigh"
+  ]
+},{
+  "code": "GB-32",
+  "name": "Zhongdu",
+  "description": "2 cun under Point Fengshi",
+  "functionalities": [
+    "Hongkong foot",
+    "Paralysis and numbness of the lower extremities",
+    "Sciatic neuralgia"
+  ]
+},{
+  "code": "GB-33",
+  "name": "Xiyangguan",
+  "description": "In the depression superior to the epicondylus lateralis of the femur, let patient flex the kness when locating, 3 cun above Point Yangling-quan.",
+  "functionalities": [
+    "Pain in the knee joint",
+    "Numbness of the lower extremity",
+    "Paralysis"
+  ]
+},{
+  "code": "GB-35",
+  "name": "Yangjiao",
+  "description": "7 cun above the malleolus lateralis, on the anterior border of the fibula.",
+  "functionalities": [
+    "Fullness and pain in the lower chest",
+    "Pain in the knee",
+    "Weakness and atrophy of the foot",
+    "Frenzy",
+    "Edema of the face"
+  ]
+},{
+  "code": "GB-36",
+  "name": "Waiqiu",
+  "description": "7 cun above the malleolus lateralis, in the posterior border of the fibula.",
+  "functionalities": [
+    "Headache",
+    "Hepatitis",
+    "Paralysis of the lower extremities"
+  ]
+},{
+  "code": "ST-3",
+  "name": "Juliao",
+  "description": "When the eyes look straight forwards, 1 cun below the pupilla at the foramen infra-orbitale",
+  "functionalities": [
+    "Facial paralysis",
+    "Facial spasm",
+    "Trigeminal neuralgia,",
+    "Stuffiness nose",
+    "Epistaxis"
+  ]
+},{
+  "code": "ST-5",
+  "name": "Daying",
+  "description": "1.2 cun below Pt. Jiache, a groove appears when the mouth is closed and the checks are blown",
+  "functionalities": [
+    "Parotiditis",
+    "Lock jaw",
+    "Facial paralysis",
+    "Toothache"
+  ],
+  "caution": "Do not heat into scar and prick the wrong artery to avoid bleeding"
+},{
+  "code": "ST-7",
+  "name": "Xiaguan",
+  "description": "In the depression formed by arcus zygomaticus and incisura mandibulae",
+  "functionalities": [
+    "Toothache",
+    "Arthritis of the mandible",
+    "Trigeminal neuralgia",
+    "Deafness"
+  ]
+},{
+  "code": "ST-8",
+  "name": "Touwei",
+  "description": "0.5 cun superior to the angle between two hairlines at the front",
+  "functionalities": [
+    "Headache",
+    "Dizziness",
+    "Vertigo"
+  ]
+},{
+  "code": "ST-9",
+  "name": "Renying",
+  "description": "1.5 cun lateral to the prominentia larygea, on the anterior border of m.sterno-cleido mastoideus, at the pulsation of a. carotis communis (avoid puncturing the blood vessel)",
+  "functionalities": [
+    "Hypertension",
+    "Asthma",
+    "Sore throat",
+    "Hemoptysis",
+    "Goitre",
+    "Dysphonia"
+  ],
+  "caution": "Do not insert too deeply, should avoid carotid artery"
+},{
+  "code": "ST-10",
+  "name": "Shuitu",
+  "description": "Between Pt. Renying and Pt. Qishe at the anterior border of the m.sterno-cleido mastoideus",
+  "functionalities": [
+    "Sore throat",
+    "Cough",
+    "Short of breath"
+  ],
+  "caution": "Below is the carotid bundle that bleeds easily, do not insert too deeply."
+},{
+  "code": "ST-11",
+  "name": "Qishe",
+  "description": "On the upper border of the medial end of the clavicle, between the sternal head and the clavicular head Of the m. sterno-cleido mastoideus",
+  "functionalities": [
+    "Sore throat",
+    "Asthma",
+    "Goitre",
+    "Tuberculosis of the cervicle lymph nodes"
+  ]
+},{
+  "code": "ST-12",
+  "name": "Quepen",
+  "description": "In the centre of the supra-clavicular fossa, 4 cun lateral to Pt. Tiantu",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Hiccup",
+    "Tuberculosis of cervicle lymph nodes",
+    "Intercostal neuralgia"
+  ]
+},{
+  "code": "ST-13",
+  "name": "Qihu",
+  "description": "Inferior to the lower border of the middle point of the clavicula, 4 cun ateral to Pt. Xuanji",
+  "functionalities": [
+    "Brohitis",
+    "Asthma",
+    "Hiccup",
+    "Intercostal neuralgia"
+  ],
+  "caution": "From ribs 1-6 below is the lung, do not insert too deep"
+},{
+  "code": "ST-14",
+  "name": "Kufang",
+  "description": "In the first intercostal space of the midclavicular line, take the point while lying on back",
+  "functionalities": [
+    "Hiccup",
+    "Chest pain",
+    "Fullness in chest and costal region"
+  ],
+  "caution": "Don't get a deep puncture because it touches the lungs"
+},{
+  "code": "ST-15",
+  "name": "Wuyi",
+  "description": "On the nipple line at the level of the 2nd intercostal space",
+  "functionalities": [
+    "Cough",
+    "Dyspnea",
+    "Fullness and pain of chest and costal region",
+    "Mastitis"
+  ],
+  "caution": "Do not insert too deeply, it may touch the lungs"
+},{
+  "code": "ST-16",
+  "name": "Yingchuang",
+  "description": "On the nipple line at the level of the 3rd intercostal space",
+  "functionalities": [
+    "Cough",
+    "Dyspnea",
+    "Fullness and pain of chest and costal region",
+    "Mastitis"
+  ]
+},{
+  "code": "ST-17",
+  "name": "Ruzhong",
+  "description": "In the centre of the papilla mammae, on the mid-clavicular line at the level of the 4th intercostal space",
+  "functionalities": [
+    "As the land mark for locating the points on the abdomen and chest"
+  ]
+},{
+  "code": "SI-5",
+  "name": "Yanggu",
+  "description": "In the depression at the ulnar end of transverse crease of back of the wrist, between the processus styloideus of the ulna and the os triquetrum",
+  "functionalities": [
+    "Pain in the wrist",
+    "Parositis",
+    "Mental disease",
+    "Deafness",
+    "Tinnitus"
+  ],
+  "caution": "When acupuncture need to ask the patient to slightly place the palm of the hand on the forearm to make it easier to insert"
+},{
+  "code": "SI-6",
+  "name": "Yanglao",
+  "description": "Flex the elbow with palm against the chest, the point is on the bony cleft on the radial side of the processus styloideus of the ulna",
+  "functionalities": [
+    "Joint pain of the upper extremity",
+    "Pain in the shouler and the back",
+    "Hemiplegia",
+    "Lumbago",
+    "Wryneck",
+    "Blurring vision"
+  ]
+},{
+  "code": "SI-8",
+  "name": "Xiaohai",
+  "description": "In sulcus n. ulnaris between the olecranon of the ulna and the epicon dylus medialis of the humerus, flex the elbow when locating the point",
+  "functionalities": [
+    "Pain in the neck",
+    "Pain in the shoudler and the back",
+    "Pain in the elbow joints",
+    "Epilepsy",
+    "Disease of ulnar side of the upper extremity"
+  ]
+},{
+  "code": "SI-9",
+  "name": "Jianzhen",
+  "description": "With hands close to thighs 1 cun above the posterior axillary fold",
+  "functionalities": [
+    "Diseases of shoulder joint and its sorrounding soft tissues",
+    "Paralysis of the upper extremity",
+    "Axillary hidrosis"
+  ]
+},{
+  "code": "SI-10",
+  "name": "Naoshu",
+  "description": "Superior and slight lateral to the Pt. Jianzhen, at the lower border of the spine scapulae",
+  "functionalities": [
+    "Apoplexy and hemiplegia",
+    "Hypertension",
+    "Pain in the shoulder joint",
+    "Abduction weakness of the arm"
+  ]
+},{
+  "code": "SI-11",
+  "name": "Tianzong",
+  "description": "In the center of the fossa infraspinata of the scapulaw",
+  "functionalities": [
+    "Pain in the scapular region",
+    "Pain in poster-lateral aspect of the elbow and arm",
+    "Asthma",
+    "Deficiency of lactation"
+  ]
+},{
+  "code": "SI-12",
+  "name": "Bingfeng",
+  "description": "In the center of the fossa supraspinata of the scapula, directly above Pt. Tianzong, in the depression when the arm is lifted",
+  "functionalities": [
+    "Pain in the scapular region with difficulty in liffting the arm",
+    "Ache or numbness of the upper extremity"
+  ]
+},{
+  "code": "SI-13",
+  "name": "Quyuan",
+  "description": "On the medial end of the fossa supraspinate of the scapula, at the level of processus spinosus of the 3rd vertebra thoracica",
+  "functionalities": [
+    "Diseases of the scapular region"
+  ]
+},{
+  "code": "SI-14",
+  "name": "Jianwaishu",
+  "description": "3 cun lateral to the lower border of the processus spinosus of the 1st vertebra thoracic",
+  "functionalities": [
+    "Diseases of the neck, back and shoulder"
+  ]
+},{
+  "code": "SI-15",
+  "name": "Jianzhongshu",
+  "description": "2 cun lateral to the lower border of the 7th vertebra cervicalis",
+  "functionalities": [
+    "Diseases of the shoulder and the back",
+    "Cough",
+    "Asthma"
+  ]
+},{
+  "code": "SI-16",
+  "name": "Tianchuang",
+  "description": "3,5 cun lateral to laryngeal cartilage, on the posterior border of the m. sterno-cleidomastoideus, 0,5 cunposterior to the Pt. Neck-Futu",
+  "functionalities": [
+    "Sore throat",
+    "Goitre",
+    "Tinnitus",
+    "Deafness",
+    "Stiffness and pain of the neck"
+  ]
+},{
+  "code": "SI-17",
+  "name": "Tianrong",
+  "description": "Posterior to the angle of lower jaw, in the depression on the anterior border of m. sternocleido-mastoideus",
+  "functionalities": [
+    "Tonsillitis",
+    "Pharyngitis",
+    "Painful swelling of the neck",
+    "Asthma"
+  ]
+},{
+  "code": "SI-18",
+  "name": "Quanliao",
+  "description": "In the center of the lower border of the os zygomaticum at the level Pt. Yingxiang, directly below the lateral canthus of the eye",
+  "functionalities": [
+    "Trigeminal neuralgia",
+    "Facial spasm and facial paralysis"
+  ]
+},{
+  "code": "BL-1",
+  "name": "Jingming",
+  "description": "In the depression medial and superior to the medial canthus",
+  "functionalities": [
+    "Conjunctivitis",
+    "Strabismus",
+    "Myopia",
+    "Glaucoma",
+    "Optic neuritis",
+    "Retinitis",
+    "Optic atrophy"
+  ]
+},{
+  "code": "BL-2",
+  "name": "Zanzhu",
+  "description": "In the medial end of the eyebrow, above the medial canthus",
+  "functionalities": [
+    "Headache",
+    "Trigamnial neuralgia",
+    "Facial paralysis",
+    "Glaucoma"
+  ]
+},{
+  "code": "BL-3",
+  "name": "Meichong",
+  "description": "0,5 cun inside the hairline between Pt. Shengting and Pt. Quchi",
+  "functionalities": [
+    "Headache",
+    "Nasal obstruction",
+    "Dizziness epilepsy"
+  ]
+},{
+  "code": "BL-4",
+  "name": "Quchai",
+  "description": "0,5 cun in side the hairline at the junctionbetween lateral 2/3 and medial 1/3 of the line between Pt. Shenting and Pt. Touwei",
+  "functionalities": [
+    "Headache",
+    "Nasal obstruction",
+    "Epistaxis",
+    "Eye diseases"
+  ]
+},{
+  "code": "BL-5",
+  "name": "Wuchu",
+  "description": "1 cun inside the hairline above Pt. Quchai",
+  "functionalities": [
+    "Headache",
+    "Dizziness",
+    "Rhinitis",
+    "Epilepsy"
+  ]
+},{
+  "code": "BL-6",
+  "name": "Chengguang",
+  "description": "1,5 cun posterior to Pt. Wuchu",
+  "functionalities": [
+    "Headache",
+    "Common cold",
+    "Leucoma",
+    "Rhinitis",
+    "Dizziness"
+  ]
+},{
+  "code": "BL-7",
+  "name": "Tongtian",
+  "description": "1,5 cun posterior to Pt. Chengguang",
+  "functionalities": [
+    "Headache",
+    "Dizziness",
+    "Nasal obstruction",
+    "Epistaxis",
+    "Sinusitis"
+  ]
+},{
+  "code": "BL-8",
+  "name": "Luoque",
+  "description": "1,5 cun posterior to Pt. Tongin",
+  "functionalities": [
+    "Dizziness",
+    "Facial paralysis",
+    "Rhinitis goitre",
+    "Vomiting"
+  ],
+  "caution": "If acupuncture makes the patient dumb, then acupuncture Pt. Zhiyin to cure. Insert 1 inch deep, use the needle technique for about half an hour, then patient can speak "
+},{
+  "code": "BL-9",
+  "name": "Yuzhen",
+  "description": "On the lateral side of the superior border of the protuberantia occipitalis externa, above Pt. Tianzhu",
+  "functionalities": [
+    "Headache",
+    "Dizziness",
+    "Myopia"
+  ],
+  "caution": "When acupuncture is easy to produce yellow watery sores, should acupuncture Pt. Tianchi and Pt. Weizhong to rescue. When inserting the needle, turn the needle to the right, at the same time let the needle go up and down for about 5 minutes and then withdraw the needle"
+},{
+  "code": "BL-10",
+  "name": "Tianzhu",
+  "description": "1,3 cun lateral to Pt. Yamen",
+  "functionalities": [
+    "Headache",
+    "Stiffness of the neck",
+    "Sore throat"
+  ],
+  "caution": "Do not insert too deeply and the needle point up, it is easy to hurt the medulla oblongata"
+},{
+  "code": "BL-11",
+  "name": "Dazhu",
+  "description": "1,5 cun Lateral to Pt. Taodao below the processus spinosus of the 1st vertebra thoracicae",
+  "functionalities": [
+    "Fever",
+    "Cough",
+    "Headache",
+    "Pain of the shoulder",
+    "Stiffness of the neck"
+  ]
+},{
+  "code": "BL-12",
+  "name": "Fengmen",
+  "description": "1,5 cun lateral to the processus spinosus of the 2nd vertebra thoracica",
+  "functionalities": [
+    "Common cold",
+    "Cough",
+    "Fever",
+    "Headache",
+    "Asthma",
+    "Chronic rhinitis",
+    "Diseases of the back"
+  ],
+  "caution": "This point is frequently used for acupuncture anesthesia in head and brain surgery"
+},{
+  "code": "KI-10",
+  "name": "Yingu",
+  "description": "At the medial aspect of the popliteal fossa, between the tendons of musculus semitendinosus and musculus semimembranosus. The point is located with knee flexed.",
+  "functionalities": [
+    "Infection of urinary tract",
+    "Retention of urine",
+    "Nocturnal emission",
+    "Impotence",
+    "Menorrhagia",
+    "Inguinal hernia",
+    "Diseases of medial aspect of the knee"
+  ]
+},{
+  "code": "KI-11",
+  "name": "Henggu",
+  "description": "On the superior border of symphysis pubis, 0.5 cun lateral to Point Qugu.",
+  "functionalities": [
+    "Retention of urine",
+    "Nocturnal emission",
+    "Pain of the penis"
+  ],
+  "caution": "Pregnant is forbidden to acupuncture, urinary retention should not inject too deeply. If acupuncture causes the patient to have urinary retention, Point Yong Quan should be applied to the rescue, 5 cm deep, lying on the back, using the manual method (rolling the needle) for about 1 minute, waiting until the patient feels comfortable or want to urinate to remove the needle."
+},{
+  "code": "KI-12",
+  "name": "Dahe",
+  "description": "1 cun above Point Henggu",
+  "functionalities": [
+    "Nocturnal emission",
+    "Pain of the penis"
+  ],
+  "caution": "Pregnant, urinary retention should not inject too deeply."
+},{
+  "code": "KI-13",
+  "name": "Qixue",
+  "description": "1 cun above Point Dahe",
+  "functionalities": [
+    "Irregular menses",
+    "Leucorrhea",
+    "Sterility",
+    "Infection of urinary tract",
+    "Diarrhea"
+  ]
+},{
+  "code": "KI-14",
+  "name": "Siman",
+  "description": "1 cun above Point Qixue",
+  "functionalities": [
+    "Irregular menses",
+    "Leucorrhea",
+    "Sterility",
+    "Infection of urinary tract",
+    "Diarrhea"
+  ]
+},{
+  "code": "KI-15",
+  "name": "Zhongzhu",
+  "description": "1 cun above Point Siman",
+  "functionalities": [
+    "Irregular menses",
+    "Lumbago",
+    "Abdominal pain",
+    "Constipation"
+  ]
+},{
+  "code": "KI-16",
+  "name": "Huangshu",
+  "description": "1 cun above Point Zhongzhu, 0.5 cun lateral to the umbilicus",
+  "functionalities": [
+    "Gastric spasm",
+    "Painful hernia",
+    "Enteritis",
+    "Habitual constipation",
+    "Hiccup"
+  ],
+  "caution": "Must not inject on this point if the female is in the later months of the pregnancy."
+},{
+  "code": "KI-17",
+  "name": "Shangqu",
+  "description": "1 cun above Point Huangshu",
+  "functionalities": [
+    "Gastralgia",
+    "Painful hernia",
+    "Peritonitis"
+  ]
+},{
+  "code": "KI-18",
+  "name": "Shiguan",
+  "description": "1 cun above Point Shangqu",
+  "functionalities": [
+    "Gastralgia",
+    "Hiccup",
+    "Constipation",
+    "Esophageal spasm"
+  ],
+  "caution": "Must not inject on this point if the female is in the last months of the pregnancy."
+},{
+  "code": "KI-19",
+  "name": "Yindu",
+  "description": "1 cun above Point Shiguan",
+  "functionalities": [
+    "Emphysema",
+    "Pleuritis",
+    "Malaria",
+    "Abdominal distension",
+    "Abdominal pain"
+  ]
+},{
+  "code": "KI-20",
+  "name": "Futonggu",
+  "description": "1 cun above Point Yindu",
+  "functionalities": [
+    "Neck rigidity",
+    "Epilepsy",
+    "Palpitation",
+    "Intercostal neuralgia",
+    "Vomiting",
+    "Diarrhea"
+  ],
+  "caution": "Must not inject on this point if the female is in the last months of the pregnancy. In case of injecting, do not inject too deeply, since it can cause damage to the liver."
+},{
+  "code": "KI-21",
+  "name": "Youmen",
+  "description": "1 cun above Point Futonggu",
+  "functionalities": [
+    "Pain and distension of lower chest",
+    "Epigastric pain",
+    "Gastric spasm"
+  ],
+  "caution": "Below is the liver, do not inject too deeply."
+},{
+  "code": "KI-22",
+  "name": "Bulang",
+  "description": "2 cun lateral to Ren Mai in the 5th intercostal space",
+  "functionalities": [
+    "Pleuritis",
+    "Intercostal neuralgia",
+    "Rhinitis",
+    "Gastritis",
+    "Bronchitis"
+  ],
+  "caution": "Do not inject too deeply to the below. On the right side is lung and liver, on the left side is the heart."
+},{
+  "code": "KI-24",
+  "name": "Lingxu",
+  "description": "2 cun lateral to Ren Mai in the 3rd intercostal space",
+  "functionalities": [
+    "Intercostal neuralgia",
+    "Bronchitis",
+    "Vomiting",
+    "Mastitis"
+  ],
+  "caution": "Below is lung and heart, do not inject too deeply or stimulate too strong."
+},{
+  "code": "KI-25",
+  "name": "Shencang",
+  "description": "2 cun lateral to Ren Mai in the 2nd intercostal space",
+  "functionalities": [
+    "Bronchitis",
+    "Vomiting",
+    "Intercostal neuralgia"
+  ],
+  "caution": "Below is the lung, do not inject too deeply."
+},{
+  "code": "KI-26",
+  "name": "Yuzhong",
+  "description": "2 cun lateral to Ren Mai in the 1st intercostal space",
+  "functionalities": [
+    "Bronchitis",
+    "Vomiting",
+    "Intercostal neuralgia"
+  ],
+  "caution": "Below is the lung, do not inject too deeply."
+},{
+  "code": "KI-27",
+  "name": "Shufu",
+  "description": "In the lower border of the clavicula, 2 cun lateral to Ren Mai",
+  "functionalities": [
+    "Bronchitis asthma",
+    "Chest pain",
+    "Vomiting",
+    "Abdominal distension"
+  ],
+  "caution": "Below is the top of the lung, do not inject too deeply."
+},{
+  "code": "PC-1",
+  "name": "Tianchi",
+  "description": "1 cun lateral to the nipple in the 4th intercostal space (1 cun lateral to the mid-clavicular line in the 4th intercostal space in female).",
+  "functionalities": [
+    "Oppression in the chest",
+    "Pain in the lower chest and hypochondriac region"
+  ],
+  "caution": "This point should not be punctured perpendicularly or too deeply, in order to prevent pneumothorax resulted from pirecing in the pleura."
+},{
+  "code": "PC-2",
+  "name": "Tianquan",
+  "description": "2 cun below the anterior end of the axillary fold, between the two heads of musculus biceps brachii.",
+  "functionalities": [
+    "Cough",
+    "Pain in the lower chest and hypochondriac region",
+    "Pain in the back and medial aspect of the arm"
+  ]
+},{
+  "code": "PC-3",
+  "name": "Quze",
+  "description": "In the transverse cubital crease, near the ulnar border of the tendon of musculus biceps brachii, slightly flex the elbow to locate the point.",
+  "functionalities": [
+    "Palpitation",
+    "Angina pectoris",
+    "Pain in the elbow and arm",
+    "Tremor of the hand",
+    "Vomiting and diarrhea due to acute gastroenteritis"
+  ]
+},{
+  "code": "PC-4",
+  "name": "Ximen",
+  "description": "5 cun above the transverse crease of wrist, between the tendons of musculus flexor carpi radialis and musculus palmaris longus.",
+  "functionalities": [
+    "Angina pectoris",
+    "Tachycardia",
+    "Pleuritis",
+    "Mastitis"
+  ]
+},{
+  "code": "PC-5",
+  "name": "Jianshi",
+  "description": "3 cun above Point Neiguan, between the tendons of musculus flexor carpi radialis and musculus palmaris longus.",
+  "functionalities": [
+    "Rheumatic heart disease",
+    "Gastralgia",
+    "Malaria",
+    "Hysteria",
+    "Epilepsy",
+    "Schizophrenia"
+  ]
+},{
+  "code": "PC-8",
+  "name": "Laogong",
+  "description": "In the middle of the palm, between the middle and the digitus anularis (between ossa metacarpalia III and IV) when the hand is closed.",
+  "functionalities": [
+    "Mental disorder",
+    "Epilepsy",
+    "Heat stroke",
+    "Vomiting",
+    "Stomatitis"
+  ]
+},{
+  "code": "PC-9",
+  "name": "Zhongchong",
+  "description": "At the tip of the middle finger.",
+  "functionalities": [
+    "Coma",
+    "Fever",
+    "Heat stroke",
+    "Angina pectoris",
+    "Inability of peaking due to rigidity of tongue"
+  ]
+},{
+  "code": "TE-1",
+  "name": "Guanchong",
+  "description": "On the ulnar side of the ring finger, 0.1 cun proximal to the corner of the nail.",
+  "functionalities": [
+    "Sore throat",
+    "Difficult in speech",
+    "Conjunctivitis",
+    "Fever"
+  ]
+},{
+  "code": "GB-38",
+  "name": "Yangfu",
+  "description": "4 cun above the top of the malleolus lateralis, on the anterior border of the fibula",
+  "functionalities": [
+    "Migraine",
+    "Cervical lymphadenitis",
+    "Hemiplegia",
+    "Numbness of the lower extremities",
+    "Arthritis of the knee joint"
+  ]
+},{
+  "code": "GB-39",
+  "name": "Xuanzhong",
+  "description": "3 cun above the top of the malleolus lateralis, on the anterior border of the fibula",
+  "functionalities": [
+    "Pain in the knee",
+    "The ankle and the lower chest",
+    "Stiff neck",
+    "Hemiplegia",
+    "Sciatic neuralgia"
+  ]
+},{
+  "code": "GB-41",
+  "name": "Zulinqi",
+  "description": "In the depression anterior to the junction of the ossa metatarsalia IV and V",
+  "functionalities": [
+    "Migraine",
+    "Mastitis",
+    "Pain in the lower chest",
+    "Disorders of the lateral aspect of the lower extremities and dorsum of the foot"
+  ]
+},{
+  "code": "GB-42",
+  "name": "Diwuhui",
+  "description": "Between the ossa metatarsalia IV and V, 0,5 cun anterior to Pt. Foot-linqi",
+  "functionalities": [
+    "Tinnitus",
+    "Mastilis",
+    "Lumbago",
+    "Swelling and pain in the dorsum of the foot"
+  ]
+},{
+  "code": "GB-43",
+  "name": "Xiaxi",
+  "description": "On the crevice between the 4th and 5th toes, 0,5 cun proximal to the margin of the web",
+  "functionalities": [
+    "Migraine",
+    "Hypertension",
+    "Tinnitus",
+    "Intercostal",
+    "Neuralgia"
+  ]
+},{
+  "code": "GB-44",
+  "name": "Zuqiaoyin",
+  "description": "On the lateral side of the tip of the 4th toe, 0,1 cun proximal to the corner of the nail",
+  "functionalities": [
+    "Headache",
+    "Hypertension",
+    "Conjunctivitis",
+    "Intercostal neuralgia",
+    "Asthma",
+    "Pleuritis"
+  ]
+},{
+  "code": "Liv-1",
+  "name": "Dadun",
+  "description": "On the lateral aspect of the dorsum of the big toe, 0,1 cun poximal to the corner of the nail",
+  "functionalities": [
+    "Prolapse of the uterus",
+    "Painful hernia",
+    "Menorrhagia",
+    "Enuresis"
+  ]
+},{
+  "code": "Liv-2",
+  "name": "Xingjian",
+  "description": "On the web between the 1st and 2nd toes, 0,5 cun proximal to the margin of the web",
+  "functionalities": [
+    "Irregular menstruation",
+    "Amenorrhea",
+    "Headache",
+    "Insomnia",
+    "Mental diseases",
+    "Epilepsy",
+    "Convulsim in children"
+  ]
+},{
+  "code": "Liv-4",
+  "name": "Zhongfeng",
+  "description": "Anterior to the malleolus medialis, between the tendon of m. tibialis anterior and m. extensor hallucis longus",
+  "functionalities": [
+    "Noctural emission",
+    "Dysuria",
+    "Hernia",
+    "Lumbago"
+  ]
+},{
+  "code": "Liv-6",
+  "name": "Zhongdu",
+  "description": "7 cun above the malleolus medialis",
+  "functionalities": [
+    "Irregular menstruation",
+    "Menorrhagia",
+    "Painful hernia",
+    "Pain of the lower abdomen",
+    "Pain in the joint of lower extremities"
+  ]
+},{
+  "code": "Liv-7",
+  "name": "Xiguan",
+  "description": "In the posterior and inferior aspect of the condylus medialis of the tibia, 1 cun posterior to Pt. Yinlingquan",
+  "functionalities": [
+    "Pain in the medial aspect of the knee",
+    "Sore throat",
+    "Pain or numbness caused by cold, damp"
+  ]
+},{
+  "code": "Liv-8",
+  "name": "Ququan",
+  "description": "In the depression at the medial end of the transverse crease of the art genus with knee flexed",
+  "functionalities": [
+    "Prolapse of the uterus",
+    "Pruritus vulvae",
+    "Dysuria",
+    "Nocturnal emission",
+    "Pain in the knee and in the medial aspect of the thigh"
+  ]
+},{
+  "code": "Liv-9",
+  "name": "Yinbao",
+  "description": "4 above the epicondylus medialis of the femur, between the m. gracilis and the m. sartorius",
+  "functionalities": [
+    "Irregular menstuation",
+    "Incontinence of urine",
+    "Retention of urine",
+    "Lumbago"
+  ]
+},{
+  "code": "Liv-10",
+  "name": "Zuwuli",
+  "description": "3 cun below Pt. Qichong lateral to the m. adductor longus",
+  "functionalities": [
+    "Retention of urine",
+    "Drowsiness",
+    "Enuresis",
+    "Eczema of the scrotum",
+    "Pain in the medial aspect of the thigh"
+  ],
+  "caution": "Do not insert deeply, easily damage the femoral nerve bundle"
+},{
+  "code": "Liv-11",
+  "name": "Yinlian",
+  "description": "2 cun below Pt. Qichong",
+  "functionalities": [
+    "Irregular menstruation",
+    "Pain in the lower extremities",
+    "Painful hernia"
+  ],
+  "caution": "When acupuncture, avoid damaging the nerve bundle in the thigh"
+},{
+  "code": "Liv-12",
+  "name": "Jimai",
+  "description": "Lateral and inferior to the tuberculum pubicum 2,5 cun lateral to the Ren Mai",
+  "functionalities": [
+    "Prolapse of the uterus",
+    "Painful hernia",
+    "Hydrocele of the tetis",
+    "Pain in the penis"
+  ],
+  "caution": "When acupuncture, avoid damage to the nerve bundle and rupture of the artery in the thigh"
+},{
+  "code": "Liv-13",
+  "name": "Zhangmen",
+  "description": "At the lower border of the free and of the 11th rib",
+  "functionalities": [
+    "Abdominal distension and borborygmus",
+    "Vomiting",
+    "Diarrhea",
+    "Jaundice",
+    "Pain in the lower chest and the back"
+  ],
+  "caution": "Below the acupoint, on the right is the liver, on the left is the pancreas, large hepatopancreas disease should not be deeply inserted"
+},{
+  "code": "Liv-14",
+  "name": "Qimen",
+  "description": "Directly below the nipple in the 6th intercostal space, let the patient lie on the back while taking the point",
+  "functionalities": [
+    "Intercostal neuralgia",
+    "Hepatitis",
+    "Enlargement of the liver",
+    "Cholecystitis",
+    "Pleurisy",
+    "Gastric neurosis"
+  ],
+  "caution": "Do not insert too deeply because the bottom is the liver (right), diaphragm, and fundus of the stomach (left)."
+},{
+  "code": "Du-1",
+  "name": "Changqiang",
+  "description": "Midway between the tip of coccyx and the anus",
+  "functionalities": [
+    "Prolapse of anus",
+    "Passing blood in one's stool (blood stool)",
+    "Lumbago"
+  ]
+},{
+  "code": "Du-2",
+  "name": "Yaoshu",
+  "description": "Below the 4th vertebra sacralis in the hiatus sacralis",
+  "functionalities": [
+    "Irregular menstruation",
+    "Pain in the lumbo-sacral region",
+    "Epilepsy",
+    "Cysts in the uterus or its appendages",
+    "Cysts in the ovary",
+    "Acupuncture anesthesia"
+  ]
+},{
+  "code": "Du-3",
+  "name": "Yaoyangquan",
+  "description": "Between the processus spinosus of the 4th and 5th vertebrae lumbales",
+  "functionalities": [
+    "Lumbago",
+    "Paralysis of the lower extremities",
+    "Irregular menstruation",
+    "Nocturnal emission",
+    "Impotence"
+  ]
+},{
+  "code": "Du-5",
+  "name": "Xuanshu",
+  "description": "Below the processus spinosus of the 1st vertebra lumbales",
+  "functionalities": [
+    "Dystentery",
+    "Abdominal pain",
+    "Diarrhea",
+    "Prolapse of anus",
+    "Rigidity and pain in the lumbar vertebrae"
+  ]
+},{
+  "code": "Du-6",
+  "name": "Jizhong",
+  "description": "Below the processus spinosus of the 11th vertebra thoracica",
+  "functionalities": [
+    "Hepatitis",
+    "Epilepsy lumbago",
+    "Paralysis of the lower extremities"
+  ]
+},{
+  "code": "Du-7",
+  "name": "Zhongshu",
+  "description": "Below the processus spinosus of the 10th vertebrae thoracicae",
+  "functionalities": [
+    "Gastralgia",
+    "Cholecystitis",
+    "Failing eye sight",
+    "Lumbago"
+  ]
+},{
+  "code": "Du-8",
+  "name": "Jinsuo",
+  "description": "Below the processus spinosus of the 9th vertebrae thoracicae",
+  "functionalities": [
+    "Hepatitis",
+    "Cholecystitis",
+    "Pleurisy",
+    "Intercostal neuralgia"
+  ]
+},{
+  "code": "ST-18",
+  "name": "Rugen",
+  "description": "Directly below the papilla mammae in the 5th intercostal space, take the point while lying on back",
+  "functionalities": [
+    "Mastitis",
+    "Short of milk"
+  ],
+  "caution": "Don't do too much acupuncture. Do not go deep because below is the upper part of the liver (right), the lower part (left)."
+},{
+  "code": "ST-19",
+  "name": "Burong",
+  "description": "6 cun above the umbilicus, 2 cun lateral to Ren Mai",
+  "functionalities": [
+    "Stomach-ache",
+    "Vomiting",
+    "Abdominal distension",
+    "Loss of appetite"
+  ],
+  "caution": "Do not insert too deep, because below is the liver, can cause dangerous internal bleeding."
+},{
+  "code": "ST-20",
+  "name": "Chengman",
+  "description": "5 cun above the umbilicus, 2 cun lateral to Pt. Shangwan",
+  "functionalities": [
+    "Stomach-ache",
+    "Vomiting",
+    "Borborygmus",
+    "Hernia pain",
+    "Indigestion"
+  ]
+},{
+  "code": "ST-21",
+  "name": "Liangmen",
+  "description": "2 cun lateral to Pt. Zhongwan",
+  "functionalities": [
+    "Gastric and duodenal ulcers",
+    "Acute and chronic gastritis",
+    "Gastic spasm",
+    "Gastric neurosis"
+  ]
+},{
+  "code": "ST-22",
+  "name": "Guanmen",
+  "description": "3 cun above umbilicus, 2 cun lateral to Ren Mai",
+  "functionalities": [
+    "Abdominal distension",
+    "Loss of appetite",
+    "Borborygmus",
+    "Diarrhea",
+    "Edema"
+  ]
+},{
+  "code": "ST-23",
+  "name": "Taiyi",
+  "description": "2 cun above umbilicus 2 cun lateral to Pt. Xiawan",
+  "functionalities": [
+    "Stomach-ache",
+    "Hernia",
+    "Hongkong foot",
+    "Enuresis",
+    "Neurosis and psychosis"
+  ],
+  "caution": "Should not perform acupunture for many months-pregnant women"
+},{
+  "code": "ST-24",
+  "name": "Huaroumen",
+  "description": "1 cun above umbilicus, 2 cun lateral to Ren Mai",
+  "functionalities": [
+    "Stomach-ache",
+    "Vomiting",
+    "Psychosis"
+  ],
+  "caution": "Acupuncture is prohibited for many months-pregnant women  "
+},{
+  "code": "ST-26",
+  "name": "Wailing",
+  "description": "1 cun below umbilicus, 2 cun lateral to Ren Mai",
+  "functionalities": [
+    "Abdominal pain",
+    "Hernia dysmenorrhea"
+  ]
+},{
+  "code": "ST-27",
+  "name": "Daju",
+  "description": "2 cun below umbilicus, 2 cun lateral to Ren Mai",
+  "functionalities": [
+    "Fullness in lower abdomen",
+    "Dysuria",
+    "Hernia",
+    "Nocturnal emission",
+    "Ejaculation",
+    "Praecox"
+  ],
+  "caution": "When pregnant, do not acupuncture, do not insert too deeply when urinary retention"
+},{
+  "code": "ST-28",
+  "name": "Shuidao",
+  "description": "3 cun below umbilicus, 2 cun lateral to Pt. Guanyuan",
+  "functionalities": [
+    "Fullness in lower abdomen",
+    "Hernia",
+    "Dysuria",
+    "Dysmenorrhea"
+  ]
+},{
+  "code": "ST-29",
+  "name": "Guilai",
+  "description": "2 cun lateral to Pt. Zhongji",
+  "functionalities": [
+    "Irregular menses",
+    "Dysmenorrhea",
+    "Chronic inflammatory disease of pelvis 4. Adnexitis",
+    "Endometritis",
+    "Prolapse of uterus",
+    "Impotence",
+    "Hernia"
+  ]
+},{
+  "code": "ST-30",
+  "name": "Qichong",
+  "description": "Latero-superior to the tuberculum pubicum, 2 cun lateral to the midline upper portion of inguinal region, medial to the artery",
+  "functionalities": [
+    "Genital diseases of both female and male",
+    "Hernia"
+  ],
+  "caution": "Do not insert too deeply, because under the man is the vas deferens, under the woman is the oviduct. In case of acupuncture causing painful hernias in the genital organs, the Phong Long acupuncture point should be used to rescue. Insert 1 cun deep, use the needle method. First draw in half an hour, pull out the needle 5 cm, then look outside for about half an hour, then insert it again 5 cm, then withdraw quickly, tell the patient to lie down for a while to rest."
+},{
+  "code": "ST-31",
+  "name": "Biguan",
+  "description": "At the junction of a line between spina iliac anterior-superior and lateral upper border of the patella and horizontal line of the perineum",
+  "functionalities": [
+    "Numbness of lower extremity",
+    "Paralysis",
+    "Inguinal lymphadenitis",
+    "Arthritis of the knee joint",
+    "Lumbago"
+  ]
+},{
+  "code": "BL-16",
+  "name": "Dushu",
+  "description": "1.5 cun lateral to the lower border of the processus spinousus of the 6th vertebra thoracia",
+  "functionalities": [
+    "Endocarditis",
+    "Abdominal pain",
+    "Borborygmus",
+    "Spasm of the diaphragm",
+    "Mastitis psoriasis"
+  ]
+},{
+  "code": "BL-17",
+  "name": "Geshu",
+  "description": "1.5 cun lateral to the lower broder of the processus spinosus of the 7th vertebra thoracia (Pt. Zhiyang)",
+  "functionalities": [
+    "Chronic hemorrhagic disease",
+    "Anemia",
+    "Acute infection of the bile tract",
+    "Belching",
+    "Spasum of oesophagus",
+    "Cough",
+    "Asthma",
+    "Pulmonary",
+    "Tuberculosis"
+  ]
+},{
+  "code": "BL-22",
+  "name": "Sanjiaoshu",
+  "description": "1.5 cun lateral to the lower border of the processus spinosus of the 1st vertebra lumbales",
+  "functionalities": [
+    "Abdominal distension",
+    "Vomitting",
+    "Diarrhea",
+    "Dysentery",
+    "Edema",
+    "Infection of urinary tract",
+    "Back pain"
+  ]
+},{
+  "code": "BL-24",
+  "name": "Qihaishu",
+  "description": "1.5 cun lateral to the lower border of the processus spinosus of the 3th vertebra lumbales",
+  "functionalities": [
+    "Abdominal pain and distension",
+    "Borborygmus",
+    "Consipation",
+    "Lumbage"
+  ]
+},{
+  "code": "BL-26",
+  "name": "Guanyuanshu",
+  "description": "1.5 cun lateral to the shower border of the processus spinosus of the 5th vertebra lumbales",
+  "functionalities": [
+    "Abdominal distension",
+    "Diarrhea",
+    "Lumbago",
+    "Nycturia",
+    "Thrist",
+    "Frequent Urination or dysuria"
+  ]
+},{
+  "code": "BL-27",
+  "name": "Xiaochangshu",
+  "description": "1.5 cun lateral to the lower border of the 1st vetertba sacrales",
+  "functionalities": [
+    "Sciatic neuralgia",
+    "Lumbago",
+    "Nocturnal emission",
+    "Urorrhea",
+    "Entertitis",
+    "Constipation",
+    "Inflammatory disease of the pelvis"
+  ]
+},{
+  "code": "BL-28",
+  "name": "Pangguanshu",
+  "description": "1.5 cun lateral to the lower border of the 2nd verteba sacrales",
+  "functionalities": [
+    "Urgency of urination",
+    "Dysuria",
+    "Frequent urination",
+    "Diarrhea",
+    "Constipation",
+    "Lumbago",
+    "Sciatic neuralgia"
+  ]
+},{
+  "code": "BL-29",
+  "name": "Zhonglushu",
+  "description": "At the level of the 3rd posterior sacral foramen, 1.5 cun lateral to the Du Mai",
+  "functionalities": [
+    "Enteritis",
+    "Lumbago",
+    "Sciatic neuragia"
+  ]
+},{
+  "code": "BL-30",
+  "name": "Baihuanshu",
+  "description": "On the lower border of the processus spinosus of the 4th vertebra sacrales, 1.5 cun lateralto Pt. Yaoshu",
+  "functionalities": [
+    "Lumbago",
+    "Nocturnal emission",
+    "Irregular menstruation",
+    "Leukorrhea",
+    "Chronic inflammation of pelvic organs",
+    "Sciatic neuralgia",
+    "Sacral neuralgia"
+  ],
+  "caution": "Limit using this point for acupuncture"
+},{
+  "code": "BL-31",
+  "name": "Shangliao",
+  "description": "Opposite to the posterior 8 sacralia foramena, Pt. Shangliao, Pt. Ciliao, Pt. Zhongliao and Pt. Xiaoliao are located at the 1st, 2nd, 3nd, 4th posterior sacral foramen respectively",
+  "functionalities": [
+    "Lumbago",
+    "Irregular menstruation",
+    "Lower abdomnial pain",
+    "Menorrhalgia",
+    "Leucorrhea",
+    "Dysuria",
+    "Impotence",
+    "Nocturnal emission",
+    "Prolapse of anus"
+  ]
+},{
+  "code": "BL-32",
+  "name": "Ciliao",
+  "description": "Second sacral hole. When acupressure points should be lying on the stomach.",
+  "functionalities": [
+    "Low back pain down to the groin",
+    "Sciatic nerve pain, weak legs",
+    "Endometriosis",
+    "Inflammation of the testicles",
+    "Ovarian inflammation",
+    "Fertilizer",
+    "Urinary retention"
+  ]
+},{
+  "code": "BL-33",
+  "name": "Zhongliao",
+  "description": "At the third sacral hole, in the inner part of  Pt. Ciliao When acupressure points should be lying on the stomach.",
+  "functionalities": [
+    "Low back pain",
+    "Fertilizer",
+    "Diseases of the genital organs",
+    "Urinary retention",
+    "Irregular menstruation"
+  ]
+},{
+  "code": "BL-34",
+  "name": "Xialiao",
+  "description": "Middle of the fourth sacrum. When acupressure should be lying on the stomach.",
+  "functionalities": [
+    "Difficulty urinating",
+    "Pain below the waist, sciatic nerve pain",
+    "Inflammation of the testicles",
+    "Powdery mildew",
+    "Irregular menstruation",
+    "Diseases of the genitourinary and excretory systems",
+    "Hemorrhoids",
+    "Nervous breakdown"
+  ]
+},{
+  "code": "BL-35",
+  "name": "Huiyang",
+  "description": "0.5 cun lateral to the os coccygis",
+  "functionalities": [
+    "Enteritis",
+    "Hemorrhoid",
+    "Female genital disease",
+    "Impotence",
+    "Haematuria"
+  ]
+},{
+  "code": "BL-36",
+  "name": "Chengfu",
+  "description": "Midpoint of the gluteal fold",
+  "functionalities": [
+    "Lumbago",
+    "Sciatic neuralgia",
+    "Paralysis of the lower extremities",
+    "Urorrhagia",
+    "Constipation"
+  ]
+},{
+  "code": "BL-37",
+  "name": "Yinme",
+  "description": "6 cun below Pt. Chengfu, on the line between Pt. Chengfu and Pt. Weizhang",
+  "functionalities": [
+    "Lumbago",
+    "Sciatic neuralgia",
+    "Paralysis of the lower extremities",
+    "Paralysis"
+  ]
+},{
+  "code": "BL-38",
+  "name": "Fuxi",
+  "description": "Lateral to poplital fossa, 1cun above Pt. Weiyang",
+  "functionalities": [
+    "Acute gastroeneritis",
+    "Cystitis",
+    "Constipation",
+    "Paralysis of the lateral aspect of the lower extremities"
+  ]
+},{
+  "code": "BL-39",
+  "name": "Weiyang",
+  "description": "Above the popliteal crease, 1cun lateral to Pt. Weizhong",
+  "functionalities": [
+    "Nephritis",
+    "Chyluria",
+    "Cystitis",
+    "Constipation"
+  ]
+},{
+  "code": "BL-41",
+  "name": "Fufen",
+  "description": "3 cun lateral to the midline, between the processus spinosus of the 2nd and the 3rd vertebrae thoracicae",
+  "functionalities": [
+    "Pain of the shoulder",
+    "Neck and back numbness of the elbow and arm"
+  ]
+},{
+  "code": "BL-42",
+  "name": "Pohu",
+  "description": "3 cun lateral to the midline, between the processus spinosus of the 3rd and the 4th vertebrae thoracicae",
+  "functionalities": [
+    "Bronchitis",
+    "Weakness of the chest",
+    "Asthma",
+    "Pulmonary tuberculosis",
+    "Pleurisy"
+  ],
+  "caution": "Should not insert too deep, lung below."
+},{
+  "code": "BL-43",
+  "name": "Gaohuangshu",
+  "description": "3 cun lateral to the lower border of the processus spinosus of the 4th vertebra thoracicae",
+  "functionalities": [
+    "Gastric pain",
+    "Vomiting",
+    "Abdominal distension",
+    "Constipation",
+    "Lumbago"
+  ],
+  "caution": "Should not insert too deep, lung below."
+},{
+  "code": "BL-44",
+  "name": "Shentang",
+  "description": "3 cun lateral to the midline, between the processus spinosus of the 5th and 6th vertebrae thoracicae",
+  "functionalities": [
+    "Bronchitis",
+    "Asthma",
+    "Inter-costal neuralgia",
+    "Heart disease"
+  ]
+},{
+  "code": "BL-45",
+  "name": "Yixi",
+  "description": "3 cun lateral to the midline, between the processus spinosus of the 6th and the 7th vertebrae thoracicae",
+  "functionalities": [
+    "Pericarditis",
+    "Asthma",
+    "Malaria",
+    "Intercostal neuralgia",
+    "5.Belching"
+  ]
+},{
+  "code": "BL-46",
+  "name": "Geguan",
+  "description": "3 cun lateral to the midline, between the processus spinosus of the 7th and the 8th vertebra thoracicae",
+  "functionalities": [
+    "Intercostal neuralgia",
+    "Oesophageal spasm",
+    "Gastric hemorrhage"
+  ],
+  "caution": "Do not insert deep, easy to damage the Lungs"
+},{
+  "code": "BL-47",
+  "name": "Hunmen",
+  "description": "3 cun lateral to the midline of the back, between the processsus spinosus of the 9th and 10th vertebrae thoracicae",
+  "functionalities": [
+    "Neurothenia",
+    "Disease of the liver and gall bladder",
+    "Pleuritis",
+    "Gastralgia"
+  ],
+  "caution": "Do not insert deep, easy to damage the Lungs"
+},{
+  "code": "TE-2",
+  "name": "Yemen",
+  "description": "In the web between the ring and the small fingers, 0,5 cun proximal to the margin of the web",
+  "functionalities": [
+    "Headache",
+    "Deafness",
+    "Malaria",
+    "Pain in the hand and arm",
+    "Pain and swelling of fingers"
+  ]
+},{
+  "code": "TE-3",
+  "name": "Zhongzhu",
+  "description": "Clench the hand when locating, between the ossa metacarpale IV and V, in the depression 1 cun above the art. metacarpophalangeae",
+  "functionalities": [
+    "Deafness",
+    "Tinnitus",
+    "Sore throat",
+    "Disorders of the head",
+    "Neck",
+    "Shoulder and back"
+  ]
+},{
+  "code": "TE-6",
+  "name": "Zhigou",
+  "description": "1 cun above Pt. Waiguan, between the ulna and the radius",
+  "functionalities": [
+    "Pain of the shoulder and lower chest",
+    "Constipation",
+    "Pleuritis",
+    "Hemiplegia",
+    "Parotiditis",
+    "Deafness",
+    "Tinnitus"
+  ]
+},{
+  "code": "TE-7",
+  "name": "Huizong",
+  "description": "1 finger breadth lateral to Pt. Zhigou, on the radial side of the ulna",
+  "functionalities": [
+    "Tinnitus",
+    "Deafness",
+    "Pain in the upper extremities",
+    "Epilepsy"
+  ]
+},{
+  "code": "TE-8",
+  "name": "Sanyangluo",
+  "description": "1 cun above Pt. Zhigou",
+  "functionalities": [
+    "Deafness",
+    "Aphasia",
+    "Disorder of the forearm"
+  ]
+},{
+  "code": "TE-9",
+  "name": "Sidu",
+  "description": "5 cun above Pt. Waiguan, between the radius and the ulna",
+  "functionalities": [
+    "Headache",
+    "Tinnitus",
+    "Toothache",
+    "Pain of the forearm",
+    "Paralysis of upper extremities",
+    "Neurasthenia",
+    "Nephritis"
+  ]
+},{
+  "code": "TE-10",
+  "name": "Tianjing",
+  "description": "Superior to the olecranon, in the depression when the elbow is flexed",
+  "functionalities": [
+    "Rigidifty of the neck",
+    "Disorders of the lower chest or upper extremities"
+  ]
+},{
+  "code": "TE-11",
+  "name": "Quinglengyuan",
+  "description": "1 cun above Pt. Tianjing",
+  "functionalities": [
+    "Pain in the shoulder",
+    "Headache",
+    "Yellowish discolouration of the conjunctiva"
+  ]
+},{
+  "code": "TE-12",
+  "name": "Xiaoluo",
+  "description": "Midway between Pt. Qinglengyuan and Pt. Naohui",
+  "functionalities": [
+    "Headache",
+    "Stiff neck",
+    "Pain in the arm",
+    "Toothache",
+    "Epilepsy"
+  ]
+},{
+  "code": "TE-13",
+  "name": "Naohui",
+  "description": "At the juction between the line connecting Pt. Jianlao and olecranon and the posterior border of m. deltoideus",
+  "functionalities": [
+    "Pain in the shoulder and arm",
+    "Hemiplesia",
+    "Fever and chill"
+  ]
+},{
+  "code": "TE-14",
+  "name": "Jianliao",
+  "description": "Postero-inferior to the acromion, in the depression about 1 cun posterior to Pt. Jianyu whn the arm is raised horizontally",
+  "functionalities": [
+    "Pain in the shoulder and arm",
+    "Hemiplegia",
+    "Hypertension",
+    "Excessive sweating"
+  ]
+},{
+  "code": "TE-15",
+  "name": "Tianliao",
+  "description": "At the superior angle of the scapula,, between Pt. Jianjing and Pt. Quyuan",
+  "functionalities": [
+    "Pain in the shoulder and arm",
+    "Rigidity of the neck"
+  ]
+},{
+  "code": "TE-16",
+  "name": "Tianyou",
+  "description": "Posterior and inferior to the processus mastoideus on the posterior border of m. sternocleido-mastoideus near the hairline",
+  "functionalities": [
+    "Tinnitus",
+    "Deafness",
+    "Stiff neck",
+    "Sorethroat"
+  ]
+},{
+  "code": "TE-18",
+  "name": "Qimai",
+  "description": "In the centre of the pars mastoideus",
+  "functionalities": [
+    "Deafness",
+    "Tinnitus"
+  ]
+},{
+  "code": "TE-19",
+  "name": "Luxi",
+  "description": "Midway of the curve between Pt. Qimai and Pt. Jiaosun",
+  "functionalities": [
+    "Headache",
+    "Tinnitus",
+    "Ear pain",
+    "Deafness"
+  ]
+},{
+  "code": "TE-20",
+  "name": "Jiaosun",
+  "description": "In the hairline above the tip of the auricula",
+  "functionalities": [
+    "Redness and swelling of the ear",
+    "Toothache",
+    "Cornea opacity",
+    "Rigidity of the neck"
+  ],
+  "caution": "When suffering from acupuncture, it is easy to produce a congested brain, causing the patient to fall into a coma, so he needs to use Pt. Sanyangluo to rescue. When acupuncture should be shallow, up to about 5 centimeters and at the same time, point the nose cum obliquely towards the bottom of the light method. Acupuncture this acupoint must not cause burns"
+},{
+  "code": "TE-21",
+  "name": "Ermen",
+  "description": "Above Pt. Tinggong, in front of the anterior notch of the auricula, in the depression when mouth is open",
+  "functionalities": [
+    "Tinnitus",
+    "Deafness",
+    "Toothache",
+    "Arthritis of the mandible point",
+    "Otitis media"
+  ],
+  "caution": "Ancient book said that there was pus in the ear, which was forbidden to acupuncture "
+},{
+  "code": "TE-22",
+  "name": "Erheliao",
+  "description": "Anterior to the upper border of the root of the aricula, posterior to the a. temporalis superficialis",
+  "functionalities": [
+    "Tinnitus",
+    "Heaviness of the head and headache",
+    "Facial paralysis",
+    "Disability of lower jaw"
+  ]
+},{
+  "code": "TE-23",
+  "name": "Sizhukong",
+  "description": "In the depression lateral to the lateral tip of the supercilium",
+  "functionalities": [
+    "Headache",
+    "Facial paralysis",
+    "Squint",
+    "Acute conjunctivitis"
+  ],
+  "caution": "Ancient books say it is forbidden to acupuncture"
+},{
+  "code": "GB-1",
+  "name": "Tongziliao",
+  "description": "0,5 cun lateral to the angulus oculilateralis",
+  "functionalities": [
+    "Migraine",
+    "Conjunctivitis",
+    "Myopia",
+    "Optic atrophy and other eye diseases"
+  ],
+  "caution": "Do not cause burns"
+},{
+  "code": "GB-2",
+  "name": "Tinghui",
+  "description": "Anterior to the incisura intertragica directly below Pt. Tinggong, in the posterior depression of the articulatio temporomandibularis",
+  "functionalities": [
+    "Tinnitus",
+    "Deafness",
+    "Otitis media",
+    "4.Toothache",
+    "Lockjaw",
+    "Facial paralysis"
+  ]
+},{
+  "code": "GB-4",
+  "name": "Hanyan",
+  "description": "On the hairline of the temporal region, between Pt.Touwei and Pt. Xuanlu",
+  "functionalities": [
+    "Migraine",
+    "Tinnitus",
+    "Rhinitis",
+    "Epilepsy",
+    "Convulsion"
+  ]
+},{
+  "code": "GB-5",
+  "name": "Xuanlu",
+  "description": "In the middle of the curve between Pt. Touwei and Pt. Qubin",
+  "functionalities": [
+    "Migraine",
+    "Pain in the lateral cathus",
+    "Toothache",
+    "Edema of the face",
+    "Neurasthenia"
+  ],
+  "caution": "Do not cause burns"
+},{
+  "code": "GB-6",
+  "name": "Xuanli",
+  "description": "On the hairline of the temporal region, between Pt. Xuanlu and Pt. Qubin",
+  "functionalities": [
+    "Migraine",
+    "Pain in the lateral cathus",
+    "Toothache",
+    "Edema of the face",
+    "Neurasthenia"
+  ]
+},{
+  "code": "GB-7",
+  "name": "Qubin",
+  "description": "On the hairline in front of the ear apex, one finger with anterior to PT. Jiaosun",
+  "functionalities": [
+    "Migraine",
+    "2.Trigeminal neuralgia",
+    "Spasm of m. temporalis"
+  ]
+},{
+  "code": "Du-9",
+  "name": "Zhiyang",
+  "description": "Between the processus spinosus of the 7th and 8th vertebrae thoracicae",
+  "functionalities": [
+    "Jaundice",
+    "Cough",
+    "Asthma",
+    "Malaria",
+    "Pain in the vertebrae thoracales",
+    "Fullness of the lower chest",
+    "Paralysis or atrophy of muscle"
+  ]
+},{
+  "code": "Du-10",
+  "name": "Lingtai",
+  "description": "Between the processus spinosus of the 6th and 7th vertebrae thoracicae",
+  "functionalities": [
+    "Cough",
+    "Backpain",
+    "Painfull swelling due to furuncle"
+  ]
+},{
+  "code": "Du-11",
+  "name": "Shendao",
+  "description": "Below the processus spinosus of the 5 vertebrae thoracicae",
+  "functionalities": [
+    "Febrile diseases",
+    "Heart disease",
+    "Malaria",
+    "Epilepsy",
+    "Intercostal neuralgia"
+  ]
+},{
+  "code": "Du-12",
+  "name": "Shenzhu",
+  "description": "Between the processus spinosus of the 3th and 4th vertebrae thoracicae",
+  "functionalities": [
+    "Cough",
+    "Dyspnea",
+    "Epliepsy",
+    "Pain in the back and the neck"
+  ]
+},{
+  "code": "Du-13",
+  "name": "Taodao",
+  "description": "Between the processus spinosus of the 1st and 2nd vertebrae thoracicae",
+  "functionalities": [
+    "Fever",
+    "Malaria",
+    "Mental disease",
+    "Epilepsy"
+  ],
+  "caution": "When acupuncture, pay attention because this point is located on the Governor Vessel meridian"
+},{
+  "code": "Du-15",
+  "name": "Yamen",
+  "description": "0,5 cun above the mid-point of posterior hairline, directly below the protuberantia occipitalis externa",
+  "functionalities": [
+    "Mental disease",
+    "Epilepsy",
+    "Sequelae of apolexy",
+    "Ceberal concussion",
+    "Chronic sore throat",
+    "Deafness",
+    "Mutism"
+  ],
+  "caution": "In the case of bronchial effusion during alveolitis, if the patient has a dyspnoea response, the outcome is usually good"
+},{
+  "code": "Du-16",
+  "name": "Fengfu",
+  "description": "1 cun above the mid-point of posterior hairline, in the depression below the protuberantia occipitalis externa",
+  "functionalities": [
+    "Mental disease",
+    "Sequelae of apoplexy"
+  ],
+  "caution": "Below is the medulla oblongata, which must not be inserted deeply or tilted upwards, dangerous"
+},{
+  "code": "Du-17",
+  "name": "Naohu",
+  "description": "1,5 cun directly above Pt. Fengfu, on the upper margin on the protuberantia occipitalis externa",
+  "functionalities": [
+    "Headache",
+    "Stiff neck",
+    "Insomnia",
+    "Epilepsy"
+  ],
+  "caution": "Avoid pricking the bones. Ancient books say that it is forbidden to acupuncture, as it might make patient dumb. If the needle is inserted incorrectly, causing a headache, should use Pt. Baihui to cure."
+},{
+  "code": "Du-18",
+  "name": "Qiangjian",
+  "description": "1,5 cun above Pt. Naohu",
+  "functionalities": [
+    "Headache",
+    "Stiff neck",
+    "Insomnia",
+    "Epilepsy"
+  ]
+},{
+  "code": "Du-19",
+  "name": "Houding",
+  "description": "1,5 cun behind Pt. Baihui",
+  "functionalities": [
+    "Head diseases"
+  ],
+  "caution": "Avoid acupuncture, might affect bones"
+},{
+  "code": "Du-21",
+  "name": "Qianding",
+  "description": "On the midline of the vertex, 1,5 cun anterior to Pt. Baihui",
+  "functionalities": [
+    "Diseases of head region"
+  ]
+},{
+  "code": "Du-22",
+  "name": "Xinhui",
+  "description": "3 cun anterior to Pt. Baihui",
+  "functionalities": [
+    "Headache",
+    "Dizziness or vertigo",
+    "Rhinitis",
+    "Nasal polypi",
+    "Convulsion in children"
+  ],
+  "caution": "Under 8 years old should not be saved because the fontanel is not tight. Acupuncture causes fainting, should use Pt. Fengmen to cure"
+},{
+  "code": "Du-23",
+  "name": "Shangxing",
+  "description": "On the midline of the head, 1 cun above anterior hairline",
+  "functionalities": [
+    "Headache",
+    "Metal disease",
+    "Disorders of the nasal cavity"
+  ],
+  "caution": "Shouldn't acupuncture much. Acupuncture many times caused heat to rise to the head, blinding the eyes. Children are forbidden to acupuncture, it is forbidden to prick because of open fontanel"
+},{
+  "code": "Du-24",
+  "name": "Shenting",
+  "description": "On the midline of the head, 0,5 cun above the anterior hairline",
+  "functionalities": [
+    "Headache",
+    "Dizziness or vertigo",
+    "Rhinitis",
+    "Nasal polypi",
+    "Mental disease"
+  ],
+  "caution": "If this acupressure point misses acupuncture, then use Pt. Jizhong to cure and stimulate it"
+},{
+  "code": "Du-25",
+  "name": "Suliao",
+  "description": "In the middle of the apex nasi",
+  "functionalities": [
+    "Shock",
+    "Hypotension",
+    "Bradycardia",
+    "Brandy nose",
+    "Epistaxis",
+    "Rhinitis"
+  ]
+},{
+  "code": "Du-27",
+  "name": "Duiduan",
+  "description": "On the meridian tubercle of the upper lip",
+  "functionalities": [
+    "Vomiting",
+    "Stuffiness of the nose",
+    "Nasal polypi",
+    "Epilepsy",
+    "Stomatitis"
+  ]
+},{
+  "code": "Du-28",
+  "name": "Yinjiao",
+  "description": "Take up the upper lip, at the labial end of the frenulum labii superiors, slightly above the cleft between the incisors",
+  "functionalities": [
+    "Acute sprain of lumbar region",
+    "Nassal polypi",
+    "Toothache",
+    "Gum bleeding",
+    "Mental disease"
+  ]
+},{
+  "code": "Ren-1",
+  "name": "Huiyin",
+  "description": "In the centre of the perineum",
+  "functionalities": [
+    "Nocturnal emission",
+    "Prostatitis",
+    "Asphyxia",
+    "Respiratory failure"
+  ],
+  "caution": "When pricking, it must be carefully disinfected, where it is easy to infect the fistula"
+},{
+  "code": "Ren-2",
+  "name": "Qugu",
+  "description": "5 cun below the umbilicus, on the superior border of the symphysis pubis, locate this point in supination",
+  "functionalities": [
+    "Nocturnal emission",
+    "Impotence",
+    "Leucorrhea",
+    "Anuria",
+    "Hernia"
+  ]
+},{
+  "code": "Ren-3",
+  "name": "Zhongji",
+  "description": "1 cun above Pt. Qugu, 4 cun below the umbilicus locate this point when lies on back",
+  "functionalities": [
+    "Nocturnal emission",
+    "Uroclepsia",
+    "Dysuria",
+    "Frequent urination",
+    "Gonorrhea",
+    "Pain in lower abdomen",
+    "Irregular menstruation",
+    "Leucorrhea"
+  ]
+},{
+  "code": "Ren-4",
+  "name": "Guanyuan",
+  "description": "2 cun above Pt. Qufu, 3 cun below the umbilicus locate this point when lies on back",
+  "functionalities": [
+    "Irregular menstruation",
+    "Impotence",
+    "Uroclepsia",
+    "Abdominal pain",
+    "Dystentery",
+    "Amenorrhea",
+    "Metrorrhagia",
+    "Leucorrhea",
+    "Prolapse of the uterus",
+    "Intestinal asacaristis"
+  ]
+},{
+  "code": "Ren-5",
+  "name": "Shimen",
+  "description": "On the front midline 2 cun below the umbilicus",
+  "functionalities": [
+    "Metrorrhagia amenorrhea",
+    "Diarrhea",
+    "Edema",
+    "Hypertension"
+  ],
+  "caution": "Do not insert too deep"
+},{
+  "code": "Ren-7",
+  "name": "Yinjiao",
+  "description": "1 cun below the umbilicus",
+  "functionalities": [
+    "Metrorrhagia",
+    "Leucorrhea",
+    "Irregular menstruation",
+    "Pruritus vulvae",
+    "Periumbilical pain",
+    "Hernia",
+    "Post partum bleeding"
+  ]
+},{
+  "code": "Ren-8",
+  "name": "Shenque",
+  "description": "In the centre of the umbilicus, locate this point when lies on back",
+  "functionalities": [
+    "Acute enteritis (of cold nature)",
+    "Chronic enteritis",
+    "Chronic dysentery",
+    "Intestinal tuberculosis",
+    "Edema"
+  ]
+},{
+  "code": "Ren-9",
+  "name": "Shuifen",
+  "description": "1 cun above the umbilicus",
+  "functionalities": [
+    "Borborygmus",
+    "Diarrhea",
+    "Abdominal pain",
+    "Edema",
+    "Dysuria",
+    "Swelling of the face"
+  ],
+  "caution": "In edema, perforation and ascites, long-term treatment is required, without acupuncture. If accidental acupuncture causes the patient to edema, should prick 2 points Tianshu and Huangshu to rescue, you can use dried reed flowers to powder it."
+},{
+  "code": "ST-32",
+  "name": "Futu",
+  "description": "On the anterolateral aspect of the thigh, on\nthe line connecting the lateral end of the base of the patella with the anterior superi-\nor iliac spine, 6 B-cun superior to the base of the patella.",
+  "functionalities": [
+    "Paralysis of lower extremity",
+    "Numbness",
+    "Arthritis of the knee joint",
+    "Urticaria"
+  ]
+},{
+  "code": "ST-33",
+  "name": "Yinshi",
+  "description": "3 cun above the latero-superior border of the patella, between m. rectus femoris and m.vastus lateralis",
+  "functionalities": [
+    "Paralysis of lower extremity",
+    "Arthritis of the knee joint"
+  ]
+},{
+  "code": "ST-34",
+  "name": "Liangqiu",
+  "description": "2 cun above supra-Lateral border of the patella",
+  "functionalities": [
+    "Stomach-ache",
+    "Mastitis",
+    "Gastritis and diarrhea",
+    "Diseases of knee joint",
+    "The anterior aspect of the leg"
+  ]
+},{
+  "code": "ST-35",
+  "name": "Dubi",
+  "description": "In the depression at the lower border of the patella, and lateral to the lig. patella",
+  "functionalities": [
+    "Diseases of knee joint and its surrounding soft tissues"
+  ]
+},{
+  "code": "ST-37",
+  "name": "Shangjuxu",
+  "description": "3 cun below Pt. Zusanli",
+  "functionalities": [
+    "Appendicitis",
+    "Dysentery",
+    "Diarrhea",
+    "Diseases of lower extremity"
+  ]
+},{
+  "code": "ST-38",
+  "name": "Tiaokou",
+  "description": "8 cun above lateral condyle of the ankle, one finger width lateral to the crista anterior tibiae",
+  "functionalities": [
+    "Arthritis of knee joint",
+    "Paralysis of the lower extremity",
+    "Sciatic neuralgia"
+  ]
+},{
+  "code": "ST-39",
+  "name": "Xiajuxu",
+  "description": "1 cun below Pt. Tiaokou",
+  "functionalities": [
+    "Enteritis",
+    "Paralysis of the lower extremity",
+    "Intercostal neuralgia",
+    "Orchitis with pain referred to lower abdomen"
+  ]
+},{
+  "code": "ST-41",
+  "name": "Jiexi",
+  "description": "In the center of dorsal crease of ankle joint, between tendon of the m. extensor hallncis longus and tendon of the m. extensor digitorum longus",
+  "functionalities": [
+    "Headache",
+    "Drop foot",
+    "Diseases of the lower extremity",
+    "Soft tissue around the ankle joint"
+  ]
+},{
+  "code": "ST-43",
+  "name": "Xiangu",
+  "description": "Between the dorsum of the os metatarsale II and III, in the depression posterior to the art. metatarsophalangeae",
+  "functionalities": [
+    "Facial swelling",
+    "Edema",
+    "Borborygmus",
+    "Abdominal pain",
+    "Swelling and pain in the dorsum of food"
+  ]
+},{
+  "code": "ST-44",
+  "name": "Neiting",
+  "description": "Proximal to the web margin between the second and third toes",
+  "functionalities": [
+    "Toothache",
+    "Trigeminal neuralgia",
+    "Tonsillitis",
+    "Pain in epigastrium"
+  ]
+},{
+  "code": "ST-45",
+  "name": "Lidui",
+  "description": "Lateral to the nail of the second toe, 0.1 cun distal to the corner of the nail",
+  "functionalities": [
+    "Anemia neurasthenia",
+    "Tonsillitis",
+    "Indigestion",
+    "Hysteria"
+  ]
+},{
+  "code": "SP-1",
+  "name": "Yinbai",
+  "description": "On the medical aspect of the hallux, 0.1 cun proximal to the corner of the nail",
+  "functionalities": [
+    "Abdominal distention",
+    "Menometrorrhagia",
+    "Dream-disturbed sleep",
+    "Convulsion mental disorder"
+  ]
+},{
+  "code": "SP-2",
+  "name": "Dadu",
+  "description": "On the medial aspect of the hallux, antero-inferior to the 1st art. metatarso-phalanx at the junction of red and white skin",
+  "functionalities": [
+    "Gastric pain",
+    "Abdominal distention",
+    "Indigestion",
+    "Nausea and vomiting",
+    "Diarrhea febrile diseases with hypohydrosis"
+  ]
+},{
+  "code": "SP-4",
+  "name": "Gongsun",
+  "description": "On the medial aspect of the foot, in a depression at medio-inferior border of the os metatarsale and at the junction of the red and white skin",
+  "functionalities": [
+    "Gastric pain",
+    "Vomiting",
+    "Indigestion",
+    "Diarrhea",
+    "Menorrhalgia"
+  ]
+},{
+  "code": "SP-5",
+  "name": "Shangqiu",
+  "description": "In the depression at the anterio-inferior border of the malleolus medialis",
+  "functionalities": [
+    "Borborygmus",
+    "Abdominal distension",
+    "Constipation",
+    "Jaundice",
+    "Diarrhea",
+    "Indigestion",
+    "Pain of the malleolus region"
+  ]
+},{
+  "code": "SP-7",
+  "name": "Lougu",
+  "description": "6 cun above the tip of the malleolus medialis",
+  "functionalities": [
+    "Abdominal distension",
+    "Borborygmus",
+    "Numbness of the leg and knee"
+  ]
+},{
+  "code": "SP-8",
+  "name": "Diji",
+  "description": "3 cun below Pt. Yinlinquan",
+  "functionalities": [
+    "Irregular menstruation",
+    "Menorrhagia",
+    "Dysentery",
+    "Abdominal distension"
+  ]
+},{
+  "code": "SP-9",
+  "name": "Yinlingquan",
+  "description": "In the depression on the lower border of the condylus medialis of the tibia, when the knee is flexed",
+  "functionalities": [
+    "Abdominal pain",
+    "Edema",
+    "Dysuria",
+    "Enuresis",
+    "Irregular menstruation",
+    "Dysentery"
+  ]
+},{
+  "code": "SP-12",
+  "name": "Chongmen",
+  "description": "3.5 cun lateral to the symphysis pubis, on the lateral side of the a. femoralis",
+  "functionalities": [
+    "Abdominal pain",
+    "Hernia",
+    "Painful hemorrhoide",
+    "Dysuria"
+  ]
+},{
+  "code": "SP-13",
+  "name": "Fushe",
+  "description": "0.7 cun above Pt. Chongmen",
+  "functionalities": [
+    "Abdominal pain",
+    "Hernia",
+    "Splenomegalia"
+  ]
+},{
+  "code": "SP-14",
+  "name": "Fujie",
+  "description": "1.3 cun below Pt. Daheng",
+  "functionalities": [
+    "Peri-umbilical painhernia",
+    "Diarrhea due to abdominal cold"
+  ],
+  "caution": "Should not inject during pregnancy"
+},{
+  "code": "SP-15",
+  "name": "Da heng",
+  "description": "4 cun lateral to umbilicus",
+  "functionalities": [
+    "Abdominal distention",
+    "2.diarrhea",
+    "Constipation",
+    "Intestinal paralysis",
+    "Intestinal parasitic diseases"
+  ]
+},{
+  "code": "SP-16",
+  "name": "Fuai",
+  "description": "3 cun above Pt. Daheng",
+  "functionalities": [
+    "Abdominal pain",
+    "Indigestion",
+    "Constipation",
+    "Dysentery"
+  ],
+  "caution": "Do not insert too deeply and angle the needle up, it is easy to damage the liver or spleen"
+},{
+  "code": "SP-17",
+  "name": "Shidou",
+  "description": "In the 5th intercostal space, 6 cun lateral to Ren Mai",
+  "functionalities": [
+    "Pain and distension of lower chest and hypochondrium"
+  ],
+  "caution": "Beneath the acupoint is the lung, it is forbidden to penetrate deeply"
+},{
+  "code": "SP-18",
+  "name": "Tianxi",
+  "description": "In the 4th intercostal space, 6 cun lateral to Ren Mai",
+  "functionalities": [
+    "Pain in the chest",
+    "Thoracalgia",
+    "Cough",
+    "Mastitis",
+    "Oligogalactia"
+  ],
+  "caution": "Beneath the acupoint is the lung, it is forbidden to penetrate deeply"
+},{
+  "code": "BL-48",
+  "name": "Yanggang",
+  "description": "3 cun lateral to the midline of the back, between teh processus spinosus of the 10th and the 11th vertebrae thoracicae",
+  "functionalities": [
+    "Hepatitis",
+    "Chole-cystitis",
+    "Gastritis, etc."
+  ],
+  "caution": "Beneath the acupoint is the lung, it is forbidden to penetrate deeply"
+},{
+  "code": "BL-49",
+  "name": "Yishe",
+  "description": "3 cun lateral to the lower border of the processus spinosus of the 11th vertebra thoracica",
+  "functionalities": [
+    "Lumbago",
+    "Abdominal 3. distension",
+    "Indigestion",
+    "Thirst jaundice"
+  ]
+},{
+  "code": "BL-50",
+  "name": "Weicang",
+  "description": "3 cun lateral to the lower border of the processus spinosus of the 12th vertebra thoracica",
+  "functionalities": [
+    "Gastralgia",
+    "Vomiting",
+    "Abdominal distension",
+    "Constipation",
+    "Lumbago"
+  ]
+},{
+  "code": "BL-51",
+  "name": "Huangmen",
+  "description": "3 cun lateral to the midline, between the processus spinosus of the 1st and the 2nd vertebrae lumbales",
+  "functionalities": [
+    "Mastitis",
+    "Upper abdominal pain",
+    "Lumbago",
+    "Paralysis of the lower extremities"
+  ],
+  "caution": "Do not inject too deeply"
+},{
+  "code": "BL-52",
+  "name": "Zhishi",
+  "description": "3 cun lateral to the midline of the back, between the processus spinosus of the 2nd and the 3rd vertebrae lumbales",
+  "functionalities": [
+    "Nacturnal emission",
+    "Impotance",
+    "Irregular menstruation",
+    "Enuresis",
+    "Chrnoic lumbago"
+  ],
+  "caution": "Do not inject too deeply, easy to cause internal damages"
+},{
+  "code": "BL-53",
+  "name": "Baohuang",
+  "description": "3 cun lateral to the midline of the back, between the processus spinosus of the 2nd and the 3rd vertebrae sacrales",
+  "functionalities": [
+    "Diseases of the lumbar and sacral regions"
+  ]
+},{
+  "code": "BL-54",
+  "name": "Zhibian",
+  "description": "3 cun lateral to the midline of the back, on the lower border of the 4th vertebrae sacrales",
+  "functionalities": [
+    "Pain of lumbar and sacral regions",
+    "Paralysis of lower extremities",
+    "Dysuria hemorrhoid"
+  ]
+},{
+  "code": "BL-55",
+  "name": "Heyang",
+  "description": "2 cun below Pt. weizhong",
+  "functionalities": [
+    "Lumbago and leg pain",
+    "Metorrhagia",
+    "Painful hernia"
+  ]
+},{
+  "code": "BL-56",
+  "name": "Chengjin",
+  "description": "at the midpoint of the curve between Pt. heyang and pt. chengshan",
+  "functionalities": [
+    "Headache",
+    "Severe pain of lumbar region and back",
+    "Pain of the leg",
+    "Paralysis of lower extremities",
+    "Hemorrhoid"
+  ]
+},{
+  "code": "BL-57",
+  "name": "Chengshan",
+  "description": "at the midpoint of the line between pt. weizhong and pt. kunlun",
+  "functionalities": [
+    "Pain of back and thigh",
+    "Sciatic neuralgia",
+    "Spasm of the m. gastrocnemius",
+    "Paralysis",
+    "Hemorrhoid",
+    "Prolapcusani"
+  ]
+},{
+  "code": "BL-59",
+  "name": "Fuyang",
+  "description": "3 cun above pt. kunlun posterior to malleolus lateralis",
+  "functionalities": [
+    "Pain of the neck",
+    "Diseases of lumbosacral region and lower extremities"
+  ]
+},{
+  "code": "BL-61",
+  "name": "Pucan / Pushen",
+  "description": "below pt. kunlun, in the depression of the calcaneus",
+  "functionalities": [
+    "Lumbago",
+    "Pain of the ankle",
+    "Paralysis of lower extremities",
+    "Hongkong foot"
+  ]
+},{
+  "code": "GB-8",
+  "name": "Shuaigu",
+  "description": "above the ear apex, 1.5 cun within the hairline",
+  "functionalities": [
+    "Migraine",
+    "Dizziness and vertigo",
+    "Eye diseases"
+  ]
+},{
+  "code": "GB-9",
+  "name": "Tianchong",
+  "description": "superior and posterior to the auricula, 0.5 cun posterior to pt. shuaigu",
+  "functionalities": [
+    "Toothache",
+    "Painful swelling of the gum",
+    "Epilepsy",
+    "Goitre"
+  ]
+},{
+  "code": "GB-10",
+  "name": "Fubai",
+  "description": "superior and posterior to the processus mastoideus between pt. tianchong and pt. hand-qiaoyin",
+  "functionalities": [
+    "Headache",
+    "Toothache",
+    "Deafness",
+    "Tinnitus",
+    "Bronchitis"
+  ],
+  "caution": "Do not use moxibustion"
+},{
+  "code": "GB-11",
+  "name": "head-qiaoyin",
+  "description": "posterior to processus mastoideus between pt. fubai and pt. wangu",
+  "functionalities": [
+    "Pain in the neck and head",
+    "Ear pain",
+    "Deafness",
+    "Tinnitus",
+    "Bronchitis",
+    "Laryngitis",
+    "Pain in the chest",
+    "Goitre"
+  ]
+},{
+  "code": "GB-12",
+  "name": "Head-Wangu",
+  "description": "in the depression postero-inferior to the processus mastoideus",
+  "functionalities": [
+    "Headache",
+    "Neck diseases"
+  ]
+},{
+  "code": "GB-13",
+  "name": "Benshen",
+  "description": "on the lateral hairline of the frontal region, on the lateral 1/3 of a line connecting pt. shenting and pt. touwei",
+  "functionalities": [
+    "Headache",
+    "Dizziness",
+    "Stiffness and pain of the neck",
+    "Pain in the lower chest",
+    "Epilepsy hemiplegia"
+  ],
+  "caution": "Do not use moxibustion"
+},{
+  "code": "GB-14",
+  "name": "Yangbai",
+  "description": "1 cun above the midpoint of the eyebrow",
+  "functionalities": [
+    "Facial paralysis",
+    "Headache",
+    "Trigeminal neuralgia"
+  ]
+},{
+  "code": "GB-15",
+  "name": "Toulinqi",
+  "description": "0.5 cun above anterior hairline, between pt. shenting and pt. touwei",
+  "functionalities": [
+    "Vertigo",
+    "Stuffed nose",
+    "Nebula",
+    "Apoplexy",
+    "Coma",
+    "Malaria",
+    "Epilepsy",
+    "Acute or chronic conjunctivitis"
+  ],
+  "caution": "Do not inject, easily leave scar on the skin"
+},{
+  "code": "GB-16",
+  "name": "Muchuang",
+  "description": "1 cun posterior to pt. head-linqi",
+  "functionalities": [
+    "Headache",
+    "Dizziness",
+    "Swelling of head and face",
+    "Conjunctivitis",
+    "Toothache",
+    "Apoplexy"
+  ]
+},{
+  "code": "GB-17",
+  "name": "Zhengying",
+  "description": "1 cun posterior to pt. muchuang",
+  "functionalities": [
+    "Rigidity of the neck",
+    "Dizziness and vertigo",
+    "Toothache",
+    "Vomiting"
+  ]
+},{
+  "code": "GB-18",
+  "name": "Chengling",
+  "description": "1 cun posterior to pt. zhenying",
+  "functionalities": [
+    "Headache",
+    "Common cold bronchitis",
+    "Eye diseases",
+    "Epistasis",
+    "Stuffy nose"
+  ]
+},{
+  "code": "GB-19",
+  "name": "Naokong",
+  "description": "on the lateral side of the protuberantia occipitalis externa, pt. gengchi is just below it",
+  "functionalities": [
+    "Headache",
+    "Common cold",
+    "Asthma",
+    "Epilepsy",
+    "Mental diseases",
+    "Palpitation",
+    "Tinnitus"
+  ],
+  "caution": "The acupuncture point is near the head, inject with care"
+},{
+  "code": "GB-21",
+  "name": "Jianjing",
+  "description": "at the middle point between pt. dazhui and the acromion, at the highest point of the shoulder",
+  "functionalities": [
+    "Diseases of the shoulder in the back",
+    "Mastitis"
+  ]
+},{
+  "code": "Ren-10",
+  "name": "Xiawan",
+  "description": "2 cun above the umbilicus, locate this point when lies on back",
+  "functionalities": [
+    "Gastralgia",
+    "Vomiting",
+    "Abdominal distention",
+    "Dysentery"
+  ]
+},{
+  "code": "Ren-11",
+  "name": "Jianli",
+  "description": "1 cun below pt. zhongwan",
+  "functionalities": [
+    "Gastralgia",
+    "Vomiting",
+    "Anorexia",
+    "Abdominal distention and edema"
+  ],
+  "caution": "Forbidden to inject during pregnancy. Injecting too deep can damage the pancreas"
+},{
+  "code": "Ren-13",
+  "name": "Shangwan",
+  "description": "5 cun above the umbilicus, 1 cun above pt. zhongwan",
+  "functionalities": [
+    "Gastritis",
+    "Gastric dilactation",
+    "Gastric spasm",
+    "Cardiac spasm"
+  ]
+},{
+  "code": "Ren-15",
+  "name": "Jiuwei",
+  "description": "7 cun above the umbilicus, 1 cun below the processus xiphoideus of the sternum",
+  "functionalities": [
+    "Pain in the cardiac region",
+    "Hiccup",
+    "Mania",
+    "Epilepsy"
+  ],
+  "caution": "Patients with enlarged heart and swollen liver should not be deeply pricked. The needle sucker should not be skewered upwards.\nWhen acupuncture asks the patient to raise arms up"
+},{
+  "code": "Ren-16",
+  "name": "Zhongting",
+  "description": "on the midsternal line at the level of the 5th intercostal space",
+  "functionalities": [
+    "Fullness of lower chest",
+    "Hiccup",
+    "Regurgitation of food",
+    "Infantile milk regurgitation"
+  ]
+},{
+  "code": "Ren-18",
+  "name": "Yutang",
+  "description": "on the midsternal line at the level of the 3rd intercostal space",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Pain in the chest",
+    "Paralysis of larynx",
+    "Obstruction in the larynx",
+    "Excessive expactoration"
+  ],
+  "caution": "Soft sternum, especially children, should not be inserted at right angles, easy to penetrate the mediastinum"
+},{
+  "code": "Ren-19",
+  "name": "Zigong",
+  "description": "on the midsternal line at the level of the 2nd intercostal space",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Pain in the chest",
+    "Paralysis of pharynx",
+    "Obstruction in the larynx"
+  ]
+},{
+  "code": "Ren-20",
+  "name": "Huagai",
+  "description": "on the midsternal line at the level of the 1st intercostal space",
+  "functionalities": [
+    "Asthma",
+    "Cough",
+    "Fullness and pain in the lower chest"
+  ],
+  "caution": "Do not inject too deeply because the sternum is soft and can penetrate the internal organs"
+},{
+  "code": "Ren-21",
+  "name": "Xuanji",
+  "description": "on the midsternal line at the level of superior margin of the 1st rib",
+  "functionalities": [
+    "Cough",
+    "Asthma",
+    "Pain in the chest"
+  ]
+},{
+  "code": "Ren-22",
+  "name": "Tiantu",
+  "description": "in the depression on the suprasternal fossa",
+  "functionalities": [
+    "Bronchitis",
+    "Asthma",
+    "Pharyngitis goiter",
+    "Spasm of the diaphragm",
+    "Diseases of the oesophagus",
+    "Neurological vomiting"
+  ],
+  "caution": "After inserting the needle in the posterior aspect of the sternum, it should not be too deep to avoid the aorta or the unknown artery.\nThe needle should not be too deep to easily enter the trachea, causing coughing.\nAvoid these types of maneuvers, taking care to avoid damage to the apex of the lung and the subclavian artery."
+},{
+  "code": "Ren-23",
+  "name": "Lianquan",
+  "description": "in the depression of the midpoint of the superior margin of the os hyoideum",
+  "functionalities": [
+    "Bronchitis",
+    "Pharyngitis",
+    "Muteness",
+    "Asthma",
+    "5 excessive salivation"
+  ]
+},{
+  "code": "Ren-24",
+  "name": "Chengjiang",
+  "description": "on the mid-mandibular line, in the depression below the mental labial groove",
+  "functionalities": [
+    "Trigeminal neuralgia",
+    "Facial paralysis"
+  ]
+}]

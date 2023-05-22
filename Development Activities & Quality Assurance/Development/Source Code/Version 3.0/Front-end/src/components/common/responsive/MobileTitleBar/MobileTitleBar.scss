@@ -1,0 +1,88 @@
+.mobile-title-bar {
+  background: var(--theme-background);
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 65px;
+  width: 100vw;
+  z-index: 200;
+  border-bottom: 2px solid black;
+  display: flex;
+
+  &__item {
+    border-right: 2px solid rgba(0, 0, 0, 1);
+    cursor: pointer;
+    transition: width 500ms ease;
+    position: relative;
+
+    &--small {
+      width: 20%;
+      cursor: pointer;
+
+      img {
+        height: 100%;
+      }
+    }
+
+    &--large {
+      width: 60%;
+      border-left: 2px solid black;
+      border-right: 2px solid black;
+    }
+
+    &--edit {
+      width: 60%;
+      border-left: 2px solid black;
+      border-right: 2px solid black;
+
+      &-option {
+        width: 50%;
+        height: 100%;
+        cursor: pointer;
+        font-size: 2rem;
+
+        &:hover {
+          background: var(--theme-background-hover) !important;
+        }
+
+        &:first-child {
+          border-right: 2px solid black;
+          color: var(--theme-success)
+        }
+
+        &:nth-child(2) {
+          color: var(--theme-danger)
+        }
+      }
+    }
+
+    &--quiz {
+      width: 60%;
+      border-left: 2px solid black;
+      border-right: 2px solid black;
+
+      &-option {
+        width: 50%;
+        height: 100%;
+
+        &:first-child {
+          border-right: 2px solid black;
+        }
+      }
+    }
+  }
+
+  &__page-title {
+    font-size: 2rem;
+    line-height: 2rem;
+    text-align: center;
+
+    h1 {
+      display: inline;
+    }
+
+    &--bg {
+      background: var(--theme-primary)
+    }
+  }
+}
