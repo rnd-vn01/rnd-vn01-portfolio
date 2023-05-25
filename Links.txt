@@ -1,0 +1,6 @@
+Production site: https://acupuncture-3d-vn01.web.app/
+Staging site (currently same as Production): https://vn01-staging.web.app/
+Demo video (Final version): https://youtu.be/F_veKc-KOE4/
+Repositories:
+  - Front-end: https://github.com/rnd-vn01/rnd-vn01-fe/
+  - Back-end: https://github.com/rnd-vn01/rnd-vn01-be/
